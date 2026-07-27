@@ -1,0 +1,74 @@
+term_id,name,slug,term_group,term_taxonomy_id,taxonomy,description,parent,count,filter,term_order
+915,Acting,acting,0,920,interests,,0,1,raw,0
+881,Agriculture,agriculture,0,886,interests,,0,13,raw,0
+819,Analysis,analysis,0,824,interests,,0,52,raw,0
+824,Animals,animals,0,829,interests,,0,5,raw,0
+831,Architecture,architecture,0,836,interests,,0,2,raw,0
+836,Art,art,0,841,interests,,0,17,raw,0
+841,Asia,asia,0,846,interests,,0,4,raw,0
+823,Biology,biology,0,828,interests,,0,41,raw,0
+886,Building things,building-things,0,891,interests,,0,13,raw,0
+848,Business,business,0,853,interests,,0,18,raw,0
+821,Business development,business-development,0,826,interests,,0,2,raw,0
+855,Chemistry,chemistry,0,860,interests,,0,26,raw,0
+828,Climate change,climate-change,0,833,interests,,0,15,raw,0
+871,Composition,composition,0,876,interests,,0,2,raw,0
+892,Computers,computers,0,897,interests,,0,25,raw,0
+837,Culture,culture,0,842,interests,,0,44,raw,0
+835,Design,design,0,840,interests,,0,9,raw,0
+829,Ecology,ecology,0,834,interests,,0,5,raw,0
+907,Economy,economy,0,912,interests,,0,21,raw,0
+856,Engineering,engineering,0,861,interests,,0,24,raw,0
+893,Entrepreneurship,entrepreneurship,0,898,interests,,0,5,raw,0
+891,Environment,environment,0,896,interests,,0,35,raw,0
+869,Equality,equality,0,874,interests,,0,2,raw,0
+900,Europe,europe,0,905,interests,,0,9,raw,0
+889,Film,film,0,894,interests,,0,5,raw,0
+818,Finances,finances,0,823,interests,,0,7,raw,0
+880,First Nations,first-nations,0,885,interests,,0,14,raw,0
+864,Food,food,0,869,interests,,0,6,raw,0
+884,Forestry,forestry,0,889,interests,,0,8,raw,0
+868,Gender,gender,0,873,interests,,0,1,raw,0
+911,Geography,geography,0,916,interests,,0,6,raw,0
+912,Geology,geology,0,917,interests,,0,5,raw,0
+904,Globalization,globalization,0,909,interests,,0,17,raw,0
+820,Good with numbers,good-with-numbers,0,825,interests,,0,19,raw,0
+885,Government,government,0,890,interests,,0,3,raw,0
+863,Health,health,0,868,interests,,0,31,raw,0
+906,Helping people,helping-people,0,911,interests,,0,25,raw,0
+838,History,history,0,843,interests,,0,32,raw,0
+901,Human behaviour,human-behaviour,0,906,interests,,0,26,raw,0
+887,Inventing,inventing,0,892,interests,,0,23,raw,0
+1323,Kinesiology,kinesiology,0,1328,interests,,0,4,raw,0
+866,Languages,languages,0,871,interests,,0,18,raw,0
+932,Lanuages,lanuages,0,937,interests,,0,1,raw,0
+910,Latin America,latin-america,0,915,interests,,0,4,raw,0
+875,Marine life,marine-life,0,880,interests,,0,9,raw,0
+895,Marketing,marketing,0,900,interests,,0,5,raw,0
+878,Math,math,0,883,interests,,0,43,raw,0
+903,Media,media,0,908,interests,,0,10,raw,0
+897,Medicine,medicine,0,902,interests,,0,19,raw,0
+870,Music,music,0,875,interests,,0,5,raw,0
+898,North America,north-america,0,903,interests,,0,5,raw,0
+872,Nursing,nursing,0,877,interests,,0,2,raw,0
+883,Outdoors,outdoors,0,888,interests,,0,10,raw,0
+914,Performing,performing,0,919,interests,,0,7,raw,0
+845,Physics,physics,0,850,interests,,0,20,raw,0
+896,Physiology,physiology,0,901,interests,,0,28,raw,0
+899,Politics,politics,0,904,interests,,0,13,raw,0
+890,Pop culture,pop-culture,0,895,interests,,0,16,raw,0
+894,Psychology,psychology,0,899,interests,,0,11,raw,0
+888,Reading,reading,0,893,interests,,0,15,raw,0
+842,Religion,religion,0,847,interests,,0,12,raw,0
+909,Social justice,social-justice,0,914,interests,,0,14,raw,0
+846,Space,space,0,851,interests,,0,2,raw,0
+913,Sports,sports,0,918,interests,,0,4,raw,0
+905,Statistics,statistics,0,910,interests,,0,17,raw,0
+882,Sustainability,sustainability,0,887,interests,,0,27,raw,0
+865,Teaching,teaching,0,870,interests,,0,8,raw,0
+859,Technology,technology,0,864,interests,,0,24,raw,0
+916,Theatre,theatre,0,921,interests,,0,3,raw,0
+879,Travel,travel,0,884,interests,,0,4,raw,0
+908,Working with kids,working-with-kids,0,913,interests,,0,11,raw,0
+902,World events,world-events,0,907,interests,,0,20,raw,0
+860,Writing,writing,0,865,interests,,0,8,raw,0

@@ -1,0 +1,39 @@
+term_id,name,slug,term_group,term_taxonomy_id,taxonomy,description,parent,count,filter,term_order
+358,Bachelor of Applied Science (Engineering),bachelor-of-applied-science,0,370,degree,,0,21,raw,0
+357,Bachelor of Arts,bachelor-of-arts,0,369,degree,,0,65,raw,0
+356,Bachelor of Commerce,bachelor-of-commerce,0,368,degree,,0,4,raw,0
+355,Bachelor of Computer Science,bachelor-of-computer-science,0,367,degree,,0,1,raw,0
+354,Bachelor of Dental Science,bachelor-of-dental-science,0,366,degree,,0,1,raw,0
+1303,"Bachelor of Design in Architecture, Landscape Architecture, and Urbanism",bachelor-of-design-in-architecture-landscape-architecture-urbanism,0,1308,degree,,0,1,raw,0
+353,Bachelor of Education,bachelor-of-education,0,365,degree,,0,7,raw,0
+351,Bachelor of Fine Arts,bachelor-of-fine-arts,0,363,degree,,0,8,raw,0
+1314,Bachelor of Health and Exercise Sciences (Kinesiology),bachelor-of-health-and-exercise-sciences-kinesiology,0,1319,degree,,0,2,raw,0
+1319,Bachelor of Indigenous Land Stewardship,bachelor-of-indigenous-land-stewardship,0,1324,degree,,0,1,raw,0
+349,Bachelor of International Economics,bachelor-of-international-economics,0,361,degree,,0,1,raw,0
+348,Bachelor of Kinesiology,bachelor-of-kinesiology,0,360,degree,,0,4,raw,0
+469,Bachelor of Media Studies,bachelor-of-media-studies,0,484,degree,,0,4,raw,0
+346,Bachelor of Medical Laboratory Science,bachelor-of-medical-laboratory-science,0,358,degree,,0,1,raw,0
+345,Bachelor of Midwifery,bachelor-of-midwifery,0,357,degree,,0,1,raw,0
+344,Bachelor of Music,bachelor-of-music,0,356,degree,,0,5,raw,0
+1320,Bachelor of NłeɁkepmx Language Fluency,bachelor-of-nle%c9%82kepmx-language-fluency,0,1325,degree,,0,1,raw,0
+1312,Bachelor of Nsyilxcn Language Fluency,bachelor-of-nsyilxcn-language-fluency,0,1317,degree,,0,1,raw,0
+1307,Bachelor of Pharmaceutical Sciences,bachelor-of-pharmaceutical-sciences,0,1312,degree,,0,1,raw,0
+343,Bachelor of Science,bachelor-of-science,0,355,degree,,0,47,raw,0
+342,Bachelor of Science in Applied Biology,bachelor-of-science-in-applied-biology,0,354,degree,,0,3,raw,0
+1306,Bachelor of Science in Food and Resource Economics,bachelor-of-science-in-food-and-resource-economics,0,1311,degree,,0,3,raw,0
+341,"Bachelor of Science in Food, Nutrition, and Health",bachelor-of-science-in-food-nutrition-and-health,0,353,degree,,0,6,raw,0
+338,Bachelor of Science in Global Resource Systems,bachelor-of-science-in-global-resource-systems,0,350,degree,,0,2,raw,0
+1318,Bachelor of Science in Natural Resources,bachelor-of-science-in-natural-resources,0,1323,degree,,0,6,raw,0
+336,Bachelor of Science in Nursing,bachelor-of-science-in-nursing,0,348,degree,,0,2,raw,0
+334,Bachelor of Science in Wood Products Processing,bachelor-of-science-in-wood-products-processing,0,346,degree,,0,1,raw,0
+333,Bachelor of Social Work,bachelor-of-social-work,0,345,degree,,0,1,raw,0
+1322,Bachelor of St’át’imc Language Fluency,bachelor-of-statimc-language-fluency,0,1327,degree,,0,1,raw,0
+1313,Bachelor of Sustainability,bachelor-of-sustainability,0,1318,degree,,0,1,raw,0
+598,Bachelor of Urban Forestry,bachelor-of-urban-forestry,0,630,degree,,0,1,raw,0
+332,Doctor of Dental Medicine,doctor-of-dental-medicine,0,344,degree,,0,1,raw,0
+331,Doctor of Medicine,doctor-of-medicine,0,343,degree,,0,1,raw,0
+584,Doctor of Pharmacy,doctor-of-pharmacy,0,610,degree,,0,1,raw,0
+330,Juris Doctor,juris-doctor,0,342,degree,,0,1,raw,0
+877,Master of Architecture,master-of-architecture,0,882,degree,,0,1,raw,0
+329,Master of Journalism,master-of-journalism,0,341,degree,,0,1,raw,0
+548,Master of Management,master-of-management,0,573,degree,,0,2,raw,0

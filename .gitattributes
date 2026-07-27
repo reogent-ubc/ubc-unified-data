@@ -1,0 +1,3 @@
+# The collectors always write LF. Keep it that way in the working tree too, so
+# checkouts on Windows don't rewrite every CSV/GeoJSON with CRLF.
+* text=auto eol=lf

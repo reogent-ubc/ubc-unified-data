@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 1338,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/business-economics/",
+    "name": "Business and Economics",
+    "slug": "business-economics",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Business and Economics Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/business-economics/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Business and Economics Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/business-economics/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/business-economics\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/business-economics\\/\",\"name\":\"Business and Economics Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/business-economics\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/business-economics\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Business and Economics\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Business and Economics Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/business-economics/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Business and Economics Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/business-economics/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/business-economics/",
+            "url": "https://you.ubc.ca/program-areas/business-economics/",
+            "name": "Business and Economics Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/business-economics/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/business-economics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business and Economics"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1338",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1338"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1339,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/earth-environment-sustainability/",
+    "name": "Earth, Environment and Sustainability",
+    "slug": "earth-environment-sustainability",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Earth, Environment and Sustainability Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/earth-environment-sustainability/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Earth, Environment and Sustainability Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/earth-environment-sustainability/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/earth-environment-sustainability\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/earth-environment-sustainability\\/\",\"name\":\"Earth, Environment and Sustainability Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/earth-environment-sustainability\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/earth-environment-sustainability\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Earth, Environment and Sustainability\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Earth, Environment and Sustainability Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/earth-environment-sustainability/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Earth, Environment and Sustainability Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/earth-environment-sustainability/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/earth-environment-sustainability/",
+            "url": "https://you.ubc.ca/program-areas/earth-environment-sustainability/",
+            "name": "Earth, Environment and Sustainability Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/earth-environment-sustainability/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/earth-environment-sustainability/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Earth, Environment and Sustainability"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1339",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1339"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1340,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/education/",
+    "name": "Education",
+    "slug": "education",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Education Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/education/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Education Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/education/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/education\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/education\\/\",\"name\":\"Education Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/education\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/education\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Education\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Education Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/education/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Education Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/education/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/education/",
+            "url": "https://you.ubc.ca/program-areas/education/",
+            "name": "Education Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/education/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/education/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Education"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1340",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1340"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1341,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/engineering-technology/",
+    "name": "Engineering and Technology",
+    "slug": "engineering-technology",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Engineering and Technology Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/engineering-technology/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Engineering and Technology Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/engineering-technology/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/engineering-technology\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/engineering-technology\\/\",\"name\":\"Engineering and Technology Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/engineering-technology\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/engineering-technology\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Engineering and Technology\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Engineering and Technology Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/engineering-technology/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Engineering and Technology Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/engineering-technology/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/engineering-technology/",
+            "url": "https://you.ubc.ca/program-areas/engineering-technology/",
+            "name": "Engineering and Technology Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/engineering-technology/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/engineering-technology/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Engineering and Technology"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1341",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1341"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1342,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/health-life-sciences/",
+    "name": "Health and Life Sciences",
+    "slug": "health-life-sciences",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Health and Life Sciences Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/health-life-sciences/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Health and Life Sciences Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/health-life-sciences/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/health-life-sciences\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/health-life-sciences\\/\",\"name\":\"Health and Life Sciences Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/health-life-sciences\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/health-life-sciences\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Health and Life Sciences\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Health and Life Sciences Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/health-life-sciences/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Health and Life Sciences Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/health-life-sciences/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/health-life-sciences/",
+            "url": "https://you.ubc.ca/program-areas/health-life-sciences/",
+            "name": "Health and Life Sciences Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/health-life-sciences/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/health-life-sciences/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Health and Life Sciences"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1342",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1342"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1343,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/history-law-politics/",
+    "name": "History, Law and Politics",
+    "slug": "history-law-politics",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>History, Law and Politics Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/history-law-politics/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"History, Law and Politics Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/history-law-politics/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/history-law-politics\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/history-law-politics\\/\",\"name\":\"History, Law and Politics Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/history-law-politics\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/history-law-politics\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"History, Law and Politics\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "History, Law and Politics Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/history-law-politics/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "History, Law and Politics Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/history-law-politics/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/history-law-politics/",
+            "url": "https://you.ubc.ca/program-areas/history-law-politics/",
+            "name": "History, Law and Politics Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/history-law-politics/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/history-law-politics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "History, Law and Politics"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1343",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1343"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1344,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/languages-linguistics/",
+    "name": "Languages and Linguistics",
+    "slug": "languages-linguistics",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Languages and Linguistics Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/languages-linguistics/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Languages and Linguistics Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/languages-linguistics/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/languages-linguistics\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/languages-linguistics\\/\",\"name\":\"Languages and Linguistics Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/languages-linguistics\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/languages-linguistics\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Languages and Linguistics\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Languages and Linguistics Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/languages-linguistics/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Languages and Linguistics Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/languages-linguistics/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/languages-linguistics/",
+            "url": "https://you.ubc.ca/program-areas/languages-linguistics/",
+            "name": "Languages and Linguistics Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/languages-linguistics/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/languages-linguistics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Languages and Linguistics"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1344",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1344"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1345,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/math-chemistry-physics/",
+    "name": "Math, Chemistry and Physics",
+    "slug": "math-chemistry-physics",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Math, Chemistry and Physics Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/math-chemistry-physics/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Math, Chemistry and Physics Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/math-chemistry-physics/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/math-chemistry-physics\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/math-chemistry-physics\\/\",\"name\":\"Math, Chemistry and Physics Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/math-chemistry-physics\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/math-chemistry-physics\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Math, Chemistry and Physics\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Math, Chemistry and Physics Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/math-chemistry-physics/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Math, Chemistry and Physics Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/math-chemistry-physics/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/math-chemistry-physics/",
+            "url": "https://you.ubc.ca/program-areas/math-chemistry-physics/",
+            "name": "Math, Chemistry and Physics Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/math-chemistry-physics/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/math-chemistry-physics/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Math, Chemistry and Physics"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1345",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1345"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1346,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/media-fine-arts/",
+    "name": "Media and Fine Arts",
+    "slug": "media-fine-arts",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Media and Fine Arts Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/media-fine-arts/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Media and Fine Arts Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/media-fine-arts/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/media-fine-arts\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/media-fine-arts\\/\",\"name\":\"Media and Fine Arts Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/media-fine-arts\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/media-fine-arts\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Media and Fine Arts\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Media and Fine Arts Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/media-fine-arts/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Media and Fine Arts Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/media-fine-arts/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/media-fine-arts/",
+            "url": "https://you.ubc.ca/program-areas/media-fine-arts/",
+            "name": "Media and Fine Arts Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/media-fine-arts/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/media-fine-arts/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Media and Fine Arts"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1346",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1346"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1347,
+    "count": 0,
+    "description": "",
+    "link": "https://you.ubc.ca/program-areas/people-culture-society/",
+    "name": "People, Culture and Society",
+    "slug": "people-culture-society",
+    "taxonomy": "program-areas",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>People, Culture and Society Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/program-areas/people-culture-society/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"People, Culture and Society Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/program-areas/people-culture-society/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/people-culture-society\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/people-culture-society\\/\",\"name\":\"People, Culture and Society Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/people-culture-society\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/program-areas\\/people-culture-society\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"People, Culture and Society\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "People, Culture and Society Archives - UBC | Undergraduate Programs and Admissions",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://you.ubc.ca/program-areas/people-culture-society/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "People, Culture and Society Archives - UBC | Undergraduate Programs and Admissions",
+      "og_url": "https://you.ubc.ca/program-areas/people-culture-society/",
+      "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@youbc",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://you.ubc.ca/program-areas/people-culture-society/",
+            "url": "https://you.ubc.ca/program-areas/people-culture-society/",
+            "name": "People, Culture and Society Archives - UBC | Undergraduate Programs and Admissions",
+            "isPartOf": {
+              "@id": "https://you.ubc.ca/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://you.ubc.ca/program-areas/people-culture-society/#breadcrumb"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://you.ubc.ca/program-areas/people-culture-society/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://you.ubc.ca/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "People, Culture and Society"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://you.ubc.ca/#website",
+            "url": "https://you.ubc.ca/",
+            "name": "UBC | Undergraduate Programs and Admissions",
+            "description": "UBC | Undergraduate Programs and Admissions",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://you.ubc.ca/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas/1347",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/taxonomies/program-areas"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://you.ubc.ca/wp-json/wp/v2/calendar-content?program-areas=1347"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

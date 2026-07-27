@@ -1,0 +1,1452 @@
+{
+  "vancouver-formal": {
+    "shared_amenities": {
+      "records": [
+        {
+          "id": "rechB2GIgEWNcIBXI",
+          "createdTime": "2024-10-07T01:32:45.000Z",
+          "fields": {
+            "Name": "Display(s) - Any",
+            "Formal Count": 341,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "recPICCj526P1xlMx",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Projector(s)",
+            "Formal Count": 304,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "reckR2jI5mmuLZVBi",
+          "createdTime": "2024-10-07T01:32:58.000Z",
+          "fields": {
+            "Name": "Flat Panel Display(s)",
+            "Formal Count": 50,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "recZDNIHpJHRzD46f",
+          "createdTime": "2024-10-07T01:33:11.000Z",
+          "fields": {
+            "Name": "Annotation Display(s)",
+            "Formal Count": 28,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "reca0SePl5IhEZkgL",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Dual Content Capable",
+            "Formal Count": 131,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "recQhTgIkVJWKE5BU",
+          "createdTime": "2024-10-07T01:33:19.000Z",
+          "fields": {
+            "Name": "Learn Lab (Multiple Content Capable)",
+            "Formal Count": 10,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "recgqJroYLYVyT5Rr",
+          "createdTime": "2024-10-07T01:33:36.000Z",
+          "fields": {
+            "Name": "Confidence Monitor",
+            "Formal Count": 33,
+            "Informal Count": 0,
+            "Category": "Presentation Displays"
+          }
+        },
+        {
+          "id": "reckXhFkWkuH6iNCy",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Computer (Windows PC)",
+            "Formal Count": 181,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "reciuyxYQ09nTe9bb",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Connection - Any",
+            "Formal Count": 332,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "recWtj3IIinTzELmw",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Connection - HDMI",
+            "Formal Count": 344,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "recu3PGkZjdxsowkR",
+          "createdTime": "2024-12-11T00:05:51.000Z",
+          "fields": {
+            "Name": "Connection - USB-C",
+            "Formal Count": 344,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "rec7xzPrMvtnOADET",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Document Camera(s) - Any",
+            "Formal Count": 230,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "recezIeJkNt2WoyWS",
+          "createdTime": "2024-10-12T00:30:38.000Z",
+          "fields": {
+            "Name": "Document Camera - 1",
+            "Formal Count": 191,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "recFbcuI9oDO5asmd",
+          "createdTime": "2024-10-12T00:30:49.000Z",
+          "fields": {
+            "Name": "Document Cameras - 2",
+            "Formal Count": 41,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "recVHDSVqNgTj9P0w",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Wireless Presentation",
+            "Formal Count": 103,
+            "Informal Count": 0,
+            "Category": "Presentation Sources"
+          }
+        },
+        {
+          "id": "recrL4iQ1du4nNy93",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Microphone - Any",
+            "Formal Count": 160,
+            "Informal Count": 0,
+            "Category": "Audio"
+          }
+        },
+        {
+          "id": "recfGBVd8GQbhSPlr",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Microphone(s) - Wireless Lapel",
+            "Formal Count": 159,
+            "Informal Count": 0,
+            "Category": "Audio"
+          }
+        },
+        {
+          "id": "rec84BGBmXaUZgQ5P",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Microphone(s) - Wireless Handheld",
+            "Formal Count": 122,
+            "Informal Count": 0,
+            "Category": "Audio"
+          }
+        },
+        {
+          "id": "recHv7VreDwt1hJWx",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Microphone(s) - Audience Mics",
+            "Formal Count": 2,
+            "Informal Count": 0,
+            "Category": "Audio"
+          }
+        },
+        {
+          "id": "recLZnYT3MsZTYiol",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Video Conferencing",
+            "Formal Count": 16,
+            "Informal Count": 0,
+            "Category": "Other AV Features"
+          }
+        },
+        {
+          "id": "recOhZ1IihIxzEiH4",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Media Capture",
+            "Formal Count": 178,
+            "Informal Count": 0,
+            "Category": "Other AV Features"
+          }
+        }
+      ],
+      "offset": null
+    },
+    "other_room_features": {
+      "records": [
+        {
+          "id": "recmMCKQxc6YWrVGA",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Boards - Any",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recGXkjFNjnn0Ehnw",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Whiteboard(s)",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recBjdiSXqjejVssv",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Chalkboard(s)",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recVZRYJ0Bbv1kzOd",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "AC Power to Seats - Any",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recsV2MfHgv6NUFvi",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "AC Power to all Seats",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "reciQowrnMSznJqBs",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "AC Power to 50% of Seats",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recx5z3G4qn77hIQk",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Natural Light",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recma7Jz7n6LOUwxv",
+          "createdTime": "2025-04-09T18:42:54.000Z",
+          "fields": {
+            "Name": "Suitable for Doctoral Oral Defense",
+            "Category": "Other Room Features"
+          }
+        }
+      ],
+      "offset": null
+    },
+    "informal_amenities": {
+      "records": [
+        {
+          "id": "recxeVec3nPcoEmn1",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Wireless Presentation"
+          }
+        },
+        {
+          "id": "recy9mZ6Z2lNzfnBA",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Individual Work"
+          }
+        },
+        {
+          "id": "reczMnDyJFkINtsdj",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Connection - VGA"
+          }
+        },
+        {
+          "id": "recMTM1b3DSjOyAAp",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Whiteboards"
+          }
+        },
+        {
+          "id": "recOqKQRaXt5ygRRf",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Flat Panel Display(s)"
+          }
+        },
+        {
+          "id": "recO4OMV8liD5Mkd1",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Connection - HDMI"
+          }
+        },
+        {
+          "id": "recOgT4rcRMMaOd45",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Natural Light"
+          }
+        },
+        {
+          "id": "recVqZN4CihcCpILV",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Café"
+          }
+        },
+        {
+          "id": "recVKgzdyrPnV1jAN",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Silent Study"
+          }
+        },
+        {
+          "id": "recozDR3jByrMMhI2",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Food Outlets Nearby"
+          }
+        },
+        {
+          "id": "recswZAulqzhmL3Yk",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Group Work"
+          }
+        }
+      ],
+      "offset": null
+    },
+    "accessibility": {
+      "records": [
+        {
+          "id": "recqbpFAmZ8m9vneH",
+          "createdTime": "2024-10-12T00:19:38.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 337,
+            "Name": "Wheelchair Accessible - Instructor Area/Front of Room"
+          }
+        },
+        {
+          "id": "recgrfYikFAsmnffH",
+          "createdTime": "2024-10-12T00:19:38.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 347,
+            "Name": "Wheelchair Accessible - Student Seating Area"
+          }
+        },
+        {
+          "id": "recC1peaGQS9nCGSw",
+          "createdTime": "2024-10-12T00:19:48.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 66,
+            "Name": "Automatic Door Opener"
+          }
+        },
+        {
+          "id": "recyGKZkqacbAMed8",
+          "createdTime": "2026-01-20T19:39:31.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 42,
+            "Name": "Assistive Listening System - Any"
+          }
+        },
+        {
+          "id": "recB2W1jO8UK9Z5p6",
+          "createdTime": "2024-10-12T00:19:48.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 28,
+            "Name": "Assistive Listening System - Advance Bookable"
+          }
+        },
+        {
+          "id": "recKo2liQnJHxUT01",
+          "createdTime": "2026-01-14T22:19:36.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 14,
+            "Name": "Assistive Listening System - Self-Serve Mobile App"
+          }
+        },
+        {
+          "id": "recN0TXFzZJv0xGrm",
+          "createdTime": "2024-10-12T00:19:38.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 4,
+            "Name": "Wheelchair Lift - Incline"
+          }
+        },
+        {
+          "id": "recJDG9GU36pTJpp5",
+          "createdTime": "2024-10-12T00:19:48.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Formal Count": 5,
+            "Name": "Wheelchair Lift - Vertical"
+          }
+        }
+      ],
+      "offset": null
+    },
+    "classroom_layouts": {
+      "records": [
+        {
+          "id": "recy47gPSfcJi0x3a",
+          "createdTime": "2024-10-06T23:26:52.000Z",
+          "fields": {
+            "Formal Count": 55,
+            "Name": "Seminar",
+            "Informal Count": 0
+          }
+        },
+        {
+          "id": "recTOpa6fY04qc5pS",
+          "createdTime": "2024-10-06T23:26:52.000Z",
+          "fields": {
+            "Formal Count": 244,
+            "Name": "Rows",
+            "Informal Count": 0
+          }
+        },
+        {
+          "id": "recjS9S5X1GGBO2Iy",
+          "createdTime": "2024-10-06T23:26:52.000Z",
+          "fields": {
+            "Formal Count": 22,
+            "Name": "Case-Style",
+            "Informal Count": 0
+          }
+        },
+        {
+          "id": "recnr71nRxEntySb0",
+          "createdTime": "2024-10-06T23:26:52.000Z",
+          "fields": {
+            "Formal Count": 29,
+            "Name": "Groups",
+            "Informal Count": 0
+          }
+        }
+      ],
+      "offset": null
+    },
+    "furniture": {
+      "records": [
+        {
+          "id": "recKgIwNWP2p80RfN",
+          "createdTime": "2024-10-07T04:30:41.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Name": "Moveable Tables",
+            "Formal Count": 185
+          }
+        },
+        {
+          "id": "recNsOP9n4dZg1bFB",
+          "createdTime": "2024-10-07T04:30:41.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Name": "Fixed Tables",
+            "Formal Count": 109
+          }
+        },
+        {
+          "id": "recRZ6TnNPfAvhMCd",
+          "createdTime": "2024-10-07T04:30:41.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Name": "Moveable Tablets",
+            "Formal Count": 32
+          }
+        },
+        {
+          "id": "recy7UW1J7yaCpzJN",
+          "createdTime": "2024-10-07T04:30:41.000Z",
+          "fields": {
+            "Informal Count": 0,
+            "Name": "Fixed Tablets",
+            "Formal Count": 25
+          }
+        }
+      ],
+      "offset": null
+    },
+    "min_max": [
+      8,
+      503
+    ],
+    "glossary_terms": {
+      "records": [
+        {
+          "id": "rec3Aw75Xr7xJs3pk",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone - Any",
+            "Definition": "Microphone(s) available in room can be either Wireless Handheld, Wireless Lapel or Audience Microphones."
+          }
+        },
+        {
+          "id": "rec6oDlxPenG8OlGW",
+          "createdTime": "2025-02-18T18:41:55.000Z",
+          "fields": {
+            "Term": "Not Wheelchair Accessible",
+            "Definition": "Room is not wheelchair accessible due to stairs/steps and no alternate route."
+          }
+        },
+        {
+          "id": "rec8j44n5TpPCBQh7",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Informal Learning Spaces",
+            "Definition": "Any space students use outside of scheduled classes to study or socialize. They can be anything from a café in the Nest, to a silent study space in the library. Informal Learning Spaces are found across campus in many different buildings. For a list of informal learning spaces, visit the Informal Learning Spaces page."
+          }
+        },
+        {
+          "id": "recAror9NLgDPOBOh",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Projector(s)",
+            "Definition": "Used for projecting video presentation material from a computer or document camera."
+          }
+        },
+        {
+          "id": "recBLFW0Tb8Maszkw",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Natural Light",
+            "Definition": "Window(s) and/or skylight(s) located in room."
+          }
+        },
+        {
+          "id": "recCrhmbil348nnCW",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone(s) - Audience Mics",
+            "Definition": "Typically a microphone with a button to activate/de-activate; used for voice amplification, located on the student desks for interaction with instructors, other students, or remote participants using video-conferencing or streaming capabilities."
+          }
+        },
+        {
+          "id": "recDarnztt0MqJZPX",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Confidence Monitor",
+            "Definition": "Large flat panel display facing the presenter. Displays the same video signal that is selected to show on the main display behind the presenter (computer or document camera.)"
+          }
+        },
+        {
+          "id": "recE4TYYmyvASgM6q",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Food Outlets Nearby",
+            "Definition": "Access to food or drink vendors nearby. Hours of vendors vary."
+          }
+        },
+        {
+          "id": "recFqZQrlOVPgplru",
+          "createdTime": "2025-02-18T21:22:15.000Z",
+          "fields": {
+            "Term": "Wheelchair Lift - Incline",
+            "Definition": "The accessible path to the front of the room requires the use of an incline platform lift to traverse stairs/steps."
+          }
+        },
+        {
+          "id": "recH5dNeFMiuVMYoe",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Wireless Presentation",
+            "Definition": "Allows wireless sharing of your screen from a Mac or Windows laptop onto room display(s)."
+          }
+        },
+        {
+          "id": "recKCQkFl8Agdun0W",
+          "createdTime": "2025-02-18T18:43:55.000Z",
+          "fields": {
+            "Term": "Instructor Area/Front of Room Not Wheelchair Accessible",
+            "Definition": "Room is not wheelchair accessible due to stairs/steps and no alternate route."
+          }
+        },
+        {
+          "id": "recM3n1OJr0dOaH8h",
+          "createdTime": "2025-02-18T21:22:30.000Z",
+          "fields": {
+            "Term": "Wheelchair Lift - Vertical",
+            "Definition": "The accessible path to the room or the front of the room requires the use of a vertical platform lift. "
+          }
+        },
+        {
+          "id": "recMJe4P5GoFVoU0Q",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Document Camera - 1",
+            "Definition": "A video camera enabled device used for presenting pre-printed images, items, or writing to be projected via a multimedia projector."
+          }
+        },
+        {
+          "id": "recMlGhrSSe7V2JfM",
+          "createdTime": "2025-02-18T18:41:09.000Z",
+          "fields": {
+            "Term": "Wheelchair Accessible - Student Seating Area",
+            "Definition": "At least some seats in the room are wheelchair accessible; if the room is tiered, there is an accessible path to some student seats."
+          }
+        },
+        {
+          "id": "recMtcR1DLe1N97Q9",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Connection - HDMI",
+            "Definition": "This type of input is used to connect your laptop, iPad, or newer digital devices to the AV presentation system. This is a digital connection."
+          }
+        },
+        {
+          "id": "recMwMSNUOl1trqdf",
+          "createdTime": "2025-02-18T18:44:30.000Z",
+          "fields": {
+            "Term": "No Automatic Door Opener",
+            "Definition": "No entrances to the classroom have a powered door (door that opens by pushing a button or using a touchless sensor.)"
+          }
+        },
+        {
+          "id": "recN1oe2VDV7RhVfP",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Learn Lab (Multiple Content Capable)",
+            "Definition": "High-tech group work rooms where each pod has its own display. Presentations can be shared to any/all displays from the instructor lectern or student pods."
+          }
+        },
+        {
+          "id": "recNHZRo4ct2hADrI",
+          "createdTime": "2025-02-18T18:39:49.000Z",
+          "fields": {
+            "Term": "Chalkboard(s)",
+            "Definition": "Instructor writing surface in the room is chalkboard(s). Chalk and erasers are provided."
+          }
+        },
+        {
+          "id": "recOri30llvksDp1l",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone(s) - Wireless Handheld",
+            "Definition": "Used for voice amplification, either held in your hand or placed on a microphone stand."
+          }
+        },
+        {
+          "id": "recPi7x66d8widKz3",
+          "createdTime": "2026-01-14T22:33:38.000Z",
+          "fields": {
+            "Term": "Assistive Listening System - Self-Serve Mobile App",
+            "Definition": "Streams live audio over a wireless network directly to users’ smartphones, allowing users to listen in real time through headphones, hearing aids, or cochlear implants. To use this system, download the Sennheiser MobileConnect app, connect to the ubcsecure Wireless Network, and scan the QR code that is posted on the wall in the classroom to connect to the channel."
+          }
+        },
+        {
+          "id": "recPk7uttpuQd6jHG",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone(s) - Wireless Lapel",
+            "Definition": "Used for voice amplification, comes with a clip to attach the small microphone to your lapel."
+          }
+        },
+        {
+          "id": "recQ5S13P57c7RwLf",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "AC Power to all Seats",
+            "Definition": "Power outlets are available at 100% of student seats."
+          }
+        },
+        {
+          "id": "recQBX6t0rCFMvMTh",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Silent Study",
+            "Definition": "Designated for quiet individual study. Campus libraries, reading rooms and study carrels typically offer silent study space."
+          }
+        },
+        {
+          "id": "recRjpEJgMsktCXbk",
+          "createdTime": "2025-02-18T18:40:55.000Z",
+          "fields": {
+            "Term": "Wheelchair Accessible - Instructor Area/Front of Room",
+            "Definition": "The front of the room is wheelchair accessible; if the room is tiered, there is an accessible path to the instructor area."
+          }
+        },
+        {
+          "id": "recSR0zQqPJ5TdxgY",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Dual Content Capable",
+            "Definition": "Different content can be projected on two or more screens through the AV presentation system. For example, a laptop on one screen and a document camera on another."
+          }
+        },
+        {
+          "id": "recSpDxXx4kXY2dJR",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Individual Work",
+            "Definition": "Spaces designed to support individual study. Noise and activity levels will vary by space."
+          }
+        },
+        {
+          "id": "recXSqOkLcCTFmlmJ",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Boards - Any",
+            "Definition": "Writing surfaces available in room can be either whiteboards, chalkboards or glassboards."
+          }
+        },
+        {
+          "id": "recY7oDqqdaV5KgQc",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Computer (Windows PC)",
+            "Definition": "A Windows PC computer system is available at the instructor station. Comes installed with Microsoft PowerPoint, Word, and Excel. Internet access requires a UBC campus-wide login (CWL). For more information please visit http://www.cwl.ubc.ca."
+          }
+        },
+        {
+          "id": "recYsVvGksvenv2pG",
+          "createdTime": "2025-04-09T18:53:28.000Z",
+          "fields": {
+            "Term": "Suitable for Doctoral Oral Defense",
+            "Definition": "Meets Graduate and Postdoctoral Studies’ requirements for off-site Final Doctoral Oral Examinations."
+          }
+        },
+        {
+          "id": "recaNsMA2Uhj3yXV6",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Annotation Display(s)",
+            "Definition": "Allows users to interact with the room PC via touch capability on the flat panel display. Also allows notes to be handwritten on the screen and saved to the room PC."
+          }
+        },
+        {
+          "id": "reccsOwHy5yyBSI98",
+          "createdTime": "2025-02-18T18:44:06.000Z",
+          "fields": {
+            "Term": "Automatic Door Opener",
+            "Definition": "At least one entrance to the classroom has a powered door that opens by pushing a button or using a touchless sensor."
+          }
+        },
+        {
+          "id": "receLnynVXboOdgtT",
+          "createdTime": "2025-02-18T18:40:02.000Z",
+          "fields": {
+            "Term": "Whiteboard(s)",
+            "Definition": "Instructor writing surface in the room is whiteboard(s) or glassboard(s). Instructors and students are responsible for supplying their own dry-erase markers; erasers are provided."
+          }
+        },
+        {
+          "id": "receO4hJziKjJswap",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Assistive Listening System - Advance Bookable",
+            "Definition": "Streams live audio to a portable receiver, allowing users to listen in real time through headphones, hearing aids, or cochlear implants. To use this system, email AV.support@ubc.ca to borrow a receiver."
+          }
+        },
+        {
+          "id": "recfTM3QaHcQg3ZLk",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Group Work",
+            "Definition": "Spaces designed to support group study or group work. Furniture is typically designed to support collaborative activities."
+          }
+        },
+        {
+          "id": "recfmO3tkC6mvPYOP",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "iClicker",
+            "Definition": "An audience response system that can be used for polls and quizzes. iClicker is now the iClicker Cloud, and no special device or hardware is required to use it. For more information please visit the Learning Technology Hub webpage: https://lthub.ubc.ca/guides/iclicker-cloud-instructor-guide/."
+          }
+        },
+        {
+          "id": "rechncYkDV4PHbwGV",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Blended Learning",
+            "Definition": "Involves some combination of in-person and online learning, with the goals of increasing flexibility in terms of when and where students learn, and taking advantage of in-person and online spaces and learning technologies to enhance student learning. Three common components of this learning style are online learning materials and activities, in-person activities in the classroom guided by instructors, and structured independent study for students."
+          }
+        },
+        {
+          "id": "reciYZ419l6pURKHe",
+          "createdTime": "2025-02-03T19:02:54.000Z",
+          "fields": {
+            "Term": "Document Cameras - 2",
+            "Definition": "Video camera enabled devices used for presenting pre-printed images, items, or  writing to be projected via a multimedia projector."
+          }
+        },
+        {
+          "id": "recjWgjqvdnTEkHW1",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Flat Panel Display(s)",
+            "Definition": "A Plasma or LCD/LED screen that is used for AV presentations."
+          }
+        },
+        {
+          "id": "recmFXZYboB5NWMHa",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Flipped Classrooms",
+            "Definition": "A type of blended learning in which students engage with content or materials prior to the start of class so as to allow more time in the classroom for active learning activities and discussion."
+          }
+        },
+        {
+          "id": "recmuVAZg82Rf0DZa",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Media Capture",
+            "Definition": "Allows the recording of a video camera feed, audio, and presentation materials for later viewing and distribution or live streaming."
+          }
+        },
+        {
+          "id": "recmxYkwIeqQBMvWC",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Distributed Learning",
+            "Definition": "When students are physically distributed at multiple sites but need to learn at the same time. The UBC School of Medicine, for example, uses this model. This type of learning provides more flexibility and opportunity for students to learn beyond the traditional classroom setting."
+          }
+        },
+        {
+          "id": "recnEua3WVB3Jgo5m",
+          "createdTime": "2025-02-18T18:39:20.000Z",
+          "fields": {
+            "Term": "AC Power to 50% of Seats",
+            "Definition": "Power outlets are available at approximately 50% of student seats."
+          }
+        },
+        {
+          "id": "recrnVheoI81iWa7q",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Connection - Any",
+            "Definition": "Inputs offered in room can be either Auxiliary video with Audio, HDMI, or Laptop VGA with Audio inputs."
+          }
+        },
+        {
+          "id": "recue7QlmjnzMkjrH",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Active Learning Classrooms",
+            "Definition": "Learning spaces specifically designed to support student-centered, flexible, and interactive learning. Active Learning Classrooms contain furniture designed for collaboration, and both peer-to-peer learning and instructor-student interaction. High-tech Active Learning Classrooms may feature technology that allows both instructors and students to share their work with the class."
+          }
+        },
+        {
+          "id": "recwOq7EEjhEKAaaU",
+          "createdTime": "2025-02-03T19:02:43.000Z",
+          "fields": {
+            "Term": "Connection - USB-C",
+            "Definition": "This\n  type of input is used to connect your laptop, iPad, or newer digital devices\n  to the AV presentation system. This is a digital connection."
+          }
+        },
+        {
+          "id": "reczwLY2Zq4Pj2ywC",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Video Conferencing",
+            "Definition": "Real-time communication tool that enables instructors and students in different locations to interact through live video, audio, chat and content sharing. It supports synchronous hybrid teaching and learning, where some participants are physically present in the classroom while others join remotely."
+          }
+        }
+      ],
+      "offset": null
+    }
+  },
+  "vancouver-informal": {
+    "shared_amenities": {
+      "records": [],
+      "offset": null
+    },
+    "other_room_features": {
+      "records": [
+        {
+          "id": "recmMCKQxc6YWrVGA",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Boards - Any",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recGXkjFNjnn0Ehnw",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Whiteboard(s)",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recBjdiSXqjejVssv",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "Chalkboard(s)",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recVZRYJ0Bbv1kzOd",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "AC Power to Seats - Any",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recsV2MfHgv6NUFvi",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "AC Power to all Seats",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "reciQowrnMSznJqBs",
+          "createdTime": "2024-10-07T01:49:20.000Z",
+          "fields": {
+            "Name": "AC Power to 50% of Seats",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recx5z3G4qn77hIQk",
+          "createdTime": "2024-10-07T01:23:08.000Z",
+          "fields": {
+            "Name": "Natural Light",
+            "Category": "Other Room Features"
+          }
+        },
+        {
+          "id": "recma7Jz7n6LOUwxv",
+          "createdTime": "2025-04-09T18:42:54.000Z",
+          "fields": {
+            "Name": "Suitable for Doctoral Oral Defense",
+            "Category": "Other Room Features"
+          }
+        }
+      ],
+      "offset": null
+    },
+    "informal_amenities": {
+      "records": [
+        {
+          "id": "recxeVec3nPcoEmn1",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Wireless Presentation"
+          }
+        },
+        {
+          "id": "recy9mZ6Z2lNzfnBA",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Individual Work"
+          }
+        },
+        {
+          "id": "reczMnDyJFkINtsdj",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Connection - VGA"
+          }
+        },
+        {
+          "id": "recMTM1b3DSjOyAAp",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Whiteboards"
+          }
+        },
+        {
+          "id": "recOqKQRaXt5ygRRf",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Flat Panel Display(s)"
+          }
+        },
+        {
+          "id": "recO4OMV8liD5Mkd1",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Connection - HDMI"
+          }
+        },
+        {
+          "id": "recOgT4rcRMMaOd45",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Natural Light"
+          }
+        },
+        {
+          "id": "recVqZN4CihcCpILV",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Café"
+          }
+        },
+        {
+          "id": "recVKgzdyrPnV1jAN",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Silent Study"
+          }
+        },
+        {
+          "id": "recozDR3jByrMMhI2",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Food Outlets Nearby"
+          }
+        },
+        {
+          "id": "recswZAulqzhmL3Yk",
+          "createdTime": "2024-10-07T04:25:26.000Z",
+          "fields": {
+            "Name": "Group Work"
+          }
+        }
+      ],
+      "offset": null
+    },
+    "accessibility": {
+      "records": [],
+      "offset": null
+    },
+    "classroom_layouts": {
+      "records": [],
+      "offset": null
+    },
+    "furniture": {
+      "records": [],
+      "offset": null
+    },
+    "min_max": [
+      6,
+      300
+    ],
+    "glossary_terms": {
+      "records": [
+        {
+          "id": "rec3Aw75Xr7xJs3pk",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone - Any",
+            "Definition": "Microphone(s) available in room can be either Wireless Handheld, Wireless Lapel or Audience Microphones."
+          }
+        },
+        {
+          "id": "rec6oDlxPenG8OlGW",
+          "createdTime": "2025-02-18T18:41:55.000Z",
+          "fields": {
+            "Term": "Not Wheelchair Accessible",
+            "Definition": "Room is not wheelchair accessible due to stairs/steps and no alternate route."
+          }
+        },
+        {
+          "id": "rec8j44n5TpPCBQh7",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Informal Learning Spaces",
+            "Definition": "Any space students use outside of scheduled classes to study or socialize. They can be anything from a café in the Nest, to a silent study space in the library. Informal Learning Spaces are found across campus in many different buildings. For a list of informal learning spaces, visit the Informal Learning Spaces page."
+          }
+        },
+        {
+          "id": "recAror9NLgDPOBOh",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Projector(s)",
+            "Definition": "Used for projecting video presentation material from a computer or document camera."
+          }
+        },
+        {
+          "id": "recBLFW0Tb8Maszkw",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Natural Light",
+            "Definition": "Window(s) and/or skylight(s) located in room."
+          }
+        },
+        {
+          "id": "recCrhmbil348nnCW",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone(s) - Audience Mics",
+            "Definition": "Typically a microphone with a button to activate/de-activate; used for voice amplification, located on the student desks for interaction with instructors, other students, or remote participants using video-conferencing or streaming capabilities."
+          }
+        },
+        {
+          "id": "recDarnztt0MqJZPX",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Confidence Monitor",
+            "Definition": "Large flat panel display facing the presenter. Displays the same video signal that is selected to show on the main display behind the presenter (computer or document camera.)"
+          }
+        },
+        {
+          "id": "recE4TYYmyvASgM6q",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Food Outlets Nearby",
+            "Definition": "Access to food or drink vendors nearby. Hours of vendors vary."
+          }
+        },
+        {
+          "id": "recFqZQrlOVPgplru",
+          "createdTime": "2025-02-18T21:22:15.000Z",
+          "fields": {
+            "Term": "Wheelchair Lift - Incline",
+            "Definition": "The accessible path to the front of the room requires the use of an incline platform lift to traverse stairs/steps."
+          }
+        },
+        {
+          "id": "recH5dNeFMiuVMYoe",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Wireless Presentation",
+            "Definition": "Allows wireless sharing of your screen from a Mac or Windows laptop onto room display(s)."
+          }
+        },
+        {
+          "id": "recKCQkFl8Agdun0W",
+          "createdTime": "2025-02-18T18:43:55.000Z",
+          "fields": {
+            "Term": "Instructor Area/Front of Room Not Wheelchair Accessible",
+            "Definition": "Room is not wheelchair accessible due to stairs/steps and no alternate route."
+          }
+        },
+        {
+          "id": "recM3n1OJr0dOaH8h",
+          "createdTime": "2025-02-18T21:22:30.000Z",
+          "fields": {
+            "Term": "Wheelchair Lift - Vertical",
+            "Definition": "The accessible path to the room or the front of the room requires the use of a vertical platform lift. "
+          }
+        },
+        {
+          "id": "recMJe4P5GoFVoU0Q",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Document Camera - 1",
+            "Definition": "A video camera enabled device used for presenting pre-printed images, items, or writing to be projected via a multimedia projector."
+          }
+        },
+        {
+          "id": "recMlGhrSSe7V2JfM",
+          "createdTime": "2025-02-18T18:41:09.000Z",
+          "fields": {
+            "Term": "Wheelchair Accessible - Student Seating Area",
+            "Definition": "At least some seats in the room are wheelchair accessible; if the room is tiered, there is an accessible path to some student seats."
+          }
+        },
+        {
+          "id": "recMtcR1DLe1N97Q9",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Connection - HDMI",
+            "Definition": "This type of input is used to connect your laptop, iPad, or newer digital devices to the AV presentation system. This is a digital connection."
+          }
+        },
+        {
+          "id": "recMwMSNUOl1trqdf",
+          "createdTime": "2025-02-18T18:44:30.000Z",
+          "fields": {
+            "Term": "No Automatic Door Opener",
+            "Definition": "No entrances to the classroom have a powered door (door that opens by pushing a button or using a touchless sensor.)"
+          }
+        },
+        {
+          "id": "recN1oe2VDV7RhVfP",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Learn Lab (Multiple Content Capable)",
+            "Definition": "High-tech group work rooms where each pod has its own display. Presentations can be shared to any/all displays from the instructor lectern or student pods."
+          }
+        },
+        {
+          "id": "recNHZRo4ct2hADrI",
+          "createdTime": "2025-02-18T18:39:49.000Z",
+          "fields": {
+            "Term": "Chalkboard(s)",
+            "Definition": "Instructor writing surface in the room is chalkboard(s). Chalk and erasers are provided."
+          }
+        },
+        {
+          "id": "recOri30llvksDp1l",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone(s) - Wireless Handheld",
+            "Definition": "Used for voice amplification, either held in your hand or placed on a microphone stand."
+          }
+        },
+        {
+          "id": "recPi7x66d8widKz3",
+          "createdTime": "2026-01-14T22:33:38.000Z",
+          "fields": {
+            "Term": "Assistive Listening System - Self-Serve Mobile App",
+            "Definition": "Streams live audio over a wireless network directly to users’ smartphones, allowing users to listen in real time through headphones, hearing aids, or cochlear implants. To use this system, download the Sennheiser MobileConnect app, connect to the ubcsecure Wireless Network, and scan the QR code that is posted on the wall in the classroom to connect to the channel."
+          }
+        },
+        {
+          "id": "recPk7uttpuQd6jHG",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Microphone(s) - Wireless Lapel",
+            "Definition": "Used for voice amplification, comes with a clip to attach the small microphone to your lapel."
+          }
+        },
+        {
+          "id": "recQ5S13P57c7RwLf",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "AC Power to all Seats",
+            "Definition": "Power outlets are available at 100% of student seats."
+          }
+        },
+        {
+          "id": "recQBX6t0rCFMvMTh",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Silent Study",
+            "Definition": "Designated for quiet individual study. Campus libraries, reading rooms and study carrels typically offer silent study space."
+          }
+        },
+        {
+          "id": "recRjpEJgMsktCXbk",
+          "createdTime": "2025-02-18T18:40:55.000Z",
+          "fields": {
+            "Term": "Wheelchair Accessible - Instructor Area/Front of Room",
+            "Definition": "The front of the room is wheelchair accessible; if the room is tiered, there is an accessible path to the instructor area."
+          }
+        },
+        {
+          "id": "recSR0zQqPJ5TdxgY",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Dual Content Capable",
+            "Definition": "Different content can be projected on two or more screens through the AV presentation system. For example, a laptop on one screen and a document camera on another."
+          }
+        },
+        {
+          "id": "recSpDxXx4kXY2dJR",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Individual Work",
+            "Definition": "Spaces designed to support individual study. Noise and activity levels will vary by space."
+          }
+        },
+        {
+          "id": "recXSqOkLcCTFmlmJ",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Boards - Any",
+            "Definition": "Writing surfaces available in room can be either whiteboards, chalkboards or glassboards."
+          }
+        },
+        {
+          "id": "recY7oDqqdaV5KgQc",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Computer (Windows PC)",
+            "Definition": "A Windows PC computer system is available at the instructor station. Comes installed with Microsoft PowerPoint, Word, and Excel. Internet access requires a UBC campus-wide login (CWL). For more information please visit http://www.cwl.ubc.ca."
+          }
+        },
+        {
+          "id": "recYsVvGksvenv2pG",
+          "createdTime": "2025-04-09T18:53:28.000Z",
+          "fields": {
+            "Term": "Suitable for Doctoral Oral Defense",
+            "Definition": "Meets Graduate and Postdoctoral Studies’ requirements for off-site Final Doctoral Oral Examinations."
+          }
+        },
+        {
+          "id": "recaNsMA2Uhj3yXV6",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Annotation Display(s)",
+            "Definition": "Allows users to interact with the room PC via touch capability on the flat panel display. Also allows notes to be handwritten on the screen and saved to the room PC."
+          }
+        },
+        {
+          "id": "reccsOwHy5yyBSI98",
+          "createdTime": "2025-02-18T18:44:06.000Z",
+          "fields": {
+            "Term": "Automatic Door Opener",
+            "Definition": "At least one entrance to the classroom has a powered door that opens by pushing a button or using a touchless sensor."
+          }
+        },
+        {
+          "id": "receLnynVXboOdgtT",
+          "createdTime": "2025-02-18T18:40:02.000Z",
+          "fields": {
+            "Term": "Whiteboard(s)",
+            "Definition": "Instructor writing surface in the room is whiteboard(s) or glassboard(s). Instructors and students are responsible for supplying their own dry-erase markers; erasers are provided."
+          }
+        },
+        {
+          "id": "receO4hJziKjJswap",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Assistive Listening System - Advance Bookable",
+            "Definition": "Streams live audio to a portable receiver, allowing users to listen in real time through headphones, hearing aids, or cochlear implants. To use this system, email AV.support@ubc.ca to borrow a receiver."
+          }
+        },
+        {
+          "id": "recfTM3QaHcQg3ZLk",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Group Work",
+            "Definition": "Spaces designed to support group study or group work. Furniture is typically designed to support collaborative activities."
+          }
+        },
+        {
+          "id": "recfmO3tkC6mvPYOP",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "iClicker",
+            "Definition": "An audience response system that can be used for polls and quizzes. iClicker is now the iClicker Cloud, and no special device or hardware is required to use it. For more information please visit the Learning Technology Hub webpage: https://lthub.ubc.ca/guides/iclicker-cloud-instructor-guide/."
+          }
+        },
+        {
+          "id": "rechncYkDV4PHbwGV",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Blended Learning",
+            "Definition": "Involves some combination of in-person and online learning, with the goals of increasing flexibility in terms of when and where students learn, and taking advantage of in-person and online spaces and learning technologies to enhance student learning. Three common components of this learning style are online learning materials and activities, in-person activities in the classroom guided by instructors, and structured independent study for students."
+          }
+        },
+        {
+          "id": "reciYZ419l6pURKHe",
+          "createdTime": "2025-02-03T19:02:54.000Z",
+          "fields": {
+            "Term": "Document Cameras - 2",
+            "Definition": "Video camera enabled devices used for presenting pre-printed images, items, or  writing to be projected via a multimedia projector."
+          }
+        },
+        {
+          "id": "recjWgjqvdnTEkHW1",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Flat Panel Display(s)",
+            "Definition": "A Plasma or LCD/LED screen that is used for AV presentations."
+          }
+        },
+        {
+          "id": "recmFXZYboB5NWMHa",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Flipped Classrooms",
+            "Definition": "A type of blended learning in which students engage with content or materials prior to the start of class so as to allow more time in the classroom for active learning activities and discussion."
+          }
+        },
+        {
+          "id": "recmuVAZg82Rf0DZa",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Media Capture",
+            "Definition": "Allows the recording of a video camera feed, audio, and presentation materials for later viewing and distribution or live streaming."
+          }
+        },
+        {
+          "id": "recmxYkwIeqQBMvWC",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Distributed Learning",
+            "Definition": "When students are physically distributed at multiple sites but need to learn at the same time. The UBC School of Medicine, for example, uses this model. This type of learning provides more flexibility and opportunity for students to learn beyond the traditional classroom setting."
+          }
+        },
+        {
+          "id": "recnEua3WVB3Jgo5m",
+          "createdTime": "2025-02-18T18:39:20.000Z",
+          "fields": {
+            "Term": "AC Power to 50% of Seats",
+            "Definition": "Power outlets are available at approximately 50% of student seats."
+          }
+        },
+        {
+          "id": "recrnVheoI81iWa7q",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Connection - Any",
+            "Definition": "Inputs offered in room can be either Auxiliary video with Audio, HDMI, or Laptop VGA with Audio inputs."
+          }
+        },
+        {
+          "id": "recue7QlmjnzMkjrH",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Active Learning Classrooms",
+            "Definition": "Learning spaces specifically designed to support student-centered, flexible, and interactive learning. Active Learning Classrooms contain furniture designed for collaboration, and both peer-to-peer learning and instructor-student interaction. High-tech Active Learning Classrooms may feature technology that allows both instructors and students to share their work with the class."
+          }
+        },
+        {
+          "id": "recwOq7EEjhEKAaaU",
+          "createdTime": "2025-02-03T19:02:43.000Z",
+          "fields": {
+            "Term": "Connection - USB-C",
+            "Definition": "This\n  type of input is used to connect your laptop, iPad, or newer digital devices\n  to the AV presentation system. This is a digital connection."
+          }
+        },
+        {
+          "id": "reczwLY2Zq4Pj2ywC",
+          "createdTime": "2024-10-11T23:02:11.000Z",
+          "fields": {
+            "Term": "Video Conferencing",
+            "Definition": "Real-time communication tool that enables instructors and students in different locations to interact through live video, audio, chat and content sharing. It supports synchronous hybrid teaching and learning, where some participants are physically present in the classroom while others join remotely."
+          }
+        }
+      ],
+      "offset": null
+    }
+  }
+}

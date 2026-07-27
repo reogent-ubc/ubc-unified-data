@@ -1,0 +1,682 @@
+{
+  "name": "UBC open data",
+  "description": "Public institutional data about UBC, gathered from official sources.",
+  "generated_at": "2026-07-27T22:08:35Z",
+  "groups": {
+    "geospatial": {
+      "title": "Campus geospatial open data",
+      "description": "Buildings, building entrances, sub-buildings, complexes, addresses, points of interest, trees, hard/soft landscape, water features, roads, routes, bollards, land use, neighbourhoods and legal boundaries for UBC Vancouver, UBC Okanagan and off-campus UBC locations.",
+      "sources": [
+        "https://github.com/UBCGeodata/ubc-geospatial-opendata"
+      ],
+      "folder": "geospatial",
+      "status": "ok",
+      "updated_at": "2026-07-27T21:56:58Z",
+      "duration_seconds": 4.5,
+      "records": 116,
+      "bytes": 31865880,
+      "datasets": [
+        {
+          "path": "geospatial/off-campus/locations/csv/ubc_regional_locations.csv",
+          "records": null,
+          "bytes": 89914,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/csv/ubc_regional_locations.csv"
+        },
+        {
+          "path": "geospatial/off-campus/locations/geojson/ubc_regional_locations.geojson",
+          "records": null,
+          "bytes": 236548,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/geojson/ubc_regional_locations.geojson"
+        },
+        {
+          "path": "geospatial/off-campus/locations/metadata/ubc_regional_locations.csv",
+          "records": null,
+          "bytes": 514,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/metadata/ubc_regional_locations.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/csv/ubco_address_full.csv",
+          "records": null,
+          "bytes": 16189,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_address_full.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/csv/ubco_address_mail.csv",
+          "records": null,
+          "bytes": 3364,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_address_mail.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/csv/ubco_building_simple.csv",
+          "records": null,
+          "bytes": 6144,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_building_simple.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/csv/ubco_buildings_full.csv",
+          "records": null,
+          "bytes": 9527,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_buildings_full.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/geojson/ubco_address_full.geojson",
+          "records": null,
+          "bytes": 71830,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/geojson/ubco_address_full.geojson"
+        },
+        {
+          "path": "geospatial/ubco/locations/geojson/ubco_building_simple.geojson",
+          "records": null,
+          "bytes": 114523,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/geojson/ubco_building_simple.geojson"
+        },
+        {
+          "path": "geospatial/ubco/locations/geojson/ubco_buildings_full.geojson",
+          "records": null,
+          "bytes": 83895,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/geojson/ubco_buildings_full.geojson"
+        },
+        {
+          "path": "geospatial/ubco/locations/metadata/ubco_address_fields.csv",
+          "records": null,
+          "bytes": 4336,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/metadata/ubco_address_fields.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/metadata/ubco_buildings_fields.csv",
+          "records": null,
+          "bytes": 3697,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/metadata/ubco_buildings_fields.csv"
+        },
+        {
+          "path": "geospatial/ubco/locations/metadata/ubco_buildings_simple_fields.csv",
+          "records": null,
+          "bytes": 1308,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/metadata/ubco_buildings_simple_fields.csv"
+        },
+        {
+          "path": "geospatial/ubcv/context/geojson/ubcv_beach.geojson",
+          "records": null,
+          "bytes": 35910,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_beach.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/context/geojson/ubcv_coastline.geojson",
+          "records": null,
+          "bytes": 26679,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_coastline.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/context/geojson/ubcv_psrp.geojson",
+          "records": null,
+          "bytes": 52549,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_psrp.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/context/geojson/ubcv_psrp_trail.geojson",
+          "records": null,
+          "bytes": 1019236,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_psrp_trail.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/context/geojson/ubcv_uel.geojson",
+          "records": null,
+          "bytes": 772792,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_uel.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/context/geojson/ubcv_water.geojson",
+          "records": null,
+          "bytes": 25878,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_water.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/context/metadata/ubcv_beach.csv",
+          "records": null,
+          "bytes": 153,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_beach.csv"
+        },
+        {
+          "path": "geospatial/ubcv/context/metadata/ubcv_psrp.csv",
+          "records": null,
+          "bytes": 196,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_psrp.csv"
+        },
+        {
+          "path": "geospatial/ubcv/context/metadata/ubcv_psrp_trail.csv",
+          "records": null,
+          "bytes": 1526,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_psrp_trail.csv"
+        },
+        {
+          "path": "geospatial/ubcv/context/metadata/ubcv_uel.csv",
+          "records": null,
+          "bytes": 126,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_uel.csv"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/csv/ubcv_campus_trees.csv",
+          "records": null,
+          "bytes": 1423776,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/csv/ubcv_campus_trees.csv"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_campus_trees.geojson",
+          "records": null,
+          "bytes": 6181085,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_campus_trees.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_landscape_hard.geojson",
+          "records": null,
+          "bytes": 3653455,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_landscape_hard.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_landscape_soft.geojson",
+          "records": null,
+          "bytes": 7184843,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_landscape_soft.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_municipal_waterfeatures.geojson",
+          "records": null,
+          "bytes": 762558,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_municipal_waterfeatures.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/metadata/ubcv_softlandscape.csv",
+          "records": null,
+          "bytes": 542,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/metadata/ubcv_softlandscape.csv"
+        },
+        {
+          "path": "geospatial/ubcv/landscape/metadata/ubcv_trees_fields.csv",
+          "records": null,
+          "bytes": 1202,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/metadata/ubcv_trees_fields.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/csv/ubcv_address.csv",
+          "records": null,
+          "bytes": 375178,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_address.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/csv/ubcv_address_mailing.csv",
+          "records": null,
+          "bytes": 140098,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_address_mailing.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/csv/ubcv_buildings.csv",
+          "records": null,
+          "bytes": 100932,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_buildings.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/csv/ubcv_buildings_simple.csv",
+          "records": null,
+          "bytes": 50720,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_buildings_simple.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/csv/ubcv_poi.csv",
+          "records": null,
+          "bytes": 122025,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_poi.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/geojson/ubcv_address.geojson",
+          "records": null,
+          "bytes": 1453725,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_address.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/locations/geojson/ubcv_building_entraces.geojson",
+          "records": null,
+          "bytes": 650930,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_building_entraces.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/locations/geojson/ubcv_buildings.geojson",
+          "records": null,
+          "bytes": 1030432,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_buildings.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/locations/geojson/ubcv_complexes.geojson",
+          "records": null,
+          "bytes": 339969,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_complexes.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/locations/geojson/ubcv_poi.geojson",
+          "records": null,
+          "bytes": 311896,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_poi.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/locations/geojson/ubcv_subbuildings.geojson",
+          "records": null,
+          "bytes": 174816,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_subbuildings.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/locations/metadata/ubcv_address_fields.csv",
+          "records": null,
+          "bytes": 4465,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_address_fields.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/metadata/ubcv_buildings_fields.csv",
+          "records": null,
+          "bytes": 4035,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_buildings_fields.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/metadata/ubcv_buildings_simple_fields.csv",
+          "records": null,
+          "bytes": 838,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_buildings_simple_fields.csv"
+        },
+        {
+          "path": "geospatial/ubcv/locations/metadata/ubcv_poi.csv",
+          "records": null,
+          "bytes": 477,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_poi.csv"
+        },
+        {
+          "path": "geospatial/ubcv/planning/csv/ubcv_landuse.csv",
+          "records": null,
+          "bytes": 1308,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/csv/ubcv_landuse.csv"
+        },
+        {
+          "path": "geospatial/ubcv/planning/csv/ubcv_neighbourhoods.csv",
+          "records": null,
+          "bytes": 1328,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/csv/ubcv_neighbourhoods.csv"
+        },
+        {
+          "path": "geospatial/ubcv/planning/geojson/ubcv_landuse.geojson",
+          "records": null,
+          "bytes": 36376,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/geojson/ubcv_landuse.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/planning/geojson/ubcv_legal_boundary.geojson",
+          "records": null,
+          "bytes": 13423,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/geojson/ubcv_legal_boundary.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/planning/geojson/ubcv_neighbourhoods.geojson",
+          "records": null,
+          "bytes": 14681,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/geojson/ubcv_neighbourhoods.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/planning/metadata/ubcv_landuse.csv",
+          "records": null,
+          "bytes": 111,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/metadata/ubcv_landuse.csv"
+        },
+        {
+          "path": "geospatial/ubcv/planning/metadata/ubcv_neighbourhoods.csv",
+          "records": null,
+          "bytes": 190,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/metadata/ubcv_neighbourhoods.csv"
+        },
+        {
+          "path": "geospatial/ubcv/transportation/geojson/ubcv_bollards.geojson",
+          "records": null,
+          "bytes": 88005,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/geojson/ubcv_bollards.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/transportation/geojson/ubcv_roads_simple.geojson",
+          "records": null,
+          "bytes": 186619,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/geojson/ubcv_roads_simple.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/transportation/geojson/ubcv_routes.geojson",
+          "records": null,
+          "bytes": 4962013,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/geojson/ubcv_routes.geojson"
+        },
+        {
+          "path": "geospatial/ubcv/transportation/metadata/ubcv_bollards.csv",
+          "records": null,
+          "bytes": 488,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/metadata/ubcv_bollards.csv"
+        },
+        {
+          "path": "geospatial/ubcv/transportation/metadata/ubcv_roads_simple.csv",
+          "records": null,
+          "bytes": 300,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/metadata/ubcv_roads_simple.csv"
+        },
+        {
+          "path": "geospatial/ubcv/transportation/metadata/ubcv_routes.csv",
+          "records": null,
+          "bytes": 593,
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/metadata/ubcv_routes.csv"
+        },
+        {
+          "path": "geospatial/_index.json",
+          "records": 58,
+          "bytes": 10390,
+          "source": null
+        },
+        {
+          "path": "geospatial/_index.csv",
+          "records": 58,
+          "bytes": 4966,
+          "source": null
+        },
+        {
+          "path": "geospatial/_source.json",
+          "records": null,
+          "bytes": 258,
+          "source": null
+        }
+      ]
+    },
+    "spaces": {
+      "title": "Learning spaces (classrooms, study space, bookable rooms)",
+      "description": "Bookable classrooms and informal study spaces with capacity, building code, room number, photos and links, the per-building formal/informal room counts, and the full filter vocabulary UBC records for a space (A/V, accessibility, furniture style, room features).",
+      "sources": [
+        "https://learningspaces.ubc.ca/find-a-space/",
+        "https://learningspaces.ubc.ca/find-a-space-informal/"
+      ],
+      "folder": "learning-spaces",
+      "status": "ok",
+      "updated_at": "2026-07-27T22:08:35Z",
+      "duration_seconds": 45.3,
+      "records": 900,
+      "bytes": 5447815,
+      "datasets": [
+        {
+          "path": "learning-spaces/rooms.json",
+          "records": 411,
+          "bytes": 2962427,
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "path": "learning-spaces/rooms.csv",
+          "records": 411,
+          "bytes": 2413471,
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "path": "learning-spaces/buildings.json",
+          "records": 38,
+          "bytes": 11955,
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "path": "learning-spaces/buildings.csv",
+          "records": 38,
+          "bytes": 4405,
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "path": "learning-spaces/filters.json",
+          "records": null,
+          "bytes": 55435,
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "path": "learning-spaces/_configs.json",
+          "records": 2,
+          "bytes": 122,
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        }
+      ]
+    },
+    "events": {
+      "title": "UBC events calendar",
+      "description": "Public events with start/end times, cost, website, description and category, plus the venue directory (street address, city, coordinates) and the organizer directory (contact email, phone, website).",
+      "sources": [
+        "https://events.ubc.ca/resources/webdev/",
+        "https://events.ubc.ca/wp-json/tribe/events/v1/events"
+      ],
+      "folder": "events",
+      "status": "ok",
+      "updated_at": "2026-07-27T22:04:25Z",
+      "duration_seconds": 426.3,
+      "records": 21422,
+      "bytes": 116785888,
+      "datasets": [
+        {
+          "path": "events/events.json",
+          "records": 9952,
+          "bytes": 57024631,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/events"
+        },
+        {
+          "path": "events/events.csv",
+          "records": 9952,
+          "bytes": 57577426,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/events"
+        },
+        {
+          "path": "events/venues.json",
+          "records": 199,
+          "bytes": 148785,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/venues"
+        },
+        {
+          "path": "events/venues.csv",
+          "records": 199,
+          "bytes": 70560,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/venues"
+        },
+        {
+          "path": "events/organizers.json",
+          "records": 449,
+          "bytes": 268863,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/organizers"
+        },
+        {
+          "path": "events/organizers.csv",
+          "records": 449,
+          "bytes": 148934,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/organizers"
+        },
+        {
+          "path": "events/categories.json",
+          "records": 58,
+          "bytes": 448147,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/categories"
+        },
+        {
+          "path": "events/categories.csv",
+          "records": 58,
+          "bytes": 365886,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/categories"
+        },
+        {
+          "path": "events/tags.json",
+          "records": 53,
+          "bytes": 375260,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/tags"
+        },
+        {
+          "path": "events/tags.csv",
+          "records": 53,
+          "bytes": 301245,
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/tags"
+        },
+        {
+          "path": "events/events.ics",
+          "records": null,
+          "bytes": 56151,
+          "source": "https://events.ubc.ca/?ical=1"
+        }
+      ]
+    },
+    "admissions": {
+      "title": "Admissions: degree and program finder",
+      "description": "Every undergraduate program in UBC's program finder with its degree, campus, faculty, areas of interest and links, the degree list, and the you.ubc.ca content pages covering admission requirements, costs, deadlines and how to apply.",
+      "sources": [
+        "https://you.ubc.ca/programs/",
+        "https://you.ubc.ca/wp-json/wp/v2/pages"
+      ],
+      "folder": "admissions",
+      "status": "ok",
+      "updated_at": "2026-07-27T22:04:38Z",
+      "duration_seconds": 13.0,
+      "records": 1006,
+      "bytes": 8319322,
+      "datasets": [
+        {
+          "path": "admissions/costEstimatorData.json",
+          "records": 4,
+          "bytes": 30324,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/costEstimatorData.csv",
+          "records": 4,
+          "bytes": 25914,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/topics.json",
+          "records": 10,
+          "bytes": 3054,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/topics.csv",
+          "records": 10,
+          "bytes": 978,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/degrees.json",
+          "records": 38,
+          "bytes": 11824,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/degrees.csv",
+          "records": 38,
+          "bytes": 3640,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/campuses.json",
+          "records": 2,
+          "bytes": 537,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/campuses.csv",
+          "records": 2,
+          "bytes": 197,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/interests.json",
+          "records": 73,
+          "bytes": 19782,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/interests.csv",
+          "records": 73,
+          "bytes": 3964,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/programs.json",
+          "records": 196,
+          "bytes": 1215086,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/programs.csv",
+          "records": 196,
+          "bytes": 1044265,
+          "source": "https://you.ubc.ca/programs/"
+        },
+        {
+          "path": "admissions/pages.json",
+          "records": 153,
+          "bytes": 3179948,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "admissions/pages.csv",
+          "records": 153,
+          "bytes": 2472667,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "admissions/taxonomies/program-areas.json",
+          "records": 10,
+          "bytes": 64536,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        },
+        {
+          "path": "admissions/taxonomies/program-areas.csv",
+          "records": 10,
+          "bytes": 51247,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/program-areas"
+        },
+        {
+          "path": "admissions/taxonomies/student-groups.json",
+          "records": 4,
+          "bytes": 25965,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/student-groups"
+        },
+        {
+          "path": "admissions/taxonomies/student-groups.csv",
+          "records": 4,
+          "bytes": 20702,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/student-groups"
+        },
+        {
+          "path": "admissions/taxonomies/ubc-life-topics.json",
+          "records": 6,
+          "bytes": 37817,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/ubc-life-topics"
+        },
+        {
+          "path": "admissions/taxonomies/ubc-life-topics.csv",
+          "records": 6,
+          "bytes": 29876,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/ubc-life-topics"
+        },
+        {
+          "path": "admissions/taxonomies/cycle-stages.json",
+          "records": 4,
+          "bytes": 24464,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/cycle-stages"
+        },
+        {
+          "path": "admissions/taxonomies/cycle-stages.csv",
+          "records": 4,
+          "bytes": 19201,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/cycle-stages"
+        },
+        {
+          "path": "admissions/taxonomies/content-types.json",
+          "records": 3,
+          "bytes": 18629,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/content-types"
+        },
+        {
+          "path": "admissions/taxonomies/content-types.csv",
+          "records": 3,
+          "bytes": 14705,
+          "source": "https://you.ubc.ca/wp-json/wp/v2/content-types"
+        }
+      ]
+    }
+  }
+}

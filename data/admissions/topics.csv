@@ -1,0 +1,11 @@
+term_id,name,slug,term_group,term_taxonomy_id,taxonomy,description,parent,count,filter,term_order
+1284,Business and economics,business-and-economics,0,1289,topic_areas,,0,21,raw,0
+1294,"Earth, environment, and sustainability",earth-environment-and-sustainability,0,1299,topic_areas,,0,37,raw,0
+1301,Education,education,0,1306,topic_areas,,0,7,raw,0
+1293,Engineering and technology,engineering-and-technology,0,1298,topic_areas,,0,35,raw,0
+1295,Health and life sciences,health-and-life-sciences,0,1300,topic_areas,,0,46,raw,0
+1296,"History, law, and politics",history-law-and-politics,0,1301,topic_areas,,0,21,raw,0
+1297,Languages and linguistics,languages-and-linguistics,0,1302,topic_areas,,0,19,raw,0
+1300,"Math, chemistry, and physics",math-chemistry-and-physics,0,1305,topic_areas,,0,24,raw,0
+1298,Media and fine arts,media-and-fine-arts,0,1303,topic_areas,,0,22,raw,0
+1299,"People, culture, and society",people-culture-and-society,0,1304,topic_areas,,0,37,raw,0
