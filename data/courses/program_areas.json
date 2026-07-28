@@ -1,0 +1,146 @@
+[
+  {
+    "id": "4676e7d4-8190-4665-b4f5-37466693ed54",
+    "type": "taxonomy_term--program_area",
+    "tid": 1464,
+    "revision_id": 1464,
+    "revision_created": "2026-03-23T21:07:15+00:00",
+    "status": true,
+    "name": "BDSC",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:07:15+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "35d9e2fb-f6b0-492a-a8d6-df624929189d",
+    "type": "taxonomy_term--program_area",
+    "tid": 1465,
+    "revision_id": 1465,
+    "revision_created": "2026-03-23T21:07:21+00:00",
+    "status": true,
+    "name": "BEDS",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:07:21+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "6479a39f-4a54-4267-880f-8ba319c5d00c",
+    "type": "taxonomy_term--program_area",
+    "tid": 1466,
+    "revision_id": 1466,
+    "revision_created": "2026-03-23T21:07:27+00:00",
+    "status": true,
+    "name": "BEEM",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:07:27+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "dbe840d9-be69-4580-9281-9fa5cd5d9ada",
+    "type": "taxonomy_term--program_area",
+    "tid": 1467,
+    "revision_id": 1467,
+    "revision_created": "2026-03-23T21:07:44+00:00",
+    "status": true,
+    "name": "BMLS",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:07:44+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "cca3e923-0231-46ef-86be-2960f06038a3",
+    "type": "taxonomy_term--program_area",
+    "tid": 1468,
+    "revision_id": 1468,
+    "revision_created": "2026-03-23T21:07:52+00:00",
+    "status": true,
+    "name": "MA",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:07:52+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "a13cc3d6-719a-4d8c-991f-c51986850ea8",
+    "type": "taxonomy_term--program_area",
+    "tid": 1469,
+    "revision_id": 1469,
+    "revision_created": "2026-03-23T21:07:57+00:00",
+    "status": true,
+    "name": "PHD",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:07:57+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "cc0a97d1-5047-4754-87bb-e667d7049827",
+    "type": "taxonomy_term--program_area",
+    "tid": 1470,
+    "revision_id": 1470,
+    "revision_created": "2026-03-23T21:08:04+00:00",
+    "status": true,
+    "name": "SCIEONE",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:08:04+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "c004b3b1-6c80-4765-be45-a0693ab6b182",
+    "type": "taxonomy_term--program_area",
+    "tid": 1959,
+    "revision_id": 1959,
+    "revision_created": "2026-06-10T22:57:57+00:00",
+    "status": true,
+    "name": "GDPL",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-06-10T22:57:57+00:00",
+    "related": {
+      "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  }
+]

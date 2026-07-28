@@ -2,16 +2,6 @@ path,campus,theme,format,name
 off-campus/locations/csv/ubc_regional_locations.csv,off-campus,locations,csv,ubc_regional_locations
 off-campus/locations/geojson/ubc_regional_locations.geojson,off-campus,locations,geojson,ubc_regional_locations
 off-campus/locations/metadata/ubc_regional_locations.csv,off-campus,locations,csv,ubc_regional_locations
-ubco/locations/csv/ubco_address_full.csv,ubco,locations,csv,ubco_address_full
-ubco/locations/csv/ubco_address_mail.csv,ubco,locations,csv,ubco_address_mail
-ubco/locations/csv/ubco_building_simple.csv,ubco,locations,csv,ubco_building_simple
-ubco/locations/csv/ubco_buildings_full.csv,ubco,locations,csv,ubco_buildings_full
-ubco/locations/geojson/ubco_address_full.geojson,ubco,locations,geojson,ubco_address_full
-ubco/locations/geojson/ubco_building_simple.geojson,ubco,locations,geojson,ubco_building_simple
-ubco/locations/geojson/ubco_buildings_full.geojson,ubco,locations,geojson,ubco_buildings_full
-ubco/locations/metadata/ubco_address_fields.csv,ubco,locations,csv,ubco_address_fields
-ubco/locations/metadata/ubco_buildings_fields.csv,ubco,locations,csv,ubco_buildings_fields
-ubco/locations/metadata/ubco_buildings_simple_fields.csv,ubco,locations,csv,ubco_buildings_simple_fields
 ubcv/context/geojson/ubcv_beach.geojson,ubcv,context,geojson,ubcv_beach
 ubcv/context/geojson/ubcv_coastline.geojson,ubcv,context,geojson,ubcv_coastline
 ubcv/context/geojson/ubcv_psrp.geojson,ubcv,context,geojson,ubcv_psrp

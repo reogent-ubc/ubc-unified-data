@@ -39,9 +39,9 @@ run continues. Exit code is non-zero if anything failed.
 
 | Group | Folder | What you get |
 |---|---|---|
-| `geospatial` | `data/geospatial/` | Buildings, entrances, sub-buildings, complexes, addresses, points of interest, campus trees, hard/soft landscape, water features, roads, routes, bollards, land use, neighbourhoods, legal boundaries — Vancouver, Okanagan and off-campus. GeoJSON + CSV, mirrored verbatim. |
+| `geospatial` | `data/geospatial/` | Buildings, entrances, sub-buildings, complexes, addresses, points of interest, campus trees, hard/soft landscape, water features, roads, routes, bollards, land use, neighbourhoods, legal boundaries. GeoJSON + CSV, mirrored verbatim. |
 | `courses` | `data/courses/` | Two tables. `courses.*` is the catalogue (code, number, title, credits, subject, description). `sections.*` is every **actual offering** — term, meeting days and times, start/end dates, instructor, delivery mode, status. Plus subject, campus, term, year-level and department code lists, and standard timetables. |
-| `calendar` | `data/academic-calendar/` | The course *catalogue* for both campuses: descriptions and credit values, plus prerequisites, corequisites, equivalencies, credit exclusions and hours vectors **parsed out of the description prose** (see below) — and the faculty / school / department hierarchy. |
+| `calendar` | `data/academic-calendar/` | The course *catalogue*: descriptions and credit values, plus prerequisites, corequisites, equivalencies, credit exclusions and hours vectors **parsed out of the description prose** (see below) — and the faculty / school / department hierarchy. |
 | `spaces` | `data/learning-spaces/` | Bookable classrooms and informal study spaces with capacity, building, room number, furniture and layout style, photos and links. `filters.json` holds the full vocabulary UBC records per space (A/V, accessibility, room features). |
 | `events` | `data/events/` | Public events with times, cost, description and category, plus venues (street address, city, postal code) and organizers (email, phone, website). Includes the raw iCal feed. Venues have no coordinates — join them to `geospatial/ubcv/locations/` on address or building to place them on a map. |
 | `admissions` | `data/admissions/` | Every undergraduate program in the program finder with degree, campus, faculty and areas of interest; the degree list; the cost-estimator data; and the you.ubc.ca pages on requirements, costs, deadlines and how to apply. |
@@ -49,21 +49,37 @@ run continues. Exit code is non-zero if anything failed.
 | `services` | `data/campus-services/` | Food outlets, parking locations, permits and parking maps, facilities and learning-space resource libraries, recreation and student-services pages, UBC news. |
 | `reports` | `data/reports/` | An index of UBC's published institutional documents — annual financial reports, budgets, tuition and fee schedules, annual enrolment reports, Facts & Figures — each with a direct download URL, file type and source page. |
 
-### Campus coverage
+### Campus
 
-Vancouver and Okanagan are handled differently per group, because the upstream
-sources handle them differently. There is no single `campus` column across the
-dataset — this table is the map.
+**This dataset is UBC Vancouver only.** That is the default and it is enforced
+centrally: `collectors/base.py` holds the selection, and every collector
+translates its own campus marker — a `ubco/` directory, a `_O` course-code
+suffix, a `(UBC-O)` term label, a `(Okanagan)` subject label, a campus
+relationship — into a name and asks `wants()` before keeping a record.
 
-| Group | How campus is represented |
+```bash
+python update.py                    # Vancouver only (default)
+python update.py --campus okanagan  # Okanagan only
+python update.py --campus both      # everything
+```
+
+Switching is safe in both directions: after a collector succeeds, files it
+didn't write are pruned, so going Vancouver-only deletes the Okanagan files and
+going back to `both` restores them. The active setting is recorded as `campus`
+in `data/manifest.json`.
+
+| Group | How the filter applies |
 |---|---|
-| `geospatial` | **Separate directories** — `ubcv/` (45 files), `ubco/` (10), `off-campus/` (3) |
-| `calendar` | **Separate directories** — `vancouver/` (9,491 courses), `okanagan/` (2,513), plus a `campus` column on every row |
-| `courses` | **One combined file.** No `campus` column. Derive it from the course-code suffix — `_V` (38,529 rows) or `_O` (8,700) — or join `terms.json`, whose names carry `(UBC-V)`/`(UBC-O)`, 5 terms each. `campuses.json` holds the code list (`UBCV`, `UBCO`). |
-| `admissions` | `campuses` field holds term ids; resolve against `campuses.json` → `9` = Vancouver (211 programs), `10` = Okanagan (113) |
-| `spaces` | `campus` column, but **Vancouver only** — all 411 rows. The Find a Space tool has no Okanagan data despite accepting a campus parameter. |
-| `events` | No campus field. Venue `city` is the closest proxy (189 Vancouver, 1 Kelowna). |
-| `people` / `services` / `reports` | Organised by source site, not campus. PAIR publishes separate `Factsheets_UBCV`/`Factsheets_UBCO` documents. |
+| `geospatial` | Keeps `ubcv/`, drops `ubco/`. `off-campus/` (UBC sites elsewhere in BC) is not campus-specific and is always kept. |
+| `calendar` | Only the `vancouver.calendar.ubc.ca` host is fetched; `okanagan/` is not written. |
+| `courses` | The API serves both campuses in one collection with **no campus field**, so a `campus` column is derived and then filtered on: course code `_V`/`_O`, term label `(UBC-V)`/`(UBC-O)`, subject label `(Vancouver)`/`(Okanagan)`, or a standard timetable's campus relationship. All 47,229 upstream courses resolve cleanly (38,529 V / 8,700 O) — none are left unlabelled. |
+| `admissions` | Programs reference campuses by term id; resolved against `campuses.json` (`9` = Vancouver, `10` = Okanagan). A program offered on both campuses is kept. |
+| `spaces` | Already Vancouver-only upstream — Find a Space accepts a campus parameter and ignores it. |
+| `events` | No campus field exists upstream; events are not filtered. Venue `city` is the only proxy (189 Vancouver, 1 Kelowna). |
+| `people` / `services` / `reports` | Organised by source site, not campus, and not filtered. PAIR publishes UBCO factsheets that remain in the document index. |
+
+A record carrying **no** campus marker is always kept — dropping unlabelled rows
+would silently lose data if UBC changed a naming convention.
 
 ### File conventions
 

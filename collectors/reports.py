@@ -38,9 +38,12 @@ def _plain(value: str) -> str:
     return html_module.unescape(TAG_RE.sub(" ", value)).strip()
 
 
-def _documents(record: dict[str, Any], base_url: str, site: str) -> list[dict[str, Any]]:
+def _documents(
+    record: dict[str, Any], base_url: str, site: str, body: str | None = None
+) -> list[dict[str, Any]]:
     page_link = record.get("link") or base_url
-    body = _text(record.get("content")) + _text(record.get("excerpt"))
+    if body is None:
+        body = _text(record.get("content")) + _text(record.get("excerpt"))
     rows: list[dict[str, Any]] = []
     seen: set[str] = set()
 
@@ -93,13 +96,55 @@ class Reports(Collector):
                 collection = path.rsplit("/", 1)[-1]
                 if records:
                     out.table(f"{site}/{collection}", records, source=source)
+
+                empty = []
                 for record in records:
-                    documents.extend(_documents(record, f"https://{host}", site))
+                    found = _documents(record, f"https://{host}", site)
+                    documents.extend(found)
+                    # pair.ubc.ca returns every page with empty `content` over
+                    # REST, so the PDFs are only visible in the rendered page.
+                    if not found and not _text(record.get("content")).strip():
+                        empty.append(record)
+
+                recovered = self._from_html(http, empty, host, site)
+                documents.extend(recovered)
                 status.append({"site": site, "endpoint": source, "records": len(records),
+                               "pages_refetched_as_html": len(empty),
+                               "documents_recovered_from_html": len(recovered),
                                "skipped": None})
 
-        # One page can link the same PDF twice; collapse on URL.
+        # One page can link the same document twice; collapse on URL, but keep
+        # how many pages referenced it -- a high count usually means boilerplate.
+        counts: dict[str, int] = {}
+        for row in documents:
+            counts[row["url"]] = counts.get(row["url"], 0) + 1
         unique = list({row["url"]: row for row in documents}.values())
+        for row in unique:
+            row["linked_from_pages"] = counts[row["url"]]
         unique.sort(key=lambda row: (row["site"], row["file_type"], row["filename"]))
         out.table("documents", unique)
         out.json("_sources.json", status)
+
+    def _from_html(
+        self, http: Http, records: list[dict[str, Any]], host: str, site: str
+    ) -> list[dict[str, Any]]:
+        """Re-read pages whose REST `content` came back empty.
+
+        Some UBC sites (pair.ubc.ca in particular) build pages with blocks that
+        the REST API does not render, so `content.rendered` is an empty string
+        even though the published page links the reports we are after.
+        """
+        if not records:
+            return []
+
+        def scrape(record: dict[str, Any]) -> list[dict[str, Any]]:
+            link = record.get("link")
+            if not link:
+                return []
+            try:
+                body = http.get(link).text
+            except Exception:
+                return []
+            return _documents(record, f"https://{host}", site, body=body)
+
+        return [row for chunk in http.map(scrape, records) for row in chunk]

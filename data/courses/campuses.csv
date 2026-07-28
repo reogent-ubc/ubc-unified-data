@@ -1,0 +1,3 @@
+id,type,tid,revision_id,revision_created,status,name,description,weight,changed,field_campus_name,related
+e57d303b-6ec3-4953-b365-a457c9d5e194,taxonomy_term--campus,72,72,2026-02-12T17:38:35+00:00,True,UBCV,,0,2026-02-12T17:39:39+00:00,Vancouver,"{""vid"": ""972a6099-eeff-4aec-988e-d8a4809923bf"", ""parent"": [""virtual""]}"
+dd9e8772-d768-423c-9277-d7e817acff4b,taxonomy_term--campus,73,73,2026-02-12T17:38:42+00:00,True,UBCO,,0,2026-02-12T17:39:31+00:00,Okanagan,"{""vid"": ""972a6099-eeff-4aec-988e-d8a4809923bf"", ""parent"": [""virtual""]}"

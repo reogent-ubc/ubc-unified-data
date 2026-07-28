@@ -1,0 +1,218 @@
+[
+  {
+    "id": "bede52c1-7ade-4831-bb98-f4ae6d86cd8c",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 74,
+    "revision_id": 74,
+    "revision_created": "2026-02-12T17:46:25+00:00",
+    "status": true,
+    "name": "Combination",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:46:25+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "e2d34a3a-a80b-45d4-8f39-f3da114bebd2",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 75,
+    "revision_id": 75,
+    "revision_created": "2026-02-12T17:46:34+00:00",
+    "status": true,
+    "name": "Discussion",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:46:34+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "0e96d1b7-9f4c-4acd-9db3-44fefaf32938",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 76,
+    "revision_id": 76,
+    "revision_created": "2026-02-12T17:46:46+00:00",
+    "status": true,
+    "name": "Experiential",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:46:46+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "701fb22c-18ba-45b4-96d0-e3d38fe93a80",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 77,
+    "revision_id": 77,
+    "revision_created": "2026-02-12T17:47:12+00:00",
+    "status": true,
+    "name": "Independent Study",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:47:12+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "aa4b2c1f-99de-4b58-b837-78e0121f53fe",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 78,
+    "revision_id": 78,
+    "revision_created": "2026-02-12T17:47:23+00:00",
+    "status": true,
+    "name": "Laboratory",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:47:23+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "73084458-614a-48be-8dfe-117ff41ef2b4",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 79,
+    "revision_id": 79,
+    "revision_created": "2026-02-12T17:47:31+00:00",
+    "status": true,
+    "name": "Lecture",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:47:31+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "737eb31b-7adf-4a91-b9a9-3b218b464eaf",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 80,
+    "revision_id": 80,
+    "revision_created": "2026-02-12T17:47:39+00:00",
+    "status": true,
+    "name": "Recitation",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:47:39+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "778b87aa-946f-4500-a05c-e7547d2f3eb2",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 81,
+    "revision_id": 81,
+    "revision_created": "2026-02-12T17:47:46+00:00",
+    "status": true,
+    "name": "Seminar",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:47:46+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "b0c749d4-9dd8-42bb-8c92-d540db5d8280",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 82,
+    "revision_id": 82,
+    "revision_created": "2026-02-12T17:47:51+00:00",
+    "status": true,
+    "name": "Studio",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:47:51+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "6e25d882-0fcf-4da6-96c8-858a10aac87c",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 83,
+    "revision_id": 83,
+    "revision_created": "2026-02-12T17:48:00+00:00",
+    "status": true,
+    "name": "Thesis",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:48:00+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "1957d623-3df2-4ca9-b40c-f2ac520f6da2",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 84,
+    "revision_id": 84,
+    "revision_created": "2026-02-12T17:48:08+00:00",
+    "status": true,
+    "name": "Tutorial",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:48:08+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "1d3c382f-2a25-4a23-b594-2c6654103b57",
+    "type": "taxonomy_term--instructional_method",
+    "tid": 85,
+    "revision_id": 85,
+    "revision_created": "2026-02-12T17:48:14+00:00",
+    "status": true,
+    "name": "Workshop",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:48:14+00:00",
+    "related": {
+      "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
+      "parent": [
+        "virtual"
+      ]
+    }
+  }
+]

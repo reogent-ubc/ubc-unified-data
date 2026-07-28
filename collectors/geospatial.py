@@ -11,12 +11,16 @@ from __future__ import annotations
 from pathlib import PurePosixPath
 from typing import Any
 
-from .base import Collector, Http, Output, register, utcnow
+from .base import Collector, Http, Output, register, utcnow, wants
 
 REPO = "UBCGeodata/ubc-geospatial-opendata"
 BRANCH = "master"
 DATA_SUFFIXES = {".geojson", ".json", ".csv", ".kml", ".gpkg", ".zip"}
 SKIP_PREFIXES = (".github/",)
+
+# Top-level directories in the repo map to campuses. `off-campus/` holds UBC
+# sites elsewhere in BC and is not campus-specific, so it is always included.
+CAMPUS_DIRS = {"ubcv": "vancouver", "ubco": "okanagan"}
 
 
 @register
@@ -48,6 +52,7 @@ class Geospatial(Collector):
             if node.get("type") == "blob"
             and PurePosixPath(node["path"]).suffix.lower() in DATA_SUFFIXES
             and not node["path"].startswith(SKIP_PREFIXES)
+            and wants(CAMPUS_DIRS.get(PurePosixPath(node["path"]).parts[0]))
         ]
 
         def fetch(path: str) -> tuple[str, bytes]:

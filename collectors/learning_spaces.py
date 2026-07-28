@@ -23,7 +23,7 @@ import json
 import re
 from typing import Any
 
-from .base import Collector, Http, Output, register, wp_collection
+from .base import Collector, Http, Output, register, wants, wp_collection
 
 HOST = "learningspaces.ubc.ca"
 BASE = f"https://{HOST}"
@@ -66,7 +66,8 @@ def _configs(http: Http) -> list[dict[str, Any]]:
             if isinstance(config, dict):
                 found.setdefault(json.dumps(config, sort_keys=True), config)
 
-    return list(found.values()) or list(DEFAULT_CONFIGS)
+    configs = list(found.values()) or list(DEFAULT_CONFIGS)
+    return [c for c in configs if wants(str(c.get("campus", "")).lower() or None)]
 
 
 def _params(config: dict[str, Any]) -> dict[str, Any]:

@@ -18,7 +18,7 @@ import sys
 import time
 import traceback
 
-from collectors import DATA_DIR, REGISTRY, Http, Output, utcnow
+from collectors import CAMPUS_CHOICES, DATA_DIR, REGISTRY, Http, Output, set_campus, utcnow
 
 MANIFEST = DATA_DIR / "manifest.json"
 
@@ -54,6 +54,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--list", action="store_true", help="list groups and exit")
     parser.add_argument("--skip", action="append", default=[], metavar="GROUP",
                         help="skip a group (repeatable)")
+    parser.add_argument("--campus", choices=CAMPUS_CHOICES, default="vancouver",
+                        help="which campus to collect (default: vancouver)")
     parser.add_argument("--workers", type=int, default=8,
                         help="parallel requests per collector (default: 8)")
     parser.add_argument("--timeout", type=int, default=60, help="per-request timeout in seconds")
@@ -81,11 +83,13 @@ def main(argv: list[str]) -> int:
     selected = args.groups or list(REGISTRY)
     selected = [name for name in selected if name not in args.skip]
 
-    http = Http(timeout=args.timeout, min_interval=args.min_interval)
+    set_campus(args.campus)
+
+    http = Http(timeout=args.timeout, min_interval=args.min_interval, workers=args.workers)
     manifest = load_manifest()
     groups = manifest.get("groups", {})
 
-    print(f"Updating {len(selected)} group(s) into {DATA_DIR}\n")
+    print(f"Updating {len(selected)} group(s) into {DATA_DIR}  [campus: {args.campus}]\n")
     failures = 0
 
     for position, name in enumerate(selected, start=1):
@@ -114,8 +118,16 @@ def main(argv: list[str]) -> int:
         elapsed = time.monotonic() - started
         records = sum(d.records or 0 for d in out.datasets)
         size = sum(d.bytes for d in out.datasets)
+        # Safe only because we got here without an exception: a partial run must
+        # never delete the previous good data.
+        removed = out.prune()
         print(f"    {len(out.datasets)} file(s), {records:,} records, "
-              f"{human_bytes(size)} in {elapsed:.1f}s\n", flush=True)
+              f"{human_bytes(size)} in {elapsed:.1f}s", flush=True)
+        if removed:
+            print(f"    removed {len(removed)} stale file(s): "
+                  f"{', '.join(r.split('/')[-1] for r in removed[:6])}"
+                  f"{' ...' if len(removed) > 6 else ''}", flush=True)
+        print(flush=True)
 
         groups[name] = {
             "title": collector.title,
@@ -127,6 +139,7 @@ def main(argv: list[str]) -> int:
             "duration_seconds": round(elapsed, 1),
             "records": records,
             "bytes": size,
+            "removed_stale": removed,
             "datasets": [vars(dataset) for dataset in out.datasets],
         }
 
@@ -134,6 +147,7 @@ def main(argv: list[str]) -> int:
         "name": "UBC open data",
         "description": "Public institutional data about UBC, gathered from official sources.",
         "generated_at": utcnow(),
+        "campus": args.campus,
         "groups": groups,
     }
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)

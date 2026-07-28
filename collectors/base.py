@@ -37,6 +37,41 @@ def utcnow() -> str:
 
 
 # --------------------------------------------------------------------------
+# Campus selection
+# --------------------------------------------------------------------------
+
+CAMPUS_CHOICES = ("vancouver", "okanagan", "both")
+
+# Which campus the dataset covers. `update.py` sets this from --campus.
+# Collectors translate their own campus representation (a `ubco/` directory, a
+# `_O` course-code suffix, a "(UBC-O)" term label) into one of these names and
+# ask `wants()`, so the rule lives in exactly one place.
+_selected = "vancouver"
+
+
+def set_campus(value: str) -> None:
+    if value not in CAMPUS_CHOICES:
+        raise ValueError(f"campus must be one of {CAMPUS_CHOICES}, got {value!r}")
+    global _selected
+    _selected = value
+
+
+def selected_campus() -> str:
+    return _selected
+
+
+def wants(campus: str | None) -> bool:
+    """True if data belonging to `campus` should be collected.
+
+    `None` means the record carries no campus marker, which is always kept --
+    dropping unlabelled rows would silently lose data on a naming change.
+    """
+    if campus is None or _selected == "both":
+        return True
+    return campus == _selected
+
+
+# --------------------------------------------------------------------------
 # HTTP
 # --------------------------------------------------------------------------
 
@@ -44,10 +79,18 @@ def utcnow() -> str:
 class Http:
     """Thread-safe HTTP client with retry/backoff and optional global throttling."""
 
-    def __init__(self, *, timeout: int = 60, retries: int = 4, min_interval: float = 0.0):
+    def __init__(
+        self,
+        *,
+        timeout: int = 60,
+        retries: int = 4,
+        min_interval: float = 0.0,
+        workers: int = 8,
+    ):
         self.timeout = timeout
         self.retries = retries
         self.min_interval = min_interval
+        self.workers = max(1, workers)
         self._local = threading.local()
         self._lock = threading.Lock()
         self._next_slot = 0.0
@@ -98,12 +141,15 @@ class Http:
     def post_json(self, url: str, data: dict[str, Any], **kwargs: Any) -> Any:
         return self.request("POST", url, data=data, **kwargs).json()
 
-    def map(self, fn: Callable[[Any], Any], items: Iterable[Any], workers: int = 8) -> list[Any]:
+    def map(
+        self, fn: Callable[[Any], Any], items: Iterable[Any], workers: int | None = None
+    ) -> list[Any]:
         """Run `fn` over `items` in a thread pool, preserving input order."""
         items = list(items)
         if not items:
             return []
-        with ThreadPoolExecutor(max_workers=max(1, min(workers, len(items)))) as pool:
+        limit = max(1, min(workers or self.workers, len(items)))
+        with ThreadPoolExecutor(max_workers=limit) as pool:
             return list(pool.map(fn, items))
 
 
@@ -196,6 +242,30 @@ class Output:
         self._track(path, None, source)
         return path
 
+    def prune(self) -> list[str]:
+        """Delete files in this folder that the current run did not write.
+
+        Without this, a renamed or retired dataset lingers on disk forever and
+        reads as current -- the manifest says `year_levels.json` while a stale
+        `years.json` sits next to it. Only ever called after a collector
+        succeeds, so a failed run never deletes the previous good data.
+        """
+        if not self.base.exists():
+            return []
+
+        written = {(self.root / dataset.path).resolve() for dataset in self.datasets}
+        removed: list[str] = []
+
+        for path in sorted(self.base.rglob("*"), key=lambda p: len(p.parts), reverse=True):
+            if path.is_file():
+                if path.resolve() not in written:
+                    removed.append(path.relative_to(self.root).as_posix())
+                    path.unlink()
+            elif path.is_dir() and not any(path.iterdir()):
+                path.rmdir()
+
+        return removed
+
 
 # --------------------------------------------------------------------------
 # Collector registry
@@ -282,7 +352,7 @@ def jsonapi_collection(
     resource: str,
     *,
     params: dict[str, Any] | None = None,
-    workers: int = 8,
+    workers: int | None = None,
     page_size: int = 50,
 ) -> list[dict[str, Any]]:
     """Fetch every record of a Drupal JSON:API collection.
@@ -331,7 +401,7 @@ def wp_collection(
     *,
     params: dict[str, Any] | None = None,
     per_page: int = 100,
-    workers: int = 6,
+    workers: int | None = None,
 ) -> list[Any]:
     """Fetch every page of a WP REST collection using X-WP-TotalPages."""
     url = f"https://{host}/wp-json/{path}"

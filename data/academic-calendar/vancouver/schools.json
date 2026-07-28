@@ -1,0 +1,211 @@
+[
+  {
+    "id": "7dc298c7-e3dc-408a-b877-c053c070a006",
+    "type": "taxonomy_term--school",
+    "tid": 87,
+    "revision_id": 87,
+    "revision_created": "2023-02-10T22:04:37+00:00",
+    "status": true,
+    "name": "School of Nursing",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-02-10T22:04:37+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "94b8444e-450f-4999-9bc1-0822d08438b2",
+    "type": "taxonomy_term--school",
+    "tid": 133,
+    "revision_id": 133,
+    "revision_created": "2023-03-14T17:39:28+00:00",
+    "status": true,
+    "name": "School of Architecture and Landscape Architecture",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:39:28+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "ee4c5e6f-7d40-4025-8c76-c4cb308d2cea",
+    "type": "taxonomy_term--school",
+    "tid": 135,
+    "revision_id": 135,
+    "revision_created": "2023-03-14T17:39:46+00:00",
+    "status": true,
+    "name": "School of Journalism, Writing, and Media",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:39:46+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "f404a542-88b1-4a90-aab2-0267790fddd5",
+    "type": "taxonomy_term--school",
+    "tid": 136,
+    "revision_id": 136,
+    "revision_created": "2023-03-14T17:40:01+00:00",
+    "status": true,
+    "name": "School of Music",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:40:01+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "654015d2-c78b-4f91-9b2b-b4b6dec3b92f",
+    "type": "taxonomy_term--school",
+    "tid": 137,
+    "revision_id": 137,
+    "revision_created": "2023-03-14T17:40:09+00:00",
+    "status": true,
+    "name": "School of Information",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:40:09+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "0303f2ef-9df7-4980-b450-05cf8cb56dde",
+    "type": "taxonomy_term--school",
+    "tid": 138,
+    "revision_id": 138,
+    "revision_created": "2023-03-14T17:40:20+00:00",
+    "status": true,
+    "name": "School of Social Work",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:40:20+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "cabbbbc4-fe8d-42af-a9be-3cc0bc829098",
+    "type": "taxonomy_term--school",
+    "tid": 139,
+    "revision_id": 139,
+    "revision_created": "2023-03-14T17:40:33+00:00",
+    "status": true,
+    "name": "School of Audiology and Speech Sciences",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:40:33+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "3f26e56e-2888-49c8-87c1-e08e0a33846a",
+    "type": "taxonomy_term--school",
+    "tid": 140,
+    "revision_id": 140,
+    "revision_created": "2023-03-14T17:44:01+00:00",
+    "status": true,
+    "name": "School of Biomedical Engineering",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:44:01+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "3dccaa88-d6d9-4edd-80bd-d4556e962cec",
+    "type": "taxonomy_term--school",
+    "tid": 141,
+    "revision_id": 141,
+    "revision_created": "2023-03-14T17:44:23+00:00",
+    "status": true,
+    "name": "School of Kinesiology",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:44:23+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "edc4390a-66f6-4121-af98-0a44d568e133",
+    "type": "taxonomy_term--school",
+    "tid": 142,
+    "revision_id": 142,
+    "revision_created": "2023-03-14T17:44:45+00:00",
+    "status": true,
+    "name": "Vancouver School of Economics",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:44:45+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "717497c9-d992-4f6c-930b-454c3681a111",
+    "type": "taxonomy_term--school",
+    "tid": 143,
+    "revision_id": 143,
+    "revision_created": "2023-03-14T17:45:16+00:00",
+    "status": true,
+    "name": "School of Community and Regional Planning",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:45:16+00:00",
+    "related": {
+      "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  }
+]

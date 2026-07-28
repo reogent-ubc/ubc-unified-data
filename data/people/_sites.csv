@@ -1,0 +1,44 @@
+site,profiles,skipped
+science.ubc.ca,74,
+apsc.ubc.ca,686,
+arts.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.arts.ubc.ca/jsonapi
+grad.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://www.grad.ubc.ca/jsonapi
+forestry.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://forestry.ubc.ca/jsonapi
+landfood.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.landfood.ubc.ca/jsonapi
+sauder.ubc.ca,0,HTTPError: 403 Client Error: Forbidden for url: https://www.sauder.ubc.ca/jsonapi
+educ.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://educ.ubc.ca/jsonapi
+law.ubc.ca,278,
+nursing.ubc.ca,417,
+pharmsci.ubc.ca,257,
+dentistry.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.dentistry.ubc.ca/jsonapi
+med.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.med.ubc.ca/jsonapi
+spph.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://spph.ubc.ca/jsonapi
+sppga.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://sppga.ubc.ca/jsonapi
+music.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://music.ubc.ca/jsonapi
+sala.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://sala.ubc.ca/jsonapi
+ires.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://ires.ubc.ca/jsonapi
+chbe.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://chbe.ubc.ca/jsonapi
+civil.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://civil.ubc.ca/jsonapi
+ece.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://ece.ubc.ca/jsonapi
+mech.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://mech.ubc.ca/jsonapi
+cs.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://www.cs.ubc.ca/jsonapi
+math.ubc.ca,0,"ConnectTimeout: HTTPSConnectionPool(host='math.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ConnectTimeoutError(<HTTPSConnection(host='math.ubc.ca', port=443) at 0x223b77ce710>, 'Connection to math.ubc.ca timed out. (connect timeout=60)'))"
+stat.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://stat.ubc.ca/jsonapi
+phas.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://phas.ubc.ca/jsonapi
+chem.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://chem.ubc.ca/jsonapi
+zoology.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://zoology.ubc.ca/jsonapi
+botany.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://botany.ubc.ca/jsonapi
+eoas.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://www.eoas.ubc.ca/jsonapi
+economics.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://economics.ubc.ca/jsonapi
+psych.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://psych.ubc.ca/jsonapi
+geog.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://geog.ubc.ca/jsonapi
+history.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://history.ubc.ca/jsonapi
+english.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://english.ubc.ca/jsonapi
+philosophy.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://philosophy.ubc.ca/jsonapi
+linguistics.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://linguistics.ubc.ca/jsonapi
+anth.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://anth.ubc.ca/jsonapi
+soci.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://sociology.ubc.ca/jsonapi
+politics.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://politics.ubc.ca/jsonapi
+library.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://library.ubc.ca/jsonapi
+parking.ubc.ca,0,
+courses.students.ubc.ca,0,

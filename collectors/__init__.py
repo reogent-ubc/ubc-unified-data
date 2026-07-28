@@ -5,7 +5,19 @@ drives them from there. To add a source, drop a module in this directory with a
 `@register`ed `Collector` subclass and add it to the imports below.
 """
 
-from .base import DATA_DIR, REGISTRY, Collector, Http, Output, register, utcnow
+from .base import (
+    CAMPUS_CHOICES,
+    DATA_DIR,
+    REGISTRY,
+    Collector,
+    Http,
+    Output,
+    register,
+    selected_campus,
+    set_campus,
+    utcnow,
+    wants,
+)
 
 # Imported for their registration side effects; order sets the default run order.
 from . import geospatial  # noqa: F401
@@ -18,4 +30,16 @@ from . import people  # noqa: F401
 from . import services  # noqa: F401
 from . import reports  # noqa: F401
 
-__all__ = ["DATA_DIR", "REGISTRY", "Collector", "Http", "Output", "register", "utcnow"]
+__all__ = [
+    "CAMPUS_CHOICES",
+    "DATA_DIR",
+    "REGISTRY",
+    "Collector",
+    "Http",
+    "Output",
+    "register",
+    "selected_campus",
+    "set_campus",
+    "utcnow",
+    "wants",
+]

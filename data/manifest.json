@@ -1,7 +1,8 @@
 {
   "name": "UBC open data",
   "description": "Public institutional data about UBC, gathered from official sources.",
-  "generated_at": "2026-07-27T22:08:35Z",
+  "generated_at": "2026-07-28T01:07:22Z",
+  "campus": "vancouver",
   "groups": {
     "geospatial": {
       "title": "Campus geospatial open data",
@@ -11,10 +12,22 @@
       ],
       "folder": "geospatial",
       "status": "ok",
-      "updated_at": "2026-07-27T21:56:58Z",
-      "duration_seconds": 4.5,
-      "records": 116,
-      "bytes": 31865880,
+      "updated_at": "2026-07-28T01:03:23Z",
+      "duration_seconds": 4.0,
+      "records": 96,
+      "bytes": 31548337,
+      "removed_stale": [
+        "geospatial/ubco/locations/csv/ubco_address_full.csv",
+        "geospatial/ubco/locations/csv/ubco_address_mail.csv",
+        "geospatial/ubco/locations/csv/ubco_buildings_full.csv",
+        "geospatial/ubco/locations/csv/ubco_building_simple.csv",
+        "geospatial/ubco/locations/geojson/ubco_address_full.geojson",
+        "geospatial/ubco/locations/geojson/ubco_buildings_full.geojson",
+        "geospatial/ubco/locations/geojson/ubco_building_simple.geojson",
+        "geospatial/ubco/locations/metadata/ubco_address_fields.csv",
+        "geospatial/ubco/locations/metadata/ubco_buildings_fields.csv",
+        "geospatial/ubco/locations/metadata/ubco_buildings_simple_fields.csv"
+      ],
       "datasets": [
         {
           "path": "geospatial/off-campus/locations/csv/ubc_regional_locations.csv",
@@ -33,66 +46,6 @@
           "records": null,
           "bytes": 514,
           "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/metadata/ubc_regional_locations.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/csv/ubco_address_full.csv",
-          "records": null,
-          "bytes": 16189,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_address_full.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/csv/ubco_address_mail.csv",
-          "records": null,
-          "bytes": 3364,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_address_mail.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/csv/ubco_building_simple.csv",
-          "records": null,
-          "bytes": 6144,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_building_simple.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/csv/ubco_buildings_full.csv",
-          "records": null,
-          "bytes": 9527,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/csv/ubco_buildings_full.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/geojson/ubco_address_full.geojson",
-          "records": null,
-          "bytes": 71830,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/geojson/ubco_address_full.geojson"
-        },
-        {
-          "path": "geospatial/ubco/locations/geojson/ubco_building_simple.geojson",
-          "records": null,
-          "bytes": 114523,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/geojson/ubco_building_simple.geojson"
-        },
-        {
-          "path": "geospatial/ubco/locations/geojson/ubco_buildings_full.geojson",
-          "records": null,
-          "bytes": 83895,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/geojson/ubco_buildings_full.geojson"
-        },
-        {
-          "path": "geospatial/ubco/locations/metadata/ubco_address_fields.csv",
-          "records": null,
-          "bytes": 4336,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/metadata/ubco_address_fields.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/metadata/ubco_buildings_fields.csv",
-          "records": null,
-          "bytes": 3697,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/metadata/ubco_buildings_fields.csv"
-        },
-        {
-          "path": "geospatial/ubco/locations/metadata/ubco_buildings_simple_fields.csv",
-          "records": null,
-          "bytes": 1308,
-          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubco/locations/metadata/ubco_buildings_simple_fields.csv"
         },
         {
           "path": "geospatial/ubcv/context/geojson/ubcv_beach.geojson",
@@ -366,14 +319,14 @@
         },
         {
           "path": "geospatial/_index.json",
-          "records": 58,
-          "bytes": 10390,
+          "records": 48,
+          "bytes": 8555,
           "source": null
         },
         {
           "path": "geospatial/_index.csv",
-          "records": 58,
-          "bytes": 4966,
+          "records": 48,
+          "bytes": 4071,
           "source": null
         },
         {
@@ -393,10 +346,11 @@
       ],
       "folder": "learning-spaces",
       "status": "ok",
-      "updated_at": "2026-07-27T22:08:35Z",
-      "duration_seconds": 45.3,
+      "updated_at": "2026-07-28T01:07:09Z",
+      "duration_seconds": 49.3,
       "records": 900,
       "bytes": 5447815,
+      "removed_stale": [],
       "datasets": [
         {
           "path": "learning-spaces/rooms.json",
@@ -527,10 +481,11 @@
       ],
       "folder": "admissions",
       "status": "ok",
-      "updated_at": "2026-07-27T22:04:38Z",
-      "duration_seconds": 13.0,
-      "records": 1006,
-      "bytes": 8319322,
+      "updated_at": "2026-07-28T01:07:22Z",
+      "duration_seconds": 13.4,
+      "records": 894,
+      "bytes": 7683758,
+      "removed_stale": [],
       "datasets": [
         {
           "path": "admissions/costEstimatorData.json",
@@ -570,14 +525,14 @@
         },
         {
           "path": "admissions/campuses.json",
-          "records": 2,
-          "bytes": 537,
+          "records": 1,
+          "bytes": 270,
           "source": "https://you.ubc.ca/programs/"
         },
         {
           "path": "admissions/campuses.csv",
-          "records": 2,
-          "bytes": 197,
+          "records": 1,
+          "bytes": 148,
           "source": "https://you.ubc.ca/programs/"
         },
         {
@@ -594,14 +549,14 @@
         },
         {
           "path": "admissions/programs.json",
-          "records": 196,
-          "bytes": 1215086,
+          "records": 141,
+          "bytes": 873545,
           "source": "https://you.ubc.ca/programs/"
         },
         {
           "path": "admissions/programs.csv",
-          "records": 196,
-          "bytes": 1044265,
+          "records": 141,
+          "bytes": 750558,
           "source": "https://you.ubc.ca/programs/"
         },
         {
@@ -675,6 +630,567 @@
           "records": 3,
           "bytes": 14705,
           "source": "https://you.ubc.ca/wp-json/wp/v2/content-types"
+        }
+      ]
+    },
+    "courses": {
+      "title": "Course Schedule (courses, sections, instructors, meeting times)",
+      "description": "Every course and scheduled section published on UBC's Course Schedule, including meeting days and times, start/end dates, instructors, credits, delivery mode, instructional method and section status, plus the subject, campus, term, year and department code lists they reference.",
+      "sources": [
+        "https://courses.students.ubc.ca/jsonapi"
+      ],
+      "folder": "courses",
+      "status": "ok",
+      "updated_at": "2026-07-28T00:14:43Z",
+      "duration_seconds": 3413.5,
+      "records": 183820,
+      "bytes": 238727285,
+      "datasets": [
+        {
+          "path": "courses/courses.json",
+          "records": 47229,
+          "bytes": 64584457,
+          "source": "https://courses.students.ubc.ca/jsonapi/node/course"
+        },
+        {
+          "path": "courses/courses.csv",
+          "records": 47229,
+          "bytes": 52365771,
+          "source": "https://courses.students.ubc.ca/jsonapi/node/course"
+        },
+        {
+          "path": "courses/sections.json",
+          "records": 44016,
+          "bytes": 68256955,
+          "source": "https://courses.students.ubc.ca/jsonapi/node/section"
+        },
+        {
+          "path": "courses/sections.csv",
+          "records": 44016,
+          "bytes": 52727908,
+          "source": "https://courses.students.ubc.ca/jsonapi/node/section"
+        },
+        {
+          "path": "courses/standard_timetables.json",
+          "records": 152,
+          "bytes": 195453,
+          "source": "https://courses.students.ubc.ca/jsonapi/node/standard_timetable"
+        },
+        {
+          "path": "courses/standard_timetables.csv",
+          "records": 152,
+          "bytes": 148212,
+          "source": "https://courses.students.ubc.ca/jsonapi/node/standard_timetable"
+        },
+        {
+          "path": "courses/subjects.json",
+          "records": 467,
+          "bytes": 269948,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/subject"
+        },
+        {
+          "path": "courses/subjects.csv",
+          "records": 467,
+          "bytes": 143057,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/subject"
+        },
+        {
+          "path": "courses/campuses.json",
+          "records": 2,
+          "bytes": 982,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/campus"
+        },
+        {
+          "path": "courses/campuses.csv",
+          "records": 2,
+          "bytes": 550,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/campus"
+        },
+        {
+          "path": "courses/terms.json",
+          "records": 10,
+          "bytes": 6974,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/term"
+        },
+        {
+          "path": "courses/terms.csv",
+          "records": 10,
+          "bytes": 3240,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/term"
+        },
+        {
+          "path": "courses/year_levels.json",
+          "records": 4,
+          "bytes": 1803,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/year"
+        },
+        {
+          "path": "courses/year_levels.csv",
+          "records": 4,
+          "bytes": 933,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/year"
+        },
+        {
+          "path": "courses/delivery_modes.json",
+          "records": 4,
+          "bytes": 1852,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/delivery_mode"
+        },
+        {
+          "path": "courses/delivery_modes.csv",
+          "records": 4,
+          "bytes": 982,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/delivery_mode"
+        },
+        {
+          "path": "courses/instructional_methods.json",
+          "records": 12,
+          "bytes": 5647,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/instructional_method"
+        },
+        {
+          "path": "courses/instructional_methods.csv",
+          "records": 12,
+          "bytes": 2865,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/instructional_method"
+        },
+        {
+          "path": "courses/departments.json",
+          "records": 0,
+          "bytes": 2,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/department_or_unit"
+        },
+        {
+          "path": "courses/program_areas.json",
+          "records": 8,
+          "bytes": 3691,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/program_area"
+        },
+        {
+          "path": "courses/program_areas.csv",
+          "records": 8,
+          "bytes": 1865,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/program_area"
+        },
+        {
+          "path": "courses/statuses.json",
+          "records": 6,
+          "bytes": 2743,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/status"
+        },
+        {
+          "path": "courses/statuses.csv",
+          "records": 6,
+          "bytes": 1395,
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/status"
+        }
+      ]
+    },
+    "calendar": {
+      "title": "Academic Calendar (course catalogue, faculties, departments)",
+      "description": "Official course catalogue entries with descriptions and credit values, plus prerequisites, corequisites, equivalencies, credit exclusions and hours vectors parsed out of the description prose, and the faculty, school, department and subject hierarchy for both campuses.",
+      "sources": [
+        "https://vancouver.calendar.ubc.ca/jsonapi",
+        "https://okanagan.calendar.ubc.ca/jsonapi"
+      ],
+      "folder": "academic-calendar",
+      "status": "ok",
+      "updated_at": "2026-07-28T01:06:20Z",
+      "duration_seconds": 177.0,
+      "records": 20514,
+      "bytes": 21927306,
+      "removed_stale": [
+        "academic-calendar/okanagan/academic_years.csv",
+        "academic-calendar/okanagan/academic_years.json",
+        "academic-calendar/okanagan/academic_year_terms.csv",
+        "academic-calendar/okanagan/academic_year_terms.json",
+        "academic-calendar/okanagan/courses.csv",
+        "academic-calendar/okanagan/courses.json",
+        "academic-calendar/okanagan/departments.csv",
+        "academic-calendar/okanagan/departments.json",
+        "academic-calendar/okanagan/departments_or_units.csv",
+        "academic-calendar/okanagan/departments_or_units.json",
+        "academic-calendar/okanagan/faculties.csv",
+        "academic-calendar/okanagan/faculties.json",
+        "academic-calendar/okanagan/subjects.csv",
+        "academic-calendar/okanagan/subjects.json"
+      ],
+      "datasets": [
+        {
+          "path": "academic-calendar/vancouver/courses.json",
+          "records": 9491,
+          "bytes": 13135550,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/course"
+        },
+        {
+          "path": "academic-calendar/vancouver/courses.csv",
+          "records": 9491,
+          "bytes": 7624024,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/course"
+        },
+        {
+          "path": "academic-calendar/vancouver/academic_years.json",
+          "records": 364,
+          "bytes": 419979,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/academic_year"
+        },
+        {
+          "path": "academic-calendar/vancouver/academic_years.csv",
+          "records": 364,
+          "bytes": 317572,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/academic_year"
+        },
+        {
+          "path": "academic-calendar/vancouver/faculties.json",
+          "records": 13,
+          "bytes": 6583,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/faculty"
+        },
+        {
+          "path": "academic-calendar/vancouver/faculties.csv",
+          "records": 13,
+          "bytes": 3335,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/faculty"
+        },
+        {
+          "path": "academic-calendar/vancouver/schools.json",
+          "records": 11,
+          "bytes": 5573,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/school"
+        },
+        {
+          "path": "academic-calendar/vancouver/schools.csv",
+          "records": 11,
+          "bytes": 2841,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/school"
+        },
+        {
+          "path": "academic-calendar/vancouver/departments.json",
+          "records": 83,
+          "bytes": 41695,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/department"
+        },
+        {
+          "path": "academic-calendar/vancouver/departments.csv",
+          "records": 83,
+          "bytes": 20473,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/department"
+        },
+        {
+          "path": "academic-calendar/vancouver/departments_or_units.json",
+          "records": 3,
+          "bytes": 1490,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/department_or_unit"
+        },
+        {
+          "path": "academic-calendar/vancouver/departments_or_units.csv",
+          "records": 3,
+          "bytes": 812,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/department_or_unit"
+        },
+        {
+          "path": "academic-calendar/vancouver/subjects.json",
+          "records": 264,
+          "bytes": 207343,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/subject"
+        },
+        {
+          "path": "academic-calendar/vancouver/subjects.csv",
+          "records": 264,
+          "bytes": 119613,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/subject"
+        },
+        {
+          "path": "academic-calendar/vancouver/academic_year_terms.json",
+          "records": 28,
+          "bytes": 13763,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/academic_year"
+        },
+        {
+          "path": "academic-calendar/vancouver/academic_year_terms.csv",
+          "records": 28,
+          "bytes": 6660,
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/academic_year"
+        }
+      ]
+    },
+    "people": {
+      "title": "Faculty and staff profiles by unit",
+      "description": "Public faculty and staff profiles published by UBC faculties, schools, departments and units on the shared Drupal platform, tagged with the site they came from. Public directory information only -- no student data.",
+      "sources": [
+        "https://science.ubc.ca/jsonapi/node/ubc_profile",
+        "https://apsc.ubc.ca/jsonapi/node/ubc_profile",
+        "https://arts.ubc.ca/jsonapi/node/ubc_profile",
+        "..."
+      ],
+      "folder": "people",
+      "status": "ok",
+      "updated_at": "2026-07-28T00:20:35Z",
+      "duration_seconds": 126.3,
+      "records": 3510,
+      "bytes": 18322858,
+      "datasets": [
+        {
+          "path": "people/profiles.json",
+          "records": 1712,
+          "bytes": 9912976,
+          "source": null
+        },
+        {
+          "path": "people/profiles.csv",
+          "records": 1712,
+          "bytes": 8399674,
+          "source": null
+        },
+        {
+          "path": "people/_sites.json",
+          "records": 43,
+          "bytes": 6433,
+          "source": null
+        },
+        {
+          "path": "people/_sites.csv",
+          "records": 43,
+          "bytes": 3775,
+          "source": null
+        }
+      ]
+    },
+    "services": {
+      "title": "Campus services (food, parking, facilities, student services, news)",
+      "description": "Food outlets and their hours, parking locations, permits and parking maps, facilities and learning-space resource libraries, recreation and student services pages, and UBC news posts.",
+      "sources": [
+        "https://food.ubc.ca",
+        "https://parking.ubc.ca",
+        "https://facilities.ubc.ca"
+      ],
+      "folder": "campus-services",
+      "status": "ok",
+      "updated_at": "2026-07-28T00:21:43Z",
+      "duration_seconds": 68.7,
+      "records": 5770,
+      "bytes": 80409018,
+      "datasets": [
+        {
+          "path": "campus-services/food_outlets.json",
+          "records": 39,
+          "bytes": 1378285,
+          "source": "https://food.ubc.ca/wp-json/wp/v2/places"
+        },
+        {
+          "path": "campus-services/food_outlets.csv",
+          "records": 39,
+          "bytes": 1369788,
+          "source": "https://food.ubc.ca/wp-json/wp/v2/places"
+        },
+        {
+          "path": "campus-services/food_events.json",
+          "records": 3,
+          "bytes": 8267,
+          "source": "https://food.ubc.ca/wp-json/wp/v2/event"
+        },
+        {
+          "path": "campus-services/food_events.csv",
+          "records": 3,
+          "bytes": 5259,
+          "source": "https://food.ubc.ca/wp-json/wp/v2/event"
+        },
+        {
+          "path": "campus-services/parking_locations.json",
+          "records": 19,
+          "bytes": 40266,
+          "source": "https://parking.ubc.ca/jsonapi/node/parking_location"
+        },
+        {
+          "path": "campus-services/parking_locations.csv",
+          "records": 19,
+          "bytes": 22130,
+          "source": "https://parking.ubc.ca/jsonapi/node/parking_location"
+        },
+        {
+          "path": "campus-services/parking_permits.json",
+          "records": 1,
+          "bytes": 477,
+          "source": "https://parking.ubc.ca/jsonapi/node/permits"
+        },
+        {
+          "path": "campus-services/parking_permits.csv",
+          "records": 1,
+          "bytes": 357,
+          "source": "https://parking.ubc.ca/jsonapi/node/permits"
+        },
+        {
+          "path": "campus-services/parking_maps.json",
+          "records": 1,
+          "bytes": 475,
+          "source": "https://parking.ubc.ca/jsonapi/node/map_page"
+        },
+        {
+          "path": "campus-services/parking_maps.csv",
+          "records": 1,
+          "bytes": 355,
+          "source": "https://parking.ubc.ca/jsonapi/node/map_page"
+        },
+        {
+          "path": "campus-services/facilities_resources.json",
+          "records": 511,
+          "bytes": 6689957,
+          "source": "https://facilities.ubc.ca/wp-json/wp/v2/resources"
+        },
+        {
+          "path": "campus-services/facilities_resources.csv",
+          "records": 511,
+          "bytes": 5708946,
+          "source": "https://facilities.ubc.ca/wp-json/wp/v2/resources"
+        },
+        {
+          "path": "campus-services/recreation_pages.json",
+          "records": 386,
+          "bytes": 7827292,
+          "source": "https://recreation.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "campus-services/recreation_pages.csv",
+          "records": 386,
+          "bytes": 7454011,
+          "source": "https://recreation.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "campus-services/student_services_pages.json",
+          "records": 464,
+          "bytes": 8338684,
+          "source": "https://students.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "campus-services/student_services_pages.csv",
+          "records": 464,
+          "bytes": 7888799,
+          "source": "https://students.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "campus-services/news.json",
+          "records": 1456,
+          "bytes": 18021749,
+          "source": "https://news.ubc.ca/wp-json/wp/v2/posts"
+        },
+        {
+          "path": "campus-services/news.csv",
+          "records": 1456,
+          "bytes": 15652407,
+          "source": "https://news.ubc.ca/wp-json/wp/v2/posts"
+        },
+        {
+          "path": "campus-services/_sources.json",
+          "records": 10,
+          "bytes": 1514,
+          "source": null
+        }
+      ]
+    },
+    "reports": {
+      "title": "Institutional reports (finance, budget, enrolment, Facts & Figures)",
+      "description": "An index of UBC's published institutional documents -- annual financial reports, budgets, tuition and fee schedules, annual enrolment reports and Facts & Figures sheets -- with a direct download URL, file type and the source page for each, plus the underlying page content.",
+      "sources": [
+        "https://finance.ubc.ca",
+        "https://pair.ubc.ca",
+        "https://facilities.ubc.ca"
+      ],
+      "folder": "reports",
+      "status": "ok",
+      "updated_at": "2026-07-28T00:24:49Z",
+      "duration_seconds": 19.4,
+      "records": 1274,
+      "bytes": 13030743,
+      "datasets": [
+        {
+          "path": "reports/finance/pages.json",
+          "records": 34,
+          "bytes": 603177,
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "reports/finance/pages.csv",
+          "records": 34,
+          "bytes": 531143,
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "reports/finance/posts.json",
+          "records": 110,
+          "bytes": 1884422,
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/posts"
+        },
+        {
+          "path": "reports/finance/posts.csv",
+          "records": 110,
+          "bytes": 1578844,
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/posts"
+        },
+        {
+          "path": "reports/finance/resources.json",
+          "records": 3,
+          "bytes": 31810,
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/resources"
+        },
+        {
+          "path": "reports/finance/resources.csv",
+          "records": 3,
+          "bytes": 25999,
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/resources"
+        },
+        {
+          "path": "reports/pair/pages.json",
+          "records": 54,
+          "bytes": 136610,
+          "source": "https://pair.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "reports/pair/pages.csv",
+          "records": 54,
+          "bytes": 79954,
+          "source": "https://pair.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "reports/pair/posts.json",
+          "records": 5,
+          "bytes": 22635,
+          "source": "https://pair.ubc.ca/wp-json/wp/v2/posts"
+        },
+        {
+          "path": "reports/pair/posts.csv",
+          "records": 5,
+          "bytes": 17032,
+          "source": "https://pair.ubc.ca/wp-json/wp/v2/posts"
+        },
+        {
+          "path": "reports/facilities/pages.json",
+          "records": 234,
+          "bytes": 4268990,
+          "source": "https://facilities.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "reports/facilities/pages.csv",
+          "records": 234,
+          "bytes": 3714461,
+          "source": "https://facilities.ubc.ca/wp-json/wp/v2/pages"
+        },
+        {
+          "path": "reports/documents.json",
+          "records": 194,
+          "bytes": 84122,
+          "source": null
+        },
+        {
+          "path": "reports/documents.csv",
+          "records": 194,
+          "bytes": 50250,
+          "source": null
+        },
+        {
+          "path": "reports/_sources.json",
+          "records": 6,
+          "bytes": 1294,
+          "source": null
         }
       ]
     }

@@ -1,0 +1,217 @@
+[
+  {
+    "site": "science.ubc.ca",
+    "profiles": 74,
+    "skipped": null
+  },
+  {
+    "site": "apsc.ubc.ca",
+    "profiles": 686,
+    "skipped": null
+  },
+  {
+    "site": "arts.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://www.arts.ubc.ca/jsonapi"
+  },
+  {
+    "site": "grad.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://www.grad.ubc.ca/jsonapi"
+  },
+  {
+    "site": "forestry.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://forestry.ubc.ca/jsonapi"
+  },
+  {
+    "site": "landfood.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://www.landfood.ubc.ca/jsonapi"
+  },
+  {
+    "site": "sauder.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 403 Client Error: Forbidden for url: https://www.sauder.ubc.ca/jsonapi"
+  },
+  {
+    "site": "educ.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://educ.ubc.ca/jsonapi"
+  },
+  {
+    "site": "law.ubc.ca",
+    "profiles": 278,
+    "skipped": null
+  },
+  {
+    "site": "nursing.ubc.ca",
+    "profiles": 417,
+    "skipped": null
+  },
+  {
+    "site": "pharmsci.ubc.ca",
+    "profiles": 257,
+    "skipped": null
+  },
+  {
+    "site": "dentistry.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://www.dentistry.ubc.ca/jsonapi"
+  },
+  {
+    "site": "med.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://www.med.ubc.ca/jsonapi"
+  },
+  {
+    "site": "spph.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://spph.ubc.ca/jsonapi"
+  },
+  {
+    "site": "sppga.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://sppga.ubc.ca/jsonapi"
+  },
+  {
+    "site": "music.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://music.ubc.ca/jsonapi"
+  },
+  {
+    "site": "sala.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://sala.ubc.ca/jsonapi"
+  },
+  {
+    "site": "ires.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://ires.ubc.ca/jsonapi"
+  },
+  {
+    "site": "chbe.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://chbe.ubc.ca/jsonapi"
+  },
+  {
+    "site": "civil.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://civil.ubc.ca/jsonapi"
+  },
+  {
+    "site": "ece.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://ece.ubc.ca/jsonapi"
+  },
+  {
+    "site": "mech.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://mech.ubc.ca/jsonapi"
+  },
+  {
+    "site": "cs.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://www.cs.ubc.ca/jsonapi"
+  },
+  {
+    "site": "math.ubc.ca",
+    "profiles": 0,
+    "skipped": "ConnectTimeout: HTTPSConnectionPool(host='math.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ConnectTimeoutError(<HTTPSConnection(host='math.ubc.ca', port=443) at 0x223b77ce710>, 'Connection to math.ubc.ca timed out. (connect timeout=60)'))"
+  },
+  {
+    "site": "stat.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://stat.ubc.ca/jsonapi"
+  },
+  {
+    "site": "phas.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://phas.ubc.ca/jsonapi"
+  },
+  {
+    "site": "chem.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://chem.ubc.ca/jsonapi"
+  },
+  {
+    "site": "zoology.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://zoology.ubc.ca/jsonapi"
+  },
+  {
+    "site": "botany.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://botany.ubc.ca/jsonapi"
+  },
+  {
+    "site": "eoas.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://www.eoas.ubc.ca/jsonapi"
+  },
+  {
+    "site": "economics.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://economics.ubc.ca/jsonapi"
+  },
+  {
+    "site": "psych.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://psych.ubc.ca/jsonapi"
+  },
+  {
+    "site": "geog.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://geog.ubc.ca/jsonapi"
+  },
+  {
+    "site": "history.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://history.ubc.ca/jsonapi"
+  },
+  {
+    "site": "english.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://english.ubc.ca/jsonapi"
+  },
+  {
+    "site": "philosophy.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://philosophy.ubc.ca/jsonapi"
+  },
+  {
+    "site": "linguistics.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://linguistics.ubc.ca/jsonapi"
+  },
+  {
+    "site": "anth.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://anth.ubc.ca/jsonapi"
+  },
+  {
+    "site": "soci.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://sociology.ubc.ca/jsonapi"
+  },
+  {
+    "site": "politics.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not found for url: https://politics.ubc.ca/jsonapi"
+  },
+  {
+    "site": "library.ubc.ca",
+    "profiles": 0,
+    "skipped": "HTTPError: 404 Client Error: Not Found for url: https://library.ubc.ca/jsonapi"
+  },
+  {
+    "site": "parking.ubc.ca",
+    "profiles": 0,
+    "skipped": null
+  },
+  {
+    "site": "courses.students.ubc.ca",
+    "profiles": 0,
+    "skipped": null
+  }
+]

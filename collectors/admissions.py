@@ -12,7 +12,7 @@ import json
 import re
 from typing import Any
 
-from .base import Collector, Http, Output, register, wp_collection
+from .base import Collector, Http, Output, register, wants, wp_collection
 
 HOST = "you.ubc.ca"
 PROGRAMS_URL = f"https://{HOST}/programs/"
@@ -74,6 +74,34 @@ def _js_literal(html: str, name: str) -> Any:
     raise ValueError(f"unterminated literal for {name}")
 
 
+def _filter_by_campus(datasets: dict[str, list[dict[str, Any]]]) -> None:
+    """Drop programs not offered on the selected campus.
+
+    Programs reference campuses by term id (9 = Vancouver, 10 = Okanagan), so
+    the ids are resolved against the `campuses` list the page ships alongside.
+    A program offered on both campuses is kept.
+    """
+    campuses = datasets.get("campuses") or []
+    wanted_ids = {
+        str(term.get("term_id"))
+        for term in campuses
+        if wants(str(term.get("name", "")).strip().lower() or None)
+    }
+    if not wanted_ids:
+        return
+
+    datasets["campuses"] = [c for c in campuses if str(c.get("term_id")) in wanted_ids]
+
+    programs = datasets.get("programs") or []
+    kept = []
+    for program in programs:
+        ids = program.get("campuses")
+        ids = ids if isinstance(ids, list) else ([ids] if ids else [])
+        if not ids or any(str(i) in wanted_ids for i in ids):
+            kept.append(program)
+    datasets["programs"] = kept
+
+
 def _as_rows(value: Any) -> list[dict[str, Any]]:
     """Normalise either a list or an index-keyed object into a list of rows."""
     if isinstance(value, list):
@@ -97,7 +125,7 @@ class Admissions(Collector):
     def collect(self, http: Http, out: Output) -> None:
         html = http.get(PROGRAMS_URL).text
 
-        found: list[str] = []
+        datasets: dict[str, list[dict[str, Any]]] = {}
         for name in dict.fromkeys(VAR_RE.findall(html)):
             if IGNORE_VARS.search(name):
                 continue
@@ -105,13 +133,16 @@ class Admissions(Collector):
                 rows = _as_rows(_js_literal(html, name))
             except (KeyError, ValueError, json.JSONDecodeError):
                 continue
-            if not rows:
-                continue
-            out.table(name, rows, source=PROGRAMS_URL)
-            found.append(name)
+            if rows:
+                datasets[name] = rows
 
-        if "programs" not in found:
+        if "programs" not in datasets:
             raise RuntimeError("no `programs` dataset found on the program finder page")
+
+        _filter_by_campus(datasets)
+
+        for name, rows in datasets.items():
+            out.table(name, rows, source=PROGRAMS_URL)
 
         pages = wp_collection(http, HOST, "wp/v2/pages", params={"_embed": "0"})
         out.table("pages", pages, source=f"https://{HOST}/wp-json/wp/v2/pages")

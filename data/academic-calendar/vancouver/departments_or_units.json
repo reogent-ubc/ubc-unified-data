@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ea17671d-fc5c-444e-bc12-d0a4dc2b93f8",
+    "type": "taxonomy_term--department_or_unit",
+    "tid": 75,
+    "revision_id": 75,
+    "revision_created": "2023-02-08T18:20:00+00:00",
+    "status": true,
+    "name": "Admin",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-02-08T18:20:00+00:00",
+    "related": {
+      "vid": "2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "6ffdeb7b-4ef0-4510-bb70-b612537c28ba",
+    "type": "taxonomy_term--department_or_unit",
+    "tid": 76,
+    "revision_id": 76,
+    "revision_created": "2023-02-08T18:20:00+00:00",
+    "status": true,
+    "name": "Marketing",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-02-08T18:20:00+00:00",
+    "related": {
+      "vid": "2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "c2b1b883-8453-43ed-ab2c-4778917859ba",
+    "type": "taxonomy_term--department_or_unit",
+    "tid": 77,
+    "revision_id": 77,
+    "revision_created": "2023-02-08T18:20:00+00:00",
+    "status": true,
+    "name": "Web Services",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-02-08T18:20:00+00:00",
+    "related": {
+      "vid": "2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  }
+]

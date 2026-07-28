@@ -1,0 +1,2 @@
+id,type,nid,status,title,created,changed,body,related
+9f5c31a2-1023-483a-8e08-bfcd477eef73,node--permits,5000,True,Permits & rates,2024-06-04T23:13:36+00:00,2024-06-04T23:13:52+00:00,,"{""node_type"": ""e8620585-e1c1-4ae2-8172-3c5f2a5d4fd5"", ""revision_uid"": ""0ffa815e-0525-4346-9905-325a7fefbd28"", ""uid"": ""0ffa815e-0525-4346-9905-325a7fefbd28""}"

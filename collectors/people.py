@@ -70,9 +70,10 @@ class People(Collector):
     name = "people"
     title = "Faculty and staff profiles by unit"
     description = (
-        "Public faculty and staff profiles published by UBC faculties, schools, "
-        "departments and units on the shared Drupal platform, tagged with the site "
-        "they came from. Public directory information only -- no student data."
+        "Public faculty and staff profiles from UBC units on the shared Drupal "
+        "platform, tagged with the site they came from. Coverage is partial -- most "
+        "faculties run other platforms and expose no API, so `_sites.json` records "
+        "which hosts answered. Public directory information only -- no student data."
     )
     sources = tuple(f"https://{host}/jsonapi/{RESOURCE}" for host in HOSTS[:3]) + ("...",)
 

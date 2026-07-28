@@ -1,18 +1,5 @@
 [
   {
-    "term_id": 10,
-    "name": "Okanagan",
-    "slug": "okanagan",
-    "term_group": 0,
-    "term_taxonomy_id": 10,
-    "taxonomy": "campuses",
-    "description": "",
-    "parent": 0,
-    "count": 113,
-    "filter": "raw",
-    "term_order": "0"
-  },
-  {
     "term_id": 9,
     "name": "Vancouver",
     "slug": "vancouver",

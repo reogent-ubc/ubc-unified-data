@@ -1,0 +1,534 @@
+[
+  {
+    "id": "6cc72c08-8554-4a3f-b80c-446323261f57",
+    "type": "taxonomy_term--academic_year",
+    "tid": 94,
+    "revision_id": 94,
+    "revision_created": "2023-02-23T19:38:05+00:00",
+    "status": true,
+    "name": "1999/00",
+    "description": null,
+    "weight": 0,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "160c1938-3636-4a39-8c8b-357ade769a23",
+    "type": "taxonomy_term--academic_year",
+    "tid": 95,
+    "revision_id": 95,
+    "revision_created": "2023-02-23T19:38:22+00:00",
+    "status": true,
+    "name": "2000/01",
+    "description": null,
+    "weight": 1,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "70a182f2-c28f-451d-92ec-69ad0688329a",
+    "type": "taxonomy_term--academic_year",
+    "tid": 96,
+    "revision_id": 96,
+    "revision_created": "2023-02-23T19:38:30+00:00",
+    "status": true,
+    "name": "2001/02",
+    "description": null,
+    "weight": 2,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "eb260891-577a-41a3-845b-d79cbbcee2d7",
+    "type": "taxonomy_term--academic_year",
+    "tid": 97,
+    "revision_id": 97,
+    "revision_created": "2023-02-23T19:38:37+00:00",
+    "status": true,
+    "name": "2002/03",
+    "description": null,
+    "weight": 3,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "ee281c22-2611-4b38-9d7e-76f925cab6d6",
+    "type": "taxonomy_term--academic_year",
+    "tid": 98,
+    "revision_id": 98,
+    "revision_created": "2023-02-23T19:38:43+00:00",
+    "status": true,
+    "name": "2003/04",
+    "description": null,
+    "weight": 4,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "3f90153e-13f4-4ff9-9900-5ce29603ddae",
+    "type": "taxonomy_term--academic_year",
+    "tid": 99,
+    "revision_id": 99,
+    "revision_created": "2023-02-23T19:38:50+00:00",
+    "status": true,
+    "name": "2004/05",
+    "description": null,
+    "weight": 5,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "3ed5abf1-8f65-4486-8acd-dbce8140a2bc",
+    "type": "taxonomy_term--academic_year",
+    "tid": 100,
+    "revision_id": 100,
+    "revision_created": "2023-02-23T19:38:56+00:00",
+    "status": true,
+    "name": "2005/06",
+    "description": null,
+    "weight": 6,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "54adac29-4170-4a91-8653-1d142c833ee4",
+    "type": "taxonomy_term--academic_year",
+    "tid": 101,
+    "revision_id": 101,
+    "revision_created": "2023-02-23T19:39:03+00:00",
+    "status": true,
+    "name": "2006/07",
+    "description": null,
+    "weight": 7,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "d6acf579-0bb7-4cea-9767-b0f42f995e64",
+    "type": "taxonomy_term--academic_year",
+    "tid": 102,
+    "revision_id": 102,
+    "revision_created": "2023-02-23T19:39:10+00:00",
+    "status": true,
+    "name": "2007/08",
+    "description": null,
+    "weight": 8,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "550ac545-338e-4c01-8197-7a4f625cdd61",
+    "type": "taxonomy_term--academic_year",
+    "tid": 103,
+    "revision_id": 103,
+    "revision_created": "2023-02-23T19:39:18+00:00",
+    "status": true,
+    "name": "2008/09",
+    "description": null,
+    "weight": 9,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "f3dc2661-f792-4ed1-9e84-800cdde8f505",
+    "type": "taxonomy_term--academic_year",
+    "tid": 104,
+    "revision_id": 104,
+    "revision_created": "2023-02-23T19:39:25+00:00",
+    "status": true,
+    "name": "2009/10",
+    "description": null,
+    "weight": 10,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "59ef1698-7e44-4a8b-95f9-38fd0ff49294",
+    "type": "taxonomy_term--academic_year",
+    "tid": 105,
+    "revision_id": 105,
+    "revision_created": "2023-02-23T19:39:36+00:00",
+    "status": true,
+    "name": "2010/11",
+    "description": null,
+    "weight": 11,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "8e55f388-1430-47f2-91a1-e8ed4ff315a8",
+    "type": "taxonomy_term--academic_year",
+    "tid": 106,
+    "revision_id": 106,
+    "revision_created": "2023-02-23T19:39:42+00:00",
+    "status": true,
+    "name": "2011/12",
+    "description": null,
+    "weight": 12,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "edebfa84-02a5-4511-aec5-cbf2dd06d3c3",
+    "type": "taxonomy_term--academic_year",
+    "tid": 107,
+    "revision_id": 107,
+    "revision_created": "2023-02-23T19:39:48+00:00",
+    "status": true,
+    "name": "2012/13",
+    "description": null,
+    "weight": 13,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "e58f80fe-bf3a-4990-8757-09be49b91900",
+    "type": "taxonomy_term--academic_year",
+    "tid": 108,
+    "revision_id": 108,
+    "revision_created": "2023-02-23T19:39:54+00:00",
+    "status": true,
+    "name": "2013/14",
+    "description": null,
+    "weight": 14,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "0e853e37-9888-4803-872d-3817cb11a6a8",
+    "type": "taxonomy_term--academic_year",
+    "tid": 109,
+    "revision_id": 109,
+    "revision_created": "2023-02-23T19:40:00+00:00",
+    "status": true,
+    "name": "2014/15",
+    "description": null,
+    "weight": 15,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "391d5125-17ec-4c14-8a5c-3945455e6f3c",
+    "type": "taxonomy_term--academic_year",
+    "tid": 110,
+    "revision_id": 110,
+    "revision_created": "2023-02-23T19:40:06+00:00",
+    "status": true,
+    "name": "2015/16",
+    "description": null,
+    "weight": 16,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "e07e3b72-1e03-429f-8553-86dd50ae96cb",
+    "type": "taxonomy_term--academic_year",
+    "tid": 111,
+    "revision_id": 111,
+    "revision_created": "2023-02-23T19:40:12+00:00",
+    "status": true,
+    "name": "2016/17",
+    "description": null,
+    "weight": 17,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "3a8e2d72-c57d-4c8e-b3ff-95bb92de6cbf",
+    "type": "taxonomy_term--academic_year",
+    "tid": 112,
+    "revision_id": 112,
+    "revision_created": "2023-02-23T19:40:18+00:00",
+    "status": true,
+    "name": "2017/18",
+    "description": null,
+    "weight": 18,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "bfaa03f0-c425-4735-a38b-96587dcdc2d1",
+    "type": "taxonomy_term--academic_year",
+    "tid": 113,
+    "revision_id": 113,
+    "revision_created": "2023-02-23T19:40:25+00:00",
+    "status": true,
+    "name": "2018/19",
+    "description": null,
+    "weight": 19,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "73bc9959-b832-42f2-9117-80fd0b3ac774",
+    "type": "taxonomy_term--academic_year",
+    "tid": 114,
+    "revision_id": 114,
+    "revision_created": "2023-02-23T19:40:32+00:00",
+    "status": true,
+    "name": "2019/20",
+    "description": null,
+    "weight": 20,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "2858d464-3602-4e6a-9f8c-9bb6eedb3271",
+    "type": "taxonomy_term--academic_year",
+    "tid": 115,
+    "revision_id": 115,
+    "revision_created": "2023-02-23T19:40:42+00:00",
+    "status": true,
+    "name": "2020/21",
+    "description": null,
+    "weight": 21,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "aef4bd69-5617-4f20-8a2a-c5c345433e34",
+    "type": "taxonomy_term--academic_year",
+    "tid": 116,
+    "revision_id": 116,
+    "revision_created": "2023-02-23T19:40:48+00:00",
+    "status": true,
+    "name": "2021/22",
+    "description": null,
+    "weight": 22,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "3d038855-9c90-4997-8b49-267d2af79208",
+    "type": "taxonomy_term--academic_year",
+    "tid": 117,
+    "revision_id": 117,
+    "revision_created": "2023-02-23T19:40:54+00:00",
+    "status": true,
+    "name": "2022/23",
+    "description": null,
+    "weight": 23,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "9283d4a0-106d-43ab-a5f6-3cb4b387420c",
+    "type": "taxonomy_term--academic_year",
+    "tid": 118,
+    "revision_id": 118,
+    "revision_created": "2023-02-23T19:41:04+00:00",
+    "status": true,
+    "name": "2023/24",
+    "description": null,
+    "weight": 24,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "9e725326-2fec-4240-a5c4-8bbb4d583530",
+    "type": "taxonomy_term--academic_year",
+    "tid": 1553,
+    "revision_id": 1553,
+    "revision_created": "2023-11-10T22:34:40+00:00",
+    "status": true,
+    "name": "2024/25",
+    "description": null,
+    "weight": 25,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "e907c358-be74-4a4e-a523-0369ef7965e4",
+    "type": "taxonomy_term--academic_year",
+    "tid": 3936,
+    "revision_id": 3936,
+    "revision_created": "2025-01-03T21:32:45+00:00",
+    "status": true,
+    "name": "2025/26",
+    "description": null,
+    "weight": 26,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "795ab7fa-b661-4e59-841f-5f4f6b5bc22a",
+    "type": "taxonomy_term--academic_year",
+    "tid": 5001,
+    "revision_id": 5001,
+    "revision_created": "2025-11-25T23:16:12+00:00",
+    "status": true,
+    "name": "2026/27",
+    "description": null,
+    "weight": 27,
+    "changed": "2025-11-25T23:22:27+00:00",
+    "related": {
+      "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  }
+]

@@ -1,16 +1,22 @@
 """Academic Calendar: the official course catalogue and academic structure.
 
 Source: the Drupal JSON:API behind vancouver.calendar.ubc.ca and
-okanagan.calendar.ubc.ca. This is the catalogue rather than the schedule -- it
-carries course descriptions, credit values, prerequisites, corequisites,
-equivalencies and the hours vector, plus the faculty / school / department
-hierarchy. Pair it with the `courses` collector to know both what a course *is*
-and when it is actually offered.
+okanagan.calendar.ubc.ca. This is the catalogue rather than the schedule -- what
+a course *is*, not when it runs. Pair it with the `courses` collector for both.
+
+Caveat worth knowing: the dedicated `field_course_prerequisite`,
+`field_course_co_requistite`, `field_course_vector` and
+`field_course_equivalency` fields exist in the schema but are empty on every
+record sampled. UBC writes all of that into `field_course_description` as prose,
+which is also how its own pages render it. `coursetext.parse_course_text` splits
+it back out into `prerequisite`, `corequisite`, `equivalency`,
+`credit_exclusion` and `hours_vector` columns; the raw description is kept.
 """
 
 from __future__ import annotations
 
-from .base import Collector, Http, Output, jsonapi_collection, jsonapi_index, register
+from .base import Collector, Http, Output, jsonapi_collection, jsonapi_index, register, wants
+from .coursetext import enrich
 
 CAMPUSES = {
     "vancouver": "vancouver.calendar.ubc.ca",
@@ -36,8 +42,9 @@ class AcademicCalendar(Collector):
     folder = "academic-calendar"
     title = "Academic Calendar (course catalogue, faculties, departments)"
     description = (
-        "Official course catalogue entries with descriptions, credits, prerequisites, "
-        "corequisites, equivalencies and hours vectors, plus the faculty, school, "
+        "Official course catalogue entries with descriptions and credit values, plus "
+        "prerequisites, corequisites, equivalencies, credit exclusions and hours "
+        "vectors parsed out of the description prose, and the faculty, school, "
         "department and subject hierarchy for both campuses."
     )
     sources = tuple(f"https://{host}/jsonapi" for host in CAMPUSES.values())
@@ -46,6 +53,8 @@ class AcademicCalendar(Collector):
         unavailable: dict[str, list[str]] = {}
 
         for campus, host in CAMPUSES.items():
+            if not wants(campus):
+                continue
             available = jsonapi_index(http, host)
             missing: list[str] = []
 
@@ -58,6 +67,11 @@ class AcademicCalendar(Collector):
                     continue
                 for record in records:
                     record["campus"] = campus
+                if dataset == "courses":
+                    # UBC leaves field_course_prerequisite empty and writes the
+                    # prerequisites, corequisites and hours vector into the
+                    # description prose instead; recover them into columns.
+                    enrich(records, "field_course_description")
                 out.table(f"{campus}/{dataset}", records, source=f"https://{host}/jsonapi/{resource}")
 
             if missing:

@@ -1,0 +1,50 @@
+[
+  {
+    "site": "finance",
+    "endpoint": "https://finance.ubc.ca/wp-json/wp/v2/pages",
+    "records": 34,
+    "pages_refetched_as_html": 1,
+    "documents_recovered_from_html": 0,
+    "skipped": null
+  },
+  {
+    "site": "finance",
+    "endpoint": "https://finance.ubc.ca/wp-json/wp/v2/posts",
+    "records": 110,
+    "pages_refetched_as_html": 24,
+    "documents_recovered_from_html": 0,
+    "skipped": null
+  },
+  {
+    "site": "finance",
+    "endpoint": "https://finance.ubc.ca/wp-json/wp/v2/resources",
+    "records": 3,
+    "pages_refetched_as_html": 0,
+    "documents_recovered_from_html": 0,
+    "skipped": null
+  },
+  {
+    "site": "pair",
+    "endpoint": "https://pair.ubc.ca/wp-json/wp/v2/pages",
+    "records": 54,
+    "pages_refetched_as_html": 54,
+    "documents_recovered_from_html": 95,
+    "skipped": null
+  },
+  {
+    "site": "pair",
+    "endpoint": "https://pair.ubc.ca/wp-json/wp/v2/posts",
+    "records": 5,
+    "pages_refetched_as_html": 0,
+    "documents_recovered_from_html": 0,
+    "skipped": null
+  },
+  {
+    "site": "facilities",
+    "endpoint": "https://facilities.ubc.ca/wp-json/wp/v2/pages",
+    "records": 234,
+    "pages_refetched_as_html": 0,
+    "documents_recovered_from_html": 0,
+    "skipped": null
+  }
+]

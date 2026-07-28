@@ -1,0 +1,249 @@
+[
+  {
+    "id": "657dfd0b-ce4a-4438-9150-b30661341d02",
+    "type": "taxonomy_term--faculty",
+    "tid": 88,
+    "revision_id": 88,
+    "revision_created": "2023-02-10T22:05:05+00:00",
+    "status": true,
+    "name": "Faculty of Arts",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-02-10T22:05:05+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "a35009de-d9d7-448d-90d4-9993f541a534",
+    "type": "taxonomy_term--faculty",
+    "tid": 120,
+    "revision_id": 120,
+    "revision_created": "2023-03-14T17:33:25+00:00",
+    "status": true,
+    "name": "Faculty of Science",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:33:25+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "f043bf26-d100-4949-ba3a-df16e840d360",
+    "type": "taxonomy_term--faculty",
+    "tid": 121,
+    "revision_id": 121,
+    "revision_created": "2023-03-14T17:33:33+00:00",
+    "status": true,
+    "name": "Faculty of Applied Science",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:33:33+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "5fae0f56-ca01-4421-8585-025fad93281b",
+    "type": "taxonomy_term--faculty",
+    "tid": 122,
+    "revision_id": 122,
+    "revision_created": "2023-03-14T17:33:41+00:00",
+    "status": true,
+    "name": "Faculty of Education",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:33:41+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
+    "type": "taxonomy_term--faculty",
+    "tid": 123,
+    "revision_id": 123,
+    "revision_created": "2023-03-14T17:33:49+00:00",
+    "status": true,
+    "name": "Faculty of Medicine",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:33:49+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "d53dbc62-9c32-4149-a77e-a9c39de1b591",
+    "type": "taxonomy_term--faculty",
+    "tid": 124,
+    "revision_id": 124,
+    "revision_created": "2023-03-14T17:36:26+00:00",
+    "status": true,
+    "name": "Faculty of Commerce and Business Administration",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-01-29T18:42:01+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "97a63869-ba21-43fb-9a2f-e27a2bf78979",
+    "type": "taxonomy_term--faculty",
+    "tid": 125,
+    "revision_id": 125,
+    "revision_created": "2023-03-14T17:36:33+00:00",
+    "status": true,
+    "name": "Faculty of Land and Food Systems",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:36:33+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "8813b872-6b36-4d8e-b3f6-439af007e890",
+    "type": "taxonomy_term--faculty",
+    "tid": 126,
+    "revision_id": 126,
+    "revision_created": "2023-03-14T17:36:39+00:00",
+    "status": true,
+    "name": "Faculty of Dentistry",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:36:39+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "2de4b10b-ad94-4758-9146-cc8d9c0f661f",
+    "type": "taxonomy_term--faculty",
+    "tid": 127,
+    "revision_id": 127,
+    "revision_created": "2023-03-14T17:36:46+00:00",
+    "status": true,
+    "name": "Faculty of Forestry and Environmental Stewardship",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-01-29T18:42:45+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "5c201a10-6d98-4cbe-979c-1caac5c596ae",
+    "type": "taxonomy_term--faculty",
+    "tid": 128,
+    "revision_id": 128,
+    "revision_created": "2023-03-14T17:36:55+00:00",
+    "status": true,
+    "name": "Faculty of Graduate and Postdoctoral Studies",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:36:55+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "5d38c98c-23b1-4450-b629-21ad16268090",
+    "type": "taxonomy_term--faculty",
+    "tid": 130,
+    "revision_id": 130,
+    "revision_created": "2023-03-14T17:37:09+00:00",
+    "status": true,
+    "name": "Faculty of Pharmaceutical Sciences",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:37:09+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "e5968b59-4dff-4e06-b4cd-ea5ae3efd5da",
+    "type": "taxonomy_term--faculty",
+    "tid": 131,
+    "revision_id": 131,
+    "revision_created": "2023-03-14T17:37:17+00:00",
+    "status": true,
+    "name": "Peter A. Allard School of Law",
+    "description": null,
+    "weight": 0,
+    "changed": "2023-03-14T17:37:17+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  },
+  {
+    "id": "8a5ea5f9-12e5-4c37-97eb-f94bafb32315",
+    "type": "taxonomy_term--faculty",
+    "tid": 132,
+    "revision_id": 132,
+    "revision_created": "2023-03-14T17:37:23+00:00",
+    "status": true,
+    "name": "Vantage College",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-05-26T20:11:15+00:00",
+    "related": {
+      "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
+      "parent": [
+        "virtual"
+      ]
+    },
+    "campus": "vancouver"
+  }
+]

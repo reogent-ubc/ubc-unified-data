@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9559e30d-0f57-4663-bb92-898b084ec155",
+    "type": "taxonomy_term--delivery_mode",
+    "tid": 86,
+    "revision_id": 86,
+    "revision_created": "2026-02-12T17:49:05+00:00",
+    "status": true,
+    "name": "In person",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:49:05+00:00",
+    "related": {
+      "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "4a46fa75-809f-47aa-b63d-b00bb8c4270c",
+    "type": "taxonomy_term--delivery_mode",
+    "tid": 87,
+    "revision_id": 87,
+    "revision_created": "2026-02-12T17:49:12+00:00",
+    "status": true,
+    "name": "Online",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:49:12+00:00",
+    "related": {
+      "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "b52fee49-fd2d-4f59-8dfc-764876ca7bf8",
+    "type": "taxonomy_term--delivery_mode",
+    "tid": 88,
+    "revision_id": 88,
+    "revision_created": "2026-02-12T17:49:17+00:00",
+    "status": true,
+    "name": "Hybrid",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:49:17+00:00",
+    "related": {
+      "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "af5a0701-19ff-483c-9168-486d7815a15d",
+    "type": "taxonomy_term--delivery_mode",
+    "tid": 89,
+    "revision_id": 89,
+    "revision_created": "2026-02-12T17:49:27+00:00",
+    "status": true,
+    "name": "Multi-access",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-30T21:44:15+00:00",
+    "related": {
+      "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
+      "parent": [
+        "virtual"
+      ]
+    }
+  }
+]

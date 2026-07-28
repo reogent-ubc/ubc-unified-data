@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14b20854-c638-47e3-9de2-5e3021c3bd00",
+    "type": "taxonomy_term--year",
+    "tid": 1471,
+    "revision_id": 1471,
+    "revision_created": "2026-03-23T21:08:22+00:00",
+    "status": true,
+    "name": "1",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:08:22+00:00",
+    "related": {
+      "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "11f290a8-20d7-4ef8-9cee-179f40dce1a7",
+    "type": "taxonomy_term--year",
+    "tid": 1472,
+    "revision_id": 1472,
+    "revision_created": "2026-03-23T21:08:28+00:00",
+    "status": true,
+    "name": "2",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:08:28+00:00",
+    "related": {
+      "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "bf545ce3-a053-482c-ae70-288cf464187e",
+    "type": "taxonomy_term--year",
+    "tid": 1473,
+    "revision_id": 1473,
+    "revision_created": "2026-03-23T21:08:33+00:00",
+    "status": true,
+    "name": "3",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:08:33+00:00",
+    "related": {
+      "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "7360c140-b675-4358-b956-b440f5a82629",
+    "type": "taxonomy_term--year",
+    "tid": 1474,
+    "revision_id": 1474,
+    "revision_created": "2026-03-23T21:08:38+00:00",
+    "status": true,
+    "name": "4",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-23T21:08:38+00:00",
+    "related": {
+      "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
+      "parent": [
+        "virtual"
+      ]
+    }
+  }
+]

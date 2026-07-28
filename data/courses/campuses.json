@@ -1,0 +1,40 @@
+[
+  {
+    "id": "e57d303b-6ec3-4953-b365-a457c9d5e194",
+    "type": "taxonomy_term--campus",
+    "tid": 72,
+    "revision_id": 72,
+    "revision_created": "2026-02-12T17:38:35+00:00",
+    "status": true,
+    "name": "UBCV",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:39:39+00:00",
+    "field_campus_name": "Vancouver",
+    "related": {
+      "vid": "972a6099-eeff-4aec-988e-d8a4809923bf",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "dd9e8772-d768-423c-9277-d7e817acff4b",
+    "type": "taxonomy_term--campus",
+    "tid": 73,
+    "revision_id": 73,
+    "revision_created": "2026-02-12T17:38:42+00:00",
+    "status": true,
+    "name": "UBCO",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:39:31+00:00",
+    "field_campus_name": "Okanagan",
+    "related": {
+      "vid": "972a6099-eeff-4aec-988e-d8a4809923bf",
+      "parent": [
+        "virtual"
+      ]
+    }
+  }
+]

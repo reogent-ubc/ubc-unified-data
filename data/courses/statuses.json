@@ -1,0 +1,110 @@
+[
+  {
+    "id": "5bbf014c-300f-43d2-aec9-74f9d74ceccc",
+    "type": "taxonomy_term--status",
+    "tid": 90,
+    "revision_id": 90,
+    "revision_created": "2026-02-12T17:55:21+00:00",
+    "status": true,
+    "name": "Open",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:55:21+00:00",
+    "related": {
+      "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "b147f44e-6e91-4220-a711-c1b0b883da50",
+    "type": "taxonomy_term--status",
+    "tid": 91,
+    "revision_id": 91,
+    "revision_created": "2026-02-12T17:55:26+00:00",
+    "status": true,
+    "name": "Closed",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-02-12T17:55:26+00:00",
+    "related": {
+      "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "6f32e398-127f-4a74-8f2e-e7bc1376f0ce",
+    "type": "taxonomy_term--status",
+    "tid": 1954,
+    "revision_id": 1954,
+    "revision_created": "2026-03-27T21:28:35+00:00",
+    "status": true,
+    "name": "Waitlist",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T21:28:35+00:00",
+    "related": {
+      "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "c5b25218-19c9-4161-b284-194363d7907e",
+    "type": "taxonomy_term--status",
+    "tid": 1955,
+    "revision_id": 1955,
+    "revision_created": "2026-03-27T22:02:26+00:00",
+    "status": true,
+    "name": "Canceled",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T22:02:26+00:00",
+    "related": {
+      "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "b9193d61-35d9-4946-a87e-fa25db59c39c",
+    "type": "taxonomy_term--status",
+    "tid": 1956,
+    "revision_id": 1956,
+    "revision_created": "2026-03-27T22:02:32+00:00",
+    "status": true,
+    "name": "Preliminary",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T22:02:32+00:00",
+    "related": {
+      "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
+      "parent": [
+        "virtual"
+      ]
+    }
+  },
+  {
+    "id": "cb16ece1-f33a-46e4-913c-6a0a3d55aec1",
+    "type": "taxonomy_term--status",
+    "tid": 1957,
+    "revision_id": 1957,
+    "revision_created": "2026-03-27T22:02:38+00:00",
+    "status": true,
+    "name": "Other",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T22:02:38+00:00",
+    "related": {
+      "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
+      "parent": [
+        "virtual"
+      ]
+    }
+  }
+]

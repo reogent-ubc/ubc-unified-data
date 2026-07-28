@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "food_outlets",
+    "source": "https://food.ubc.ca/wp-json/wp/v2/places",
+    "records": 39,
+    "skipped": null
+  },
+  {
+    "dataset": "food_events",
+    "source": "https://food.ubc.ca/wp-json/wp/v2/event",
+    "records": 3,
+    "skipped": null
+  },
+  {
+    "dataset": "parking_locations",
+    "source": "https://parking.ubc.ca/jsonapi/node/parking_location",
+    "records": 19,
+    "skipped": null
+  },
+  {
+    "dataset": "parking_permits",
+    "source": "https://parking.ubc.ca/jsonapi/node/permits",
+    "records": 1,
+    "skipped": null
+  },
+  {
+    "dataset": "parking_maps",
+    "source": "https://parking.ubc.ca/jsonapi/node/map_page",
+    "records": 1,
+    "skipped": null
+  },
+  {
+    "dataset": "facilities_resources",
+    "source": "https://facilities.ubc.ca/wp-json/wp/v2/resources",
+    "records": 511,
+    "skipped": null
+  },
+  {
+    "dataset": "learning_space_resources",
+    "source": "https://learningspaces.ubc.ca/wp-json/wp/v2/resources",
+    "records": 0,
+    "skipped": null
+  },
+  {
+    "dataset": "recreation_pages",
+    "source": "https://recreation.ubc.ca/wp-json/wp/v2/pages",
+    "records": 386,
+    "skipped": null
+  },
+  {
+    "dataset": "student_services_pages",
+    "source": "https://students.ubc.ca/wp-json/wp/v2/pages",
+    "records": 464,
+    "skipped": null
+  },
+  {
+    "dataset": "news",
+    "source": "https://news.ubc.ca/wp-json/wp/v2/posts",
+    "records": 1456,
+    "skipped": null
+  }
+]
