@@ -1,4 +1,4 @@
-id,type,tid,revision_id,revision_created,status,name,description,weight,changed,related,campus
-ea17671d-fc5c-444e-bc12-d0a4dc2b93f8,taxonomy_term--department_or_unit,75,75,2023-02-08T18:20:00+00:00,True,Admin,,0,2023-02-08T18:20:00+00:00,"{""vid"": ""2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3"", ""parent"": [""virtual""]}",vancouver
-6ffdeb7b-4ef0-4510-bb70-b612537c28ba,taxonomy_term--department_or_unit,76,76,2023-02-08T18:20:00+00:00,True,Marketing,,0,2023-02-08T18:20:00+00:00,"{""vid"": ""2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3"", ""parent"": [""virtual""]}",vancouver
-c2b1b883-8453-43ed-ab2c-4778917859ba,taxonomy_term--department_or_unit,77,77,2023-02-08T18:20:00+00:00,True,Web Services,,0,2023-02-08T18:20:00+00:00,"{""vid"": ""2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3"", ""parent"": [""virtual""]}",vancouver
+id,type,tid,revision_id,revision_created,status,name,description,weight,changed,alias,related,campus
+ea17671d-fc5c-444e-bc12-d0a4dc2b93f8,taxonomy_term--department_or_unit,75,75,2023-02-08T18:20:00+00:00,True,Admin,,0,2023-02-08T18:20:00+00:00,/department-or-unit/admin,"{""vid"": ""2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3"", ""parent"": [""virtual""]}",vancouver
+6ffdeb7b-4ef0-4510-bb70-b612537c28ba,taxonomy_term--department_or_unit,76,76,2023-02-08T18:20:00+00:00,True,Marketing,,0,2023-02-08T18:20:00+00:00,/department-or-unit/marketing,"{""vid"": ""2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3"", ""parent"": [""virtual""]}",vancouver
+c2b1b883-8453-43ed-ab2c-4778917859ba,taxonomy_term--department_or_unit,77,77,2023-02-08T18:20:00+00:00,True,Web Services,,0,2023-02-08T18:20:00+00:00,/department-or-unit/web-services,"{""vid"": ""2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3"", ""parent"": [""virtual""]}",vancouver

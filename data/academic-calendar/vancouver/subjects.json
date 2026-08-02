@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/aanbv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Applied Animal Biology",
     "related": {
@@ -32,6 +33,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/acamv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Asian Canadian and Asian Migration Studies",
     "related": {
@@ -54,6 +56,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/adhev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Adult and Higher Education",
     "related": {
@@ -77,6 +80,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/afstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "African Studies",
     "related": {
@@ -99,6 +103,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:43:24+00:00",
+    "alias": "/course-descriptions/subject/agecv",
     "field_tax_subject_notes": "Undergraduate courses have been re-named as Food and Resource Economics (FRE_V). Please see that section.",
     "field_tax_subject_title": "Agricultural Economics",
     "related": {
@@ -121,6 +126,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/aiv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Artificial Intelligence",
     "related": {
@@ -144,6 +150,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/amnev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Ancient Mediterranean and Near Eastern Studies",
     "related": {
@@ -167,6 +174,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:43:32+00:00",
+    "alias": "/course-descriptions/subject/anatv",
     "field_tax_subject_notes": "As of Summer Session 2013, ANAT_V 390 and ANAT_V 391 have been renamed to CAPS_V courses with equivalent numbers and moved to CAPS_V course listings.",
     "field_tax_subject_title": "Anatomy",
     "related": {
@@ -190,6 +198,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:43:38+00:00",
+    "alias": "/course-descriptions/subject/anthv",
     "field_tax_subject_notes": "ANTH_V 100, 201, 202, 203, 205, 206, 213, 214, 215, 217, 220 and 221 are general courses open to all students. ANTH_V 100 is a prerequisite to all other third- and fourth-year courses, unless permission of the instructor is obtained. Some courses have additional prerequisites, as listed in the descriptions. For details of current listings, consult the departmental website at www.anth.ubc.ca.",
     "field_tax_subject_title": "Anthropology",
     "related": {
@@ -213,6 +222,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/apbiv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Applied Biology",
     "related": {
@@ -235,6 +245,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/apppv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Applied Science Professional Program Platform",
     "related": {
@@ -257,6 +268,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/apscv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Applied Science",
     "related": {
@@ -279,6 +291,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/aquav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Aquaculture",
     "related": {
@@ -301,6 +314,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:07+00:00",
+    "alias": "/course-descriptions/subject/arbcv",
     "field_tax_subject_notes": "Not all courses are offered every year. For current listings, consult the departmental website at: https://amne.ubc.ca/.",
     "field_tax_subject_title": "Classical Arabic",
     "related": {
@@ -324,6 +338,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/arbmv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Modern Standard Arabic",
     "related": {
@@ -347,6 +362,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/archv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Architecture",
     "related": {
@@ -370,6 +386,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/arclv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Anthropological Archaeology",
     "related": {
@@ -393,6 +410,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/arstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Archival Studies",
     "related": {
@@ -416,6 +434,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/artcv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Arts Co-Op",
     "related": {
@@ -438,6 +457,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:43:53+00:00",
+    "alias": "/course-descriptions/subject/arthv",
     "field_tax_subject_notes": "Not every course is given every year. For details of current offerings, consult the departmental website at www.ahva.ubc.ca. Students wishing to take fourth-year seminars should normally have had a closely related third-year course and are advised to check with the instructor in this regard. Credit will be given to either the current ARTH_V listing or its former FINA_V equivalent.",
     "field_tax_subject_title": "Art History",
     "related": {
@@ -460,6 +480,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/artsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Arts",
     "related": {
@@ -482,6 +503,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:44:24+00:00",
+    "alias": "/course-descriptions/subject/asiav",
     "field_tax_subject_notes": "All Asian Studies courses are conducted in English.",
     "field_tax_subject_title": "Asian Studies",
     "related": {
@@ -505,6 +527,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/asicv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Arts and Science Interdisciplinary Courses",
     "related": {
@@ -527,6 +550,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/asixv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Asian Studies Crossings",
     "related": {
@@ -550,6 +574,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/aslv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "American Sign Language",
     "related": {
@@ -573,6 +598,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/aslav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Asian Languages",
     "related": {
@@ -596,6 +622,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-27T22:33:22+00:00",
+    "alias": "/course-descriptions/subject/astrv",
     "field_tax_subject_notes": "Some ASTR_V courses are credit-excluded with each other. Students should consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists. See also Physics.",
     "field_tax_subject_title": "Astronomy",
     "related": {
@@ -619,6 +646,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/astuv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Arts Studies",
     "related": {
@@ -641,6 +669,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/atscv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Atmospheric Science",
     "related": {
@@ -664,6 +693,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:45:25+00:00",
+    "alias": "/course-descriptions/subject/audiv",
     "field_tax_subject_notes": "All 600-level seminars are Ph.D. level courses and may not be offered on a regular basis. All may be taken more than once for credit.",
     "field_tax_subject_title": "Audiology and Speech Sciences",
     "related": {
@@ -687,6 +717,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Core",
     "related": {
@@ -709,6 +740,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/baacv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Accounting",
     "related": {
@@ -731,6 +763,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/babsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Business Statistics",
     "related": {
@@ -753,6 +786,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/baenv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Entrepreneurship",
     "related": {
@@ -775,6 +809,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bafiv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Finance",
     "related": {
@@ -797,6 +832,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bahrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Human Resources Management",
     "related": {
@@ -819,6 +855,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/baitv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Business Technology Management",
     "related": {
@@ -841,6 +878,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/balav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Law",
     "related": {
@@ -863,6 +901,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bamav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Marketing",
     "related": {
@@ -885,6 +924,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bamsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Management Science",
     "related": {
@@ -907,6 +947,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bapav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Policy Analysis",
     "related": {
@@ -929,6 +970,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bascv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Supply Chain",
     "related": {
@@ -951,6 +993,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/basmv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Strategic Management",
     "related": {
@@ -973,6 +1016,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/baulv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business Administration: Urban Land Economics",
     "related": {
@@ -995,6 +1039,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:51+00:00",
+    "alias": "/course-descriptions/subject/bestv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Forest Bioeconomy Sciences and Technology",
     "related": {
@@ -1017,6 +1062,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/biocv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Biochemistry",
     "related": {
@@ -1040,6 +1086,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/biofv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Bioinformatics",
     "related": {
@@ -1062,6 +1109,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:46:24+00:00",
+    "alias": "/course-descriptions/subject/biolv",
     "field_tax_subject_notes": "Students without Biology 11 or Biology 12 must take BIOL_V 111 before taking BIOL_V 112, BIOL_V 121, BIOL_V 153, or BIOL_V 155. Students without Chemistry 12 must take CHEM_V 100 or CHEM_V 111 before taking BIOL_V 112, BIOL_V 153, or BIOL_V 155. BIOL_V 112 and BIOL_V 121 are pre-requisites for many Biology courses and are required for admission to many specializations. BIOL_V 180 is not required for students taking Science 001. See the Second Year Specialization Application: Requirements website: https://science.ubc.ca/students/degree/apply/req for admission requirements for specializations within the Faculty of Science. See the Biology Program Office: http://www.biology.ubc.ca/ for more information about admission to Biology specializations. Students interested in meeting the admission requirements of other faculties or schools should consult the appropriate office. Additional fees are charged for some courses. Not every course is offered every year. For current listings, please consult the Course Schedule for Biology in Workday: https://myworkday.ubc.ca/. Please see the MRNE_V course descriptions: https://vancouver.calendar.ubc.ca/course-descriptions/subject/mrnev for more upper level biology courses. MRNE_V courses are field-based courses provided at the Bamfield Marine Sciences Centre. For more information and current course listings, please see the Bamfield Marine Sciences Centre website: http://www.bamfieldmsc.com/.",
     "field_tax_subject_title": "Biology",
     "related": {
@@ -1085,6 +1133,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:46:31+00:00",
+    "alias": "/course-descriptions/subject/biotv",
     "field_tax_subject_notes": "The following UBC Senate approved courses are restricted to students enrolled in the Joint Degree Honours Bachelor of Science in Biotechnology. They are taught at the British Columbia Institute of Technology (BCIT) campus and show on the BCIT transcript under the BCIT course numbers.",
     "field_tax_subject_title": "Biotechnology",
     "related": {
@@ -1108,6 +1157,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/bmegv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Biomedical Engineering",
     "related": {
@@ -1131,6 +1181,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:46:50+00:00",
+    "alias": "/course-descriptions/subject/botav",
     "field_tax_subject_notes": "All undergraduate courses in Botany are listed under Biology.",
     "field_tax_subject_title": "Botany",
     "related": {
@@ -1154,6 +1205,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/busiv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Business",
     "related": {
@@ -1176,6 +1228,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/capv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Coordinated Arts Program",
     "related": {
@@ -1198,6 +1251,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/capsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Cellular, Anatomical and Physiological Sciences",
     "related": {
@@ -1221,6 +1275,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ccfiv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Centre for Cross-Faculty Inquiry",
     "related": {
@@ -1243,6 +1298,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ccstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Critical and Curatorial Studies",
     "related": {
@@ -1265,6 +1321,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cdstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Canadian Studies",
     "related": {
@@ -1287,6 +1344,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ceenv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Clean Energy Engineering",
     "related": {
@@ -1310,6 +1368,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cellv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Cell and Developmental Biology",
     "related": {
@@ -1332,6 +1391,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/censv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Central, Eastern and Northern European Studies",
     "related": {
@@ -1355,6 +1415,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/chbev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Chemical and Biological Engineering",
     "related": {
@@ -1378,6 +1439,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:48:04+00:00",
+    "alias": "/course-descriptions/subject/chemv",
     "field_tax_subject_notes": "Students without BC Secondary School Chemistry 12 or equivalent are required to take the UBC Chemistry Basic Skills Test. Students receiving a satisfactory score on this Test take CHEM_V 111. With permission of the department head, students not receiving a satisfactory score on this Test take CHEM_V 100. Students with credit for CHEM_V 100 may take CHEM_V 121. Students with BC Secondary School Chemistry 12 or equivalent must take CHEM_V 121, CHEM_V 141 or CHEM_V 154. CHEM_V 100 and CHEM_V 111 are not open to students with credit for Chemistry 12. CHEM_V 141 is suggested for students with an academic interest in lab-focused sciences such as Chemistry, Biochemistry, or similar subjects. Students with credit for CHEM_V 111, CHEM_V 121 or CHEM_V 141 may take CHEM_V 123, a requirement for many Science programs. The following courses are for students in the Faculty of Applied Science: CHEM_V 154, CHEM_V 250, CHEM_V 251, CHEM_V 260. The Department lists courses that comprise the individual lecture and laboratory components for courses that contain both. The course(s) that may substitute are: \"\"\"\" CHEM_V 111 (4) = CHEM_V 110 (3) and CHEM_V 115 (1) \"\"\"\" CHEM_V 121 (4) = CHEM_V 120 (3) and CHEM_V 115 (1) \"\"\"\" CHEM_V 123 (4) = CHEM_V 130 (3) and CHEM_V 135 (1) \"\"\"\" CHEM_V 203 (4) = CHEM_V 223 (3) and CHEM_V 225 (1) \"\"\"\" CHEM_V 211 (4) = CHEM_V 210 (3) and CHEM_V 215 (1)\r\n\r\nTransfer students with 4 credits of CHEM 1st will be deemed to have satisfied the requirement of CHEM_V 121. Transfer students with 8 credits of CHEM 1st will be deemed to have satisfied both the CHEM_V 121 and CHEM_V 123 requirements.",
     "field_tax_subject_title": "Chemistry",
     "related": {
@@ -1401,6 +1463,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/chilv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Children's Literature",
     "related": {
@@ -1424,6 +1487,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:00+00:00",
+    "alias": "/course-descriptions/subject/chinv",
     "field_tax_subject_notes": "For each academic session (W and S), prior to registration in any CHIN_V course, students are required to complete the online Chinese Placement Questionnaire at https://placement.asia.ubc.ca/ to obtain a placement approval certificate. Students are only eligible for courses listed on their placement approval certificate. Please contact the placement coordinator at chinese.placement@ubc.ca if there are any concerns about the placement approval certificate. Please submit the certificate to the Instructor on the first day of class. For more information on placement approval, please visit Placement Tests at http://asia.ubc.ca/undergraduate/placement-tests/. Note: Students must obtain a minimum grade of 60% to advance to the next level of language. This applies to all students in CHIN_V language courses, not just language majors.",
     "field_tax_subject_title": "Chinese",
     "related": {
@@ -1447,6 +1511,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cinev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Cinema Studies",
     "related": {
@@ -1470,6 +1535,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/civlv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Civil Engineering",
     "related": {
@@ -1493,6 +1559,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:12+00:00",
+    "alias": "/course-descriptions/subject/clstv",
     "field_tax_subject_notes": "CLST_V, RELG_V, NEST_V, and CNRS_V are all now AMNE_V courses. For current listings, please check https://amne.ubc.ca/",
     "field_tax_subject_title": "Classical Studies",
     "related": {
@@ -1516,6 +1583,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cmstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Cinema and Media Studies",
     "related": {
@@ -1539,6 +1607,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cnpsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Counselling Psychology",
     "related": {
@@ -1562,6 +1631,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:46:56+00:00",
+    "alias": "/course-descriptions/subject/cntov",
     "field_tax_subject_notes": "All students who wish to take CNTO_V courses are required to complete an online questionnaire PRIOR to registration. To get your placement approval, please go to https://placement.asia.ubc.ca/",
     "field_tax_subject_title": "Cantonese",
     "related": {
@@ -1585,6 +1655,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/coecv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Commerce Economics",
     "related": {
@@ -1607,6 +1678,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cogsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Cognitive Systems Program",
     "related": {
@@ -1629,6 +1701,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cohrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Commerce Human Resources",
     "related": {
@@ -1651,6 +1724,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/colxv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Computational Linguistics",
     "related": {
@@ -1674,6 +1748,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:19+00:00",
+    "alias": "/course-descriptions/subject/commv",
     "field_tax_subject_notes": "In general, not all of the prerequisites for Commerce courses are listed. Students must be registered in the same year level as the course they intend to register in. For example, eligibility for Commerce 400-level courses requires a student to have completed second and third-year Commerce, and to be registered in fourth year. Students should refer to the Commerce website or contact the Undergraduate Office regarding course prerequisites and variations from standard program sequences. Additional fees are charged for some courses.",
     "field_tax_subject_title": "Commerce",
     "related": {
@@ -1696,6 +1771,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/comrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Commerce Minor",
     "related": {
@@ -1718,6 +1794,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:38+00:00",
+    "alias": "/course-descriptions/subject/consv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Natural Resources Conservation",
     "related": {
@@ -1740,6 +1817,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cpenv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Computer Engineering",
     "related": {
@@ -1762,6 +1840,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:30+00:00",
+    "alias": "/course-descriptions/subject/cpscv",
     "field_tax_subject_notes": "The Department of Computer Science offers several options in first year: CPSC_V 110 is for students pursuing Computer Science specializations or who plan to take CPSC_V 210. CPSC_V 103 targets students desiring an introduction to computing and programming, but with no plans to take further Computer Science courses. CPSC_V 100 targets students desiring a general introduction to computational thinking with little programming. Consult https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-course for more information. Students who have credit for or exemption from APSC_V 160, CPSC_V 107 or CPSC_V 110 may not take CPSC_V 100 or CPSC_V 103. Students with other computer science transfer credit must consult the department. Students currently registered in CPSC_V 110 or with Computer Science credit from another institution may not take APSC_V 160 for credit. Students with sufficient background in the concepts presented in CPSC_V 110 and an advisor's approval are encouraged to challenge CPSC_V 110 for credit by taking an examination. Additional fees are charged for some courses. For more information students are advised to contact the Department of Computer Science or visit its undergraduate website: http://www.cs.ubc.ca/students/undergrad). For information on credit exclusion between CPSC_V and other courses, please consult the Faculty of Science Credit Exclusion List.",
     "field_tax_subject_title": "Computer Science",
     "related": {
@@ -1785,6 +1864,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:36+00:00",
+    "alias": "/course-descriptions/subject/crwrv",
     "field_tax_subject_notes": "For admission requirements for all courses see Creative Writing entry under Arts.",
     "field_tax_subject_title": "Creative Writing",
     "related": {
@@ -1807,6 +1887,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/csisv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Critical Studies in Sexuality",
     "related": {
@@ -1829,6 +1910,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/cspwv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Coordinated Science Program Workshop",
     "related": {
@@ -1851,6 +1933,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ctlnv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Catalan",
     "related": {
@@ -1874,6 +1957,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/daniv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Danish",
     "related": {
@@ -1897,6 +1981,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/dentv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Dentistry",
     "related": {
@@ -1919,6 +2004,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/desv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Design",
     "related": {
@@ -1942,6 +2028,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/dhygv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Dental Hygiene",
     "related": {
@@ -1964,6 +2051,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/dmedv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Digital Media",
     "related": {
@@ -1986,6 +2074,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/dsciv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Data Science",
     "related": {
@@ -2008,6 +2097,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ecedv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Early Childhood Education",
     "related": {
@@ -2030,6 +2120,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:41+00:00",
+    "alias": "/course-descriptions/subject/econv",
     "field_tax_subject_notes": "For course prerequisites purposes: ECON_V 101 is equivalent to ECON_V 310; ECON_V 102 is equivalent to ECON_V 311. Many courses in Economics have a Mathematics prerequisite of MATH_V 100 (or equivalent) and/or MATH_V 101 (or equivalent). Courses equivalent to MATH_V 100 as a prerequisite are MATH_V 102, 104, 110, 111, 120, 180 and 184. For MATH_V 101 the equivalents are MATH_V 103, 105, and 121.",
     "field_tax_subject_title": "Economics",
     "related": {
@@ -2053,6 +2144,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:46+00:00",
+    "alias": "/course-descriptions/subject/ecpsv",
     "field_tax_subject_notes": "For a list of subjects and corresponding departments within the Faculty of Education, see the tables \"Courses in the Faculty of Education\" at the beginning of the Courses section.",
     "field_tax_subject_title": "Educational & Counselling Psychology, & Special Education",
     "related": {
@@ -2076,6 +2168,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/edcpv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Curriculum and Pedagogy",
     "related": {
@@ -2099,6 +2192,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/edstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Educational Studies",
     "related": {
@@ -2122,6 +2216,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/educv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Education",
     "related": {
@@ -2144,6 +2239,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/eecev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Electrical and Computer Engineering",
     "related": {
@@ -2166,6 +2262,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/elecv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Electrical Engineering",
     "related": {
@@ -2188,6 +2285,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/embav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Executive M.B.A.",
     "related": {
@@ -2210,6 +2308,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/englv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "English",
     "related": {
@@ -2232,6 +2331,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/enphv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Engineering Physics",
     "related": {
@@ -2255,6 +2355,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/enppv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Engineering and Public Policy",
     "related": {
@@ -2277,6 +2378,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ensov",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Environment and Society",
     "related": {
@@ -2299,6 +2401,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/enstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Environment and Sustainability",
     "related": {
@@ -2322,6 +2425,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/envev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Environmental Engineering",
     "related": {
@@ -2345,6 +2449,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/envrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Environmental Science",
     "related": {
@@ -2368,6 +2473,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/eoscv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Earth and Ocean Sciences",
     "related": {
@@ -2391,6 +2497,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:50+00:00",
+    "alias": "/course-descriptions/subject/epsev",
     "field_tax_subject_notes": "For a list of subjects and corresponding departments within the Faculty of Education, see the tables \"Courses in the Faculty of Education\" at the beginning of the Courses section.",
     "field_tax_subject_title": "Educational Psychology and Special Education",
     "related": {
@@ -2414,6 +2521,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/etecv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Educational Technology",
     "related": {
@@ -2436,6 +2544,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/exchv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Exchange Programs",
     "related": {
@@ -2457,6 +2566,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/exgrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Exchange Graduate Research",
     "related": {
@@ -2478,6 +2588,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:09+00:00",
+    "alias": "/course-descriptions/subject/fcorv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Forestry Core",
     "related": {
@@ -2500,6 +2611,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fiprv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Film Production",
     "related": {
@@ -2523,6 +2635,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fishv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Fisheries Research",
     "related": {
@@ -2545,6 +2658,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fmprv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Family Practice",
     "related": {
@@ -2568,6 +2682,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fmstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Family Studies",
     "related": {
@@ -2591,6 +2706,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fnelv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "First Nations and Endangered Languages Program",
     "related": {
@@ -2613,6 +2729,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fnhv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Food, Nutrition and Health",
     "related": {
@@ -2635,6 +2752,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/fnisv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "First Nations and Indigenous Studies",
     "related": {
@@ -2657,6 +2775,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:56+00:00",
+    "alias": "/course-descriptions/subject/foodv",
     "field_tax_subject_notes": "Undergraduate courses have been re-named as Food, Nutrition and Health (FNH_V). Please see this section.",
     "field_tax_subject_title": "Food Science",
     "related": {
@@ -2679,6 +2798,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:14+00:00",
+    "alias": "/course-descriptions/subject/fopev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Forestry Online Professional Education",
     "related": {
@@ -2701,6 +2821,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:00+00:00",
+    "alias": "/course-descriptions/subject/foprv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Forest Operations",
     "related": {
@@ -2723,6 +2844,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/frev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Food and Resource Economics",
     "related": {
@@ -2745,6 +2867,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:51:07+00:00",
+    "alias": "/course-descriptions/subject/frenv",
     "field_tax_subject_notes": "Prior to registration in any FREN_V language course, students are required to review the French Placement Guidelines available at https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/ and complete the French Language background survey. After completing the questionnaire, students will be directed on how to take a Placement Test if needed. Please contact the Department Advisor with questions at fhis.undergrad@ubc.ca.\r\n\r\nStudents who do not follow the placement procedure and are identified as overqualified in a FREN_V language course will be removed from the course during the add/drop period of the registration term and no longer eligible to receive credit for the same course in the future.  \r\n\r\nWithin the prerequisites, CEFR refers to the Common European Framework of Reference for Languages (CEFR). The CEFR is a reference tool developed by the Council of Europe to provide a common basis for the development of modern-language curriculum guidelines, examinations, textbooks, etc. ",
     "field_tax_subject_title": "French",
     "related": {
@@ -2768,6 +2891,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:05+00:00",
+    "alias": "/course-descriptions/subject/frstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Forestry",
     "related": {
@@ -2790,6 +2914,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:45:16+00:00",
+    "alias": "/course-descriptions/subject/fsctv",
     "field_tax_subject_notes": "The following UBC Senate approved courses are restricted to students enrolled in the Joint Degree Combined Honours Bachelor of Science in Biochemistry and Forensic Science. They are taught at the British Columbia Institute of Technology (BCIT) campus and show on the BCIT transcript under the BCIT course numbers.",
     "field_tax_subject_title": "Biochemistry and Forensic Science",
     "related": {
@@ -2813,6 +2938,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:19+00:00",
+    "alias": "/course-descriptions/subject/gemv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Geomatics for Environmental Management",
     "related": {
@@ -2835,6 +2961,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:54:39+00:00",
+    "alias": "/course-descriptions/subject/geogv",
     "field_tax_subject_notes": "Courses having Science credit in Geography are listed separately in the calendar under GEOS_V (Geographical Sciences). Students seeking to obtain their Science requirement in the Faculty of Arts should consider GEOS_V 102 and GEOS_V 103. For detailed information about courses and topics within courses, see the departmental website (www.geog.ubc.ca).",
     "field_tax_subject_title": "Geography",
     "related": {
@@ -2858,6 +2985,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:54:35+00:00",
+    "alias": "/course-descriptions/subject/geosv",
     "field_tax_subject_notes": "All GEOB_V and GEOS_V courses carry Science credit and therefore may not be used by B.Sc. students to satisfy the Faculty of Science requirements for credits in Arts. Only Geography courses carrying the GEOG_V designation may be used to satisfy the Faculty of Science requirements for credits in Arts. As of Summer Session 2021, all GEOB_V courses have been renamed GEOS_V [https://vancouver.calendar.ubc.ca/course-descriptions/subject/geosv] with equivalent course numbers.",
     "field_tax_subject_title": "Geographical Sciences",
     "related": {
@@ -2881,6 +3009,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:54:44+00:00",
+    "alias": "/course-descriptions/subject/gernv",
     "field_tax_subject_notes": "All GERN_V-coded courses are conducted in German-plus (i.e., German, plus any additional multilingual experiences students bring to the course). By plus, we mean that no classroom is ever monolingual; students bring all of their languages to class with them and use those languages implicitly to help improve their German knowledge. For German Studies courses taught in English-plus, please see GMST_V-coded courses.",
     "field_tax_subject_title": "German",
     "related": {
@@ -2904,6 +3033,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/glbhv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Global Health",
     "related": {
@@ -2926,6 +3056,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:54:48+00:00",
+    "alias": "/course-descriptions/subject/gmstv",
     "field_tax_subject_notes": "All GMST_V-coded courses are conducted in English-plus. For German Studies courses taught in German plus, please see GERN_V-coded courses. By plus, we mean that no classroom is ever monolingual; students bring all of their languages to class with them and use those languages implicitly to help improve their German knowledge.",
     "field_tax_subject_title": "Germanic Studies",
     "related": {
@@ -2949,6 +3080,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:54:54+00:00",
+    "alias": "/course-descriptions/subject/grekv",
     "field_tax_subject_notes": "Not all courses are offered every year. For current listings, consult the departmental website at: https://amne.ubc.ca/.",
     "field_tax_subject_title": "Greek",
     "related": {
@@ -2972,6 +3104,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/grsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Global Resource Systems",
     "related": {
@@ -2994,6 +3127,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/grsjv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Gender, Race, Sexuality and Social Justice",
     "related": {
@@ -3016,6 +3150,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/gsatv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Genome Science and Technology",
     "related": {
@@ -3038,6 +3173,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:54:59+00:00",
+    "alias": "/course-descriptions/subject/hebrv",
     "field_tax_subject_notes": "Not all courses are offered every year. For current listings, consult the departmental website at: https://amne.ubc.ca/.",
     "field_tax_subject_title": "Hebrew",
     "related": {
@@ -3061,6 +3197,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/hesov",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Health and Society",
     "related": {
@@ -3083,6 +3220,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:23+00:00",
+    "alias": "/course-descriptions/subject/hgsev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Haida Gwaii Semesters",
     "related": {
@@ -3105,6 +3243,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/hinuv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Hindi-Urdu",
     "related": {
@@ -3128,6 +3267,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/histv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "History",
     "related": {
@@ -3151,6 +3291,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/hpbv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "High Performance Buildings",
     "related": {
@@ -3174,6 +3315,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:55:05+00:00",
+    "alias": "/course-descriptions/subject/hunuv",
     "field_tax_subject_notes": "Most of the undergraduate courses have been renamed as Food, Nutrition and Health (FNH_V). Please see this section.",
     "field_tax_subject_title": "Human Nutrition",
     "related": {
@@ -3196,6 +3338,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/iarv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Institute of Asian Research",
     "related": {
@@ -3218,6 +3361,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/iestv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "European Studies",
     "related": {
@@ -3240,6 +3384,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/igenv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Integrated Engineering",
     "related": {
@@ -3262,6 +3407,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:27+00:00",
+    "alias": "/course-descriptions/subject/ilsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Indigenous Land Stewardship",
     "related": {
@@ -3284,6 +3430,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/indov",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Indonesian",
     "related": {
@@ -3307,6 +3454,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/indsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Interdisciplinary Studies",
     "related": {
@@ -3329,6 +3477,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/infov",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Information Studies",
     "related": {
@@ -3352,6 +3501,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/inlbv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Indigenous Land-Based Studies",
     "related": {
@@ -3374,6 +3524,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/intrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "International Relations",
     "related": {
@@ -3396,6 +3547,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/isciv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Integrated Sciences",
     "related": {
@@ -3418,6 +3570,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:55:21+00:00",
+    "alias": "/course-descriptions/subject/italv",
     "field_tax_subject_notes": "All ITAL_V courses are conducted in Italian and will fulfill the Language as Meaning requirement for Ways of Knowing Breadth Requirement. For Italian Studies courses taught in English, please see RMST_V courses at https://vancouver.calendar.ubc.ca/course-descriptions/subject/rmstv.\r\n\r\nFor each academic session, prior to registration in any ITAL_V course, students are required to complete the online Italian Placement Questionnaire at https://fhis.air.arts.ubc.ca/italian-placement-questionnaire-tool/. Please contact the Student Programs Coordinator at https://fhis.ubc.ca/undergraduate-advising-contact-form/ if there are any concerns about the Placement Questionnaire.\r\n\r\nNote: The Common European Framework of Reference for Languages (CEFR) is a reference tool developed by the Council of Europe to provide a common basis for the development of modern-language curriculum guidelines, examinations, textbooks, etc. It describes in a comprehensive way what language learners have to learn in order to use a language for communication and what knowledge and skills they have to develop so as to be able to do so effectively.",
     "field_tax_subject_title": "Italian",
     "related": {
@@ -3441,6 +3594,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/iwmev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Integrated Water Management Engineering",
     "related": {
@@ -3464,6 +3618,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:55:35+00:00",
+    "alias": "/course-descriptions/subject/japnv",
     "field_tax_subject_notes": "For each academic session (W and S), prior to registration in any JAPN_V course, students are required to review the Japanese Registration Guidelines available at https://asia.ubc.ca/undergraduate/asian-language-options/japanese/ to determine if a Japanese Placement Test is required. (If the Placement Test is required, the link to take the test can also be found at this same page.) Note: Students must obtain a minimum grade of 60% to advance to the next level of language. This applies to all students in JAPN_V language courses, not just language majors.",
     "field_tax_subject_title": "Japanese",
     "related": {
@@ -3487,6 +3642,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/jrnlv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Journalism",
     "related": {
@@ -3510,6 +3666,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/jwstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Jewish Studies",
     "related": {
@@ -3532,6 +3689,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/kinv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Kinesiology",
     "related": {
@@ -3555,6 +3713,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:55:42+00:00",
+    "alias": "/course-descriptions/subject/kornv",
     "field_tax_subject_notes": "For each academic session (W and S), prior to registration in any KORN_V course, students are required to complete the Korean Placement Interview. For more information, please visit http://asia.ubc.ca/undergraduate/placement-tests/. Note: Students must obtain a minimum grade of 60% to advance to the next level of language. This applies to all students in KORN_V language courses, not just language majors.",
     "field_tax_subject_title": "Korean",
     "related": {
@@ -3578,6 +3737,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/laisv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Library, Archival and Information Studies",
     "related": {
@@ -3601,6 +3761,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/larcv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Landscape Architecture",
     "related": {
@@ -3624,6 +3785,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/lasov",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Law and Society",
     "related": {
@@ -3646,6 +3808,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/lastv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Latin American Studies",
     "related": {
@@ -3668,6 +3831,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:11+00:00",
+    "alias": "/course-descriptions/subject/latnv",
     "field_tax_subject_notes": "Not all courses are offered every year. For current listings, consult the departmental website at: https://amne.ubc.ca/.",
     "field_tax_subject_title": "Latin",
     "related": {
@@ -3691,6 +3855,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:17+00:00",
+    "alias": "/course-descriptions/subject/lawv",
     "field_tax_subject_notes": "Law courses are restricted to students enrolled in programs within the Peter A. Allard School of Law, and in the same academic level as the course. Students should refer to the Allard website regarding course prerequisites and availability for visiting and exchange Law students.",
     "field_tax_subject_title": "Law",
     "related": {
@@ -3713,6 +3878,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:58:44+00:00",
+    "alias": "/course-descriptions/subject/lfsv",
     "field_tax_subject_notes": "As of July 1, 2015, the IHHS_V courses have been distributed among the following units: School of Social Work, School of Population and Public Health, and Faculty of Land and Food Systems.",
     "field_tax_subject_title": "Land & Food Systems",
     "related": {
@@ -3735,6 +3901,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/libev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Teacher Librarianship",
     "related": {
@@ -3758,6 +3925,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/librv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Library and Information Studies",
     "related": {
@@ -3781,6 +3949,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/lingv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Linguistics",
     "related": {
@@ -3804,6 +3973,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/lledv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Language and Literacy Education",
     "related": {
@@ -3827,6 +3997,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/lwsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Land and Water Systems",
     "related": {
@@ -3849,6 +4020,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/manuv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Manufacturing Engineering",
     "related": {
@@ -3872,6 +4044,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:29+00:00",
+    "alias": "/course-descriptions/subject/mathv",
     "field_tax_subject_notes": "The first digit in the number of a course is intended to convey the level of mathematical maturity at which the course is conducted rather than the year in which it must be taken. Students who expect to follow an Honours Science program or one with high mathematical content are urged to apply for admission to MATH_V 120 and 121. The following courses are for students in the Faculty of Applied Science: MATH_V 152, MATH_V 253, MATH_V 255, MATH_V 256, MATH_V 257, MATH_V 265, MATH_V 267. Secondary-school calculus is a prerequisite for MATH_V 100, 102, and 104. Students with this qualification should see \"UBC-SFU-UVIC-UNBC Calculus Examination Certificate\" in the Admissions section (https://vancouver.calendar.ubc.ca/admissions/advanced-credit-or-placement). MATH_V 180 and 184 are designed for students without high-school calculus. Continuing Studies offers MATH_V 001, 002, 003, and 004, refresher courses in pre-calculus material. Students with credit for MATH_V 110, 180, or 184 will be deemed to have satisfied MATH_V 100, 102, and 104 requirements. For further information see the department's website at www.math.ubc.ca.",
     "field_tax_subject_title": "Mathematics",
     "related": {
@@ -3895,6 +4068,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/mdiav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Media Studies",
     "related": {
@@ -3917,6 +4091,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:41+00:00",
+    "alias": "/course-descriptions/subject/mdvlv",
     "field_tax_subject_notes": "See Medieval Studies under the Faculty of Arts section of the Calendar for other acceptable courses.",
     "field_tax_subject_title": "Medieval Studies",
     "related": {
@@ -3939,6 +4114,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/mechv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Mechanical Engineering",
     "related": {
@@ -3962,6 +4138,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/meddv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Doctor of Medicine",
     "related": {
@@ -3984,6 +4161,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/medgv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Medical Genetics",
     "related": {
@@ -4007,6 +4185,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:36+00:00",
+    "alias": "/course-descriptions/subject/mediv",
     "field_tax_subject_notes": "See also courses listed under: Anatomy, Biochemistry, Family Practice, Health Care and Epidemiology, Health Sciences, History of Medicine, Interdepartmental, Medical Genetics, Medicine, Microbiology, Obstetrics and Gynaecology, Ophthalmology, Orthopaedics, Pediatrics, Pathology, Pharmacology and Therapeutics, Physiology, Psychiatry, Radiology, Surgery.",
     "field_tax_subject_title": "Medicine",
     "related": {
@@ -4030,6 +4209,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/mesv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Middle East Studies",
     "related": {
@@ -4052,6 +4232,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T20:10:30+00:00",
+    "alias": "/course-descriptions/subject/mgmtv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Management",
     "related": {
@@ -4074,6 +4255,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:49+00:00",
+    "alias": "/course-descriptions/subject/micbv",
     "field_tax_subject_notes": "Some MICB_V courses are credit-excluded with each other or courses offered by other departments. Students should consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists.",
     "field_tax_subject_title": "Microbiology",
     "related": {
@@ -4097,6 +4279,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/midwv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Midwifery",
     "related": {
@@ -4120,6 +4303,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/minev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Mining Engineering",
     "related": {
@@ -4143,6 +4327,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:22+00:00",
+    "alias": "/course-descriptions/subject/mrnev",
     "field_tax_subject_notes": "All MRNE_V courses are field-based courses offered at the Bamfield Marine Sciences Centre for upper-level Biology credit. Please visit www.bamfieldmsc.com for more information.",
     "field_tax_subject_title": "Marine Science",
     "related": {
@@ -4166,6 +4351,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/mtrlv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Materials Engineering",
     "related": {
@@ -4189,6 +4375,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/muscv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Music",
     "related": {
@@ -4212,6 +4399,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/namev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Naval Architecture and Marine Engineering",
     "related": {
@@ -4235,6 +4423,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/neplv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Nepali",
     "related": {
@@ -4258,6 +4447,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:59:54+00:00",
+    "alias": "/course-descriptions/subject/nestv",
     "field_tax_subject_notes": "CLST_V, RELG_V, NEST_V, and CNRS_V are all now AMNE_V courses. For current listings, please check https://amne.ubc.ca/.",
     "field_tax_subject_title": "Near Eastern Studies",
     "related": {
@@ -4281,6 +4471,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/neurv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Neurosurgery",
     "related": {
@@ -4304,6 +4495,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/nordv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Nordic Studies",
     "related": {
@@ -4327,6 +4519,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:31+00:00",
+    "alias": "/course-descriptions/subject/nresv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Natural Resources",
     "related": {
@@ -4349,6 +4542,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/nrscv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Neuroscience",
     "related": {
@@ -4371,6 +4565,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/nsciv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Neuroscience Undergraduate",
     "related": {
@@ -4393,6 +4588,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:05+00:00",
+    "alias": "/course-descriptions/subject/nursv",
     "field_tax_subject_notes": "In the clinical nursing courses the ratio between class and supervised nursing experience varies but in the overall program it is approximately 1:3; the credit values for these courses are based on both instruction and supervised nursing experience.",
     "field_tax_subject_title": "Nursing",
     "related": {
@@ -4416,6 +4612,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/obmsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Oral Biological Medical Sciences",
     "related": {
@@ -4438,6 +4635,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/obstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Obstetrics and Gynaecology",
     "related": {
@@ -4461,6 +4659,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ohsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Oral Health Sciences",
     "related": {
@@ -4483,6 +4682,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/oncov",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Oncology",
     "related": {
@@ -4505,6 +4705,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/orpav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Orthopaedics",
     "related": {
@@ -4528,6 +4729,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/osotv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Occupational Science and Occupational Therapy",
     "related": {
@@ -4551,6 +4753,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/pathv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Pathology",
     "related": {
@@ -4574,6 +4777,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/pcthv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Pharmacology and Therapeutics",
     "related": {
@@ -4596,6 +4800,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:07+00:00",
+    "alias": "/course-descriptions/subject/persv",
     "field_tax_subject_notes": "For each academic session (W and S), prior to registration in any PERS_V course, students should review the Persian Registration Guidelines available at https://asia.ubc.ca/undergraduate/asian-language-options/persian/ to determine which course is appropriate for their level.",
     "field_tax_subject_title": "Persian",
     "related": {
@@ -4619,6 +4824,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/pharv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Pharmaceutical Sciences",
     "related": {
@@ -4641,6 +4847,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:13+00:00",
+    "alias": "/course-descriptions/subject/philv",
     "field_tax_subject_notes": "Philosophy is an interdisciplinary subject, and students with training in other subjects may be adequately prepared to take on a course even though they lack the formal prerequisites. Students are encouraged to consult with the instructor. Variable credit courses: Most 200-, 300-, and 400-level courses in Philosophy are offered for 3 credits, but may be taken for 4 credits for extra work with the consent of the instructor. Students should consult the instructor if they wish to exercise this option as it may not be available in all sections. For detailed information about courses and topics within courses, see the departmental website (https://philosophy.ubc.ca/).",
     "field_tax_subject_title": "Philosophy",
     "related": {
@@ -4664,6 +4871,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/phrmv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Pharmacy",
     "related": {
@@ -4686,6 +4894,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/phthv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Physical Therapy",
     "related": {
@@ -4709,6 +4918,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:47:56+00:00",
+    "alias": "/course-descriptions/subject/phylv",
     "field_tax_subject_notes": "As of Summer Session 2013, all undergraduate PHYL_V courses have been renamed CAPS_V with equivalent course numbers.",
     "field_tax_subject_title": "Cellular and Physiological Sciences",
     "related": {
@@ -4731,6 +4941,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:23+00:00",
+    "alias": "/course-descriptions/subject/physv",
     "field_tax_subject_notes": "Science students with BC Secondary School Physics 11, but not Physics 12, are required to take PHYS_V 100. PHYS_V 100 is intended primarily for students who have completed only Physics 11 or its equivalent. Credit will not be given for PHYS_V 100 to students with credit for Physics 12 unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS_V 100. Most Science degree specializations require at least one or two terms of physics beyond Physics 12 or PHYS_V 100. Science One is considered to include two terms of physics. Credit will be given for only one of PHYS_V 117, PHYS_V 106, PHYS_V 107 and for only one of PHYS_V 102, PHYS_V 108, PHYS_V 118. Many other PHYS_V courses are credit-excluded with each other, or with courses in other departments. Students should consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists.\r\n\r\nTransfer students with 3 credits of PHYS 1st will be deemed to have satisfied all PHYS_V 101, 106, 107, all 131 requirements. Transfer students with 6 credits of PHYS 1st will be deemed to have satisfied all PHYS_V 101, 106, 107, 131 and PHYS_V 108 or 118 requirements. Students who have completed a physics laboratory experience with their transfer credit can apply for an exemption for PHYS_V 119 through the Department of Physics and Astronomy (https://phas.ubc.ca/students/contact-us).",
     "field_tax_subject_title": "Physics",
     "related": {
@@ -4754,6 +4965,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T22:50:24+00:00",
+    "alias": "/course-descriptions/subject/planv",
     "field_tax_subject_notes": "Not all courses offered each year.",
     "field_tax_subject_title": "Community and Regional Planning",
     "related": {
@@ -4777,6 +4989,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/plntv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Plant Science",
     "related": {
@@ -4799,6 +5012,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:42+00:00",
+    "alias": "/course-descriptions/subject/poliv",
     "field_tax_subject_notes": "For details of courses consult the Departmental website at www.politics.ubc.ca.",
     "field_tax_subject_title": "Political Science",
     "related": {
@@ -4822,6 +5036,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:36+00:00",
+    "alias": "/course-descriptions/subject/polsv",
     "field_tax_subject_notes": "All POLS_V coded courses are conducted in Polish-plus (i.e., Polish, plus any additional multilingual experiences students bring to the course). By “plus”, we mean that no classroom is ever monolingual; students bring all of their languages to class with them and use those languages implicitly to help improve their Polish knowledge.\r\n\r\nFor Slavic and Eastern European Studies courses conducted in English-plus, including Polish literature and culture courses, please see SLAV_V coded courses.",
     "field_tax_subject_title": "Polish",
     "related": {
@@ -4845,6 +5060,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:00:49+00:00",
+    "alias": "/course-descriptions/subject/portv",
     "field_tax_subject_notes": "All PORT_V courses are conducted in Portuguese and will fulfill the Language as Meaning requirement for Ways of Knowing Breadth Requirement. For Lusophone Studies courses taught in English, please see RMST_V courses at https://vancouver.calendar.ubc.ca/course-descriptions/subject/rmstv.\r\n\r\nWithin the prerequisites, CEFR refers to the Common European Framework of Reference for Languages (CEFR). The CEFR is a reference tool developed by the Council of Europe to provide a common basis for the development of modern-language curriculum guidelines, examinations, textbooks, etc. Please contact the Student Programs Coordinator with questions at fhis.undergrad@ubc.ca.",
     "field_tax_subject_title": "Portuguese",
     "related": {
@@ -4868,6 +5084,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ppgav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Public Policy and Global Affairs",
     "related": {
@@ -4890,6 +5107,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:02:40+00:00",
+    "alias": "/course-descriptions/subject/psycv",
     "field_tax_subject_notes": "Unless otherwise specified, the prerequisite for 300-level Psychology courses is 6 credits of 100-level or 200-level PSYC_V courses (PSYC_V 216 or PSYC_V 217 or PSYC_V 277 strongly recommended), or permission of the instructor. For students registered in the B.Sc. Behavioural Neuroscience program, a maximum of 6 credits of Psychology courses can be used towards the Faculty of Science Arts requirement (https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/science-and-arts-requirements). All Psychology courses numbered 60 to 89 in the last two digits have Science credit. Listed below are courses in which there is sufficient overlap that credit may be obtained for only one course in each list. However, it does not necessarily follow that the listed courses are equivalent: (1) PSYC_V 304, 324, 360, 370; (2) PSYC_V 304, 344, 360, 371; (3) PSYC_V 217, 277, 366; (4) PSYC_V 218, 278, 366. Not every course is offered every year. For current listings, consult the departmental website at www.psych.ubc.ca.",
     "field_tax_subject_title": "Psychology",
     "related": {
@@ -4913,6 +5131,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/psytv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Psychiatry",
     "related": {
@@ -4936,6 +5155,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/punjv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Punjabi",
     "related": {
@@ -4959,6 +5179,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/radiv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Radiology",
     "related": {
@@ -4982,6 +5203,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/radsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Interdisciplinary Radiology",
     "related": {
@@ -5005,6 +5227,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:02:45+00:00",
+    "alias": "/course-descriptions/subject/relgv",
     "field_tax_subject_notes": "CLST_V, RELG_V, NEST_V, and CNRS_V are all now AMNE_V courses. For current listings, please check https://amne.ubc.ca/.",
     "field_tax_subject_title": "Religious Studies",
     "related": {
@@ -5028,6 +5251,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/resv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Resources, Environment and Sustainability",
     "related": {
@@ -5050,6 +5274,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/rgstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Study of Religion",
     "related": {
@@ -5072,6 +5297,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/rhscv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Rehabilitation Sciences",
     "related": {
@@ -5095,6 +5321,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:02:49+00:00",
+    "alias": "/course-descriptions/subject/rmstv",
     "field_tax_subject_notes": "All RMST_V courses are conducted in English and will fulfill the Humanities and Creative Arts requirement for Ways of Knowing Breadth Requirement.",
     "field_tax_subject_title": "Romance Studies",
     "related": {
@@ -5118,6 +5345,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:02:57+00:00",
+    "alias": "/course-descriptions/subject/russv",
     "field_tax_subject_notes": "All RUSS_V coded courses are conducted in Russian-plus (i.e., Russian, plus any additional multilingual experiences students bring to the course). By “plus”, we mean that no classroom is ever monolingual; students bring all of their languages to class with them and use those languages implicitly to help improve their Russian knowledge.\r\n\r\nFor Slavic and Eastern European Studies courses conducted in English-plus, including Russophone and Russian literature and culture courses, please see SLAV_V coded courses.",
     "field_tax_subject_title": "Russian",
     "related": {
@@ -5141,6 +5369,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/sansv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Sanskrit",
     "related": {
@@ -5164,6 +5393,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/sciev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Science",
     "related": {
@@ -5186,6 +5416,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/sealv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Southeast Asian Languages",
     "related": {
@@ -5209,6 +5440,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/sgesv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Smart Grid Energy Systems",
     "related": {
@@ -5231,6 +5463,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:03:04+00:00",
+    "alias": "/course-descriptions/subject/slavv",
     "field_tax_subject_notes": "All SLAV_V coded courses are conducted in English-plus.\r\n\r\nFor Slavic and Eastern European Studies courses taught in Polish-plus, Russian-plus and Ukrainian-plus, please see POLS_V coded, RUSS_V coded and UKRN_V coded courses. By “plus”, we mean that no classroom is ever monolingual; students bring all of their languages to class with them and use those languages implicitly to help improve their Polish, Russian, and Ukrainian knowledge.",
     "field_tax_subject_title": "Slavic and Eastern European Studies",
     "related": {
@@ -5254,6 +5487,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/soalv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "South Asian Languages",
     "related": {
@@ -5277,6 +5511,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/sociv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Sociology",
     "related": {
@@ -5300,6 +5535,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/soilv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Soil Science",
     "related": {
@@ -5322,6 +5558,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:03:09+00:00",
+    "alias": "/course-descriptions/subject/sowkv",
     "field_tax_subject_notes": "As of July 1, 2015, the IHHS_V courses have been distributed among the following units: School of Social Work, School of Population and Public Health, and Faculty of Land and Food Systems.",
     "field_tax_subject_title": "Social Work",
     "related": {
@@ -5345,6 +5582,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:04:02+00:00",
+    "alias": "/course-descriptions/subject/spanv",
     "field_tax_subject_notes": "Prior to registration in any SPAN_V course, students are required to review the Spanish Placement Guidelines https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/spanish-language-placement-guidelines/ to determine their entry level. If they have any questions on placement, please contact the Student Programs Coordinator at fhis.undergrad@ubc.ca.\r\n\r\nWithin the prerequisites, CEFR refers to the Common European Framework of Reference for Languages (CEFR). The CEFR is a reference tool developed by the Council of Europe to provide a common basis for the development of modern-language curriculum guidelines, examinations, textbooks, etc.",
     "field_tax_subject_title": "Spanish",
     "related": {
@@ -5368,6 +5606,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/spev",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Sustainable Process Engineering",
     "related": {
@@ -5391,6 +5630,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/sphav",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "School of Population & Public Health",
     "related": {
@@ -5413,6 +5653,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/spphv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "School of Population & Public Health",
     "related": {
@@ -5435,6 +5676,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:03:22+00:00",
+    "alias": "/course-descriptions/subject/statv",
     "field_tax_subject_notes": "Introductory courses in probability and statistics are offered by many different departments at UBC. For a list of these courses and details concerning restrictions on the number of credits students may obtain for such courses, see \"Pairing Lists\" and \"Probability and Statistics\" in the Science section. The following course is for students in the Faculty of Applied Science: STAT_V 251. Additional fees are charged for some courses.",
     "field_tax_subject_title": "Statistics",
     "related": {
@@ -5458,6 +5700,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/stsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Science and Technology Studies",
     "related": {
@@ -5480,6 +5723,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/surgv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Surgery",
     "related": {
@@ -5503,6 +5747,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/swahv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Swahili",
     "related": {
@@ -5525,6 +5770,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/swedv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Swedish",
     "related": {
@@ -5548,6 +5794,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/thflv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Theatre And Film",
     "related": {
@@ -5571,6 +5818,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/thtrv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Theatre",
     "related": {
@@ -5594,6 +5842,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/tibtv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Tibetan Languages",
     "related": {
@@ -5617,6 +5866,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/udesv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Urban Design",
     "related": {
@@ -5640,6 +5890,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:43+00:00",
+    "alias": "/course-descriptions/subject/uforv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Urban Forestry",
     "related": {
@@ -5662,6 +5913,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:03:29+00:00",
+    "alias": "/course-descriptions/subject/ukrnv",
     "field_tax_subject_notes": "All UKRN_V coded courses are conducted in Ukrainian-plus (i.e., Ukrainian, plus any additional multilingual experiences students bring to the course). By “plus”, we mean that no classroom is ever monolingual; students bring all of their languages to class with them and use those languages implicitly to help improve their Ukrainian knowledge.\r\n\r\nFor Slavic and Eastern European Studies courses conducted in English-plus, including Ukrainian literature and culture courses, please see SLAV_V coded courses.",
     "field_tax_subject_title": "Ukrainian",
     "related": {
@@ -5685,6 +5937,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/urolv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Urological Surgery",
     "related": {
@@ -5707,6 +5960,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/urstv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Urban Studies",
     "related": {
@@ -5730,6 +5984,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ursyv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Urban Systems",
     "related": {
@@ -5753,6 +6008,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T20:10:38+00:00",
+    "alias": "/course-descriptions/subject/vantv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Vantage College",
     "related": {
@@ -5775,6 +6031,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:03:34+00:00",
+    "alias": "/course-descriptions/subject/visav",
     "field_tax_subject_notes": "Not every course is given every year. For details of current offerings, consult the UBC Course Schedule in Workday at https://myworkday.ubc.ca/. Credit will be given to either the current VISA_V listing or its former VISA_V/FINA_V equivalent. In special circumstances VISA_V 110 may be taken as a co-requisite. A Studio Course Fee will be charged for each 3-credit undergraduate VISA_V course. Fees will be applied toward classroom supplies, equipment, and materials. Fees are included in your tuition.",
     "field_tax_subject_title": "Visual Arts",
     "related": {
@@ -5797,6 +6054,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/vrhcv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Vocational Rehabilitation Counselling",
     "related": {
@@ -5820,6 +6078,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/wachv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Women+ and Children's Health Sciences",
     "related": {
@@ -5843,6 +6102,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:29:47+00:00",
+    "alias": "/course-descriptions/subject/woodv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Wood Products Processing",
     "related": {
@@ -5865,6 +6125,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/wrdsv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Writing, Research, and Discourse Studies",
     "related": {
@@ -5888,6 +6149,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/writv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "University Writing Centre Courses",
     "related": {
@@ -5909,6 +6171,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T19:20:18+00:00",
+    "alias": "/course-descriptions/subject/ydshv",
     "field_tax_subject_notes": null,
     "field_tax_subject_title": "Yiddish",
     "related": {
@@ -5932,6 +6195,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T23:03:40+00:00",
+    "alias": "/course-descriptions/subject/zoolv",
     "field_tax_subject_notes": "All undergraduate courses in Zoology are listed under Biology.",
     "field_tax_subject_title": "Zoology",
     "related": {

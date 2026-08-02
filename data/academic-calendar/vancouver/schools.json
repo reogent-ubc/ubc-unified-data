@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-02-10T22:04:37+00:00",
+    "alias": "/school/school-nursing",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -29,6 +30,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:39:28+00:00",
+    "alias": "/school/school-architecture-and-landscape-architecture",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -48,6 +50,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:39:46+00:00",
+    "alias": "/school/school-journalism-writing-and-media",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -67,6 +70,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:40:01+00:00",
+    "alias": "/school/school-music",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -86,6 +90,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:40:09+00:00",
+    "alias": "/school/school-information",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -105,6 +110,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:40:20+00:00",
+    "alias": "/school/school-social-work",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -124,6 +130,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:40:33+00:00",
+    "alias": "/school/school-audiology-and-speech-sciences",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -143,6 +150,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:44:01+00:00",
+    "alias": "/school/school-biomedical-engineering",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -162,6 +170,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:44:23+00:00",
+    "alias": "/school/school-kinesiology",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -181,6 +190,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:44:45+00:00",
+    "alias": "/school/vancouver-school-economics",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [
@@ -200,6 +210,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:45:16+00:00",
+    "alias": "/school/school-community-and-regional-planning",
     "related": {
       "vid": "bc6919ce-01e2-4279-9ede-76ec6e221ad8",
       "parent": [

@@ -1,2 +1,2 @@
-id,type,nid,status,title,created,changed,body,related
-c5d2094d-9241-4f39-842f-81b55f17e07d,node--map_page,5002,True,Find Parking,2024-07-19T19:38:54+00:00,2024-07-19T19:39:42+00:00,,"{""node_type"": ""e25a3f15-36a4-4b1a-a7e2-05a478759de4"", ""revision_uid"": ""0ffa815e-0525-4346-9905-325a7fefbd28"", ""uid"": ""0ffa815e-0525-4346-9905-325a7fefbd28""}"
+id,type,nid,status,title,created,changed,alias,body,related
+c5d2094d-9241-4f39-842f-81b55f17e07d,node--map_page,5002,True,Find Parking,2024-07-19T19:38:54+00:00,2024-07-19T19:39:42+00:00,/map,,"{""node_type"": ""e25a3f15-36a4-4b1a-a7e2-05a478759de4"", ""revision_uid"": ""0ffa815e-0525-4346-9905-325a7fefbd28"", ""uid"": ""0ffa815e-0525-4346-9905-325a7fefbd28""}"

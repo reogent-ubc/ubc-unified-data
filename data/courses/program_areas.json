@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:07:15+00:00",
+    "alias": "/program-area/bdsc",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -28,6 +29,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:07:21+00:00",
+    "alias": "/program-area/beds",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -46,6 +48,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:07:27+00:00",
+    "alias": "/program-area/beem",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -64,6 +67,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:07:44+00:00",
+    "alias": "/program-area/bmls",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -82,6 +86,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:07:52+00:00",
+    "alias": "/program-area/ma",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -100,6 +105,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:07:57+00:00",
+    "alias": "/program-area/phd",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -118,6 +124,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:08:04+00:00",
+    "alias": "/program-area/scieone",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [
@@ -136,6 +143,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-06-10T22:57:57+00:00",
+    "alias": "/program-area/gdpl",
     "related": {
       "vid": "e227f8da-f356-4863-a2ef-fd2afd71bc2d",
       "parent": [

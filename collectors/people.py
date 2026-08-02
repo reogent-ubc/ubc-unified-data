@@ -97,5 +97,33 @@ class People(Collector):
             profiles.extend(records)
             sites.append({"site": host, "profiles": len(records), "skipped": error})
 
+        out.describe(
+            "profiles",
+            grain="one published faculty or staff profile on one UBC site",
+            columns={
+                "title": "the person's name as the site publishes it",
+                "field_profile_job_title": "their title in the unit",
+                "field_profile_email": "public contact email",
+                "field_profile_phone": "public contact phone",
+                "field_profile_office": "office location, where published",
+                "body": "biography HTML",
+                "site": "which UBC host published it -- the only unit marker there is",
+                "alias": "path on that host; prefix the host for the URL",
+            },
+            joins=[
+                "title ~ courses/sections.field_instructors (by name; there is no shared id)",
+                "site -> people/_sites.site",
+            ],
+        )
+        out.describe(
+            "_sites",
+            grain="one host that was probed for profiles, whether or not it had any",
+            columns={
+                "site": "the host",
+                "profiles": "how many it returned; 0 means it is not on the shared platform",
+                "skipped": "why nothing came back, when nothing did",
+            },
+            joins=["site -> people/profiles.site"],
+        )
         out.table("profiles", profiles)
         out.table("_sites", sites)

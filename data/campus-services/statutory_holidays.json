@@ -1,0 +1,132 @@
+[
+  {
+    "name": "New Year’s Day",
+    "date": "2026-01-01",
+    "weekday": "Thursday",
+    "year": 2026,
+    "month": 1,
+    "date_text": "Thursday, January 1",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Family Day",
+    "date": "2026-02-16",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 2,
+    "date_text": "Monday, February 16",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Good Friday",
+    "date": "2026-04-03",
+    "weekday": "Friday",
+    "year": 2026,
+    "month": 4,
+    "date_text": "Friday, April 3",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Easter Monday",
+    "date": "2026-04-06",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 4,
+    "date_text": "Monday, April 6",
+    "ubc_specific": true,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Victoria Day",
+    "date": "2026-05-18",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 5,
+    "date_text": "Monday, May 18",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Canada Day",
+    "date": "2026-07-01",
+    "weekday": "Wednesday",
+    "year": 2026,
+    "month": 7,
+    "date_text": "Wednesday, July 1",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "BC Day",
+    "date": "2026-08-03",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 8,
+    "date_text": "Monday, August 3",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Labour Day",
+    "date": "2026-09-07",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 9,
+    "date_text": "Monday, September 7",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "National Day for Truth and Reconciliation",
+    "date": "2026-09-30",
+    "weekday": "Wednesday",
+    "year": 2026,
+    "month": 9,
+    "date_text": "Wednesday, September 30",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Thanksgiving Day",
+    "date": "2026-10-12",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 10,
+    "date_text": "Monday, October 12",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Remembrance Day",
+    "date": "2026-11-11",
+    "weekday": "Wednesday",
+    "year": 2026,
+    "month": 11,
+    "date_text": "Wednesday, November 11",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2026-12-25",
+    "weekday": "Friday",
+    "year": 2026,
+    "month": 12,
+    "date_text": "Friday, December 25",
+    "ubc_specific": false,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  },
+  {
+    "name": "Boxing Day",
+    "date": "2026-12-28",
+    "weekday": "Monday",
+    "year": 2026,
+    "month": 12,
+    "date_text": "Monday, December 28 (in lieu)",
+    "ubc_specific": true,
+    "source_url": "https://hr.ubc.ca/working-ubc/statutory-holidays"
+  }
+]

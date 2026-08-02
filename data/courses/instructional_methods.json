@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:46:25+00:00",
+    "alias": "/instructional-method/combination",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -28,6 +29,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:46:34+00:00",
+    "alias": "/instructional-method/discussion",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -46,6 +48,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:46:46+00:00",
+    "alias": "/instructional-method/experiential",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -64,6 +67,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:47:12+00:00",
+    "alias": "/instructional-method/independent-study",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -82,6 +86,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:47:23+00:00",
+    "alias": "/instructional-method/laboratory",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -100,6 +105,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:47:31+00:00",
+    "alias": "/instructional-method/lecture",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -118,6 +124,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:47:39+00:00",
+    "alias": "/instructional-method/recitation",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -136,6 +143,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:47:46+00:00",
+    "alias": "/instructional-method/seminar",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -154,6 +162,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:47:51+00:00",
+    "alias": "/instructional-method/studio",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -172,6 +181,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:48:00+00:00",
+    "alias": "/instructional-method/thesis",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -190,6 +200,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:48:08+00:00",
+    "alias": "/instructional-method/tutorial",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [
@@ -208,6 +219,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:48:14+00:00",
+    "alias": "/instructional-method/workshop",
     "related": {
       "vid": "5a2d1d03-c333-46a4-bcdc-d39faf95495d",
       "parent": [

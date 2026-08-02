@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:08:22+00:00",
+    "alias": "/year/1",
     "related": {
       "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
       "parent": [
@@ -28,6 +29,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:08:28+00:00",
+    "alias": "/year/2",
     "related": {
       "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
       "parent": [
@@ -46,6 +48,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:08:33+00:00",
+    "alias": "/year/3",
     "related": {
       "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
       "parent": [
@@ -64,6 +67,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-23T21:08:38+00:00",
+    "alias": "/year/4",
     "related": {
       "vid": "87d28a38-8228-4ba8-9917-65815b35170f",
       "parent": [

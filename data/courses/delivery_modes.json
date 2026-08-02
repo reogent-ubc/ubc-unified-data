@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:49:05+00:00",
+    "alias": "/delivery-mode/person",
     "related": {
       "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
       "parent": [
@@ -28,6 +29,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:49:12+00:00",
+    "alias": "/delivery-mode/online",
     "related": {
       "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
       "parent": [
@@ -46,6 +48,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:49:17+00:00",
+    "alias": "/delivery-mode/hybrid",
     "related": {
       "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
       "parent": [
@@ -64,6 +67,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-30T21:44:15+00:00",
+    "alias": "/delivery-mode/multi-access",
     "related": {
       "vid": "f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6",
       "parent": [

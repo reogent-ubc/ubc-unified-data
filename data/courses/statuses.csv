@@ -1,7 +1,7 @@
-id,type,tid,revision_id,revision_created,status,name,description,weight,changed,related
-5bbf014c-300f-43d2-aec9-74f9d74ceccc,taxonomy_term--status,90,90,2026-02-12T17:55:21+00:00,True,Open,,0,2026-02-12T17:55:21+00:00,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
-b147f44e-6e91-4220-a711-c1b0b883da50,taxonomy_term--status,91,91,2026-02-12T17:55:26+00:00,True,Closed,,0,2026-02-12T17:55:26+00:00,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
-6f32e398-127f-4a74-8f2e-e7bc1376f0ce,taxonomy_term--status,1954,1954,2026-03-27T21:28:35+00:00,True,Waitlist,,0,2026-03-27T21:28:35+00:00,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
-c5b25218-19c9-4161-b284-194363d7907e,taxonomy_term--status,1955,1955,2026-03-27T22:02:26+00:00,True,Canceled,,0,2026-03-27T22:02:26+00:00,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
-b9193d61-35d9-4946-a87e-fa25db59c39c,taxonomy_term--status,1956,1956,2026-03-27T22:02:32+00:00,True,Preliminary,,0,2026-03-27T22:02:32+00:00,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
-cb16ece1-f33a-46e4-913c-6a0a3d55aec1,taxonomy_term--status,1957,1957,2026-03-27T22:02:38+00:00,True,Other,,0,2026-03-27T22:02:38+00:00,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
+id,type,tid,revision_id,revision_created,status,name,description,weight,changed,alias,related
+5bbf014c-300f-43d2-aec9-74f9d74ceccc,taxonomy_term--status,90,90,2026-02-12T17:55:21+00:00,True,Open,,0,2026-02-12T17:55:21+00:00,/status/open,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
+b147f44e-6e91-4220-a711-c1b0b883da50,taxonomy_term--status,91,91,2026-02-12T17:55:26+00:00,True,Closed,,0,2026-02-12T17:55:26+00:00,/status/closed,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
+6f32e398-127f-4a74-8f2e-e7bc1376f0ce,taxonomy_term--status,1954,1954,2026-03-27T21:28:35+00:00,True,Waitlist,,0,2026-03-27T21:28:35+00:00,/status/waitlist,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
+c5b25218-19c9-4161-b284-194363d7907e,taxonomy_term--status,1955,1955,2026-03-27T22:02:26+00:00,True,Canceled,,0,2026-03-27T22:02:26+00:00,/status/canceled,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
+b9193d61-35d9-4946-a87e-fa25db59c39c,taxonomy_term--status,1956,1956,2026-03-27T22:02:32+00:00,True,Preliminary,,0,2026-03-27T22:02:32+00:00,/status/preliminary,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"
+cb16ece1-f33a-46e4-913c-6a0a3d55aec1,taxonomy_term--status,1957,1957,2026-03-27T22:02:38+00:00,True,Other,,0,2026-03-27T22:02:38+00:00,/status/other,"{""vid"": ""184be8c6-ccca-4ff9-a9d3-4230459e11ea"", ""parent"": [""virtual""]}"

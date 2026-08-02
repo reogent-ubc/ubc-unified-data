@@ -81,15 +81,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20260715T171049Z
+DTSTAMP:20260728T185508Z
 CREATED:20260715T171049Z
-LAST-MODIFIED:20260715T171049Z
+LAST-MODIFIED:20260728T185508Z
 UID:10021787-1784419200-1796774399@events.ubc.ca
 SUMMARY:UBC Farm Workshops – Summer Series
 DESCRIPTION:UBC Farm Community Workshops \nThe UBC Farm offers 50+ workshops per year\, on a wide range of topics\, such as gardening\, cooking\, baking\, food preservation\, herbs\, plant walks\, foraging\, arts\, wellness\, and more. Among the new offerings in 2026\, we’re excited to welcome several new workshop presenters\, including celebrity chefs’ Bruno Feldeisen and Dara Yu (winner of the MasterChef competition). In addition\, bring the whole family for new family-friendly workshops! Join us\, as well\, for outdoor yoga classes (in collaboration with Casa Copal Yoga & Wellness) every Tuesday at 5:30 pm. \nPrograms typically take place inside the Farm’s beautiful and spacious Yurt\, Farm Centre Kitchen\, or outdoors on our organic\, biodiverse farm. Meet people\, learn new skills\, have fun\, and connect to community! \nREGISTER early as spots are limited. Student and senior (65+) discounts are available. \n**More workshops are continually being added — ensure you’re subscribed to our newsletter to be the first to know when new workshops are released.** \nUpcoming Workshops: \nOutdoor Yoga – [every Tuesday\, 5:30 – 6:30 pm\, until Sep 22] \nJuly: \nJuly 19: Learn How to Make Sourdough [waiting list]\nJuly 25: Deep Ecology Forest Walk\nJuly 26: Learn Floral Design & Make Your Own Bouquet [waiting list] \nAugust: \nAugust 4: BC Sockeye Salmon with Chef Bruno Feldeisen\nAugust 5: Guided Meditation (by donation)\nAugust 6: Flower Harvest & Bouquet Making\nAugust 21: BC Seafood Ceviche with Chef Bruno Feldeisen\nAugust 27: Cheesemaking with MasterChef Dara Yu\nAugust 28: Pie-making with MasterChef Dara Yu\nAugust 29: Learn to Make Jam with MasterChef Dara Yu\nAugust 29: Let’s Make Kimchi with MasterChef Dara Yu\nAugust 30: Learn to Make Breakfast Pastries with MasterChef Dara Yu \nSeptember: \nSeptember 2: Guided Meditation (by donation)\nSeptember 15: All About Fall Desserts & BC Fruits with Chef Bruno Feldeisen\nSeptember 17: Taco Night! Learn to Make Traditional Mexican Tacos & Salsas\nSeptember 19: All About Bees: Look Into a Hive! [Family-Friendly!}\nSeptember 20: Make Your Own Mooncakes\nSeptember 26: Deep Ecology Forest Walk\nSeptember 26: Harvesting Stories [Family-Friendly!]\nSeptember 29: Mushroom Foraging \nFall: \nOctober 3: Extracting Honey [Family-Friendly!]\nOctober 18: Fall in Tuscany with Chef Bruno Feldeisen [registration coming soon]\nNovember 6: Classic French Bistro with Chef Bruno Feldeisen [registration coming soon]\nNovember 12: Mozzarella\, Burrata and Bocconcini Cheesemaking [NEW!]\nNovember 13: Classic Bavarian with Chef Bruno Feldeisen [registration coming soon]\nDecember 1: A French Christmas with Chef Bruno Feldeisen [registration coming soon]\nDecember 8: Winter in Tuscany with Chef Bruno Feldeisen [registration coming soon]
 URL:https://events.ubc.ca/event/ubc-farm-workshops-summer-series/
 LOCATION:UBC Farm\, 3461 Ross Drive\, Vancouver\, British Columbia\, V6T1W5\, Canada
 CATEGORIES:Audience - All,Subject – Learning And Research – Sustainability,Subject – Lifestyle And Sport – Wellness,Subject – Personal And Professional Development – Community,Type – Workshop
+ATTACH;FMTTYPE=image/jpeg:https://events.ubc.ca/wp-content/uploads/2026/07/workshops-banner-photo-spring-2026-medium-size-no-graphics-sized-for-UBC-Events-e1785264903510.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260721T120000
@@ -106,75 +107,6 @@ CATEGORIES:Subject – Lifestyle And Sport – Recreation,Subject – Lifestyle 
 ORGANIZER;CN="UBC Inspired":MAILTO:info.inspired@ubc.ca
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260727T150000
-DTEND;TZID=America/Vancouver:20260727T160000
-DTSTAMP:20251218T215722Z
-CREATED:20251218T215722Z
-LAST-MODIFIED:20251218T215722Z
-UID:10019833-1785164400-1785168000@events.ubc.ca
-SUMMARY:Open UBC Working Group
-DESCRIPTION:Series: \n\nOpen Education\n\n\n\n\nThe Open UBC Working Group\, which is composed of faculty\, students\, and staff\, meets regularly to advise\, communicate\, and partner on open education and scholarship activities and projects happening at UBC. In addition to serving as a place of community for those interested in various areas of open scholarship\, the working group develops projects and events and works closely with representatives from the CTLT and UBC Library to operationalize institutional approaches to open scholarship. \nJoin us! Open UBC Working Group Meetings are open to any member of the UBC Community. Come prepared to share and discuss your open scholarship projects\, practices\, and efforts. The Open UBC Working Group is a great way to share with and learn from others about open education\, open research\, and open access activities happening on the UBC campus and beyond. \nMeeting agendas and more information can be found here: https://wiki.ubc.ca/Open_UBC_Working_Group \n\n\nPlease register to secure your spot.\nRegister
-URL:https://events.ubc.ca/event/open-ubc-working-group-4/2026-07-27/
-LOCATION:Online/Virtual Event
-CATEGORIES:Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver
-ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260728T090000
-DTEND;TZID=America/Vancouver:20260728T150000
-DTSTAMP:20260707T162047Z
-CREATED:20260707T162047Z
-LAST-MODIFIED:20260707T162047Z
-UID:10021620-1785229200-1785250800@events.ubc.ca
-SUMMARY:LDDI Summer Institute 2026
-DESCRIPTION:The LDDI Summer Institute 2026 celebrates emerging approaches to teaching and learning under this year’s theme: (Re)imagining Educational Futures. \nHosted by Learning Design and Digital Innovation (LDDI) and the Faculty of Education Working Groups\, the Summer Institute features interactive workshops\, panel discussions and presentations — with opportunities each day to connect with colleagues and engage with critical topics in education. \nDay 1\, presented by the Accessibility Working Group\, features insightful conversations about accessibility in teaching\, learning and research. Day 2\, presented by the Artificial Intelligence Working Group\, examines AI in education through a research-creation lens. \nOpen to UBC faculty\, staff\, students\, and alumni\, and educators in K–12 and higher education. \nSchedule\n\nDay 1 – Accessibility – Tuesday\, July 28 | 9:00 am – 3:00 pm\nDay 2 – Artificial Intelligence – Wednesday\, July 29 | 9:00 am – 3:00 pm\n\nLocation\nUBC Vancouver Campus – Room 1007\, Neville Scarfe Building\, 2125 Main Mall\, Vancouver BC \nRegistration\nPlease register to attend the Summer Institute. We offer sliding scale payment options to help ensure the event remains accessible to those facing financial barriers or limited funding. Registration closes Tuesday\, July 21.
-URL:https://events.ubc.ca/event/lddi-summer-institute-2026/2026-07-28/
-LOCATION:Neville Scarfe Building\, 2125 Main Mall\, Vancouver\, British Columbia\, V6T1Z4\, Canada
-CATEGORIES:Audience - All,Audience – All Students,Audience – Alumni,Audience – Community,Audience – Faculty and Staff – Vancouver,Subject – Equity, Diversity and Inclusion,Subject – Learning And Research – Interdisciplinary,Subject – Learning And Research – Science And Technology,Subject – Personal And Professional Development – Community,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students
-ORGANIZER;CN="LDDI":MAILTO:lddi.educ@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260728T110000
-DTEND;TZID=America/Vancouver:20260728T130000
-DTSTAMP:20260519T175527Z
-CREATED:20260519T175527Z
-LAST-MODIFIED:20260519T175527Z
-UID:10021496-1785236400-1785243600@events.ubc.ca
-SUMMARY:Introduction to Git and GitHub: Part 2
-DESCRIPTION:Learn the basics of using Git and GitHub for version control and collaboration. Git is widely used version control software that tracks changes to a group of files\, referred to as a repository. GitHub is a popular website for hosting and sharing Git repositories\, making it easier to collaborate and share your work. Together\, Git and GitHub provide a platform that is increasingly used for collaboration in research and academic environments. In this beginner workshop participants will learn key concepts\, create their own Git repository\, and publish to GitHub. No previous experience with Git is required. Familiarity with the command line interface will be helpful but is not necessary. This is part 2 of a two-part introductory workshop. \nPre-workshop setup \nPlease complete the pre-workshop setup to install the Bash shell and Git. If you don’t already have one\, create a free GitHub account before the workshop. \nThis workshop is part of the Core Skills series. \nIf you have any questions\, concerns\, or accessibility needs please email digital.scholarship@ubc.ca. \nTo keep up-to-date with all of the workshops\, consults\, and events subscribe to the UBC Library Research Commons monthly newsletter.
-URL:https://events.ubc.ca/event/introduction-to-git-and-github-part-2-2/
-LOCATION:Online/Virtual Event
-CATEGORIES:Audience – All Students,Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Learning And Research – Interdisciplinary,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students,Type – Workshop
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260728T120000
-DTEND;TZID=America/Vancouver:20260728T130000
-DTSTAMP:20251020T162649Z
-CREATED:20251020T162649Z
-LAST-MODIFIED:20251020T162649Z
-UID:10019174-1785240000-1785243600@events.ubc.ca
-SUMMARY:UBC CPD: Midwifery Documentation Workshop (Online)
-DESCRIPTION:Effective documentation is a critical component of midwifery care. Is your documentation clearly detailing your care? Are you leaving an intellectual footprint that is comprehensive and complete? Would some guidance help to ensure your record meets standards? Would you like to workshop with peers to refresh? \nIf you can use some support\, or just want to ensure you are documenting to standard\, join us for this online small group workshop. \nThere are three group Zoom workshops and one 45-minute individual coaching session. Each one-hour interactive workshop will include tailored exercises to assist in improving your own practice.
-URL:https://events.ubc.ca/event/ubc-cpd-midwifery-documentation-workshop-online__trashed/2026-07-28/
-LOCATION:See Description
-CATEGORIES:Subject – Personal And Professional Development – Faculty
-ATTACH;FMTTYPE=image/png:https://events.ubc.ca/wp-content/uploads/2025/10/Event-Calendar-new-13.png
-ORGANIZER;CN="Continuing Professional Development (UBC CPD)":MAILTO:camp.rcpd@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260728T120000
-DTEND;TZID=America/Vancouver:20260728T150000
-DTSTAMP:20260527T174912Z
-CREATED:20260414T192457Z
-LAST-MODIFIED:20260527T174912Z
-UID:10021337-1785240000-1785250800@events.ubc.ca
-SUMMARY:ES Indigenous Student Support: Virtual Drop-In Advising
-DESCRIPTION:With the start of the Summer Session\, the Indigenous Student Support Team in Enrolment Services will be offering virtual drop-in advising for Indigenous students via Zoom. \nJoin us every Tuesday from 12:00 until 3:00 pm\, April 28 through August 25. Students can connect with a member of our team for support with finances (including loans\, bursaries\, and tuition)\, as well as general questions. We’re here to help however we can. \nNo appointment needed. Please use the Zoom link below to join: \nhttps://ubc.zoom.us/j/67141879654?pwd=60IpNzt40VokAhULLh7tBh7WY4etKR.1 \n 
-URL:https://events.ubc.ca/event/es-indigenous-student-support-virtual-drop-in-advising__trashed/2026-07-28/
-LOCATION:Online/Virtual Event
-CATEGORIES:Subject – Indigenous
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260728T120000
 DTEND;TZID=America/Vancouver:20260901T124500
 DTSTAMP:20260610T173430Z
@@ -187,120 +119,6 @@ URL:https://events.ubc.ca/event/yoga-on-the-mall-free-weekly-outdoor-yoga-3/2026
 LOCATION:See Description
 CATEGORIES:Subject – Lifestyle And Sport – Recreation,Subject – Lifestyle And Sport – Wellness
 ORGANIZER;CN="UBC Inspired":MAILTO:info.inspired@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260729T090000
-DTEND;TZID=America/Vancouver:20260729T150000
-DTSTAMP:20260707T162047Z
-CREATED:20260707T162047Z
-LAST-MODIFIED:20260707T162047Z
-UID:10021621-1785315600-1785337200@events.ubc.ca
-SUMMARY:LDDI Summer Institute 2026
-DESCRIPTION:The LDDI Summer Institute 2026 celebrates emerging approaches to teaching and learning under this year’s theme: (Re)imagining Educational Futures. \nHosted by Learning Design and Digital Innovation (LDDI) and the Faculty of Education Working Groups\, the Summer Institute features interactive workshops\, panel discussions and presentations — with opportunities each day to connect with colleagues and engage with critical topics in education. \nDay 1\, presented by the Accessibility Working Group\, features insightful conversations about accessibility in teaching\, learning and research. Day 2\, presented by the Artificial Intelligence Working Group\, examines AI in education through a research-creation lens. \nOpen to UBC faculty\, staff\, students\, and alumni\, and educators in K–12 and higher education. \nSchedule\n\nDay 1 – Accessibility – Tuesday\, July 28 | 9:00 am – 3:00 pm\nDay 2 – Artificial Intelligence – Wednesday\, July 29 | 9:00 am – 3:00 pm\n\nLocation\nUBC Vancouver Campus – Room 1007\, Neville Scarfe Building\, 2125 Main Mall\, Vancouver BC \nRegistration\nPlease register to attend the Summer Institute. We offer sliding scale payment options to help ensure the event remains accessible to those facing financial barriers or limited funding. Registration closes Tuesday\, July 21.
-URL:https://events.ubc.ca/event/lddi-summer-institute-2026/2026-07-29/
-LOCATION:Neville Scarfe Building\, 2125 Main Mall\, Vancouver\, British Columbia\, V6T1Z4\, Canada
-CATEGORIES:Audience - All,Audience – All Students,Audience – Alumni,Audience – Community,Audience – Faculty and Staff – Vancouver,Subject – Equity, Diversity and Inclusion,Subject – Learning And Research – Interdisciplinary,Subject – Learning And Research – Science And Technology,Subject – Personal And Professional Development – Community,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students
-ORGANIZER;CN="LDDI":MAILTO:lddi.educ@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260729T100000
-DTEND;TZID=America/Vancouver:20260729T110000
-DTSTAMP:20260630T211251Z
-CREATED:20260630T211251Z
-LAST-MODIFIED:20260630T211251Z
-UID:10021680-1785319200-1785322800@events.ubc.ca
-SUMMARY:DIY Media Support Drop-In Sessions
-DESCRIPTION:Are you working on a media project? Planning to produce video content for your course but don’t know where to start? UBC Studios is offering a drop-in media support session where professional media specialists are available to provide answers to your questions. \nIf you are wondering: \n\nWhere do I start?\nWhat resources are available on campus?\nWhat kind of support is available?\nSpecific or general “how to” questions in video editing\, graphic design and office software (Adobe Suite\, Final Cut\, Microsoft Office)\nHow to use X equipment or see what equipment our studios can provide for your educational UBC project.\nWhat do-it-yourself studios are available to me and what do they do?\n\nWe encourage faculty\, staff and their student helpers to bring their media project at any stage for hands on assistance and advice specific to your project. Just drop by anytime during the session and we’ll be happy to help! \nPlease make sure when you register for this session to also send your questions to ubc.studios@ubc.ca. This is to ensure that we have staff that specializes in your question available to help. \nWe are also restarting our in-person tours of our facilities\, please register to the drop in\, then contact us to let us know you’ll be coming in person! \nPlease register to secure your spot.\nRegister
-URL:https://events.ubc.ca/event/diy-media-support-drop-in-sessions__trashed/2026-07-29/
-LOCATION:Online/Virtual Event
-CATEGORIES:Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver
-ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260729T110000
-DTEND;TZID=America/Vancouver:20260729T140000
-DTSTAMP:20260708T165231Z
-CREATED:20260708T165231Z
-LAST-MODIFIED:20260708T165231Z
-UID:10021775-1785322800-1785333600@events.ubc.ca
-SUMMARY:UBC Work on Campus Fair 2026
-DESCRIPTION:Are you looking for an on-campus job this September? \nCome to the UBC Work on Campus Fair! \nThe event will be held at the UBC Life Building Concourse on July 29 from 11:00 AM to 2:00 PM.  \nThe UBC Work on Campus Fair on July 29\, 2026\, provides opportunities for UBC students to work on or near campus during the academic year. Students will have the chance to connect with UBC on-campus employers\, submit their applications\, and learn more about the positions available. \nWe will continue updating the list of employers attending\, so please keep checking back.
-URL:https://events.ubc.ca/event/ubc-work-on-campus-fair-2026/
-LOCATION:See Description
-CATEGORIES:Audience – All Students,Subject – Personal And Professional Development – Students,Type – Information Session/Fair
-ATTACH;FMTTYPE=image/jpeg:https://events.ubc.ca/wp-content/uploads/2026/07/UBC-scaled.jpg
-ORGANIZER;CN="UBC Career Centre":MAILTO:career.centre@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260729T130000
-DTEND;TZID=America/Vancouver:20260729T140000
-DTSTAMP:20260630T211018Z
-CREATED:20250109T224039Z
-LAST-MODIFIED:20260630T211018Z
-UID:10021668-1785330000-1785333600@events.ubc.ca
-SUMMARY:Generative AI Studios
-DESCRIPTION:These sixty minute\, weekly sessions – facilitated by Technologists and Pedagogy Experts from the CTLT – are designed for faculty and staff at UBC who are using\, or thinking about using\, Generative AI tools as part of their teaching\, researching\, or daily work. \nEach session is broken into 3 parts. First\, a weekly insights presentation which will talk about what is new in the GenAI space this week\, either from projects across the University or the industry as a whole. Second\, a tool-of-the-week demonstration which highlights how faculty or staff can leverage different tools within the GenAI ecosystem. And third\, an open/office hours question and answer session. \nIf you have developed a GenAI based tool or methodology and wish to present\, please get in touch! \n\nSchedule: \n1:00pm – 1:15pm Weekly insights \n1:15pm – 1:30pm Tool of the week Demo \n1:30pm – 2:00pm Drop-in Q&A \nFacilitators: Experts in pedagogy from the CTLT
-URL:https://events.ubc.ca/event/generative-ai-studios__trashed-2/2026-07-29/
-LOCATION:Online/Virtual Event
-CATEGORIES:Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver
-ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260729T133000
-DTEND;TZID=America/Vancouver:20260729T143000
-DTSTAMP:20260415T194330Z
-CREATED:20260410T171510Z
-LAST-MODIFIED:20260415T194330Z
-UID:10021275-1785331800-1785335400@events.ubc.ca
-SUMMARY:Chung | Lind Gallery Weekly Drop-In Tour
-DESCRIPTION:Join us at our weekly drop-in tour through the Chung | Lind Gallery every Wednesday at 1:30 p.m. PT. \nLed by Rare Books and Special Collections and the University Archives archivists\, tours can take up to 60 minutes and begin in the Gallery foyer. Located on Level 2 of the Irving K. Barber Learning Centre\, the Gallery is free and open to the public. \nDrop-in tours offer visitors a chance to explore the histories represented in these collections\, ask questions\, and consider the ongoing relationship between past perspectives and life today. \nInterested in booking a tour for your class or large group? Contact us to schedule an appointment by phone (604-822-3053) or email (rare.books@ubc.ca).
-URL:https://events.ubc.ca/event/chung-lind-gallery-weekly-drop-in-tour/2026-07-29/
-LOCATION:Irving K. Barber Learning Centre\, 1961 East Mall\, Vancouver\, British Columbia\, V6T1Z1\, Canada
-CATEGORIES:Audience - All,Subject – Entertainment – Culture,Subject – Learning And Research – Arts, Humanities And Social Sciences,Type – Exhibit,Type – Reception
-ATTACH;FMTTYPE=image/jpeg:https://events.ubc.ca/wp-content/uploads/2026/04/UBCLibrary_GalleryTours_Mar2026_digitalsignage_1280x720_notext2.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260729T160000
-DTEND;TZID=America/Vancouver:20260729T190000
-DTSTAMP:20260706T160612Z
-CREATED:20260623T172235Z
-LAST-MODIFIED:20260706T160612Z
-UID:10021610-1785340800-1785351600@events.ubc.ca
-SUMMARY:Opera al fresco
-DESCRIPTION:Experience UBC Opera in the Open Air! \nJoin UBC Inspired and UBC Opera on Wednesday\, July 29\, from 4pm-7pm for the inaugural Opera al fresco at Thunderbird Commons!   \nGrab your friends\, pack a blanket\, and bring a picnic to enjoy outside. This family-friendly event starts with pre-show activities at 4:00pm\, followed by a spectacular hour-long performance at 5:30pm featuring student performers from the UBC Opera Ensemble\, accompanied by a live pianist.  \nEntry is FREE\, but space is limited—arrive early to secure your spot!  \nFor full event details and the option to register for event updates\, please visit: inspired.ubc.ca/opera 
-URL:https://events.ubc.ca/event/opera-al-fresco/
-LOCATION:Forest Sciences Centre\, 2424 Main Mall\, Vancouver\, British Columbia\, V6T1Z4\, Canada
-CATEGORIES:Subject – Entertainment – Arts,Subject – Entertainment – Culture,Subject – Entertainment – Music,Type – Performance
-ATTACH;FMTTYPE=image/png:https://events.ubc.ca/wp-content/uploads/2026/06/blankbanner_OPERA26-scaled-e1784662142501.png
-ORGANIZER;CN="UBC Inspired":MAILTO:info.inspired@ubc.ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260730T120000
-DTEND;TZID=America/Vancouver:20260730T125000
-DTSTAMP:20260521T180832Z
-CREATED:20260506T183005Z
-LAST-MODIFIED:20260521T180832Z
-UID:10021392-1785412800-1785415800@events.ubc.ca
-SUMMARY:UBC Staff Toastmasters Club!
-DESCRIPTION:Looking to improve your public speaking skills? Join our UBC Staff Toastmasters Meetup! \nIf you’re looking to improve your communications and public speaking skills\, boost your confidence\, and connect with colleagues across campus\, come to our next Toastmasters meeting. We gather every other Thursday from 12:00 to 12:50 pm via Zoom and in-person. Sign up today and kickstart your public speaking and leadership journey! \nInterested? Please contact Helen Luk at helen.luk@ubc.ca for more details. \n(Feel free to share this information with any staff/colleague in your respective departments. If appropriate\, please share this meetup on your communication channels.) \nThank you for your consideration and we hope to see you at our club!
-URL:https://events.ubc.ca/event/ubc-staff-toastmasters-club-6/2026-07-30/
-LOCATION:Hybrid Online/Virtual and In-Person – See Description\, Vancouver\, British Columbia\, Canada
-CATEGORIES:Subject – Personal And Professional Development – Staff
-ATTACH;FMTTYPE=image/jpeg:https://events.ubc.ca/wp-content/uploads/2026/05/TM-image_UBC-events_resize-5.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260730T130000
-DTEND;TZID=America/Vancouver:20260730T150000
-DTSTAMP:20251218T215131Z
-CREATED:20251218T215131Z
-LAST-MODIFIED:20251218T215131Z
-UID:10019598-1785416400-1785423600@events.ubc.ca
-SUMMARY:WordPress & Wiki Clinic
-DESCRIPTION:The Drop-In Clinics are open for administrators of UBC weblogs or websites to get one-on-one support in WordPress and Wiki for Teaching and Learning or Administrative purposes. Participants should come prepared with a list of questions specific to their sites when attending this session. Specialists at the clinic will assist you in addressing and resolving those questions. \n\n\nPlease register to secure your spot.\nRegister
-URL:https://events.ubc.ca/event/wordpress-wiki-clinic__trashed/2026-07-30/
-LOCATION:Online/Virtual Event
-CATEGORIES:Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver
-ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260804T110000
@@ -428,6 +246,20 @@ CATEGORIES:Audience – Faculty and Staff – Okanagan,Audience – Faculty and 
 ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260806T173000
+DTEND;TZID=America/Vancouver:20260806T183000
+DTSTAMP:20260729T171442Z
+CREATED:20260729T171442Z
+LAST-MODIFIED:20260729T171442Z
+UID:10021834-1786037400-1786041000@events.ubc.ca
+SUMMARY:Zippered Wood: Rethinking How We Build
+DESCRIPTION:What happens when computational design intersects with construction-grade lumber and contemporary digital workflows?  \nDigital ideas leave the screen and become full-scale physical structures. Discover how researchers are using accessible tools to rethink what’s possible with wood.  \nJoin us on August 6th from 5:30-6:30 PM in IKB 301 for an EML Workshop featuring researchers from SALA’s HiLo Lab presenting Zippered Wood\, an ongoing research project exploring how computational design\, conventional construction methods\, and accessible fabrication tools can be combined to create sophisticated approaches to timber design and fabrication.  \nThrough built projects\, prototypes\, and demonstrations\, the team will trace the project’s evolution from digital models to full-scale physical assemblies while exploring how contemporary digital workflows can expand the possibilities of architectural design. \n🔗 RSVP through the link: https://ubc.ca1.qualtrics.com/jfe/form/SV_6xwMdVnHHFgsNj8  
+URL:https://events.ubc.ca/event/zippered-wood-rethinking-how-we-build/
+LOCATION:Irving K. Barber Learning Centre\, 1961 East Mall\, Vancouver\, British Columbia\, V6T1Z1\, Canada
+CATEGORIES:Audience - All,Audience – All Students,Audience – Alumni,Audience – Community
+ORGANIZER;CN="UBC Emerging Media Lab":MAILTO:emergingmedia.lab@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260806T190000
 DTEND;TZID=America/Vancouver:20260806T210000
 DTSTAMP:20260708T164458Z
@@ -453,5 +285,169 @@ DESCRIPTION:This workshop and resource provides an overview of mapmaking with QG
 URL:https://events.ubc.ca/event/qgis-intensive-series-introduction-to-mapmaking-with-qgis/
 LOCATION:Online/Virtual Event
 CATEGORIES:Audience – All Students,Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Learning And Research – Interdisciplinary,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students,Type – Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260810T110000
+DTEND;TZID=America/Vancouver:20260810T114500
+DTSTAMP:20260513T214231Z
+CREATED:20260513T214231Z
+LAST-MODIFIED:20260513T214231Z
+UID:10021464-1786359600-1786362300@events.ubc.ca
+SUMMARY:Data Bites - Introduction to Manual Data De-identification
+DESCRIPTION:Workshop: Introduction to Manual Data De-identification \nThis practical workshop\, delivered by the UBC Library Research Data Management team\, is the second session in a four‑part series on de-identifying and preparing sensitive data for responsible research use and sharing. Building on the concepts introduced in the first session\, this hands‑on workshop focuses on applied manual techniques for de-identifying datasets containing sensitive information. \nParticipants will learn how to: \n\nApply core manual de-identification methods\, including anonymization\, pseudonymization\, aggregation\, masking\, generalization\, and local suppression\, to protect participant privacy.\nWork through a step-by-step de-identification workflow\, addressing direct identifiers\, dates\, geographic data\, and variables linkable to external sources.\nSelect the most appropriate de-identification method for each variable type based on sensitivity and analytical need.\nAssess the anonymity of a finalized dataset using measures such as k-anonymity to evaluate whether it is sufficiently de-identified for sharing.\n\nNote: This workshop provides a foundational introduction to manual data de-identification. Participants are encouraged to consult their institutional privacy\, legal\, or compliance experts for guidance on specific datasets.
+URL:https://events.ubc.ca/event/data-bites-introduction-to-manual-data-de-identification-2/
+LOCATION:Online/Virtual Event
+CATEGORIES:Audience – All Students,Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Learning And Research – Interdisciplinary,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students,Type – Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260810T130000
+DTEND;TZID=America/Vancouver:20260810T150000
+DTSTAMP:20260630T191453Z
+CREATED:20260630T185538Z
+LAST-MODIFIED:20260630T191453Z
+UID:10021634-1786366800-1786374000@events.ubc.ca
+SUMMARY:Course Design Intensive
+DESCRIPTION:Apply by August 6 \nThe Course Design Intensive (CDI) will be offered in August 2026 for faculty members who would like to re/design a for-credit course they will be offering in September or later.   \nThe CDI is an intensive program in which participants work\, individually and collaboratively\, to design or re-design a course they are (or will be) teaching. Throughout the workshop\, participants will acquire a broadened understanding of course design concepts\, learn to incorporate EDI practices\, and gain skills and tools they can apply to their own course. The focus of the workshop is on having participants work with the major concepts and questions that need to be considered as they design a course. Ultimately\, the goal of the CDI is to support instructors as they work to enhance their students’ learning.  \nApplication Process \nApplications close on August 6\, 2026  \nDuring this application process for the CDI\, you will be asked about details of your course\, your previous course design experience\, your teaching experience\, and your learning goals for the CDI. The facilitators of the CDI will review your application and contact you by email in about two weeks.  \nFormat of the CDI  \nThe CDI is a two-week workshop that combines synchronous and asynchronous learning activities. Before our official launching meeting\, you’ll engage in independent reading and reflection through guided activities. We’ll then officially meet in person on August 10 to share insights and consolidate our learning.  \nFollowing this\, you’ll continue developing your course independently while participating in collaborative Zoom sessions on August 12 and 14 focused on key aspects of course design. Throughout the two weeks\, there will also be opportunities for consultations and check-ins with facilitators.  \nThe CDI follows a “flipped” model\, meaning you’ll complete preparatory work ahead of each session\, which we’ll build upon during our synchronous meetings. We’ll reconvene in person on August 24 to refine your course design and prepare for a strong start to the teaching term.  \nAugust 2026 (Hybrid)  \nThe workshop consists of two in-person sessions and two Zoom sessions.  \n\nLaunch Session: August 10\, 1:00 PM – 3:00 PM\, Seminar Room 2.22\n\n\nAssessment Design: August 12\, 10:00 AM – 12:00 PM\, Zoom \n\n\nLearning Activity Design: August 14\, 10:00 AM – 12:00 PM\, Zoom \n\n\nWrap-up & Launch Forward Session: August 24\, 1:00 PM – 3:00 PM\, Seminar Room 2.22\n\nFor more information\, please contact judy.chan@ubc.ca. \nPlease register to secure your spot.\nRegister
+URL:https://events.ubc.ca/event/course-design-intensive__trashed/2026-08-10/
+LOCATION:Hybrid Online/Virtual and In-Person – See Description\, Vancouver\, British Columbia\, Canada
+CATEGORIES:Audience – Faculty and Staff – Vancouver,Subject – Personal And Professional Development – Faculty
+ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T100000
+DTEND;TZID=America/Vancouver:20260811T120000
+DTSTAMP:20260513T214342Z
+CREATED:20260513T214342Z
+LAST-MODIFIED:20260513T214342Z
+UID:10021465-1786442400-1786449600@events.ubc.ca
+SUMMARY:QGIS Intensive Series: Mapping for Academic Publication (Reference Maps)
+DESCRIPTION:In this beginner-friendly workshop\, you will learn to create simple\, static maps to accompany academic publications. You will be introduced to a variety of maps as well as best practices in cartography. This workshop is suited for anyone who wants to make a map of their research area\, or whose project involves data with a spatial component. To make our maps\, we will use QGIS\, a free and open-source Geographic Information System (GIS) for analyzing\, modifying\, and visualizing spatial data. \nBy the end of this workshop\, you will have the confidence to: \n\nDecide what kind of map best conveys your research or contextualizes your study area;\nFind and download relevant spatial data;\nLoad datasets into QGIS and style them as data layers;\nCompose a map that includes a title\, scale bar\, legend\, and north arrow; and\nExport this map into formats compatible with print and digital publication.\n\nNOTE: The fundamental skills and concepts pertaining to spatial data\, map types\, and the QGIS interface will not be covered during this workshop. Therefore\, prior to the workshop date\, please review our Introduction to Mapmaking with QGIS (https://ubc-library-rc.github.io/gis-mapping-intro/) \nThis workshop is designed for those with no experience using GIS. It is taught by a graduate student in Geography with expertise in GIS and cartographic methods. \nWorkshop link: https://ubc-library-rc.github.io/gis-reference-mapping/ \n\nThings to do before arriving:\nQGIS is a free and open source desktop geographic information system (GIS). It can be installed on Windows\, MacOS\, and Linux using the download instructions here: https://www.qgis.org/en/site/forusers/download.html. This workshop will use the latest Long Term Release version. Please make sure you have this installed on your computer. \nIf you have questions\, concerns\, or accessibility needs\, please email alexandra.alisauskas@ubc.ca \nTo keep up-to-date with all our workshops\, consults\, and events\, subscribe to the UBC Library Research Commons monthly newsletter.
+URL:https://events.ubc.ca/event/qgis-intensive-series-mapping-for-academic-publication-reference-maps/
+LOCATION:Online/Virtual Event
+CATEGORIES:Audience – All Students,Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Learning And Research – Interdisciplinary,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students,Type – Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T100000
+DTEND;TZID=America/Vancouver:20260811T120000
+DTSTAMP:20260703T174447Z
+CREATED:20260703T174447Z
+LAST-MODIFIED:20260703T174447Z
+UID:10021757-1786442400-1786449600@events.ubc.ca
+SUMMARY:A Foundational Conversation: Anti-Racist Pedagogies in Teaching and Learning
+DESCRIPTION:This workshop has been designed for instructors who are interested in joining conversations about anti-racism and looking for an entry point to their learning journey. This session introduces fundamental concepts such as power\, privilege\, and positionality\, as well as the systemic and ideological roots and presentations racialization\, racism\, and racial erasure in the classroom. The session seeks to supports participants as they integrate these fundamental concepts on anti-racism into their teaching and learning practices. \nIntended Learning Outcomes: \n\nReflect on institutional positionality\, power\, and privilege as a faculty\, staff\, or graduate student\nExplore foundational theoretic concepts to anti-racist teaching and learning such as racism\, racialization\, experiences of racial oppression in the classroom and impacts on\nBuild an emerging toolbox of pedagogical and ideological skills to foster a classroom climate rooted in anti-racism\, anti-oppression\, and equity\nReflect on journey to becoming an inclusive educator and ally to racially diverse students and colleagues\n\nPlease register to secure your spot.\nRegister
+URL:https://events.ubc.ca/event/a-foundational-conversation-anti-racist-pedagogies-in-teaching-and-learning/
+LOCATION:Irving K. Barber Learning Centre\, 1961 East Mall\, Vancouver\, British Columbia\, V6T1Z1\, Canada
+CATEGORIES:Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Equity, Diversity and Inclusion,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Students
+ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T110000
+DTEND;TZID=America/Vancouver:20260811T130000
+DTSTAMP:20260519T175833Z
+CREATED:20260519T175833Z
+LAST-MODIFIED:20260519T175833Z
+UID:10021498-1786446000-1786453200@events.ubc.ca
+SUMMARY:Introduction to Markdown digital workflows
+DESCRIPTION:Plain text formats have received increasing attention fromscholars in recent years and have been described as among the best ways to store knowledge persistently. This workshop will introduce you to the benefits of using plain text files and simple markup formats to create flexible\, robust\, and future-proof workflows for digital scholarship\, research\, and knowlege. We will begin with a brief introduction to the Markdown text format andcreate a short sample document which with the use of a few simple tools that can be converted into a website\, dynamic slideshow presentation\, PDF\, and even a formatted PhD thesis. We will also cover how to migrate existing “closed” files like Word documents and PowerPoint presentations into more accessible plain text Markdown (or similar formats like Asciidoc)\, for archival\, collaboration\, version control\, and other purposes.\n\nPrerequisites:\n\n* A text editor (note: not a word processor!) that can save in plain text format. A good choice is VSCode https://code.visualstudio.com/.\n\nHelpful\, but not required:\n\n* A GitHub.com or Gitlab.com account. We’ll demonstrate how to use GitHub Pages to host a static site. For a more complete introduction to creating static sites with Github Pages\, please see the Introduction to Jekyll (https://ubc-library-rc.github.io/intro-jekyll/) workshop.\n* Some familiarity with working in a command line / Unix shell interface. Some of the tools we will introduce make use of the command-line\, but there are usually alternatives and this is not required. If you’d like to learn more about the command-line shell before you start\, please take a look at this workshop Introduction to the Unix Shell (https://ubc-library-rc.github.io/intro-shell/).\n* Some familiarity with Git. If you’d like to learn more about Git and GitHub before going any further\, please see this workshop: Introduction to Git and Github (https://ubc-library-rc.github.io/intro-git/). \nThis workshop is part of the Core Skills series. \nIf you have questions\, concerns\, or accessibility needs\, please email digital.scholarship@ubc.ca. \nTo keep up-to-date with all our workshops\, consults\, and events\, subscribe to the UBC Library Research Commons monthly newsletter.
+URL:https://events.ubc.ca/event/introduction-to-markdown-digital-workflows-3/
+LOCATION:Online/Virtual Event
+CATEGORIES:Audience – All Students,Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Learning And Research – Interdisciplinary,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students,Type – Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T120000
+DTEND;TZID=America/Vancouver:20260811T130000
+DTSTAMP:20251020T162649Z
+CREATED:20251020T162649Z
+LAST-MODIFIED:20251020T162649Z
+UID:10019176-1786449600-1786453200@events.ubc.ca
+SUMMARY:UBC CPD: Midwifery Documentation Workshop (Online)
+DESCRIPTION:Effective documentation is a critical component of midwifery care. Is your documentation clearly detailing your care? Are you leaving an intellectual footprint that is comprehensive and complete? Would some guidance help to ensure your record meets standards? Would you like to workshop with peers to refresh? \nIf you can use some support\, or just want to ensure you are documenting to standard\, join us for this online small group workshop. \nThere are three group Zoom workshops and one 45-minute individual coaching session. Each one-hour interactive workshop will include tailored exercises to assist in improving your own practice.
+URL:https://events.ubc.ca/event/ubc-cpd-midwifery-documentation-workshop-online__trashed/2026-08-11/
+LOCATION:See Description
+CATEGORIES:Subject – Personal And Professional Development – Faculty
+ATTACH;FMTTYPE=image/png:https://events.ubc.ca/wp-content/uploads/2025/10/Event-Calendar-new-13.png
+ORGANIZER;CN="Continuing Professional Development (UBC CPD)":MAILTO:camp.rcpd@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T120000
+DTEND;TZID=America/Vancouver:20260811T133000
+DTSTAMP:20260708T181435Z
+CREATED:20260708T180354Z
+LAST-MODIFIED:20260708T181435Z
+UID:10021776-1786449600-1786455000@events.ubc.ca
+SUMMARY:Accessibility in Academic Events: Strategies for Making Lectures\, Workshops\, Poster Sessions\, Symposiums\, and Other Academic Events Inclusive for All Attendees
+DESCRIPTION:Are you planning a lecture\, poster session\, workshop\, symposium\, or other academic event? UBC recently published the UBC Accessible Events Guide to support event planners in creating welcoming and inclusive events of all sizes. By incorporating accessibility needs into the planning for your event and responding to accommodation requests\, you can help ensure everyone can fully participate. This session will highlight practical strategies from the Guide to help make your teaching and learning event accessible and welcoming for everyone.  \nPlease register to secure your spot.\nRegister
+URL:https://events.ubc.ca/event/accessibility-in-academic-events-strategies-for-making-lectures-workshops-poster-sessions-symposiums-and-other-academic-events-inclusive-for-all-attendees/
+LOCATION:Online/Virtual Event
+CATEGORIES:Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Subject – Equity, Diversity and Inclusion,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff
+ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T120000
+DTEND;TZID=America/Vancouver:20260811T150000
+DTSTAMP:20260527T174912Z
+CREATED:20260414T192457Z
+LAST-MODIFIED:20260527T174912Z
+UID:10021339-1786449600-1786460400@events.ubc.ca
+SUMMARY:ES Indigenous Student Support: Virtual Drop-In Advising
+DESCRIPTION:With the start of the Summer Session\, the Indigenous Student Support Team in Enrolment Services will be offering virtual drop-in advising for Indigenous students via Zoom. \nJoin us every Tuesday from 12:00 until 3:00 pm\, April 28 through August 25. Students can connect with a member of our team for support with finances (including loans\, bursaries\, and tuition)\, as well as general questions. We’re here to help however we can. \nNo appointment needed. Please use the Zoom link below to join: \nhttps://ubc.zoom.us/j/67141879654?pwd=60IpNzt40VokAhULLh7tBh7WY4etKR.1 \n 
+URL:https://events.ubc.ca/event/es-indigenous-student-support-virtual-drop-in-advising__trashed/2026-08-11/
+LOCATION:Online/Virtual Event
+CATEGORIES:Subject – Indigenous
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260811T120000
+DTEND;TZID=America/Vancouver:20260915T124500
+DTSTAMP:20260610T173430Z
+CREATED:20260610T173430Z
+LAST-MODIFIED:20260610T173430Z
+UID:10021583-1786449600-1789476300@events.ubc.ca
+SUMMARY:Yoga on the Mall: Free weekly outdoor yoga!
+DESCRIPTION:Soak up the sun\, stay for the savasana!\nThis summer\, find your flow with weekly outdoor yoga on campus! \nHosted by UBC Inspired\, in partnership with UBC Recreation\, these certified instructor led classes are designed for  all ages and skill levels (beginners are most welcome!). Each class will feature a weekly theme with a pop-up wellness activity for you to enjoy before or after class! \nYoga on the Mall classes are free to attend and open to all students\, faculty\, staff\, residents and visitors—everyone is welcome! \nWhen: Every Tuesday\, July 7–August 11 (6 classes in total)\nTime: 12 pm – 12:45 pm\nLocation: Grass field along Main Mall (in front of Earth Sciences Building)*\nWhat to bring: A mat and a water bottle. Don’t have a mat? Practice on the grass or a blanket works too! \nPlease Note:\n\nClasses are drop-in; registration is not required.\nYou will be required to sign a waiver for each class before participating.\nClass starts at 12:00 pm. Please come at 11:45 am to sign your waiver and settle into your spot.\nClasses run rain or shine — in the event of extreme weather\, classes will be cancelled. Updates will be shared on our social media @ubc_inspired and our webpage: inspired.ubc.ca/yoga\n\nQuestions? Contact UBC Inspired at: info.inspired@ubc.ca
+URL:https://events.ubc.ca/event/yoga-on-the-mall-free-weekly-outdoor-yoga-3/2026-08-11/
+LOCATION:See Description
+CATEGORIES:Subject – Lifestyle And Sport – Recreation,Subject – Lifestyle And Sport – Wellness
+ORGANIZER;CN="UBC Inspired":MAILTO:info.inspired@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260812T100000
+DTEND;TZID=America/Vancouver:20260812T120000
+DTSTAMP:20260513T214456Z
+CREATED:20260513T214456Z
+LAST-MODIFIED:20260513T214456Z
+UID:10021466-1786528800-1786536000@events.ubc.ca
+SUMMARY:QGIS Intensive Series: Thematic Mapping with QGIS
+DESCRIPTION:This intermediate-level workshop will demonstrate how to create thematic maps using QGIS\, a free and open-source Geographic Information System (GIS) for analyzing\, modifying\, and visualizing spatial data. Additionally\, participants will learn how to perform queries on spatial data and edit the attribute table. \nNOTE: Prior to the workshop date\, please review our Introduction to Mapmaking with QGIS (https://ubc-library-rc.github.io/gis-mapping-intro/). Additionally\, if you are new to QGIS\, we recommend you review our workshop on Reference Mapping with QGIS (https://ubc-library-rc.github.io/gis-reference-mapping/) as well. \nThis workshop is taught by a graduate student in Geography with expertise in GIS and cartographic methods. \nWorkshop Link: https://ubc-library-rc.github.io/gis-thematic-mapping/ \n\nThings to do before arriving:\nQGIS is a free and open source desktop geographic information system (GIS). It can be installed on Windows\, MacOS\, and Linux using the download instructions here: https://www.qgis.org/en/site/forusers/download.html. This workshop will use the latest Long Term Release version. Please make sure you have this installed on your computer. \nIf you have questions\, concerns\, or accessibility needs\, please email alexandra.alisauskas@ubc.ca \nTo keep up-to-date with all our workshops\, consults\, and events\, subscribe to the UBC Library Research Commons monthly newsletter.
+URL:https://events.ubc.ca/event/qgis-intensive-series-thematic-mapping-with-qgis/
+LOCATION:Online/Virtual Event
+CATEGORIES:Audience – All Students,Audience – Faculty and Staff – Okanagan,Audience – Faculty and Staff – Vancouver,Audience – Graduate Students,Subject – Learning And Research – Interdisciplinary,Subject – Personal And Professional Development – Faculty,Subject – Personal And Professional Development – Staff,Subject – Personal And Professional Development – Students,Type – Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260812T100000
+DTEND;TZID=America/Vancouver:20260812T120000
+DTSTAMP:20260630T191453Z
+CREATED:20260630T185538Z
+LAST-MODIFIED:20260630T191453Z
+UID:10021635-1786528800-1786536000@events.ubc.ca
+SUMMARY:Course Design Intensive
+DESCRIPTION:Apply by August 6 \nThe Course Design Intensive (CDI) will be offered in August 2026 for faculty members who would like to re/design a for-credit course they will be offering in September or later.   \nThe CDI is an intensive program in which participants work\, individually and collaboratively\, to design or re-design a course they are (or will be) teaching. Throughout the workshop\, participants will acquire a broadened understanding of course design concepts\, learn to incorporate EDI practices\, and gain skills and tools they can apply to their own course. The focus of the workshop is on having participants work with the major concepts and questions that need to be considered as they design a course. Ultimately\, the goal of the CDI is to support instructors as they work to enhance their students’ learning.  \nApplication Process \nApplications close on August 6\, 2026  \nDuring this application process for the CDI\, you will be asked about details of your course\, your previous course design experience\, your teaching experience\, and your learning goals for the CDI. The facilitators of the CDI will review your application and contact you by email in about two weeks.  \nFormat of the CDI  \nThe CDI is a two-week workshop that combines synchronous and asynchronous learning activities. Before our official launching meeting\, you’ll engage in independent reading and reflection through guided activities. We’ll then officially meet in person on August 10 to share insights and consolidate our learning.  \nFollowing this\, you’ll continue developing your course independently while participating in collaborative Zoom sessions on August 12 and 14 focused on key aspects of course design. Throughout the two weeks\, there will also be opportunities for consultations and check-ins with facilitators.  \nThe CDI follows a “flipped” model\, meaning you’ll complete preparatory work ahead of each session\, which we’ll build upon during our synchronous meetings. We’ll reconvene in person on August 24 to refine your course design and prepare for a strong start to the teaching term.  \nAugust 2026 (Hybrid)  \nThe workshop consists of two in-person sessions and two Zoom sessions.  \n\nLaunch Session: August 10\, 1:00 PM – 3:00 PM\, Seminar Room 2.22\n\n\nAssessment Design: August 12\, 10:00 AM – 12:00 PM\, Zoom \n\n\nLearning Activity Design: August 14\, 10:00 AM – 12:00 PM\, Zoom \n\n\nWrap-up & Launch Forward Session: August 24\, 1:00 PM – 3:00 PM\, Seminar Room 2.22\n\nFor more information\, please contact judy.chan@ubc.ca. \nPlease register to secure your spot.\nRegister
+URL:https://events.ubc.ca/event/course-design-intensive__trashed/2026-08-12/
+LOCATION:Hybrid Online/Virtual and In-Person – See Description\, Vancouver\, British Columbia\, Canada
+CATEGORIES:Audience – Faculty and Staff – Vancouver,Subject – Personal And Professional Development – Faculty
+ORGANIZER;CN="Centre for Teaching%2C Learning and Technology":MAILTO:ctlt.info@ubc.ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260812T120000
+DTEND;TZID=America/Vancouver:20260812T133000
+DTSTAMP:20260326T172404Z
+CREATED:20260326T172404Z
+LAST-MODIFIED:20260326T172404Z
+UID:10021188-1786536000-1786541400@events.ubc.ca
+SUMMARY:CGRS D: Crafting a Compelling Research Story
+DESCRIPTION:This workshop is designed for graduate students applying for the Canada Graduate Research Scholarship – Doctoral (CGRS D) from the national funding agencies: CIHR\, NSERC\, and SSHRC. Drawing on evidence-based research about successful grant proposals\, the facilitator discusses particular elements of this written academic genre: audience\, purpose\, knowledge gap\, competence claim\, structure\, style\, and more. The workshop includes examples of successful UBC CGRS D research proposals\, and embedded time to write. \nFacilitator: Dr. Xuan Zhang\, Centre for Writing and Scholarly Communication \nLocation: IKBLC\, Level 3\, Dodson Room and on Zoom. Registrants receive the Zoom link 1 day prior to the workshop.
+URL:https://events.ubc.ca/event/cgrs-d-crafting-a-compelling-research-story/
+LOCATION:Hybrid Online/Virtual and In-Person – See Description\, Vancouver\, British Columbia\, Canada
+CATEGORIES:Audience – Graduate Students,Subject – Personal And Professional Development – Students
+ORGANIZER;CN="Centre for Writing and Scholarly Communication":MAILTO:cwsc.info@ubc.ca
 END:VEVENT
 END:VCALENDAR

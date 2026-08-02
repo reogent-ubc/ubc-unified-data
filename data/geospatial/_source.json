@@ -1,8 +1,31 @@
 {
-  "repository": "https://github.com/UBCGeodata/ubc-geospatial-opendata",
-  "branch": "master",
-  "commit": "66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8",
-  "commit_date": "2026-07-09T22:47:04Z",
-  "files": 48,
-  "retrieved_at": "2026-07-28T01:03:22Z"
+  "repositories": [
+    {
+      "repository": "https://github.com/UBCGeodata/ubc-geospatial-opendata",
+      "branch": "master",
+      "commit": "66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8",
+      "commit_date": "2026-07-09T22:47:04Z",
+      "mounted_at": "/",
+      "files": 48
+    },
+    {
+      "repository": "https://github.com/UBCGeodata/ubcv-parking",
+      "branch": "master",
+      "commit": "8ba8730de5b216972292dab646016fb7c586f841",
+      "commit_date": "2026-06-18T18:51:18Z",
+      "mounted_at": "ubcv/parking",
+      "files": 4
+    }
+  ],
+  "retrieved_at": "2026-08-01T20:07:12Z",
+  "corrections": {
+    "swapped_lat_long_headers": [
+      "ubcv/locations/csv/ubcv_address.csv",
+      "ubcv/locations/csv/ubcv_address_mailing.csv",
+      "ubcv/locations/csv/ubcv_buildings.csv",
+      "ubcv/locations/csv/ubcv_buildings_simple.csv",
+      "ubcv/locations/csv/ubcv_poi.csv"
+    ],
+    "note": "Upstream labels these files' coordinate columns the wrong way round: LAT held longitude and LONG held latitude. The two column names are swapped here so each holds what it says; the data rows are byte-identical to upstream, so the columns now read LONG,LAT in that order. The GeoJSON versions were already correct and are untouched."
+  }
 }

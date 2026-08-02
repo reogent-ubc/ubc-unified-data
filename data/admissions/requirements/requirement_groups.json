@@ -1,0 +1,304 @@
+[
+  {
+    "campus": "vancouver",
+    "requirement_key": "arts",
+    "name": "Arts",
+    "programs": [
+      "Ancient Mediterranean and Near Eastern Studies",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Asian Area Studies",
+      "Asian Language and Culture",
+      "Canadian Studies",
+      "Cinema Studies",
+      "Cognitive Systems (BA)",
+      "Computer Science (BA)",
+      "Economics",
+      "English",
+      "First Nations and Endangered Languages",
+      "First Nations and Indigenous Studies",
+      "French",
+      "Gender, Race, Sexuality, and Social Justice",
+      "Geography: Environment and Sustainability",
+      "Geography: Human Geography",
+      "German",
+      "History",
+      "Interdisciplinary Studies",
+      "International Relations",
+      "Latin American Studies",
+      "Linguistics",
+      "Mathematics (BA)",
+      "Medieval Studies",
+      "Modern European Studies",
+      "Museum Studies",
+      "Music",
+      "Philosophy",
+      "Political Science",
+      "Psychology",
+      "Religion",
+      "Romance Studies",
+      "Sociology",
+      "Spanish",
+      "Speech Sciences",
+      "Theatre Studies",
+      "United States Studies",
+      "Urban Studies",
+      "Visual Art (BA)"
+    ],
+    "program_count": 41,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "science-2",
+    "name": "Science",
+    "programs": [
+      "Astronomy",
+      "Atmospheric Science",
+      "Biochemistry",
+      "Biology",
+      "Biophysics",
+      "Biotechnology",
+      "Cellular, Anatomical, and Physiological Sciences",
+      "Chemistry",
+      "Cognitive Systems (BSc)",
+      "Combined Major in Science",
+      "Combined Majors in Statistics",
+      "Computer Science (BSc)",
+      "Data Science",
+      "Earth and Ocean Sciences",
+      "Environmental Sciences",
+      "Geographical Sciences",
+      "Geology",
+      "Geophysics",
+      "Integrated Sciences",
+      "Mathematical Sciences",
+      "Mathematics (BSc)",
+      "Mathematics and Economics",
+      "Microbiology and Immunology",
+      "Neuroscience",
+      "Oceanography",
+      "Pharmacology",
+      "Physics",
+      "Statistics",
+      "Vantage One: Science"
+    ],
+    "program_count": 29,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "engineering",
+    "name": "Applied Science (Engineering)",
+    "programs": [
+      "Biomedical Engineering",
+      "Chemical Engineering",
+      "Chemical and Biological Engineering",
+      "Civil Engineering",
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Engineering Physics",
+      "Environmental Engineering",
+      "Environmental Engineering (joint UNBC/UBC)",
+      "Geological Engineering",
+      "Integrated Engineering",
+      "Manufacturing Engineering",
+      "Materials Engineering",
+      "Mechanical Engineering",
+      "Mining Engineering"
+    ],
+    "program_count": 15,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "natural-resources",
+    "name": "Natural Resources",
+    "programs": [
+      "Bioeconomy Sciences and Technology",
+      "Conservation",
+      "Forest Management",
+      "Forest Operations",
+      "Forest Sciences",
+      "Wood Products"
+    ],
+    "program_count": 6,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "food-nutrition-health",
+    "name": "Food, Nutrition, and Health",
+    "programs": [
+      "Dietetics",
+      "Food Science",
+      "Food and Nutritional Sciences",
+      "Food, Nutrition, and Health",
+      "Nutritional Sciences"
+    ],
+    "program_count": 5,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "fine-arts",
+    "name": "Fine Arts (direct-entry specializations only; excludes Creative Writing)",
+    "programs": [
+      "Film Production",
+      "Theatre: Acting",
+      "Theatre: Design and Production",
+      "Visual Art (BFA)"
+    ],
+    "program_count": 4,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "music",
+    "name": "Music",
+    "programs": [
+      "Music: Advanced Performance",
+      "Music: Composition",
+      "Music: General Studies",
+      "Music: Scholarship"
+    ],
+    "program_count": 4,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "kinesiology",
+    "name": "Kinesiology",
+    "programs": [
+      "Kinesiology: Multidisciplinary Science",
+      "Kinesiology: Neuromechanical and Physiological Sciences",
+      "Kinesiology: Social and Behavioural Sciences"
+    ],
+    "program_count": 3,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "applied-biology",
+    "name": "Applied Biology",
+    "programs": [
+      "Applied Animal Biology",
+      "Sustainable Agriculture and Environment"
+    ],
+    "program_count": 2,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "commerce",
+    "name": "Commerce (UBC Sauder School of Business)",
+    "programs": [
+      "Business and Computer Science",
+      "Commerce"
+    ],
+    "program_count": 2,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "food-and-resource-economics",
+    "name": "Food and Resource Economics",
+    "programs": [
+      "Business and Markets",
+      "Data Analytics"
+    ],
+    "program_count": 2,
+    "locations": 125
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "design-in-architecture-landscape-architecture-and-urbanism",
+    "name": "Design in Architecture, Landscape Architecture, and Urbanism",
+    "programs": [
+      "Architecture, Landscape Architecture, and Urbanism"
+    ],
+    "program_count": 1,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "bachelor-master-management",
+    "name": "Bachelor + Master of Management",
+    "programs": [
+      "Bachelor + Master of Management Dual Degree"
+    ],
+    "program_count": 1,
+    "locations": 124
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "dental-hygiene",
+    "name": "Dental Hygiene",
+    "programs": [
+      "Dental Hygiene"
+    ],
+    "program_count": 1,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "indigenous-teacher-education-program-nitep",
+    "name": "Indigenous Teacher Education Program (NITEP)",
+    "programs": [
+      "Education: Indigenous Teacher Education Program (NITEP)"
+    ],
+    "program_count": 1,
+    "locations": 15
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "indigenous-land-stewardship",
+    "name": "Indigenous Land Stewardship",
+    "programs": [
+      "Indigenous Land Stewardship"
+    ],
+    "program_count": 1,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "international-economics",
+    "name": "International Economics",
+    "programs": [
+      "International Economics"
+    ],
+    "program_count": 1,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "media-studies",
+    "name": "Media Studies",
+    "programs": [
+      "Media Studies"
+    ],
+    "program_count": 1,
+    "locations": 124
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "pharmaceutical-sciences",
+    "name": "Pharmaceutical Sciences",
+    "programs": [
+      "Pharmaceutical Sciences"
+    ],
+    "program_count": 1,
+    "locations": 126
+  },
+  {
+    "campus": "vancouver",
+    "requirement_key": "urban-forestry",
+    "name": "Urban Forestry",
+    "programs": [
+      "Urban Forestry"
+    ],
+    "program_count": 1,
+    "locations": 126
+  }
+]

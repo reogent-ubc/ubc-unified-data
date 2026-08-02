@@ -10,6 +10,7 @@
     "description": null,
     "weight": 4,
     "changed": "2026-05-13T19:58:16+00:00",
+    "alias": "/term/2025-26-winter-term-1-ubc-v",
     "field_academic_period_calendar": "UBC-V Academic Calendar",
     "field_academic_period_id": "ACADEMIC_PERIOD-3-304",
     "field_academic_period_type": "Winter Term 1",
@@ -19,7 +20,8 @@
       "parent": [
         "virtual"
       ]
-    }
+    },
+    "campus": "vancouver"
   },
   {
     "id": "26ab6a45-8e32-4896-b9cd-4d36195ad120",
@@ -32,6 +34,7 @@
     "description": null,
     "weight": 6,
     "changed": "2026-05-13T19:58:16+00:00",
+    "alias": "/term/2025-26-winter-term-2-ubc-v",
     "field_academic_period_calendar": "UBC-V Academic Calendar",
     "field_academic_period_id": "ACADEMIC_PERIOD-3-306",
     "field_academic_period_type": "Winter Term 2",
@@ -41,7 +44,8 @@
       "parent": [
         "virtual"
       ]
-    }
+    },
+    "campus": "vancouver"
   },
   {
     "id": "37240167-0328-4b7e-bfc3-1ecabda42b19",
@@ -54,6 +58,7 @@
     "description": null,
     "weight": 8,
     "changed": "2026-05-13T19:58:16+00:00",
+    "alias": "/term/2026-summer-session-ubc-v",
     "field_academic_period_calendar": "UBC-V Academic Calendar",
     "field_academic_period_id": "ACADEMIC_PERIOD-3-308",
     "field_academic_period_type": "Summer Session",
@@ -63,7 +68,8 @@
       "parent": [
         "virtual"
       ]
-    }
+    },
+    "campus": "vancouver"
   },
   {
     "id": "fdb59287-d82e-42a5-8710-4e6c7028adb6",
@@ -76,6 +82,7 @@
     "description": null,
     "weight": 10,
     "changed": "2026-05-13T19:58:16+00:00",
+    "alias": "/term/2026-27-winter-term-1-ubc-v",
     "field_academic_period_calendar": "UBC-V Academic Calendar",
     "field_academic_period_id": "ACADEMIC_PERIOD-3-314",
     "field_academic_period_type": "Winter Term 1",
@@ -85,7 +92,8 @@
       "parent": [
         "virtual"
       ]
-    }
+    },
+    "campus": "vancouver"
   },
   {
     "id": "a69ce28e-9cf5-47cc-ab2d-867cc0c82a4a",
@@ -98,6 +106,7 @@
     "description": null,
     "weight": 12,
     "changed": "2026-05-13T19:58:16+00:00",
+    "alias": "/term/2026-27-winter-term-2-ubc-v",
     "field_academic_period_calendar": "UBC-V Academic Calendar",
     "field_academic_period_id": "ACADEMIC_PERIOD-3-316",
     "field_academic_period_type": "Winter Term 2",
@@ -107,116 +116,7 @@
       "parent": [
         "virtual"
       ]
-    }
-  },
-  {
-    "id": "571a9b00-91fa-4161-bd73-f18a17b57ee2",
-    "type": "taxonomy_term--term",
-    "tid": 1455,
-    "revision_id": 1455,
-    "revision_created": "2026-03-20T14:49:03+00:00",
-    "status": true,
-    "name": "2025-26 Winter Term 2 (UBC-O)",
-    "description": null,
-    "weight": 5,
-    "changed": "2026-05-13T19:58:16+00:00",
-    "field_academic_period_calendar": "UBC-O Academic Calendar",
-    "field_academic_period_id": "ACADEMIC_PERIOD-3-305",
-    "field_academic_period_type": "Winter Term 2",
-    "field_academic_period_year": "2025",
-    "related": {
-      "vid": "18167872-0683-4540-972d-432ade485060",
-      "parent": [
-        "virtual"
-      ]
-    }
-  },
-  {
-    "id": "6191bfc4-a522-433a-b7c5-5771ea715346",
-    "type": "taxonomy_term--term",
-    "tid": 1457,
-    "revision_id": 1457,
-    "revision_created": "2026-03-20T14:49:03+00:00",
-    "status": true,
-    "name": "2025-26 Winter Term 1 (UBC-O)",
-    "description": null,
-    "weight": 3,
-    "changed": "2026-05-13T19:58:16+00:00",
-    "field_academic_period_calendar": "UBC-O Academic Calendar",
-    "field_academic_period_id": "ACADEMIC_PERIOD-3-303",
-    "field_academic_period_type": "Winter Term 1",
-    "field_academic_period_year": "2025",
-    "related": {
-      "vid": "18167872-0683-4540-972d-432ade485060",
-      "parent": [
-        "virtual"
-      ]
-    }
-  },
-  {
-    "id": "c4d95ad9-c6de-453c-94ae-753621aea982",
-    "type": "taxonomy_term--term",
-    "tid": 1458,
-    "revision_id": 1458,
-    "revision_created": "2026-03-20T14:49:03+00:00",
-    "status": true,
-    "name": "2026-27 Winter Term 2 (UBC-O)",
-    "description": null,
-    "weight": 11,
-    "changed": "2026-05-15T16:28:06+00:00",
-    "field_academic_period_calendar": "UBC-O Academic Calendar",
-    "field_academic_period_id": "ACADEMIC_PERIOD-3-315",
-    "field_academic_period_type": "Winter Term 2",
-    "field_academic_period_year": "2026",
-    "related": {
-      "vid": "18167872-0683-4540-972d-432ade485060",
-      "parent": [
-        "virtual"
-      ]
-    }
-  },
-  {
-    "id": "344ca7d2-da72-440d-ae75-23091f3a41e4",
-    "type": "taxonomy_term--term",
-    "tid": 1459,
-    "revision_id": 1459,
-    "revision_created": "2026-03-20T15:07:03+00:00",
-    "status": true,
-    "name": "2026 Summer Session (UBC-O)",
-    "description": null,
-    "weight": 7,
-    "changed": "2026-05-13T19:58:16+00:00",
-    "field_academic_period_calendar": "UBC-O Academic Calendar",
-    "field_academic_period_id": "ACADEMIC_PERIOD-3-307",
-    "field_academic_period_type": "Summer Session",
-    "field_academic_period_year": "2026",
-    "related": {
-      "vid": "18167872-0683-4540-972d-432ade485060",
-      "parent": [
-        "virtual"
-      ]
-    }
-  },
-  {
-    "id": "68fd518d-eae4-4f34-be36-099c924b3266",
-    "type": "taxonomy_term--term",
-    "tid": 1460,
-    "revision_id": 1460,
-    "revision_created": "2026-03-20T17:58:03+00:00",
-    "status": true,
-    "name": "2026-27 Winter Term 1 (UBC-O)",
-    "description": null,
-    "weight": 9,
-    "changed": "2026-05-15T16:27:57+00:00",
-    "field_academic_period_calendar": "UBC-O Academic Calendar",
-    "field_academic_period_id": "ACADEMIC_PERIOD-3-313",
-    "field_academic_period_type": "Winter Term 1",
-    "field_academic_period_year": "2026",
-    "related": {
-      "vid": "18167872-0683-4540-972d-432ade485060",
-      "parent": [
-        "virtual"
-      ]
-    }
+    },
+    "campus": "vancouver"
   }
 ]

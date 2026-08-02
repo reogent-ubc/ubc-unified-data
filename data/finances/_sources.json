@@ -1,0 +1,14 @@
+{
+  "calendar": [
+    {
+      "campus": "vancouver",
+      "host": "vancouver.calendar.ubc.ca",
+      "fee_pages": 18
+    }
+  ],
+  "estimator": {
+    "url": "https://you.ubc.ca/programs/",
+    "areas": 33
+  },
+  "credits_per_year": 30
+}

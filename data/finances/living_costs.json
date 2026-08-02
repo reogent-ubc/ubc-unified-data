@@ -1,0 +1,72 @@
+[
+  {
+    "campus": "vancouver",
+    "item": "campus_housing_single",
+    "variant": "standard",
+    "amount": 7935.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "campus_housing_single",
+    "variant": "vantage_one",
+    "amount": 9354.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "campus_housing_connected",
+    "variant": "standard",
+    "amount": 8996.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "campus_housing_connected",
+    "variant": "vantage_one",
+    "amount": 9354.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "campus_housing_shared",
+    "variant": "standard",
+    "amount": 6376.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "campus_housing_shared",
+    "variant": "vantage_one",
+    "amount": 8170.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "meal_plan",
+    "variant": "standard",
+    "amount": 7712.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "meal_plan",
+    "variant": "vantage_one",
+    "amount": 8500.0,
+    "basis": "per_academic_year"
+  },
+  {
+    "campus": "vancouver",
+    "item": "rent",
+    "variant": "standard",
+    "amount": 2385.0,
+    "basis": "per_month"
+  },
+  {
+    "campus": "vancouver",
+    "item": "groceries",
+    "variant": "standard",
+    "amount": 450.0,
+    "basis": "per_month"
+  }
+]

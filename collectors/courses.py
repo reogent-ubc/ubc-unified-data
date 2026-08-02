@@ -70,6 +70,7 @@ class Courses(Collector):
     sources = (f"https://{HOST}/jsonapi",)
 
     def collect(self, http: Http, out: Output) -> None:
+        _describe(out)
         available = jsonapi_index(http, HOST)
         missing: list[str] = []
         data: dict[str, list[dict[str, Any]]] = {}
@@ -130,3 +131,56 @@ class Courses(Collector):
         for dataset, records in data.items():
             if records and "campus" in records[0]:
                 data[dataset] = [r for r in records if wants(r.get("campus"))]
+
+
+def _describe(out: Output) -> None:
+    """The two tables anyone actually queries, and the trap between them.
+
+    `courses` has one node per course *per academic year*, so it is ~4x longer
+    than the list of distinct courses, and it carries no instructor at all.
+    Both facts cost time to rediscover from the data.
+    """
+    out.describe(
+        "courses",
+        grain="one course as offered in one academic year -- NOT one distinct course. "
+              "Deduplicate on field_course_code for the catalogue",
+        columns={
+            "field_course_code": "e.g. `CPSC_V 110`; the `_V`/`_O` suffix is the campus",
+            "field_course_number": "the number alone, e.g. `110`",
+            "field_credits": "credit value",
+            "field_course_instance_id": "why one course has several rows: one instance per year",
+            "body": "description prose, prerequisites written into it",
+            "description_text": "derived: the description with the requirement prose removed",
+            "prerequisite": "derived from `body`; UBC's own prerequisite field is empty",
+            "corequisite": "derived from `body`",
+            "equivalency": "derived from `body`",
+            "credit_exclusion": "derived from `body`",
+            "hours_vector": "derived from `body`, e.g. `[3-2-1]` -- lecture/lab/tutorial hours",
+            "campus": "derived: vancouver or okanagan. The API serves both with no campus field",
+            "alias": "path on courses.students.ubc.ca; prefix the host for the URL",
+        },
+        joins=[
+            "id -> courses/sections.related.course",
+            "related.subject -> courses/subjects.id",
+            "field_course_code ~ academic-calendar/*/courses.field_course_number + subject",
+        ],
+    )
+    out.describe(
+        "sections",
+        grain="one scheduled section of one course in one term -- the actual offering",
+        columns={
+            "field_instructors": "who teaches it. Names only; `courses` has no instructor field",
+            "field_days": "meeting days",
+            "field_start_time": "SECONDS after midnight, e.g. 55800 = 15:30. Not a clock string",
+            "field_end_time": "seconds after midnight",
+            "field_start_date": "first meeting",
+            "field_end_date": "last meeting",
+            "field_section_number": "the section, e.g. `101`",
+            "campus": "derived; see `courses`",
+        },
+        joins=[
+            "related.course -> courses/courses.id",
+            "related.academic_term -> courses/terms.id",
+            "field_instructors ~ people/profiles.title (by name; there is no shared id)",
+        ],
+    )

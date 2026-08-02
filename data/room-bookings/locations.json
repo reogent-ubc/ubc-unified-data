@@ -1,0 +1,47 @@
+[
+  {
+    "lid": "2174",
+    "name": "Irving K. Barber Learning Centre",
+    "campus": "vancouver",
+    "building_code": "IBLC",
+    "url": "https://libcal.library.ubc.ca/spaces?lid=2174",
+    "rooms_collected": 8,
+    "total_capacity": 62
+  },
+  {
+    "lid": "1811",
+    "name": "Music, Art & Architecture Library (IKB)",
+    "campus": "vancouver",
+    "building_code": "IBLC",
+    "url": "https://libcal.library.ubc.ca/spaces?lid=1811",
+    "rooms_collected": 8,
+    "total_capacity": 52
+  },
+  {
+    "lid": "1788",
+    "name": "Koerner Library",
+    "campus": "vancouver",
+    "building_code": "KLIB",
+    "url": "https://libcal.library.ubc.ca/spaces?lid=1788",
+    "rooms_collected": 8,
+    "total_capacity": 200
+  },
+  {
+    "lid": "1789",
+    "name": "Woodward Library",
+    "campus": "vancouver",
+    "building_code": "WLIB",
+    "url": "https://libcal.library.ubc.ca/spaces?lid=1789",
+    "rooms_collected": 9,
+    "total_capacity": 58
+  },
+  {
+    "lid": "1821",
+    "name": "Research Commons",
+    "campus": "vancouver",
+    "building_code": "IBLC",
+    "url": "https://libcal.library.ubc.ca/spaces?lid=1821",
+    "rooms_collected": 18,
+    "total_capacity": 96
+  }
+]

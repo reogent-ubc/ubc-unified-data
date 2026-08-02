@@ -4,335 +4,415 @@
     "campus": "off-campus",
     "theme": "locations",
     "format": "csv",
-    "name": "ubc_regional_locations"
+    "name": "ubc_regional_locations",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "off-campus/locations/geojson/ubc_regional_locations.geojson",
     "campus": "off-campus",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubc_regional_locations"
+    "name": "ubc_regional_locations",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "off-campus/locations/metadata/ubc_regional_locations.csv",
     "campus": "off-campus",
     "theme": "locations",
     "format": "csv",
-    "name": "ubc_regional_locations"
+    "name": "ubc_regional_locations",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/geojson/ubcv_beach.geojson",
     "campus": "ubcv",
     "theme": "context",
     "format": "geojson",
-    "name": "ubcv_beach"
+    "name": "ubcv_beach",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/geojson/ubcv_coastline.geojson",
     "campus": "ubcv",
     "theme": "context",
     "format": "geojson",
-    "name": "ubcv_coastline"
+    "name": "ubcv_coastline",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/geojson/ubcv_psrp.geojson",
     "campus": "ubcv",
     "theme": "context",
     "format": "geojson",
-    "name": "ubcv_psrp"
+    "name": "ubcv_psrp",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/geojson/ubcv_psrp_trail.geojson",
     "campus": "ubcv",
     "theme": "context",
     "format": "geojson",
-    "name": "ubcv_psrp_trail"
+    "name": "ubcv_psrp_trail",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/geojson/ubcv_uel.geojson",
     "campus": "ubcv",
     "theme": "context",
     "format": "geojson",
-    "name": "ubcv_uel"
+    "name": "ubcv_uel",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/geojson/ubcv_water.geojson",
     "campus": "ubcv",
     "theme": "context",
     "format": "geojson",
-    "name": "ubcv_water"
+    "name": "ubcv_water",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/metadata/ubcv_beach.csv",
     "campus": "ubcv",
     "theme": "context",
     "format": "csv",
-    "name": "ubcv_beach"
+    "name": "ubcv_beach",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/metadata/ubcv_psrp.csv",
     "campus": "ubcv",
     "theme": "context",
     "format": "csv",
-    "name": "ubcv_psrp"
+    "name": "ubcv_psrp",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/metadata/ubcv_psrp_trail.csv",
     "campus": "ubcv",
     "theme": "context",
     "format": "csv",
-    "name": "ubcv_psrp_trail"
+    "name": "ubcv_psrp_trail",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/context/metadata/ubcv_uel.csv",
     "campus": "ubcv",
     "theme": "context",
     "format": "csv",
-    "name": "ubcv_uel"
+    "name": "ubcv_uel",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/csv/ubcv_campus_trees.csv",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "csv",
-    "name": "ubcv_campus_trees"
+    "name": "ubcv_campus_trees",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/geojson/ubcv_campus_trees.geojson",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "geojson",
-    "name": "ubcv_campus_trees"
+    "name": "ubcv_campus_trees",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/geojson/ubcv_landscape_hard.geojson",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "geojson",
-    "name": "ubcv_landscape_hard"
+    "name": "ubcv_landscape_hard",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/geojson/ubcv_landscape_soft.geojson",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "geojson",
-    "name": "ubcv_landscape_soft"
+    "name": "ubcv_landscape_soft",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/geojson/ubcv_municipal_waterfeatures.geojson",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "geojson",
-    "name": "ubcv_municipal_waterfeatures"
+    "name": "ubcv_municipal_waterfeatures",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/metadata/ubcv_softlandscape.csv",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "csv",
-    "name": "ubcv_softlandscape"
+    "name": "ubcv_softlandscape",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/landscape/metadata/ubcv_trees_fields.csv",
     "campus": "ubcv",
     "theme": "landscape",
     "format": "csv",
-    "name": "ubcv_trees_fields"
+    "name": "ubcv_trees_fields",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/csv/ubcv_address.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_address"
+    "name": "ubcv_address",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/csv/ubcv_address_mailing.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_address_mailing"
+    "name": "ubcv_address_mailing",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/csv/ubcv_buildings.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_buildings"
+    "name": "ubcv_buildings",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/csv/ubcv_buildings_simple.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_buildings_simple"
+    "name": "ubcv_buildings_simple",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/csv/ubcv_poi.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_poi"
+    "name": "ubcv_poi",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/geojson/ubcv_address.geojson",
     "campus": "ubcv",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubcv_address"
+    "name": "ubcv_address",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/geojson/ubcv_building_entraces.geojson",
     "campus": "ubcv",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubcv_building_entraces"
+    "name": "ubcv_building_entraces",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/geojson/ubcv_buildings.geojson",
     "campus": "ubcv",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubcv_buildings"
+    "name": "ubcv_buildings",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/geojson/ubcv_complexes.geojson",
     "campus": "ubcv",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubcv_complexes"
+    "name": "ubcv_complexes",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/geojson/ubcv_poi.geojson",
     "campus": "ubcv",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubcv_poi"
+    "name": "ubcv_poi",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/geojson/ubcv_subbuildings.geojson",
     "campus": "ubcv",
     "theme": "locations",
     "format": "geojson",
-    "name": "ubcv_subbuildings"
+    "name": "ubcv_subbuildings",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/metadata/ubcv_address_fields.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_address_fields"
+    "name": "ubcv_address_fields",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/metadata/ubcv_buildings_fields.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_buildings_fields"
+    "name": "ubcv_buildings_fields",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/metadata/ubcv_buildings_simple_fields.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_buildings_simple_fields"
+    "name": "ubcv_buildings_simple_fields",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/locations/metadata/ubcv_poi.csv",
     "campus": "ubcv",
     "theme": "locations",
     "format": "csv",
-    "name": "ubcv_poi"
+    "name": "ubcv_poi",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/csv/ubcv_landuse.csv",
     "campus": "ubcv",
     "theme": "planning",
     "format": "csv",
-    "name": "ubcv_landuse"
+    "name": "ubcv_landuse",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/csv/ubcv_neighbourhoods.csv",
     "campus": "ubcv",
     "theme": "planning",
     "format": "csv",
-    "name": "ubcv_neighbourhoods"
+    "name": "ubcv_neighbourhoods",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/geojson/ubcv_landuse.geojson",
     "campus": "ubcv",
     "theme": "planning",
     "format": "geojson",
-    "name": "ubcv_landuse"
+    "name": "ubcv_landuse",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/geojson/ubcv_legal_boundary.geojson",
     "campus": "ubcv",
     "theme": "planning",
     "format": "geojson",
-    "name": "ubcv_legal_boundary"
+    "name": "ubcv_legal_boundary",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/geojson/ubcv_neighbourhoods.geojson",
     "campus": "ubcv",
     "theme": "planning",
     "format": "geojson",
-    "name": "ubcv_neighbourhoods"
+    "name": "ubcv_neighbourhoods",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/metadata/ubcv_landuse.csv",
     "campus": "ubcv",
     "theme": "planning",
     "format": "csv",
-    "name": "ubcv_landuse"
+    "name": "ubcv_landuse",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/planning/metadata/ubcv_neighbourhoods.csv",
     "campus": "ubcv",
     "theme": "planning",
     "format": "csv",
-    "name": "ubcv_neighbourhoods"
+    "name": "ubcv_neighbourhoods",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/transportation/geojson/ubcv_bollards.geojson",
     "campus": "ubcv",
     "theme": "transportation",
     "format": "geojson",
-    "name": "ubcv_bollards"
+    "name": "ubcv_bollards",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/transportation/geojson/ubcv_roads_simple.geojson",
     "campus": "ubcv",
     "theme": "transportation",
     "format": "geojson",
-    "name": "ubcv_roads_simple"
+    "name": "ubcv_roads_simple",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/transportation/geojson/ubcv_routes.geojson",
     "campus": "ubcv",
     "theme": "transportation",
     "format": "geojson",
-    "name": "ubcv_routes"
+    "name": "ubcv_routes",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/transportation/metadata/ubcv_bollards.csv",
     "campus": "ubcv",
     "theme": "transportation",
     "format": "csv",
-    "name": "ubcv_bollards"
+    "name": "ubcv_bollards",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/transportation/metadata/ubcv_roads_simple.csv",
     "campus": "ubcv",
     "theme": "transportation",
     "format": "csv",
-    "name": "ubcv_roads_simple"
+    "name": "ubcv_roads_simple",
+    "repository": "ubc-geospatial-opendata"
   },
   {
     "path": "ubcv/transportation/metadata/ubcv_routes.csv",
     "campus": "ubcv",
     "theme": "transportation",
     "format": "csv",
-    "name": "ubcv_routes"
+    "name": "ubcv_routes",
+    "repository": "ubc-geospatial-opendata"
+  },
+  {
+    "path": "ubcv/parking/csv/ubcv_parking_facilities.csv",
+    "campus": "ubcv",
+    "theme": "parking",
+    "format": "csv",
+    "name": "ubcv_parking_facilities",
+    "repository": "ubcv-parking"
+  },
+  {
+    "path": "ubcv/parking/geojson/ubcv_parking_www.geojson",
+    "campus": "ubcv",
+    "theme": "parking",
+    "format": "geojson",
+    "name": "ubcv_parking_www",
+    "repository": "ubcv-parking"
+  },
+  {
+    "path": "ubcv/parking/geojson/ubcv_parking_www_poly.geojson",
+    "campus": "ubcv",
+    "theme": "parking",
+    "format": "geojson",
+    "name": "ubcv_parking_www_poly",
+    "repository": "ubcv-parking"
+  },
+  {
+    "path": "ubcv/parking/metadata/ubcv_parking_www.csv",
+    "campus": "ubcv",
+    "theme": "parking",
+    "format": "csv",
+    "name": "ubcv_parking_www",
+    "repository": "ubcv-parking"
   }
 ]

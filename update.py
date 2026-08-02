@@ -21,6 +21,64 @@ import traceback
 from collectors import CAMPUS_CHOICES, DATA_DIR, REGISTRY, Http, Output, set_campus, utcnow
 
 MANIFEST = DATA_DIR / "manifest.json"
+CATALOG = DATA_DIR / "catalog.json"
+
+CATALOG_NOTE = (
+    "Index of every table in this dataset. One entry per table, not per file: "
+    "`json` and `csv` hold the same rows, the JSON keeping nested values intact and "
+    "the CSV encoding them into the cell. `grain` says what a single row is, `columns` "
+    "describes the ones worth knowing about (not always all of them), and `joins` names "
+    "the other tables a row can be linked to and on which column. Start here rather "
+    "than guessing from filenames. manifest.json has the same information plus per-file "
+    "sizes, sources and run status."
+)
+
+
+def build_catalog(manifest: dict) -> dict:
+    """Collapse the manifest's file list into a table-level index.
+
+    The manifest tracks files because that is what gets written and pruned; a
+    reader wants tables. Pairing `x.json` with `x.csv` and hanging the grain,
+    columns and joins off the pair is the difference between "here are 300
+    files" and "here is what this dataset holds".
+    """
+    groups: dict[str, dict] = {}
+
+    for name, group in manifest.get("groups", {}).items():
+        tables: dict[str, dict] = {}
+        for dataset in group.get("datasets", []):
+            path = dataset["path"]
+            stem, _, suffix = path.rpartition(".")
+            # Anything that isn't a .json/.csv pair (GeoJSON, iCal, the raw
+            # mirrors) is a table of one file and keyed by its whole path.
+            key = stem if suffix in ("json", "csv") else path
+            table = tables.setdefault(key, {
+                "name": key.rsplit("/", 1)[-1],
+                "path": key,
+                "records": dataset.get("records"),
+            })
+            table[suffix if suffix in ("json", "csv") else "file"] = path
+            for field in ("grain", "columns", "joins", "source"):
+                if dataset.get(field) and not table.get(field):
+                    table[field] = dataset[field]
+
+        groups[name] = {
+            "title": group.get("title"),
+            "description": group.get("description"),
+            "folder": group.get("folder"),
+            "status": group.get("status"),
+            "updated_at": group.get("updated_at"),
+            "sources": group.get("sources", []),
+            "tables": sorted(tables.values(), key=lambda table: table["path"]),
+        }
+
+    return {
+        "name": manifest.get("name"),
+        "generated_at": manifest.get("generated_at"),
+        "campus": manifest.get("campus"),
+        "how_to_read": CATALOG_NOTE,
+        "groups": groups,
+    }
 
 
 def human_bytes(size: int) -> str:
@@ -152,11 +210,15 @@ def main(argv: list[str]) -> int:
     }
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST.write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
+    CATALOG.write_text(
+        json.dumps(build_catalog(manifest), indent=2, ensure_ascii=False), encoding="utf-8"
+    )
 
     total_records = sum(g.get("records", 0) for g in groups.values())
     total_bytes = sum(g.get("bytes", 0) for g in groups.values())
     print(f"Dataset totals: {total_records:,} records, {human_bytes(total_bytes)}")
     print(f"Manifest: {MANIFEST}")
+    print(f"Catalog:  {CATALOG}")
 
     if failures:
         print(f"\n{failures} group(s) failed.", file=sys.stderr)

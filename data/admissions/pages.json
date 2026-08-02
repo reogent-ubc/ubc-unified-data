@@ -614,8 +614,8 @@
     "guid": {
       "rendered": "https://you.ubc.ca/?page_id=577148"
     },
-    "modified": "2026-03-12T14:09:45",
-    "modified_gmt": "2026-03-12T21:09:45",
+    "modified": "2026-07-30T16:23:30",
+    "modified_gmt": "2026-07-30T23:23:30",
     "slug": "apply",
     "status": "publish",
     "type": "page",
@@ -650,7 +650,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Apply to UBC - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/apply/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Apply to UBC - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/apply/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/apply\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/apply\\/\",\"name\":\"Apply to UBC - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2026-03-12T21:09:45+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/apply\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/apply\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/apply\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Apply to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Apply to UBC - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/apply/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Apply to UBC - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/apply/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:23:30+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/apply\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/apply\\/\",\"name\":\"Apply to UBC - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2026-03-12T21:09:45+00:00\",\"dateModified\":\"2026-07-30T23:23:30+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/apply\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/apply\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/apply\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Apply to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "Apply to UBC - UBC | Undergraduate Programs and Admissions",
       "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -668,6 +668,7 @@
       "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
       "og_url": "https://you.ubc.ca/apply/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
+      "article_modified_time": "2026-07-30T23:23:30+00:00",
       "twitter_card": "summary_large_image",
       "twitter_site": "@youbc",
       "schema": {
@@ -682,6 +683,7 @@
               "@id": "https://you.ubc.ca/#website"
             },
             "datePublished": "2026-03-12T21:09:45+00:00",
+            "dateModified": "2026-07-30T23:23:30+00:00",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/apply/#breadcrumb"
@@ -776,14 +778,14 @@
       ],
       "version-history": [
         {
-          "count": 2,
+          "count": 3,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/577148/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577150,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/577148/revisions/577150"
+          "id": 577632,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/577148/revisions/577632"
         }
       ],
       "wp:attachment": [
@@ -1432,8 +1434,8 @@
     "guid": {
       "rendered": "https://you.ubc.ca/?page_id=576790"
     },
-    "modified": "2026-05-14T16:12:42",
-    "modified_gmt": "2026-05-14T23:12:42",
+    "modified": "2026-07-30T15:50:30",
+    "modified_gmt": "2026-07-30T22:50:30",
     "slug": "chat-student-ambassador-okanagan",
     "status": "publish",
     "type": "page",
@@ -1468,7 +1470,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubcokanagancampus/chat-student-ambassador-okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubcokanagancampus/chat-student-ambassador-okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T23:12:42+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/\",\"name\":\"Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2025-12-10T19:23:46+00:00\",\"dateModified\":\"2026-05-14T23:12:42+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC&#8217;s Okanagan campus\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Chat with a Student Ambassador from UBC Okanagan\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubcokanagancampus/chat-student-ambassador-okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubcokanagancampus/chat-student-ambassador-okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:50:30+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/\",\"name\":\"Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2025-12-10T19:23:46+00:00\",\"dateModified\":\"2026-07-30T22:50:30+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/chat-student-ambassador-okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC&#8217;s Okanagan campus\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubcokanagancampus\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Chat with a Student Ambassador from UBC Okanagan\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "Chat with a Student Ambassador from UBC Okanagan - UBC | Undergraduate Programs and Admissions",
       "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -1486,7 +1488,7 @@
       "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
       "og_url": "https://you.ubc.ca/ubcokanagancampus/chat-student-ambassador-okanagan/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-05-14T23:12:42+00:00",
+      "article_modified_time": "2026-07-30T22:50:30+00:00",
       "twitter_card": "summary_large_image",
       "twitter_site": "@youbc",
       "schema": {
@@ -1501,7 +1503,7 @@
               "@id": "https://you.ubc.ca/#website"
             },
             "datePublished": "2025-12-10T19:23:46+00:00",
-            "dateModified": "2026-05-14T23:12:42+00:00",
+            "dateModified": "2026-07-30T22:50:30+00:00",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/ubcokanagancampus/chat-student-ambassador-okanagan/#breadcrumb"
@@ -1602,14 +1604,14 @@
       ],
       "version-history": [
         {
-          "count": 17,
+          "count": 19,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/576790/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577405,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/576790/revisions/577405"
+          "id": 577637,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/576790/revisions/577637"
         }
       ],
       "up": [
@@ -7108,8 +7110,8 @@
     "guid": {
       "rendered": "http://you.ubc.ca/?page_id=554695"
     },
-    "modified": "2026-06-16T10:44:04",
-    "modified_gmt": "2026-06-16T17:44:04",
+    "modified": "2026-07-30T16:38:50",
+    "modified_gmt": "2026-07-30T23:38:50",
     "slug": "international-scholars",
     "status": "publish",
     "type": "page",
@@ -7145,7 +7147,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>International Scholars - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"UBC&#039;s International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"International Scholars - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"UBC&#039;s International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-16T17:44:04+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2019/10/ISI-2019-096-YARA9377.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"853\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/\",\"name\":\"International Scholars - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2019\\/10\\/ISI-2019-096-YARA9377.jpg\",\"datePublished\":\"2025-08-15T23:12:53+00:00\",\"dateModified\":\"2026-06-16T17:44:04+00:00\",\"description\":\"UBC's International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2019\\/10\\/ISI-2019-096-YARA9377.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2019\\/10\\/ISI-2019-096-YARA9377.jpg\",\"width\":1280,\"height\":853,\"caption\":\"International Scholars group photo\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Financial planning\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Scholarships and awards for international students\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"International Scholars\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>International Scholars - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"UBC&#039;s International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"International Scholars - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"UBC&#039;s International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:38:50+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2019/10/ISI-2019-096-YARA9377.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"853\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/\",\"name\":\"International Scholars - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2019\\/10\\/ISI-2019-096-YARA9377.jpg\",\"datePublished\":\"2025-08-15T23:12:53+00:00\",\"dateModified\":\"2026-07-30T23:38:50+00:00\",\"description\":\"UBC's International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2019\\/10\\/ISI-2019-096-YARA9377.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2019\\/10\\/ISI-2019-096-YARA9377.jpg\",\"width\":1280,\"height\":853,\"caption\":\"International Scholars group photo\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/international-scholars\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Financial planning\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Scholarships and awards for international students\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"International Scholars\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "International Scholars - UBC | Undergraduate Programs and Admissions",
       "description": "UBC's International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.",
@@ -7163,7 +7165,7 @@
       "og_description": "UBC's International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.",
       "og_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-06-16T17:44:04+00:00",
+      "article_modified_time": "2026-07-30T23:38:50+00:00",
       "og_image": [
         {
           "width": 1280,
@@ -7196,7 +7198,7 @@
             },
             "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2019/10/ISI-2019-096-YARA9377.jpg",
             "datePublished": "2025-08-15T23:12:53+00:00",
-            "dateModified": "2026-06-16T17:44:04+00:00",
+            "dateModified": "2026-07-30T23:38:50+00:00",
             "description": "UBC's International Scholars Program offers two prestigious awards to high academic achievers who are dedicated to giving back to their communities.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/#breadcrumb"
@@ -7313,14 +7315,14 @@
       ],
       "version-history": [
         {
-          "count": 30,
+          "count": 31,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/554695/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577523,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/554695/revisions/577523"
+          "id": 577640,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/554695/revisions/577640"
         }
       ],
       "up": [
@@ -7375,7 +7377,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-02-11T01:20:05+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"name\":\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2017-08-30T18:13:09+00:00\",\"dateModified\":\"2026-02-11T01:20:05+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Financial planning\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Scholarships and awards for international students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:38:00+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"name\":\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2017-08-30T18:13:09+00:00\",\"dateModified\":\"2026-07-30T23:38:00+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Financial planning\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Scholarships and awards for international students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -7393,7 +7395,7 @@
             "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "og_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-02-11T01:20:05+00:00",
+            "article_modified_time": "2026-07-30T23:38:00+00:00",
             "twitter_card": "summary_large_image",
             "twitter_site": "@youbc",
             "schema": {
@@ -7408,7 +7410,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2017-08-30T18:13:09+00:00",
-                  "dateModified": "2026-02-11T01:20:05+00:00",
+                  "dateModified": "2026-07-30T23:38:00+00:00",
                   "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/#breadcrumb"
@@ -7509,14 +7511,14 @@
             ],
             "version-history": [
               {
-                "count": 15,
+                "count": 16,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/549378/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577032,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/549378/revisions/577032"
+                "id": 577639,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/549378/revisions/577639"
               }
             ],
             "up": [
@@ -14905,8 +14907,8 @@
     "guid": {
       "rendered": "https://you.ubc.ca/?page_id=566809"
     },
-    "modified": "2026-05-14T14:49:43",
-    "modified_gmt": "2026-05-14T21:49:43",
+    "modified": "2026-07-30T15:05:15",
+    "modified_gmt": "2026-07-30T22:05:15",
     "slug": "vancouver",
     "status": "publish",
     "type": "page",
@@ -14942,7 +14944,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T21:49:43+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1800\" />\n\t<meta property=\"og:image:height\" content=\"1011\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"name\":\"UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"datePublished\":\"2021-09-08T21:35:56+00:00\",\"dateModified\":\"2026-05-14T21:49:43+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"width\":1800,\"height\":1011,\"caption\":\"Ariel view of UBC's Vancouver campus\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Vancouver campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:05:15+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1800\" />\n\t<meta property=\"og:image:height\" content=\"1011\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"name\":\"UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"datePublished\":\"2021-09-08T21:35:56+00:00\",\"dateModified\":\"2026-07-30T22:05:15+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"width\":1800,\"height\":1011,\"caption\":\"Ariel view of UBC's Vancouver campus\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Vancouver campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions",
       "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -14960,7 +14962,7 @@
       "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
       "og_url": "https://you.ubc.ca/ubc-life/vancouver/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-05-14T21:49:43+00:00",
+      "article_modified_time": "2026-07-30T22:05:15+00:00",
       "og_image": [
         {
           "width": 1800,
@@ -14993,7 +14995,7 @@
             },
             "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg",
             "datePublished": "2021-09-08T21:35:56+00:00",
-            "dateModified": "2026-05-14T21:49:43+00:00",
+            "dateModified": "2026-07-30T22:05:15+00:00",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/ubc-life/vancouver/#breadcrumb"
@@ -15104,14 +15106,14 @@
       ],
       "version-history": [
         {
-          "count": 15,
+          "count": 18,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577395,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions/577395"
+          "id": 577631,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions/577631"
         }
       ],
       "up": [
@@ -15619,8 +15621,8 @@
     "guid": {
       "rendered": "https://you.ubc.ca/?page_id=566666"
     },
-    "modified": "2026-05-14T14:50:54",
-    "modified_gmt": "2026-05-14T21:50:54",
+    "modified": "2026-07-30T15:27:33",
+    "modified_gmt": "2026-07-30T22:27:33",
     "slug": "okanagan",
     "status": "publish",
     "type": "page",
@@ -15656,7 +15658,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T21:50:54+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1704\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"name\":\"UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"datePublished\":\"2021-08-18T16:41:18+00:00\",\"dateModified\":\"2026-05-14T21:50:54+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"width\":2560,\"height\":1704},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Okanagan campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:27:33+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1704\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"name\":\"UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"datePublished\":\"2021-08-18T16:41:18+00:00\",\"dateModified\":\"2026-07-30T22:27:33+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"width\":2560,\"height\":1704},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Okanagan campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions",
       "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -15674,7 +15676,7 @@
       "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
       "og_url": "https://you.ubc.ca/ubc-life/okanagan/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-05-14T21:50:54+00:00",
+      "article_modified_time": "2026-07-30T22:27:33+00:00",
       "og_image": [
         {
           "width": 2560,
@@ -15707,7 +15709,7 @@
             },
             "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg",
             "datePublished": "2021-08-18T16:41:18+00:00",
-            "dateModified": "2026-05-14T21:50:54+00:00",
+            "dateModified": "2026-07-30T22:27:33+00:00",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/ubc-life/okanagan/#breadcrumb"
@@ -15817,14 +15819,14 @@
       ],
       "version-history": [
         {
-          "count": 18,
+          "count": 20,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577396,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions/577396"
+          "id": 577634,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions/577634"
         }
       ],
       "up": [
@@ -27102,7 +27104,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -27120,7 +27122,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -27136,7 +27138,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -27231,14 +27233,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -30798,7 +30800,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -30816,7 +30818,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -30832,7 +30834,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -30927,14 +30929,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -35665,7 +35667,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -35683,7 +35685,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -35699,7 +35701,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -35794,14 +35796,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -36054,7 +36056,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -36072,7 +36074,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -36088,7 +36090,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -36183,14 +36185,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -37661,7 +37663,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -37679,7 +37681,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -37695,7 +37697,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -37790,14 +37792,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -38050,7 +38052,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -38068,7 +38070,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -38084,7 +38086,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -38179,14 +38181,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -40469,7 +40471,7 @@
           "author": 1,
           "featured_media": 0,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "Applying to UBC",
             "description": "UBC's admission requirements, the online application process, and more.",
@@ -40487,7 +40489,7 @@
             "og_description": "UBC's admission requirements, the online application process, and more.",
             "og_url": "https://you.ubc.ca/applying-ubc/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-06-11T18:50:49+00:00",
+            "article_modified_time": "2026-07-30T23:58:11+00:00",
             "twitter_card": "summary_large_image",
             "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
             "twitter_site": "@youbc",
@@ -40503,7 +40505,7 @@
                     "@id": "https://you.ubc.ca/#website"
                   },
                   "datePublished": "2013-06-26T18:04:59+00:00",
-                  "dateModified": "2026-06-11T18:50:49+00:00",
+                  "dateModified": "2026-07-30T23:58:11+00:00",
                   "description": "UBC's admission requirements, the online application process, and more.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -40598,14 +40600,14 @@
             ],
             "version-history": [
               {
-                "count": 70,
+                "count": 73,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577503,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+                "id": 577644,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
               }
             ],
             "wp:attachment": [
@@ -43358,8 +43360,8 @@
     "guid": {
       "rendered": "http://you.ubc.ca/?page_id=549378"
     },
-    "modified": "2026-02-10T17:20:05",
-    "modified_gmt": "2026-02-11T01:20:05",
+    "modified": "2026-07-30T16:38:00",
+    "modified_gmt": "2026-07-30T23:38:00",
     "slug": "scholarships-awards-international-students",
     "status": "publish",
     "type": "page",
@@ -43394,7 +43396,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-02-11T01:20:05+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"name\":\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2017-08-30T18:13:09+00:00\",\"dateModified\":\"2026-02-11T01:20:05+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Financial planning\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Scholarships and awards for international students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/financial-planning/scholarships-awards-international-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:38:00+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\",\"name\":\"Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2017-08-30T18:13:09+00:00\",\"dateModified\":\"2026-07-30T23:38:00+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/scholarships-awards-international-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Financial planning\",\"item\":\"https:\\/\\/you.ubc.ca\\/financial-planning\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Scholarships and awards for international students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "Scholarships and awards for international students - UBC | Undergraduate Programs and Admissions",
       "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -43412,7 +43414,7 @@
       "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
       "og_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-02-11T01:20:05+00:00",
+      "article_modified_time": "2026-07-30T23:38:00+00:00",
       "twitter_card": "summary_large_image",
       "twitter_site": "@youbc",
       "schema": {
@@ -43427,7 +43429,7 @@
               "@id": "https://you.ubc.ca/#website"
             },
             "datePublished": "2017-08-30T18:13:09+00:00",
-            "dateModified": "2026-02-11T01:20:05+00:00",
+            "dateModified": "2026-07-30T23:38:00+00:00",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/#breadcrumb"
@@ -43528,14 +43530,14 @@
       ],
       "version-history": [
         {
-          "count": 15,
+          "count": 16,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/549378/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577032,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/549378/revisions/577032"
+          "id": 577639,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/549378/revisions/577639"
         }
       ],
       "up": [
@@ -52391,8 +52393,8 @@
     "guid": {
       "rendered": "http://you.ubc.ca//?page_id=76"
     },
-    "modified": "2026-06-11T11:50:49",
-    "modified_gmt": "2026-06-11T18:50:49",
+    "modified": "2026-07-30T16:58:11",
+    "modified_gmt": "2026-07-30T23:58:11",
     "slug": "applying-ubc",
     "status": "publish",
     "type": "page",
@@ -52427,7 +52429,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-06-11T18:50:49+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-06-11T18:50:49+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applying to UBC</title>\n<meta name=\"description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applying to UBC\" />\n<meta property=\"og:description\" content=\"UBC&#039;s admission requirements, the online application process, and more.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/applying-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:58:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image\" content=\"http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\",\"name\":\"Applying to UBC\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T18:04:59+00:00\",\"dateModified\":\"2026-07-30T23:58:11+00:00\",\"description\":\"UBC's admission requirements, the online application process, and more.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/applying-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applying to UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "Applying to UBC",
       "description": "UBC's admission requirements, the online application process, and more.",
@@ -52445,7 +52447,7 @@
       "og_description": "UBC's admission requirements, the online application process, and more.",
       "og_url": "https://you.ubc.ca/applying-ubc/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-06-11T18:50:49+00:00",
+      "article_modified_time": "2026-07-30T23:58:11+00:00",
       "twitter_card": "summary_large_image",
       "twitter_image": "http://you.ubc.ca/wp-content/uploads/2013/06/admissions.jpg",
       "twitter_site": "@youbc",
@@ -52461,7 +52463,7 @@
               "@id": "https://you.ubc.ca/#website"
             },
             "datePublished": "2013-06-26T18:04:59+00:00",
-            "dateModified": "2026-06-11T18:50:49+00:00",
+            "dateModified": "2026-07-30T23:58:11+00:00",
             "description": "UBC's admission requirements, the online application process, and more.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/applying-ubc/#breadcrumb"
@@ -52556,14 +52558,14 @@
       ],
       "version-history": [
         {
-          "count": 70,
+          "count": 73,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577503,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577503"
+          "id": 577644,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/76/revisions/577644"
         }
       ],
       "wp:attachment": [
@@ -57354,7 +57356,7 @@
           "author": 1001075,
           "featured_media": 566691,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T21:50:54+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1704\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"name\":\"UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"datePublished\":\"2021-08-18T16:41:18+00:00\",\"dateModified\":\"2026-05-14T21:50:54+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"width\":2560,\"height\":1704},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Okanagan campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:27:33+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1704\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"name\":\"UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"datePublished\":\"2021-08-18T16:41:18+00:00\",\"dateModified\":\"2026-07-30T22:27:33+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"width\":2560,\"height\":1704},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Okanagan campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -57372,7 +57374,7 @@
             "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "og_url": "https://you.ubc.ca/ubc-life/okanagan/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-05-14T21:50:54+00:00",
+            "article_modified_time": "2026-07-30T22:27:33+00:00",
             "og_image": [
               {
                 "width": 2560,
@@ -57405,7 +57407,7 @@
                   },
                   "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg",
                   "datePublished": "2021-08-18T16:41:18+00:00",
-                  "dateModified": "2026-05-14T21:50:54+00:00",
+                  "dateModified": "2026-07-30T22:27:33+00:00",
                   "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/ubc-life/okanagan/#breadcrumb"
@@ -57515,14 +57517,14 @@
             ],
             "version-history": [
               {
-                "count": 18,
+                "count": 20,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577396,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions/577396"
+                "id": 577634,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions/577634"
               }
             ],
             "up": [
@@ -57796,7 +57798,7 @@
           "author": 1001075,
           "featured_media": 566691,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T21:50:54+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1704\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"name\":\"UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"datePublished\":\"2021-08-18T16:41:18+00:00\",\"dateModified\":\"2026-05-14T21:50:54+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"width\":2560,\"height\":1704},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Okanagan campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Okanagan campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/okanagan/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:27:33+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1704\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\",\"name\":\"UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"datePublished\":\"2021-08-18T16:41:18+00:00\",\"dateModified\":\"2026-07-30T22:27:33+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2021\\/08\\/46319488982_95abf7558e_6k-scaled.jpg\",\"width\":2560,\"height\":1704},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/okanagan\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Okanagan campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "UBC's Okanagan campus - UBC | Undergraduate Programs and Admissions",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -57814,7 +57816,7 @@
             "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "og_url": "https://you.ubc.ca/ubc-life/okanagan/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-05-14T21:50:54+00:00",
+            "article_modified_time": "2026-07-30T22:27:33+00:00",
             "og_image": [
               {
                 "width": 2560,
@@ -57847,7 +57849,7 @@
                   },
                   "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2021/08/46319488982_95abf7558e_6k-scaled.jpg",
                   "datePublished": "2021-08-18T16:41:18+00:00",
-                  "dateModified": "2026-05-14T21:50:54+00:00",
+                  "dateModified": "2026-07-30T22:27:33+00:00",
                   "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/ubc-life/okanagan/#breadcrumb"
@@ -57957,14 +57959,14 @@
             ],
             "version-history": [
               {
-                "count": 18,
+                "count": 20,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577396,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions/577396"
+                "id": 577634,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566666/revisions/577634"
               }
             ],
             "up": [
@@ -58238,7 +58240,7 @@
           "author": 1001075,
           "featured_media": 574773,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T21:49:43+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1800\" />\n\t<meta property=\"og:image:height\" content=\"1011\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"name\":\"UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"datePublished\":\"2021-09-08T21:35:56+00:00\",\"dateModified\":\"2026-05-14T21:49:43+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"width\":1800,\"height\":1011,\"caption\":\"Ariel view of UBC's Vancouver campus\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Vancouver campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:05:15+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1800\" />\n\t<meta property=\"og:image:height\" content=\"1011\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"name\":\"UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"datePublished\":\"2021-09-08T21:35:56+00:00\",\"dateModified\":\"2026-07-30T22:05:15+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"width\":1800,\"height\":1011,\"caption\":\"Ariel view of UBC's Vancouver campus\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Vancouver campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -58256,7 +58258,7 @@
             "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "og_url": "https://you.ubc.ca/ubc-life/vancouver/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-05-14T21:49:43+00:00",
+            "article_modified_time": "2026-07-30T22:05:15+00:00",
             "og_image": [
               {
                 "width": 1800,
@@ -58289,7 +58291,7 @@
                   },
                   "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg",
                   "datePublished": "2021-09-08T21:35:56+00:00",
-                  "dateModified": "2026-05-14T21:49:43+00:00",
+                  "dateModified": "2026-07-30T22:05:15+00:00",
                   "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/ubc-life/vancouver/#breadcrumb"
@@ -58400,14 +58402,14 @@
             ],
             "version-history": [
               {
-                "count": 15,
+                "count": 18,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577395,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions/577395"
+                "id": 577631,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions/577631"
               }
             ],
             "up": [
@@ -58681,7 +58683,7 @@
           "author": 1001075,
           "featured_media": 574773,
           "acf": [],
-          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-05-14T21:49:43+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1800\" />\n\t<meta property=\"og:image:height\" content=\"1011\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"name\":\"UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"datePublished\":\"2021-09-08T21:35:56+00:00\",\"dateModified\":\"2026-05-14T21:49:43+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"width\":1800,\"height\":1011,\"caption\":\"Ariel view of UBC's Vancouver campus\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Vancouver campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC&#039;s Vancouver campus - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life/vancouver/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T22:05:15+00:00\" />\n<meta property=\"og:image\" content=\"https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1800\" />\n\t<meta property=\"og:image:height\" content=\"1011\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\",\"name\":\"UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"datePublished\":\"2021-09-08T21:35:56+00:00\",\"dateModified\":\"2026-07-30T22:05:15+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#primaryimage\",\"url\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"contentUrl\":\"https:\\/\\/you.ubc.ca\\/wp-content\\/uploads\\/2025\\/05\\/ubc-vancouver-campus.jpg\",\"width\":1800,\"height\":1011,\"caption\":\"Ariel view of UBC's Vancouver campus\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/vancouver\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC Life\",\"item\":\"https:\\/\\/you.ubc.ca\\/ubc-life\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"UBC&#8217;s Vancouver campus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
           "yoast_head_json": {
             "title": "UBC's Vancouver campus - UBC | Undergraduate Programs and Admissions",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -58699,7 +58701,7 @@
             "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "og_url": "https://you.ubc.ca/ubc-life/vancouver/",
             "og_site_name": "UBC | Undergraduate Programs and Admissions",
-            "article_modified_time": "2026-05-14T21:49:43+00:00",
+            "article_modified_time": "2026-07-30T22:05:15+00:00",
             "og_image": [
               {
                 "width": 1800,
@@ -58732,7 +58734,7 @@
                   },
                   "thumbnailUrl": "https://you.ubc.ca/wp-content/uploads/2025/05/ubc-vancouver-campus.jpg",
                   "datePublished": "2021-09-08T21:35:56+00:00",
-                  "dateModified": "2026-05-14T21:49:43+00:00",
+                  "dateModified": "2026-07-30T22:05:15+00:00",
                   "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
                   "breadcrumb": {
                     "@id": "https://you.ubc.ca/ubc-life/vancouver/#breadcrumb"
@@ -58843,14 +58845,14 @@
             ],
             "version-history": [
               {
-                "count": 15,
+                "count": 18,
                 "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions"
               }
             ],
             "predecessor-version": [
               {
-                "id": 577395,
-                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions/577395"
+                "id": 577631,
+                "href": "https://you.ubc.ca/wp-json/wp/v2/pages/566809/revisions/577631"
               }
             ],
             "up": [
@@ -58889,8 +58891,8 @@
     "guid": {
       "rendered": "http://you.ubc.ca//?page_id=8"
     },
-    "modified": "2026-07-23T14:24:36",
-    "modified_gmt": "2026-07-23T21:24:36",
+    "modified": "2026-07-30T16:57:40",
+    "modified_gmt": "2026-07-30T23:57:40",
     "slug": "home-2",
     "status": "publish",
     "type": "page",
@@ -58925,7 +58927,7 @@
       "hentry"
     ],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-23T21:24:36+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T16:39:00+00:00\",\"dateModified\":\"2026-07-23T21:24:36+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC Undergraduate Programs and Admissions</title>\n<meta name=\"description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC Undergraduate Programs and Admissions\" />\n<meta property=\"og:description\" content=\"All you need to know about UBC&#039;s undergraduate programs, admissions requirements, application process, tuition, and campus life.\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"article:modified_time\" content=\"2026-07-30T23:57:40+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"datePublished\":\"2013-06-26T16:39:00+00:00\",\"dateModified\":\"2026-07-30T23:57:40+00:00\",\"description\":\"All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/you.ubc.ca\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
       "title": "UBC Undergraduate Programs and Admissions",
       "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
@@ -58943,7 +58945,7 @@
       "og_description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
       "og_url": "https://you.ubc.ca/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
-      "article_modified_time": "2026-07-23T21:24:36+00:00",
+      "article_modified_time": "2026-07-30T23:57:40+00:00",
       "twitter_card": "summary_large_image",
       "twitter_site": "@youbc",
       "twitter_misc": {
@@ -58961,7 +58963,7 @@
               "@id": "https://you.ubc.ca/#website"
             },
             "datePublished": "2013-06-26T16:39:00+00:00",
-            "dateModified": "2026-07-23T21:24:36+00:00",
+            "dateModified": "2026-07-30T23:57:40+00:00",
             "description": "All you need to know about UBC's undergraduate programs, admissions requirements, application process, tuition, and campus life.",
             "breadcrumb": {
               "@id": "https://you.ubc.ca/#breadcrumb"
@@ -59056,14 +59058,14 @@
       ],
       "version-history": [
         {
-          "count": 76,
+          "count": 77,
           "href": "https://you.ubc.ca/wp-json/wp/v2/pages/8/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 577586,
-          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/8/revisions/577586"
+          "id": 577643,
+          "href": "https://you.ubc.ca/wp-json/wp/v2/pages/8/revisions/577643"
         }
       ],
       "wp:attachment": [

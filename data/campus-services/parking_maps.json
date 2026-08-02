@@ -7,6 +7,7 @@
     "title": "Find Parking",
     "created": "2024-07-19T19:38:54+00:00",
     "changed": "2024-07-19T19:39:42+00:00",
+    "alias": "/map",
     "body": null,
     "related": {
       "node_type": "e25a3f15-36a4-4b1a-a7e2-05a478759de4",

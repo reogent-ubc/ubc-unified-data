@@ -852,8 +852,8 @@
     "guid": {
       "rendered": "https://pair.ubc.ca/?page_id=3129"
     },
-    "modified": "2026-07-23T23:50:44",
-    "modified_gmt": "2026-07-24T06:50:44",
+    "modified": "2026-07-30T09:42:11",
+    "modified_gmt": "2026-07-30T16:42:11",
     "slug": "nubc",
     "status": "publish",
     "type": "page",
@@ -923,14 +923,14 @@
       ],
       "version-history": [
         {
-          "count": 37,
+          "count": 43,
           "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/3129/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 3473,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/3129/revisions/3473"
+          "id": 3486,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/3129/revisions/3486"
         }
       ],
       "wp:attachment": [
@@ -4093,8 +4093,8 @@
     "guid": {
       "rendered": "https://pair.ok.ubc.ca/?page_id=38"
     },
-    "modified": "2026-07-21T14:01:00",
-    "modified_gmt": "2026-07-21T21:01:00",
+    "modified": "2026-07-28T12:18:52",
+    "modified_gmt": "2026-07-28T19:18:52",
     "slug": "nubc",
     "status": "publish",
     "type": "page",
@@ -4170,8 +4170,8 @@
       ],
       "predecessor-version": [
         {
-          "id": 3464,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/38/revisions/3464"
+          "id": 3477,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/38/revisions/3477"
         }
       ],
       "up": [

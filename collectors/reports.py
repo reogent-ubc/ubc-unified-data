@@ -122,6 +122,20 @@ class Reports(Collector):
         for row in unique:
             row["linked_from_pages"] = counts[row["url"]]
         unique.sort(key=lambda row: (row["site"], row["file_type"], row["filename"]))
+        out.describe(
+            "documents",
+            grain="one published document, deduplicated across the pages that link it",
+            columns={
+                "site": "finance, pair or facilities",
+                "url": "direct download; the document itself is not mirrored here",
+                "filename": "the file as UBC named it -- usually the only title it has",
+                "file_type": "pdf, csv, xlsx...",
+                "page_title": "the page it was linked from",
+                "page_url": "that page",
+                "linked_from_pages": "how many pages link it; a high count usually means boilerplate",
+            },
+            joins=[],
+        )
         out.table("documents", unique)
         out.json("_sources.json", status)
 

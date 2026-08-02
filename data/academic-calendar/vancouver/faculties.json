@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-02-10T22:05:05+00:00",
+    "alias": "/faculty/faculty-arts",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -29,6 +30,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:33:25+00:00",
+    "alias": "/faculty/faculty-science",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -48,6 +50,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:33:33+00:00",
+    "alias": "/faculty/faculty-applied-science",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -67,6 +70,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:33:41+00:00",
+    "alias": "/faculty/faculty-education",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -86,6 +90,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:33:49+00:00",
+    "alias": "/faculty/faculty-medicine",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -105,6 +110,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-01-29T18:42:01+00:00",
+    "alias": "/faculty/faculty-commerce-and-business-administration",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -124,6 +130,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:36:33+00:00",
+    "alias": "/faculty/faculty-land-and-food-systems",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -143,6 +150,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:36:39+00:00",
+    "alias": "/faculty/faculty-dentistry",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -162,6 +170,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-01-29T18:42:45+00:00",
+    "alias": "/faculty/faculty-forestry-and-environmental-stewardship",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -181,6 +190,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:36:55+00:00",
+    "alias": "/faculty/faculty-graduate-and-postdoctoral-studies",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -200,6 +210,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:37:09+00:00",
+    "alias": "/faculty/faculty-pharmaceutical-sciences",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -219,6 +230,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-03-14T17:37:17+00:00",
+    "alias": "/faculty/peter-allard-school-law",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [
@@ -238,6 +250,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-05-26T20:11:15+00:00",
+    "alias": "/faculty/vantage-college",
     "related": {
       "vid": "b183d58e-21e4-40cf-aea2-1b8905a5a71f",
       "parent": [

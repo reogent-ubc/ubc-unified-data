@@ -52,6 +52,39 @@ class Events(Collector):
     sources = ("https://events.ubc.ca/resources/webdev/", f"{BASE}/events")
 
     def collect(self, http: Http, out: Output) -> None:
+        out.describe(
+            "events",
+            grain="one public event",
+            columns={
+                "title": "event title",
+                "start_date": "local start, `YYYY-MM-DD HH:MM:SS`",
+                "end_date": "local end",
+                "utc_start_date": "the same instant in UTC",
+                "all_day": "true for all-day events, where the times mean nothing",
+                "cost": "as published; free text, often empty or `Free`",
+                "venue": "the venue object, inlined; `venue.id` joins to the venue table",
+                "organizer": "the organizer object(s), inlined",
+                "categories": "category objects, inlined",
+                "url": "the event page",
+                "is_virtual": "true for online events, which have no useful venue",
+            },
+            joins=["venue.id -> events/venues.id", "organizer.id -> events/organizers.id"],
+        )
+        out.describe(
+            "venues",
+            grain="one venue in the events directory",
+            columns={
+                "venue": "the venue name",
+                "address": "street address",
+                "city": "city -- the only campus proxy events have",
+                "province": "province",
+                "zip": "postal code",
+            },
+            joins=[
+                "id -> events/events.venue.id",
+                "address ~ geospatial/ubcv/locations (no coordinates here; join to place on a map)",
+            ],
+        )
         events = _collection(http, "events", {"start_date": ARCHIVE_START})
         out.table("events", events, source=f"{BASE}/events")
 

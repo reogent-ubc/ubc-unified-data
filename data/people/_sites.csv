@@ -1,6 +1,6 @@
 site,profiles,skipped
 science.ubc.ca,74,
-apsc.ubc.ca,686,
+apsc.ubc.ca,692,
 arts.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.arts.ubc.ca/jsonapi
 grad.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://www.grad.ubc.ca/jsonapi
 forestry.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://forestry.ubc.ca/jsonapi
@@ -11,18 +11,18 @@ law.ubc.ca,278,
 nursing.ubc.ca,417,
 pharmsci.ubc.ca,257,
 dentistry.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.dentistry.ubc.ca/jsonapi
-med.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://www.med.ubc.ca/jsonapi
+med.ubc.ca,0,"ConnectionError: HTTPSConnectionPool(host='med.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
 spph.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://spph.ubc.ca/jsonapi
 sppga.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://sppga.ubc.ca/jsonapi
 music.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://music.ubc.ca/jsonapi
 sala.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://sala.ubc.ca/jsonapi
 ires.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://ires.ubc.ca/jsonapi
 chbe.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://chbe.ubc.ca/jsonapi
-civil.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://civil.ubc.ca/jsonapi
+civil.ubc.ca,0,"ConnectionError: HTTPSConnectionPool(host='civil.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
 ece.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://ece.ubc.ca/jsonapi
-mech.ubc.ca,0,HTTPError: 404 Client Error: Not found for url: https://mech.ubc.ca/jsonapi
+mech.ubc.ca,0,"ConnectionError: HTTPSConnectionPool(host='mech.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
 cs.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://www.cs.ubc.ca/jsonapi
-math.ubc.ca,0,"ConnectTimeout: HTTPSConnectionPool(host='math.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ConnectTimeoutError(<HTTPSConnection(host='math.ubc.ca', port=443) at 0x223b77ce710>, 'Connection to math.ubc.ca timed out. (connect timeout=60)'))"
+math.ubc.ca,0,"ConnectTimeout: HTTPSConnectionPool(host='math.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ConnectTimeoutError(<HTTPSConnection(host='math.ubc.ca', port=443) at 0x16b832f8050>, 'Connection to math.ubc.ca timed out. (connect timeout=60)'))"
 stat.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://stat.ubc.ca/jsonapi
 phas.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://phas.ubc.ca/jsonapi
 chem.ubc.ca,0,HTTPError: 404 Client Error: Not Found for url: https://chem.ubc.ca/jsonapi

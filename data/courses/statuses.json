@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:55:21+00:00",
+    "alias": "/status/open",
     "related": {
       "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
       "parent": [
@@ -28,6 +29,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-02-12T17:55:26+00:00",
+    "alias": "/status/closed",
     "related": {
       "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
       "parent": [
@@ -46,6 +48,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-27T21:28:35+00:00",
+    "alias": "/status/waitlist",
     "related": {
       "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
       "parent": [
@@ -64,6 +67,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-27T22:02:26+00:00",
+    "alias": "/status/canceled",
     "related": {
       "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
       "parent": [
@@ -82,6 +86,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-27T22:02:32+00:00",
+    "alias": "/status/preliminary",
     "related": {
       "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
       "parent": [
@@ -100,6 +105,7 @@
     "description": null,
     "weight": 0,
     "changed": "2026-03-27T22:02:38+00:00",
+    "alias": "/status/other",
     "related": {
       "vid": "184be8c6-ccca-4ff9-a9d3-4230459e11ea",
       "parent": [

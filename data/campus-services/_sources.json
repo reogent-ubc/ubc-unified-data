@@ -56,7 +56,13 @@
   {
     "dataset": "news",
     "source": "https://news.ubc.ca/wp-json/wp/v2/posts",
-    "records": 1456,
+    "records": 1457,
+    "skipped": null
+  },
+  {
+    "dataset": "statutory_holidays",
+    "source": "https://hr.ubc.ca/working-ubc/statutory-holidays",
+    "records": 13,
     "skipped": null
   }
 ]

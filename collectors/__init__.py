@@ -24,8 +24,10 @@ from . import geospatial  # noqa: F401
 from . import courses  # noqa: F401
 from . import academic_calendar  # noqa: F401
 from . import learning_spaces  # noqa: F401
+from . import room_bookings  # noqa: F401
 from . import events  # noqa: F401
 from . import admissions  # noqa: F401
+from . import finances  # noqa: F401
 from . import people  # noqa: F401
 from . import services  # noqa: F401
 from . import reports  # noqa: F401

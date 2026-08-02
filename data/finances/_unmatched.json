@@ -1,0 +1,65 @@
+[
+  {
+    "program_id": 551,
+    "program": "Architecture",
+    "degrees": [
+      "Master of Architecture"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/architecture/",
+    "reason": "no unique cost-estimator area"
+  },
+  {
+    "program_id": 869,
+    "program": "Education: Elementary and Middle Years",
+    "degrees": [
+      "Bachelor of Education"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/education-elementary-middle-years/",
+    "reason": "no unique cost-estimator area"
+  },
+  {
+    "program_id": 546362,
+    "program": "Education: International Baccalaureate",
+    "degrees": [
+      "Bachelor of Education"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/education-ib/",
+    "reason": "no unique cost-estimator area"
+  },
+  {
+    "program_id": 985,
+    "program": "Education: Secondary",
+    "degrees": [
+      "Bachelor of Education"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/education-secondary/",
+    "reason": "no unique cost-estimator area"
+  },
+  {
+    "program_id": 1035,
+    "program": "Education: West Kootenay Teacher Education Program (WKTEP)",
+    "degrees": [
+      "Bachelor of Education"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/education-wktep/",
+    "reason": "no unique cost-estimator area"
+  },
+  {
+    "program_id": 801,
+    "program": "Journalism",
+    "degrees": [
+      "Master of Journalism"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/journalism/",
+    "reason": "no unique cost-estimator area"
+  },
+  {
+    "program_id": 555107,
+    "program": "Sustainable Agriculture and Environment",
+    "degrees": [
+      "Bachelor of Science in Applied Biology"
+    ],
+    "url": "https://you.ubc.ca/ubc_programs/sustainable-agriculture-environment/",
+    "reason": "no unique cost-estimator area"
+  }
+]

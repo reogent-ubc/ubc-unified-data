@@ -1,0 +1,14 @@
+name,date,weekday,year,month,date_text,ubc_specific,source_url
+New Year’s Day,2026-01-01,Thursday,2026,1,"Thursday, January 1",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Family Day,2026-02-16,Monday,2026,2,"Monday, February 16",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Good Friday,2026-04-03,Friday,2026,4,"Friday, April 3",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Easter Monday,2026-04-06,Monday,2026,4,"Monday, April 6",True,https://hr.ubc.ca/working-ubc/statutory-holidays
+Victoria Day,2026-05-18,Monday,2026,5,"Monday, May 18",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Canada Day,2026-07-01,Wednesday,2026,7,"Wednesday, July 1",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+BC Day,2026-08-03,Monday,2026,8,"Monday, August 3",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Labour Day,2026-09-07,Monday,2026,9,"Monday, September 7",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+National Day for Truth and Reconciliation,2026-09-30,Wednesday,2026,9,"Wednesday, September 30",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Thanksgiving Day,2026-10-12,Monday,2026,10,"Monday, October 12",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Remembrance Day,2026-11-11,Wednesday,2026,11,"Wednesday, November 11",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Christmas Day,2026-12-25,Friday,2026,12,"Friday, December 25",False,https://hr.ubc.ca/working-ubc/statutory-holidays
+Boxing Day,2026-12-28,Monday,2026,12,"Monday, December 28 (in lieu)",True,https://hr.ubc.ca/working-ubc/statutory-holidays

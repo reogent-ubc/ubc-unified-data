@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-02-08T18:20:00+00:00",
+    "alias": "/department-or-unit/admin",
     "related": {
       "vid": "2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3",
       "parent": [
@@ -29,6 +30,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-02-08T18:20:00+00:00",
+    "alias": "/department-or-unit/marketing",
     "related": {
       "vid": "2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3",
       "parent": [
@@ -48,6 +50,7 @@
     "description": null,
     "weight": 0,
     "changed": "2023-02-08T18:20:00+00:00",
+    "alias": "/department-or-unit/web-services",
     "related": {
       "vid": "2e2c92fc-1f51-4954-9c54-d6ab9f5f56b3",
       "parent": [

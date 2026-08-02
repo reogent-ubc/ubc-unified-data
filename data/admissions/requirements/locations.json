@@ -1,0 +1,758 @@
+[
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 547,
+    "slug": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 546,
+    "slug": "australia",
+    "name": "Australia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 760,
+    "slug": "austria",
+    "name": "Austria"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 804,
+    "slug": "azerbaijan",
+    "name": "Azerbaijan"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 544,
+    "slug": "bahamas",
+    "name": "Bahamas"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 759,
+    "slug": "bahrain",
+    "name": "Bahrain"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 758,
+    "slug": "bangladesh",
+    "name": "Bangladesh"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 560,
+    "slug": "barbados",
+    "name": "Barbados"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 549,
+    "slug": "basic",
+    "name": "Basic"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 561,
+    "slug": "belize",
+    "name": "Belize"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 541,
+    "slug": "bermuda",
+    "name": "Bermuda"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 540,
+    "slug": "bolivia",
+    "name": "Bolivia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 757,
+    "slug": "botswana",
+    "name": "Botswana"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 708,
+    "slug": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 562,
+    "slug": "british-virgin-islands",
+    "name": "British Virgin Islands"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 552,
+    "slug": "brunei",
+    "name": "Brunei"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 553,
+    "slug": "cameroon",
+    "name": "Cameroon - British"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 583,
+    "slug": "cameroon-french",
+    "name": "Cameroon - French"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 563,
+    "slug": "cayman-islands",
+    "name": "Cayman Islands"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 756,
+    "slug": "chile",
+    "name": "Chile"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 537,
+    "slug": "china-2",
+    "name": "China"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 536,
+    "slug": "colombia",
+    "name": "Colombia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 755,
+    "slug": "costa-rica",
+    "name": "Costa Rica"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 754,
+    "slug": "czech-republic",
+    "name": "Czech Republic"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 753,
+    "slug": "denmark",
+    "name": "Denmark"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 564,
+    "slug": "dominica",
+    "name": "Dominica"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 752,
+    "slug": "ecuador",
+    "name": "Ecuador"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 531,
+    "slug": "egypt-11-years-of-education",
+    "name": "Egypt – 11 Years of Education"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 550,
+    "slug": "egypt",
+    "name": "Egypt – 12 Years of Education"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 751,
+    "slug": "el-salvador",
+    "name": "El Salvador"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 750,
+    "slug": "ethiopia",
+    "name": "Ethiopia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 749,
+    "slug": "finland",
+    "name": "Finland"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 748,
+    "slug": "france",
+    "name": "France (French Baccalaureate)"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 747,
+    "slug": "germany",
+    "name": "Germany"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 746,
+    "slug": "ghana",
+    "name": "Ghana"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 554,
+    "slug": "gibraltar",
+    "name": "Gibraltar"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 524,
+    "slug": "greece",
+    "name": "Greece"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 565,
+    "slug": "grenada",
+    "name": "Grenada"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 694,
+    "slug": "guatemala",
+    "name": "Guatemala"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 566,
+    "slug": "guyana",
+    "name": "Guyana"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 671,
+    "slug": "honduras",
+    "name": "Honduras"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 551,
+    "slug": "hong-kong",
+    "name": "Hong Kong"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 745,
+    "slug": "india",
+    "name": "India"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 744,
+    "slug": "indonesia",
+    "name": "Indonesia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 520,
+    "slug": "iran",
+    "name": "Iran"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 519,
+    "slug": "ireland",
+    "name": "Ireland"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 803,
+    "slug": "israel",
+    "name": "Israel"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 518,
+    "slug": "italy",
+    "name": "Italy"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 761,
+    "slug": "jamaica",
+    "name": "Jamaica"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 743,
+    "slug": "japan",
+    "name": "Japan"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 742,
+    "slug": "jordan",
+    "name": "Jordan"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 741,
+    "slug": "kazakhstan",
+    "name": "Kazakhstan"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 740,
+    "slug": "kenya",
+    "name": "Kenya"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 739,
+    "slug": "kuwait",
+    "name": "Kuwait"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 512,
+    "slug": "lebanon",
+    "name": "Lebanon"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 555,
+    "slug": "lesotho",
+    "name": "Lesotho"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 798,
+    "slug": "liberia",
+    "name": "Liberia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 556,
+    "slug": "macao",
+    "name": "Macao"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 801,
+    "slug": "malawi",
+    "name": "Malawi"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 511,
+    "slug": "malaysia",
+    "name": "Malaysia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 557,
+    "slug": "mauritius",
+    "name": "Mauritius"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 738,
+    "slug": "mexico",
+    "name": "Mexico"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 1317,
+    "slug": "mongolia",
+    "name": "Mongolia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 568,
+    "slug": "montserrat",
+    "name": "Montserrat"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 509,
+    "slug": "morocco",
+    "name": "Morocco"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 558,
+    "slug": "namibia",
+    "name": "Namibia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 508,
+    "slug": "netherlands",
+    "name": "Netherlands"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 507,
+    "slug": "new-zealand",
+    "name": "New Zealand"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 582,
+    "slug": "nigeria",
+    "name": "Nigeria"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 737,
+    "slug": "norway",
+    "name": "Norway"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 736,
+    "slug": "oman",
+    "name": "Oman"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 504,
+    "slug": "pakistan",
+    "name": "Pakistan"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 735,
+    "slug": "panama",
+    "name": "Panama"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 734,
+    "slug": "peru",
+    "name": "Peru"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 501,
+    "slug": "philippines",
+    "name": "Philippines"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 733,
+    "slug": "poland",
+    "name": "Poland"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 732,
+    "slug": "qatar",
+    "name": "Qatar"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 731,
+    "slug": "russia",
+    "name": "Russia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 691,
+    "slug": "rwanda",
+    "name": "Rwanda"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 569,
+    "slug": "saint-kitts-and-nevis",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 570,
+    "slug": "saint-lucia",
+    "name": "Saint Lucia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 571,
+    "slug": "saint-vincent-and-the-grenadines",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 730,
+    "slug": "saudi-arabia",
+    "name": "Saudi Arabia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 496,
+    "slug": "scotland",
+    "name": "Scotland"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 559,
+    "slug": "seychelles",
+    "name": "Seychelles"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 928,
+    "slug": "sierra-leone",
+    "name": "Sierra Leone"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 495,
+    "slug": "singapore",
+    "name": "Singapore"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 729,
+    "slug": "south-africa",
+    "name": "South Africa"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 695,
+    "slug": "south-korea",
+    "name": "South Korea"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 728,
+    "slug": "spain",
+    "name": "Spain"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 492,
+    "slug": "sri-lanka",
+    "name": "Sri Lanka"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 727,
+    "slug": "sweden",
+    "name": "Sweden"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 704,
+    "slug": "switzerland",
+    "name": "Switzerland"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 490,
+    "slug": "syria",
+    "name": "Syria"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 726,
+    "slug": "taiwan",
+    "name": "Taiwan"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 702,
+    "slug": "tanzania",
+    "name": "Tanzania"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 714,
+    "slug": "thailand",
+    "name": "Thailand"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 799,
+    "slug": "the-gambia",
+    "name": "The Gambia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 488,
+    "slug": "trinidad-tobago",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 487,
+    "slug": "tunisia",
+    "name": "Tunisia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 697,
+    "slug": "turkey",
+    "name": "Turkey"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 572,
+    "slug": "turks-and-caicos-islands",
+    "name": "Turks and Caicos Islands"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 725,
+    "slug": "uganda",
+    "name": "Uganda"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 485,
+    "slug": "ukraine",
+    "name": "Ukraine"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 724,
+    "slug": "united-arab-emirates",
+    "name": "United Arab Emirates"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 762,
+    "slug": "united-kingdom",
+    "name": "United Kingdom (British-patterned education)"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 700,
+    "slug": "united-states",
+    "name": "United States (American curriculum)"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 483,
+    "slug": "venezuela",
+    "name": "Venezuela"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 723,
+    "slug": "vietnam",
+    "name": "Vietnam"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 800,
+    "slug": "zambia",
+    "name": "Zambia"
+  },
+  {
+    "taxonomy": "requirement_countries",
+    "term_id": 722,
+    "slug": "zimbabwe",
+    "name": "Zimbabwe"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 711,
+    "slug": "alberta",
+    "name": "Alberta"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 796,
+    "slug": "basic",
+    "name": "Basic"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 686,
+    "slug": "british-columbia",
+    "name": "British Columbia"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 706,
+    "slug": "manitoba",
+    "name": "Manitoba"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 763,
+    "slug": "new-brunswick",
+    "name": "New Brunswick"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 589,
+    "slug": "newfoundland-labrador",
+    "name": "Newfoundland &amp; Labrador"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 764,
+    "slug": "northwest-territories",
+    "name": "Northwest Territories"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 765,
+    "slug": "nova-scotia",
+    "name": "Nova Scotia"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 766,
+    "slug": "nunavut",
+    "name": "Nunavut"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 716,
+    "slug": "ontario",
+    "name": "Ontario"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 767,
+    "slug": "prince-edward-island",
+    "name": "Prince Edward Island"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 768,
+    "slug": "quebec",
+    "name": "Quebec"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 769,
+    "slug": "saskatchewan",
+    "name": "Saskatchewan"
+  },
+  {
+    "taxonomy": "requirement_province",
+    "term_id": 720,
+    "slug": "yukon",
+    "name": "Yukon"
+  },
+  {
+    "taxonomy": "requirement_ib",
+    "term_id": null,
+    "slug": "ib-diploma",
+    "name": "International Baccalaureate"
+  }
+]

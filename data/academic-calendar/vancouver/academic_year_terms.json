@@ -10,6 +10,7 @@
     "description": null,
     "weight": 0,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/199900",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -29,6 +30,7 @@
     "description": null,
     "weight": 1,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200001",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -48,6 +50,7 @@
     "description": null,
     "weight": 2,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200102",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -67,6 +70,7 @@
     "description": null,
     "weight": 3,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200203",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -86,6 +90,7 @@
     "description": null,
     "weight": 4,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200304",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -105,6 +110,7 @@
     "description": null,
     "weight": 5,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200405",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -124,6 +130,7 @@
     "description": null,
     "weight": 6,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200506",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -143,6 +150,7 @@
     "description": null,
     "weight": 7,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200607",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -162,6 +170,7 @@
     "description": null,
     "weight": 8,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200708",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -181,6 +190,7 @@
     "description": null,
     "weight": 9,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200809",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -200,6 +210,7 @@
     "description": null,
     "weight": 10,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/200910",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -219,6 +230,7 @@
     "description": null,
     "weight": 11,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201011",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -238,6 +250,7 @@
     "description": null,
     "weight": 12,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201112",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -257,6 +270,7 @@
     "description": null,
     "weight": 13,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201213",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -276,6 +290,7 @@
     "description": null,
     "weight": 14,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201314",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -295,6 +310,7 @@
     "description": null,
     "weight": 15,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201415",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -314,6 +330,7 @@
     "description": null,
     "weight": 16,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201516",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -333,6 +350,7 @@
     "description": null,
     "weight": 17,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201617",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -352,6 +370,7 @@
     "description": null,
     "weight": 18,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201718",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -371,6 +390,7 @@
     "description": null,
     "weight": 19,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201819",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -390,6 +410,7 @@
     "description": null,
     "weight": 20,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/201920",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -409,6 +430,7 @@
     "description": null,
     "weight": 21,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202021",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -428,6 +450,7 @@
     "description": null,
     "weight": 22,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202122",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -447,6 +470,7 @@
     "description": null,
     "weight": 23,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202223",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -466,6 +490,7 @@
     "description": null,
     "weight": 24,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202324",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -485,6 +510,7 @@
     "description": null,
     "weight": 25,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202425",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -504,6 +530,7 @@
     "description": null,
     "weight": 26,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202526",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [
@@ -523,6 +550,7 @@
     "description": null,
     "weight": 27,
     "changed": "2025-11-25T23:22:27+00:00",
+    "alias": "/academic-year/202627",
     "related": {
       "vid": "b800054b-ba5d-4408-98b6-d7c381d4240e",
       "parent": [

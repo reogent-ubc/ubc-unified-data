@@ -1,5 +1,5 @@
-id,type,tid,revision_id,revision_created,status,name,description,weight,changed,related
-9559e30d-0f57-4663-bb92-898b084ec155,taxonomy_term--delivery_mode,86,86,2026-02-12T17:49:05+00:00,True,In person,,0,2026-02-12T17:49:05+00:00,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
-4a46fa75-809f-47aa-b63d-b00bb8c4270c,taxonomy_term--delivery_mode,87,87,2026-02-12T17:49:12+00:00,True,Online,,0,2026-02-12T17:49:12+00:00,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
-b52fee49-fd2d-4f59-8dfc-764876ca7bf8,taxonomy_term--delivery_mode,88,88,2026-02-12T17:49:17+00:00,True,Hybrid,,0,2026-02-12T17:49:17+00:00,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
-af5a0701-19ff-483c-9168-486d7815a15d,taxonomy_term--delivery_mode,89,89,2026-02-12T17:49:27+00:00,True,Multi-access,,0,2026-03-30T21:44:15+00:00,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
+id,type,tid,revision_id,revision_created,status,name,description,weight,changed,alias,related
+9559e30d-0f57-4663-bb92-898b084ec155,taxonomy_term--delivery_mode,86,86,2026-02-12T17:49:05+00:00,True,In person,,0,2026-02-12T17:49:05+00:00,/delivery-mode/person,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
+4a46fa75-809f-47aa-b63d-b00bb8c4270c,taxonomy_term--delivery_mode,87,87,2026-02-12T17:49:12+00:00,True,Online,,0,2026-02-12T17:49:12+00:00,/delivery-mode/online,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
+b52fee49-fd2d-4f59-8dfc-764876ca7bf8,taxonomy_term--delivery_mode,88,88,2026-02-12T17:49:17+00:00,True,Hybrid,,0,2026-02-12T17:49:17+00:00,/delivery-mode/hybrid,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"
+af5a0701-19ff-483c-9168-486d7815a15d,taxonomy_term--delivery_mode,89,89,2026-02-12T17:49:27+00:00,True,Multi-access,,0,2026-03-30T21:44:15+00:00,/delivery-mode/multi-access,"{""vid"": ""f7e1fb84-b3ab-4971-ada5-76ccb1f0b1d6"", ""parent"": [""virtual""]}"

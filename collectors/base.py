@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 import threading
 import time
 from collections.abc import Callable, Iterable, Sequence
@@ -164,6 +165,9 @@ class Dataset:
     records: int | None
     bytes: int
     source: str | None = None
+    grain: str | None = None
+    columns: dict[str, str] | None = None
+    joins: list[str] | None = None
 
 
 def _scalar(value: Any) -> Any:
@@ -180,6 +184,25 @@ class Output:
         self.root = root
         self.base = root / folder
         self.datasets: list[Dataset] = []
+        self.docs: dict[str, dict[str, Any]] = {}
+
+    def describe(
+        self,
+        stem: str,
+        *,
+        grain: str,
+        columns: dict[str, str],
+        joins: Sequence[str] = (),
+    ) -> None:
+        """Record what a dataset means, so the manifest can say so.
+
+        `grain` is the one sentence that matters most to anything reading the
+        data cold -- what a single row *is*. `joins` name the other datasets a
+        row can be linked to and on which column, because the fastest way to
+        misread this repo is to guess at a foreign key. Call it with the same
+        stem passed to `table()`; both the .json and .csv pick the doc up.
+        """
+        self.docs[stem] = {"grain": grain, "columns": dict(columns), "joins": list(joins)}
 
     def _target(self, relpath: str) -> Path:
         path = self.base / relpath
@@ -187,12 +210,20 @@ class Output:
         return path
 
     def _track(self, path: Path, records: int | None, source: str | None) -> None:
+        relative = path.relative_to(self.root).as_posix()
+        # Docs are registered per table stem; both `x.json` and `x.csv` are the
+        # same table, so strip the suffix and the folder prefix to look it up.
+        stem = relative.removeprefix(f"{self.base.relative_to(self.root).as_posix()}/")
+        doc = self.docs.get(stem.rsplit(".", 1)[0], {})
         self.datasets.append(
             Dataset(
-                path=path.relative_to(self.root).as_posix(),
+                path=relative,
                 records=records,
                 bytes=path.stat().st_size,
                 source=source,
+                grain=doc.get("grain"),
+                columns=doc.get("columns"),
+                joins=doc.get("joins"),
             )
         )
 
@@ -301,6 +332,9 @@ def register(cls: type[Collector]) -> type[Collector]:
 # --------------------------------------------------------------------------
 
 # Editorial/revision noise that adds bulk without telling a student anything.
+# `path` is dropped but not lost: its `alias` is promoted to a column of its
+# own, because it is the only thing in a Drupal record that says where the page
+# lives on the site -- the public URL, and the page hierarchy with it.
 JSONAPI_DROP = {
     "metatag",
     "path",
@@ -321,6 +355,11 @@ def simplify_jsonapi(record: dict[str, Any]) -> dict[str, Any]:
     out: dict[str, Any] = {"id": record.get("id"), "type": record.get("type")}
     for key, value in (record.get("attributes") or {}).items():
         key = key.removeprefix("drupal_internal__")
+        if key == "path":
+            alias = (value or {}).get("alias") if isinstance(value, dict) else None
+            if alias:
+                out["alias"] = alias
+            continue
         if key in JSONAPI_DROP:
             continue
         out[key] = value
@@ -392,6 +431,55 @@ def jsonapi_collection(
 # --------------------------------------------------------------------------
 # WordPress REST
 # --------------------------------------------------------------------------
+
+
+def js_literal(html: str, name: str) -> Any:
+    """Read one `var <name> = [...]/{...}` literal out of a page.
+
+    Several UBC WordPress sites inline a client-side app's whole dataset this
+    way -- the program finder, the cost estimator -- and it is cheaper and more
+    complete than driving the UI that consumes it. WordPress emits these with
+    json_encode, so the body is valid JSON once the matching bracket is found.
+    Scanning respects string literals and escapes.
+    """
+    match = re.search(rf"\bvar\s+{re.escape(name)}\s*=\s*", html)
+    if not match:
+        raise KeyError(name)
+
+    start = match.end()
+    while start < len(html) and html[start].isspace():
+        start += 1
+    opener = html[start]
+    closer = {"[": "]", "{": "}"}.get(opener)
+    if closer is None:
+        raise ValueError(f"{name} is not an array or object literal")
+
+    depth = 0
+    in_string = False
+    escaped = False
+    quote = ""
+
+    for index in range(start, len(html)):
+        char = html[index]
+        if in_string:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == quote:
+                in_string = False
+            continue
+        if char in "\"'":
+            in_string = True
+            quote = char
+        elif char == opener:
+            depth += 1
+        elif char == closer:
+            depth -= 1
+            if depth == 0:
+                return json.loads(html[start : index + 1])
+
+    raise ValueError(f"unterminated literal for {name}")
 
 
 def wp_collection(

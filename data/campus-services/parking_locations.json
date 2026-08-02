@@ -7,6 +7,7 @@
     "title": "Ritsumeikan Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2024-06-11T21:36:05+00:00",
+    "alias": "/ritsumeikan-lot",
     "body": {
       "value": "No Public Parking; visitors should use B4 Lot or West Parkade",
       "format": "filtered_text",
@@ -63,6 +64,7 @@
     "title": "ACU Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/acu-lot",
     "body": {
       "value": "Short term acute care parking only",
       "format": "filtered_text",
@@ -119,6 +121,7 @@
     "title": "Stadium Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/stadium-lot",
     "body": {
       "value": "Check our events listings to ensure lot isn't closed!",
       "format": "filtered_text",
@@ -175,6 +178,7 @@
     "title": "C2 Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/c2-lot",
     "body": null,
     "field_location_address": null,
     "field_location_bike_cage": false,
@@ -226,6 +230,7 @@
     "title": "North Parkade",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2026-03-20T18:06:05+00:00",
+    "alias": "/north-parkade",
     "body": {
       "value": "Short-term stalls available for pool and gym visitors.  NO ELEVATOR ON SITE",
       "format": "filtered_text",
@@ -282,6 +287,7 @@
     "title": "Fairview Crescent",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2026-02-20T22:51:05+00:00",
+    "alias": "/fairview-crescent",
     "body": {
       "value": "Easy access to Acadia Park and Fairview for visitors",
       "format": "filtered_text",
@@ -338,6 +344,7 @@
     "title": "Strangway Pay Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/strangway-pay-lot",
     "body": null,
     "field_location_address": null,
     "field_location_bike_cage": false,
@@ -389,6 +396,7 @@
     "title": "Osborne Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/osborne-lot",
     "body": {
       "value": "Very busy location, we recommend using Thunderbird Parkade",
       "format": "filtered_text",
@@ -445,6 +453,7 @@
     "title": "Botanical Gardens",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/botanical-gardens",
     "body": {
       "value": "The parking lot opens Wednesday to Sunday from 10am to 5pm",
       "format": "filtered_text",
@@ -501,6 +510,7 @@
     "title": "West Parkade",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/west-parkade",
     "body": {
       "value": "Park on level 4 for accessible parking to street access for UBC",
       "format": "filtered_text",
@@ -557,6 +567,7 @@
     "title": "B4 Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/b4-lot",
     "body": null,
     "field_location_address": null,
     "field_location_bike_cage": false,
@@ -608,6 +619,7 @@
     "title": "Fraser River Parkade",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/fraser-river-parkade",
     "body": null,
     "field_location_address": "6440 Memorial Rd, Vancouver, BC V6T 1Z2",
     "field_location_bike_cage": true,
@@ -659,6 +671,7 @@
     "title": "Thunderbird Parkade",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/thunderbird-parkade",
     "body": {
       "value": "Rooftop closed",
       "format": "filtered_text",
@@ -715,6 +728,7 @@
     "title": "Michael Smith Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/michael-smith-lot",
     "body": null,
     "field_location_address": null,
     "field_location_bike_cage": false,
@@ -766,6 +780,7 @@
     "title": "Health Sciences Parkade",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/health-sciences-parkade",
     "body": {
       "value": "Patient Priority stalls on-site",
       "format": "filtered_text",
@@ -822,6 +837,7 @@
     "title": "Rose Garden Parkade",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2026-03-20T18:06:05+00:00",
+    "alias": "/rose-garden-parkade",
     "body": null,
     "field_location_address": "6278 NW Marine Drive, Vancouver, BC V6T 1Z1",
     "field_location_bike_cage": false,
@@ -873,6 +889,7 @@
     "title": "University Centre Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/university-centre-lot",
     "body": {
       "value": "Perfect for stopping and checking out the Rose Garden view!",
       "format": "filtered_text",
@@ -929,6 +946,7 @@
     "title": "University Blvd Lot",
     "created": "2019-12-24T01:04:50+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/university-blvd-lot",
     "body": {
       "value": "Short-term Visitor Only Parking",
       "format": "filtered_text",
@@ -985,6 +1003,7 @@
     "title": "Armouries Lot",
     "created": "2017-10-03T17:09:10+00:00",
     "changed": "2025-07-07T16:51:05+00:00",
+    "alias": "/armouries-lot",
     "body": null,
     "field_location_address": null,
     "field_location_bike_cage": false,

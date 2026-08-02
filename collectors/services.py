@@ -9,6 +9,7 @@ from __future__ import annotations
 
 from typing import Any, Callable
 
+from . import holidays
 from .base import (
     Collector,
     Http,
@@ -49,6 +50,9 @@ DATASETS: dict[str, Callable[[Http], list[dict[str, Any]]]] = {
     "recreation_pages": _wordpress("recreation.ubc.ca", "wp/v2/pages"),
     "student_services_pages": _wordpress("students.ubc.ca", "wp/v2/pages"),
     "news": _wordpress("news.ubc.ca", "wp/v2/posts"),
+    # The one entry here that isn't an API: HR publishes the holiday list as a
+    # page, so `holidays` reads the tables off it.
+    "statutory_holidays": holidays.fetch,
 }
 
 
@@ -60,9 +64,14 @@ class Services(Collector):
     description = (
         "Food outlets and their hours, parking locations, permits and parking maps, "
         "facilities and learning-space resource libraries, recreation and student "
-        "services pages, and UBC news posts."
+        "services pages, UBC news posts, and the statutory holidays UBC observes."
     )
-    sources = ("https://food.ubc.ca", "https://parking.ubc.ca", "https://facilities.ubc.ca")
+    sources = (
+        "https://food.ubc.ca",
+        "https://parking.ubc.ca",
+        "https://facilities.ubc.ca",
+        holidays.URL,
+    )
 
     def collect(self, http: Http, out: Output) -> None:
         status: list[dict[str, Any]] = []

@@ -6,7 +6,7 @@
   },
   {
     "site": "apsc.ubc.ca",
-    "profiles": 686,
+    "profiles": 692,
     "skipped": null
   },
   {
@@ -62,7 +62,7 @@
   {
     "site": "med.ubc.ca",
     "profiles": 0,
-    "skipped": "HTTPError: 404 Client Error: Not found for url: https://www.med.ubc.ca/jsonapi"
+    "skipped": "ConnectionError: HTTPSConnectionPool(host='med.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
   },
   {
     "site": "spph.ubc.ca",
@@ -97,7 +97,7 @@
   {
     "site": "civil.ubc.ca",
     "profiles": 0,
-    "skipped": "HTTPError: 404 Client Error: Not found for url: https://civil.ubc.ca/jsonapi"
+    "skipped": "ConnectionError: HTTPSConnectionPool(host='civil.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
   },
   {
     "site": "ece.ubc.ca",
@@ -107,7 +107,7 @@
   {
     "site": "mech.ubc.ca",
     "profiles": 0,
-    "skipped": "HTTPError: 404 Client Error: Not found for url: https://mech.ubc.ca/jsonapi"
+    "skipped": "ConnectionError: HTTPSConnectionPool(host='mech.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
   },
   {
     "site": "cs.ubc.ca",
@@ -117,7 +117,7 @@
   {
     "site": "math.ubc.ca",
     "profiles": 0,
-    "skipped": "ConnectTimeout: HTTPSConnectionPool(host='math.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ConnectTimeoutError(<HTTPSConnection(host='math.ubc.ca', port=443) at 0x223b77ce710>, 'Connection to math.ubc.ca timed out. (connect timeout=60)'))"
+    "skipped": "ConnectTimeout: HTTPSConnectionPool(host='math.ubc.ca', port=443): Max retries exceeded with url: /jsonapi (Caused by ConnectTimeoutError(<HTTPSConnection(host='math.ubc.ca', port=443) at 0x16b832f8050>, 'Connection to math.ubc.ca timed out. (connect timeout=60)'))"
   },
   {
     "site": "stat.ubc.ca",

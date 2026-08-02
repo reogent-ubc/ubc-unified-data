@@ -1,0 +1,27 @@
+{
+  "collected_at": "2026-08-01T15:07:48Z",
+  "requested_from": "2026-08-01",
+  "requested_to": "2026-08-15",
+  "days_served": [
+    "2026-08-01",
+    "2026-08-02",
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-08",
+    "2026-08-10",
+    "2026-08-11",
+    "2026-08-12",
+    "2026-08-13",
+    "2026-08-14"
+  ],
+  "locations": 5,
+  "rooms": 51,
+  "intervals": 1005,
+  "slots_seen": 22013,
+  "free_slots_seen": 21247,
+  "slot_minutes": 15,
+  "note": "Availability is a point-in-time snapshot. A booking made after collected_at is not reflected here; re-run before relying on it."
+}

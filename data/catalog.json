@@ -1,0 +1,1619 @@
+{
+  "name": "UBC open data",
+  "generated_at": "2026-08-01T20:07:12Z",
+  "campus": "vancouver",
+  "how_to_read": "Index of every table in this dataset. One entry per table, not per file: `json` and `csv` hold the same rows, the JSON keeping nested values intact and the CSV encoding them into the cell. `grain` says what a single row is, `columns` describes the ones worth knowing about (not always all of them), and `joins` names the other tables a row can be linked to and on which column. Start here rather than guessing from filenames. manifest.json has the same information plus per-file sizes, sources and run status.",
+  "groups": {
+    "geospatial": {
+      "title": "Campus geospatial open data",
+      "description": "Buildings, building entrances, sub-buildings, complexes, addresses, points of interest, parking facilities with rates and permits, trees, hard/soft landscape, water features, roads, routes, bollards, land use, neighbourhoods and legal boundaries for UBC Vancouver, UBC Okanagan and off-campus UBC locations.",
+      "folder": "geospatial",
+      "status": "ok",
+      "updated_at": "2026-08-01T20:07:12Z",
+      "sources": [
+        "https://github.com/UBCGeodata/ubc-geospatial-opendata",
+        "https://github.com/UBCGeodata/ubcv-parking"
+      ],
+      "tables": [
+        {
+          "name": "_index",
+          "path": "geospatial/_index",
+          "records": 52,
+          "json": "geospatial/_index.json",
+          "csv": "geospatial/_index.csv"
+        },
+        {
+          "name": "_source",
+          "path": "geospatial/_source",
+          "records": null,
+          "json": "geospatial/_source.json"
+        },
+        {
+          "name": "ubc_regional_locations",
+          "path": "geospatial/off-campus/locations/csv/ubc_regional_locations",
+          "records": null,
+          "csv": "geospatial/off-campus/locations/csv/ubc_regional_locations.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/csv/ubc_regional_locations.csv"
+        },
+        {
+          "name": "ubc_regional_locations.geojson",
+          "path": "geospatial/off-campus/locations/geojson/ubc_regional_locations.geojson",
+          "records": null,
+          "file": "geospatial/off-campus/locations/geojson/ubc_regional_locations.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/geojson/ubc_regional_locations.geojson"
+        },
+        {
+          "name": "ubc_regional_locations",
+          "path": "geospatial/off-campus/locations/metadata/ubc_regional_locations",
+          "records": null,
+          "csv": "geospatial/off-campus/locations/metadata/ubc_regional_locations.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/off-campus/locations/metadata/ubc_regional_locations.csv"
+        },
+        {
+          "name": "ubcv_beach.geojson",
+          "path": "geospatial/ubcv/context/geojson/ubcv_beach.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/context/geojson/ubcv_beach.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_beach.geojson"
+        },
+        {
+          "name": "ubcv_coastline.geojson",
+          "path": "geospatial/ubcv/context/geojson/ubcv_coastline.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/context/geojson/ubcv_coastline.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_coastline.geojson"
+        },
+        {
+          "name": "ubcv_psrp.geojson",
+          "path": "geospatial/ubcv/context/geojson/ubcv_psrp.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/context/geojson/ubcv_psrp.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_psrp.geojson"
+        },
+        {
+          "name": "ubcv_psrp_trail.geojson",
+          "path": "geospatial/ubcv/context/geojson/ubcv_psrp_trail.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/context/geojson/ubcv_psrp_trail.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_psrp_trail.geojson"
+        },
+        {
+          "name": "ubcv_uel.geojson",
+          "path": "geospatial/ubcv/context/geojson/ubcv_uel.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/context/geojson/ubcv_uel.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_uel.geojson"
+        },
+        {
+          "name": "ubcv_water.geojson",
+          "path": "geospatial/ubcv/context/geojson/ubcv_water.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/context/geojson/ubcv_water.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/geojson/ubcv_water.geojson"
+        },
+        {
+          "name": "ubcv_beach",
+          "path": "geospatial/ubcv/context/metadata/ubcv_beach",
+          "records": null,
+          "csv": "geospatial/ubcv/context/metadata/ubcv_beach.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_beach.csv"
+        },
+        {
+          "name": "ubcv_psrp",
+          "path": "geospatial/ubcv/context/metadata/ubcv_psrp",
+          "records": null,
+          "csv": "geospatial/ubcv/context/metadata/ubcv_psrp.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_psrp.csv"
+        },
+        {
+          "name": "ubcv_psrp_trail",
+          "path": "geospatial/ubcv/context/metadata/ubcv_psrp_trail",
+          "records": null,
+          "csv": "geospatial/ubcv/context/metadata/ubcv_psrp_trail.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_psrp_trail.csv"
+        },
+        {
+          "name": "ubcv_uel",
+          "path": "geospatial/ubcv/context/metadata/ubcv_uel",
+          "records": null,
+          "csv": "geospatial/ubcv/context/metadata/ubcv_uel.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/context/metadata/ubcv_uel.csv"
+        },
+        {
+          "name": "ubcv_campus_trees",
+          "path": "geospatial/ubcv/landscape/csv/ubcv_campus_trees",
+          "records": null,
+          "csv": "geospatial/ubcv/landscape/csv/ubcv_campus_trees.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/csv/ubcv_campus_trees.csv"
+        },
+        {
+          "name": "ubcv_campus_trees.geojson",
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_campus_trees.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/landscape/geojson/ubcv_campus_trees.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_campus_trees.geojson"
+        },
+        {
+          "name": "ubcv_landscape_hard.geojson",
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_landscape_hard.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/landscape/geojson/ubcv_landscape_hard.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_landscape_hard.geojson"
+        },
+        {
+          "name": "ubcv_landscape_soft.geojson",
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_landscape_soft.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/landscape/geojson/ubcv_landscape_soft.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_landscape_soft.geojson"
+        },
+        {
+          "name": "ubcv_municipal_waterfeatures.geojson",
+          "path": "geospatial/ubcv/landscape/geojson/ubcv_municipal_waterfeatures.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/landscape/geojson/ubcv_municipal_waterfeatures.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/geojson/ubcv_municipal_waterfeatures.geojson"
+        },
+        {
+          "name": "ubcv_softlandscape",
+          "path": "geospatial/ubcv/landscape/metadata/ubcv_softlandscape",
+          "records": null,
+          "csv": "geospatial/ubcv/landscape/metadata/ubcv_softlandscape.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/metadata/ubcv_softlandscape.csv"
+        },
+        {
+          "name": "ubcv_trees_fields",
+          "path": "geospatial/ubcv/landscape/metadata/ubcv_trees_fields",
+          "records": null,
+          "csv": "geospatial/ubcv/landscape/metadata/ubcv_trees_fields.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/landscape/metadata/ubcv_trees_fields.csv"
+        },
+        {
+          "name": "ubcv_address",
+          "path": "geospatial/ubcv/locations/csv/ubcv_address",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/csv/ubcv_address.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_address.csv"
+        },
+        {
+          "name": "ubcv_address_mailing",
+          "path": "geospatial/ubcv/locations/csv/ubcv_address_mailing",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/csv/ubcv_address_mailing.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_address_mailing.csv"
+        },
+        {
+          "name": "ubcv_buildings",
+          "path": "geospatial/ubcv/locations/csv/ubcv_buildings",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/csv/ubcv_buildings.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_buildings.csv"
+        },
+        {
+          "name": "ubcv_buildings_simple",
+          "path": "geospatial/ubcv/locations/csv/ubcv_buildings_simple",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/csv/ubcv_buildings_simple.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_buildings_simple.csv"
+        },
+        {
+          "name": "ubcv_poi",
+          "path": "geospatial/ubcv/locations/csv/ubcv_poi",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/csv/ubcv_poi.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/csv/ubcv_poi.csv"
+        },
+        {
+          "name": "ubcv_address.geojson",
+          "path": "geospatial/ubcv/locations/geojson/ubcv_address.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/locations/geojson/ubcv_address.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_address.geojson"
+        },
+        {
+          "name": "ubcv_building_entraces.geojson",
+          "path": "geospatial/ubcv/locations/geojson/ubcv_building_entraces.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/locations/geojson/ubcv_building_entraces.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_building_entraces.geojson"
+        },
+        {
+          "name": "ubcv_buildings.geojson",
+          "path": "geospatial/ubcv/locations/geojson/ubcv_buildings.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/locations/geojson/ubcv_buildings.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_buildings.geojson"
+        },
+        {
+          "name": "ubcv_complexes.geojson",
+          "path": "geospatial/ubcv/locations/geojson/ubcv_complexes.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/locations/geojson/ubcv_complexes.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_complexes.geojson"
+        },
+        {
+          "name": "ubcv_poi.geojson",
+          "path": "geospatial/ubcv/locations/geojson/ubcv_poi.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/locations/geojson/ubcv_poi.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_poi.geojson"
+        },
+        {
+          "name": "ubcv_subbuildings.geojson",
+          "path": "geospatial/ubcv/locations/geojson/ubcv_subbuildings.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/locations/geojson/ubcv_subbuildings.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/geojson/ubcv_subbuildings.geojson"
+        },
+        {
+          "name": "ubcv_address_fields",
+          "path": "geospatial/ubcv/locations/metadata/ubcv_address_fields",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/metadata/ubcv_address_fields.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_address_fields.csv"
+        },
+        {
+          "name": "ubcv_buildings_fields",
+          "path": "geospatial/ubcv/locations/metadata/ubcv_buildings_fields",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/metadata/ubcv_buildings_fields.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_buildings_fields.csv"
+        },
+        {
+          "name": "ubcv_buildings_simple_fields",
+          "path": "geospatial/ubcv/locations/metadata/ubcv_buildings_simple_fields",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/metadata/ubcv_buildings_simple_fields.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_buildings_simple_fields.csv"
+        },
+        {
+          "name": "ubcv_poi",
+          "path": "geospatial/ubcv/locations/metadata/ubcv_poi",
+          "records": null,
+          "csv": "geospatial/ubcv/locations/metadata/ubcv_poi.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/locations/metadata/ubcv_poi.csv"
+        },
+        {
+          "name": "ubcv_parking_facilities",
+          "path": "geospatial/ubcv/parking/csv/ubcv_parking_facilities",
+          "records": null,
+          "csv": "geospatial/ubcv/parking/csv/ubcv_parking_facilities.csv",
+          "source": "https://github.com/UBCGeodata/ubcv-parking/blob/8ba8730de5b216972292dab646016fb7c586f841/csv/ubcv_parking_facilities.csv"
+        },
+        {
+          "name": "ubcv_parking_www.geojson",
+          "path": "geospatial/ubcv/parking/geojson/ubcv_parking_www.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/parking/geojson/ubcv_parking_www.geojson",
+          "source": "https://github.com/UBCGeodata/ubcv-parking/blob/8ba8730de5b216972292dab646016fb7c586f841/geojson/ubcv_parking_www.geojson"
+        },
+        {
+          "name": "ubcv_parking_www_poly.geojson",
+          "path": "geospatial/ubcv/parking/geojson/ubcv_parking_www_poly.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/parking/geojson/ubcv_parking_www_poly.geojson",
+          "source": "https://github.com/UBCGeodata/ubcv-parking/blob/8ba8730de5b216972292dab646016fb7c586f841/geojson/ubcv_parking_www_poly.geojson"
+        },
+        {
+          "name": "ubcv_parking_www",
+          "path": "geospatial/ubcv/parking/metadata/ubcv_parking_www",
+          "records": null,
+          "csv": "geospatial/ubcv/parking/metadata/ubcv_parking_www.csv",
+          "source": "https://github.com/UBCGeodata/ubcv-parking/blob/8ba8730de5b216972292dab646016fb7c586f841/metadata/ubcv_parking_www.csv"
+        },
+        {
+          "name": "ubcv_landuse",
+          "path": "geospatial/ubcv/planning/csv/ubcv_landuse",
+          "records": null,
+          "csv": "geospatial/ubcv/planning/csv/ubcv_landuse.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/csv/ubcv_landuse.csv"
+        },
+        {
+          "name": "ubcv_neighbourhoods",
+          "path": "geospatial/ubcv/planning/csv/ubcv_neighbourhoods",
+          "records": null,
+          "csv": "geospatial/ubcv/planning/csv/ubcv_neighbourhoods.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/csv/ubcv_neighbourhoods.csv"
+        },
+        {
+          "name": "ubcv_landuse.geojson",
+          "path": "geospatial/ubcv/planning/geojson/ubcv_landuse.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/planning/geojson/ubcv_landuse.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/geojson/ubcv_landuse.geojson"
+        },
+        {
+          "name": "ubcv_legal_boundary.geojson",
+          "path": "geospatial/ubcv/planning/geojson/ubcv_legal_boundary.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/planning/geojson/ubcv_legal_boundary.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/geojson/ubcv_legal_boundary.geojson"
+        },
+        {
+          "name": "ubcv_neighbourhoods.geojson",
+          "path": "geospatial/ubcv/planning/geojson/ubcv_neighbourhoods.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/planning/geojson/ubcv_neighbourhoods.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/geojson/ubcv_neighbourhoods.geojson"
+        },
+        {
+          "name": "ubcv_landuse",
+          "path": "geospatial/ubcv/planning/metadata/ubcv_landuse",
+          "records": null,
+          "csv": "geospatial/ubcv/planning/metadata/ubcv_landuse.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/metadata/ubcv_landuse.csv"
+        },
+        {
+          "name": "ubcv_neighbourhoods",
+          "path": "geospatial/ubcv/planning/metadata/ubcv_neighbourhoods",
+          "records": null,
+          "csv": "geospatial/ubcv/planning/metadata/ubcv_neighbourhoods.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/planning/metadata/ubcv_neighbourhoods.csv"
+        },
+        {
+          "name": "ubcv_bollards.geojson",
+          "path": "geospatial/ubcv/transportation/geojson/ubcv_bollards.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/transportation/geojson/ubcv_bollards.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/geojson/ubcv_bollards.geojson"
+        },
+        {
+          "name": "ubcv_roads_simple.geojson",
+          "path": "geospatial/ubcv/transportation/geojson/ubcv_roads_simple.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/transportation/geojson/ubcv_roads_simple.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/geojson/ubcv_roads_simple.geojson"
+        },
+        {
+          "name": "ubcv_routes.geojson",
+          "path": "geospatial/ubcv/transportation/geojson/ubcv_routes.geojson",
+          "records": null,
+          "file": "geospatial/ubcv/transportation/geojson/ubcv_routes.geojson",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/geojson/ubcv_routes.geojson"
+        },
+        {
+          "name": "ubcv_bollards",
+          "path": "geospatial/ubcv/transportation/metadata/ubcv_bollards",
+          "records": null,
+          "csv": "geospatial/ubcv/transportation/metadata/ubcv_bollards.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/metadata/ubcv_bollards.csv"
+        },
+        {
+          "name": "ubcv_roads_simple",
+          "path": "geospatial/ubcv/transportation/metadata/ubcv_roads_simple",
+          "records": null,
+          "csv": "geospatial/ubcv/transportation/metadata/ubcv_roads_simple.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/metadata/ubcv_roads_simple.csv"
+        },
+        {
+          "name": "ubcv_routes",
+          "path": "geospatial/ubcv/transportation/metadata/ubcv_routes",
+          "records": null,
+          "csv": "geospatial/ubcv/transportation/metadata/ubcv_routes.csv",
+          "source": "https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/66fcf6536f2dd3f4e8aecb5246a739c6de2a75b8/ubcv/transportation/metadata/ubcv_routes.csv"
+        }
+      ]
+    },
+    "spaces": {
+      "title": "Learning spaces (classrooms, study space, bookable rooms)",
+      "description": "Bookable classrooms and informal study spaces with capacity, building code, room number, photos and links, the per-building formal/informal room counts, and the full filter vocabulary UBC records for a space (A/V, accessibility, furniture style, room features).",
+      "folder": "learning-spaces",
+      "status": "ok",
+      "updated_at": "2026-07-31T09:15:25Z",
+      "sources": [
+        "https://learningspaces.ubc.ca/find-a-space/",
+        "https://learningspaces.ubc.ca/find-a-space-informal/"
+      ],
+      "tables": [
+        {
+          "name": "_configs",
+          "path": "learning-spaces/_configs",
+          "records": 2,
+          "json": "learning-spaces/_configs.json",
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "name": "buildings",
+          "path": "learning-spaces/buildings",
+          "records": 50,
+          "json": "learning-spaces/buildings.json",
+          "grain": "one building with teaching or study space, and the rooms in it",
+          "columns": {
+            "Building Code": "e.g. `IKBLC`; unique within this table",
+            "Building Name": "the building's name",
+            "rooms": "the rooms collected for this building, floor order then largest first: name, room_number, floor, capacity, space_type, cover_photo_url, room_link",
+            "rooms_collected": "how many rooms that is",
+            "formal_collected": "of those, bookable classrooms",
+            "informal_collected": "of those, informal study spaces",
+            "Formal Count": "UBC's own classroom count for the building; can differ from formal_collected, which counts what the run returned",
+            "Informal Count": "UBC's own informal count, same caveat",
+            "floors": "distinct floors with a space on them, ascending; excludes rooms whose floor could not be derived",
+            "total_capacity": "seats across the collected rooms",
+            "largest_room_capacity": "the biggest room in the building",
+            "smallest_room_capacity": "the smallest",
+            "cover_photo_url": "the largest room's first image. EXPIRES -- see cover_photo_expires",
+            "cover_photo_expires": "when that URL stops working, UTC",
+            "cover_photo_room": "which room the cover photo is of",
+            "building_link": "the building's page on learningspaces.ubc.ca",
+            "formal": "which tab the building record was first seen on; not a property of the building -- use formal_collected/Formal Count instead"
+          },
+          "joins": [
+            "Building Code <- spaces/rooms.Building Code"
+          ],
+          "source": "https://learningspaces.ubc.ca/find-a-space/",
+          "csv": "learning-spaces/buildings.csv"
+        },
+        {
+          "name": "filters",
+          "path": "learning-spaces/filters",
+          "records": null,
+          "json": "learning-spaces/filters.json",
+          "source": "https://learningspaces.ubc.ca/find-a-space/"
+        },
+        {
+          "name": "rooms",
+          "path": "learning-spaces/rooms",
+          "records": 411,
+          "json": "learning-spaces/rooms.json",
+          "grain": "one bookable classroom or informal study space",
+          "columns": {
+            "Name": "short name, e.g. `AERL 120`",
+            "Title": "room title as Find a Space shows it",
+            "Building Code": "e.g. `SWNG`; the building this room is in",
+            "Room Number": "room number within the building, verbatim",
+            "Capacity": "seats",
+            "floor": "derived: -1 basement, 0 ground, 1 and up. Null where UBC's numbering does not say -- IRC and FNH number rooms on schemes of their own and are left null rather than guessed",
+            "floor_source": "`stated` if UBC wrote the floor in words, `room_number` if it came from the leading digit, null if unknown",
+            "formal": "true for bookable classrooms, false for informal study space",
+            "space_type": "the tab it came from",
+            "Formatted_Furniture": "furniture, as published",
+            "Formatted_Room_Layout_Type": "layout style",
+            "photo_count": "how many images UBC publishes for the room",
+            "cover_photo_url": "first image. A SIGNED URL THAT EXPIRES -- see cover_photo_expires. UBC's own pages serve the same short-lived links, so there is no stable one to store",
+            "cover_photo_thumbnail_url": "the ~768px version of the same image",
+            "cover_photo_expires": "when cover_photo_url stops working, UTC. Past this, re-run the collector or open `Room Link`",
+            "cover_photo_id": "Airtable attachment id; stable, unlike the URL",
+            "cover_photo_filename": "original filename",
+            "cover_photo_width": "pixels",
+            "cover_photo_height": "pixels",
+            "Room Link": "the page for this room. The durable way to an image -- it re-renders a fresh signed URL on load, for the 409 of 411 rooms that have a photo at all",
+            "Image Gallery": "every image, with all thumbnail sizes, as UBC returns it"
+          },
+          "joins": [
+            "Building Code -> spaces/buildings.Building Code",
+            "Building Code ~ geospatial/ubcv/locations building code"
+          ],
+          "source": "https://learningspaces.ubc.ca/find-a-space/",
+          "csv": "learning-spaces/rooms.csv"
+        }
+      ]
+    },
+    "events": {
+      "title": "UBC events calendar",
+      "description": "Public events with start/end times, cost, website, description and category, plus the venue directory (street address, city, coordinates) and the organizer directory (contact email, phone, website).",
+      "folder": "events",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:30:52Z",
+      "sources": [
+        "https://events.ubc.ca/resources/webdev/",
+        "https://events.ubc.ca/wp-json/tribe/events/v1/events"
+      ],
+      "tables": [
+        {
+          "name": "categories",
+          "path": "events/categories",
+          "records": 58,
+          "json": "events/categories.json",
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/categories",
+          "csv": "events/categories.csv"
+        },
+        {
+          "name": "events",
+          "path": "events/events",
+          "records": 9956,
+          "json": "events/events.json",
+          "grain": "one public event",
+          "columns": {
+            "title": "event title",
+            "start_date": "local start, `YYYY-MM-DD HH:MM:SS`",
+            "end_date": "local end",
+            "utc_start_date": "the same instant in UTC",
+            "all_day": "true for all-day events, where the times mean nothing",
+            "cost": "as published; free text, often empty or `Free`",
+            "venue": "the venue object, inlined; `venue.id` joins to the venue table",
+            "organizer": "the organizer object(s), inlined",
+            "categories": "category objects, inlined",
+            "url": "the event page",
+            "is_virtual": "true for online events, which have no useful venue"
+          },
+          "joins": [
+            "venue.id -> events/venues.id",
+            "organizer.id -> events/organizers.id"
+          ],
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/events",
+          "csv": "events/events.csv"
+        },
+        {
+          "name": "events.ics",
+          "path": "events/events.ics",
+          "records": null,
+          "file": "events/events.ics",
+          "grain": "one public event",
+          "columns": {
+            "title": "event title",
+            "start_date": "local start, `YYYY-MM-DD HH:MM:SS`",
+            "end_date": "local end",
+            "utc_start_date": "the same instant in UTC",
+            "all_day": "true for all-day events, where the times mean nothing",
+            "cost": "as published; free text, often empty or `Free`",
+            "venue": "the venue object, inlined; `venue.id` joins to the venue table",
+            "organizer": "the organizer object(s), inlined",
+            "categories": "category objects, inlined",
+            "url": "the event page",
+            "is_virtual": "true for online events, which have no useful venue"
+          },
+          "joins": [
+            "venue.id -> events/venues.id",
+            "organizer.id -> events/organizers.id"
+          ],
+          "source": "https://events.ubc.ca/?ical=1"
+        },
+        {
+          "name": "organizers",
+          "path": "events/organizers",
+          "records": 449,
+          "json": "events/organizers.json",
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/organizers",
+          "csv": "events/organizers.csv"
+        },
+        {
+          "name": "tags",
+          "path": "events/tags",
+          "records": 53,
+          "json": "events/tags.json",
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/tags",
+          "csv": "events/tags.csv"
+        },
+        {
+          "name": "venues",
+          "path": "events/venues",
+          "records": 199,
+          "json": "events/venues.json",
+          "grain": "one venue in the events directory",
+          "columns": {
+            "venue": "the venue name",
+            "address": "street address",
+            "city": "city -- the only campus proxy events have",
+            "province": "province",
+            "zip": "postal code"
+          },
+          "joins": [
+            "id -> events/events.venue.id",
+            "address ~ geospatial/ubcv/locations (no coordinates here; join to place on a map)"
+          ],
+          "source": "https://events.ubc.ca/wp-json/tribe/events/v1/venues",
+          "csv": "events/venues.csv"
+        }
+      ]
+    },
+    "admissions": {
+      "title": "Admissions: degree and program finder",
+      "description": "Every undergraduate program in UBC's program finder with its degree, campus, faculty, areas of interest and links, the degree list, and the you.ubc.ca content pages covering admission requirements, costs, deadlines and how to apply.",
+      "folder": "admissions",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:58:18Z",
+      "sources": [
+        "https://you.ubc.ca/programs/",
+        "https://you.ubc.ca/wp-json/wp/v2/pages",
+        "https://you.ubc.ca/wp-admin/admin-ajax.php"
+      ],
+      "tables": [
+        {
+          "name": "campuses",
+          "path": "admissions/campuses",
+          "records": 1,
+          "json": "admissions/campuses.json",
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "admissions/campuses.csv"
+        },
+        {
+          "name": "degrees",
+          "path": "admissions/degrees",
+          "records": 38,
+          "json": "admissions/degrees.json",
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "admissions/degrees.csv"
+        },
+        {
+          "name": "interests",
+          "path": "admissions/interests",
+          "records": 73,
+          "json": "admissions/interests.json",
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "admissions/interests.csv"
+        },
+        {
+          "name": "pages",
+          "path": "admissions/pages",
+          "records": 153,
+          "json": "admissions/pages.json",
+          "source": "https://you.ubc.ca/wp-json/wp/v2/pages",
+          "csv": "admissions/pages.csv"
+        },
+        {
+          "name": "programs",
+          "path": "admissions/programs",
+          "records": 141,
+          "json": "admissions/programs.json",
+          "grain": "one undergraduate program in the program finder",
+          "columns": {
+            "id": "you.ubc.ca post id -- the key everything else here joins on",
+            "post_title": "program name",
+            "link": "the program page",
+            "summary": "one-paragraph description",
+            "degrees": "degree term ids; resolve against degrees.json",
+            "campuses": "campus term ids (9 = Vancouver, 10 = Okanagan)",
+            "interests": "interest term ids; resolve against interests.json",
+            "topics": "topic term ids; resolve against topics.json",
+            "duration": "nominal length, e.g. {amount: 4, unit: years}"
+          },
+          "joins": [
+            "id -> admissions/requirements/program_requirements.program_id",
+            "id -> finances/program_cost_estimates.program_id",
+            "degrees -> admissions/degrees.term_id",
+            "campuses -> admissions/campuses.term_id"
+          ],
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "admissions/programs.csv"
+        },
+        {
+          "name": "by_location",
+          "path": "admissions/requirements/by_location",
+          "records": 2520,
+          "json": "admissions/requirements/by_location.json",
+          "grain": "one requirement group as it applies to one curriculum location",
+          "columns": {
+            "campus": "campus the rules apply to",
+            "requirement_key": "the requirement group, e.g. `engineering`",
+            "curriculum": "province, countries or ib -- which dropdown the location came from",
+            "location": "the province, country or IB, as UBC names it",
+            "location_slug": "stable identifier for the location, e.g. `british-columbia`. Pair it with `curriculum` -- `basic` is a slug in both the province and the country list and means a different thing in each",
+            "location_term_id": "UBC's term id for the location; unique on its own, null only for the IB row",
+            "available": "false when the program is not open to students from there",
+            "specific_name": "the degree the rules are stated for",
+            "english": "English-language competency rule, as prose",
+            "general": "general admission rule (graduation, minimum English grade...)",
+            "minimum": "degree-specific rule where UBC states no grade bands",
+            "grade_12": "required Grade 12 (or equivalent senior) courses",
+            "grade_11": "required Grade 11 courses",
+            "recommended_grade_range": "the grade range UBC says is competitive. The field exists upstream but came back empty on all 2,520 combinations, so expect null",
+            "suggested_subjects": "subject areas UBC recommends but does not require",
+            "profile_note": "extra note UBC attaches to this location"
+          },
+          "joins": [
+            "(campus, requirement_key) -> requirements/requirement_groups",
+            "(curriculum, location_slug) -> requirements/locations.(taxonomy, slug)",
+            "location_term_id -> requirements/locations.term_id"
+          ],
+          "source": "https://you.ubc.ca/wp-admin/admin-ajax.php",
+          "csv": "admissions/requirements/by_location.csv"
+        },
+        {
+          "name": "locations",
+          "path": "admissions/requirements/locations",
+          "records": 126,
+          "json": "admissions/requirements/locations.json",
+          "grain": "one curriculum a student can apply from",
+          "columns": {
+            "taxonomy": "requirement_province, requirement_countries or requirement_ib",
+            "term_id": "UBC's term id; null for the IB row, which is not a taxonomy term",
+            "slug": "stable identifier, e.g. `british-columbia`; `basic` is the fallback UBC applies when a location is not listed separately. NOT unique on its own -- `basic` exists in both the province and country taxonomies, so key on (taxonomy, slug) or on term_id",
+            "name": "display name"
+          },
+          "joins": [
+            "(taxonomy, slug) -> requirements/by_location.(curriculum, location_slug), with `requirement_` stripped from the taxonomy name",
+            "term_id -> requirements/by_location.location_term_id"
+          ],
+          "source": "https://you.ubc.ca/wp-admin/admin-ajax.php",
+          "csv": "admissions/requirements/locations.csv"
+        },
+        {
+          "name": "program_requirements",
+          "path": "admissions/requirements/program_requirements",
+          "records": 141,
+          "json": "admissions/requirements/program_requirements.json",
+          "grain": "one undergraduate program in the program finder",
+          "columns": {
+            "program_id": "you.ubc.ca post id; joins to admissions/programs.json `id`",
+            "program": "program name as the finder lists it",
+            "degrees": "degree names this program leads to",
+            "url": "the program page",
+            "campus": "campus the program page declares",
+            "requirement_key": "the requirement group this program uses; null if it has none",
+            "has_requirements": "false for graduate-entry and second-degree programs (Medicine, Law, Journalism...) which publish no direct-entry rules",
+            "note": "why requirements are absent, when they are"
+          },
+          "joins": [
+            "requirement_key -> requirements/requirement_groups.requirement_key",
+            "requirement_key -> requirements/by_location.requirement_key",
+            "program_id -> admissions/programs.id"
+          ],
+          "source": "https://you.ubc.ca/wp-admin/admin-ajax.php",
+          "csv": "admissions/requirements/program_requirements.csv"
+        },
+        {
+          "name": "required_courses",
+          "path": "admissions/requirements/required_courses",
+          "records": 20292,
+          "json": "admissions/requirements/required_courses.json",
+          "grain": "one requirement line -- the exploded form of by_location, and the table to query when the question is 'what do I need to have taken?'",
+          "columns": {
+            "campus": "campus the rules apply to",
+            "requirement_key": "the requirement group, e.g. `engineering`",
+            "curriculum": "province, countries or ib -- which dropdown the location came from",
+            "location": "the province, country or IB, as UBC names it",
+            "location_slug": "stable identifier for the location, e.g. `british-columbia`. Pair it with `curriculum` -- `basic` is a slug in both the province and the country list and means a different thing in each",
+            "location_term_id": "UBC's term id for the location; unique on its own, null only for the IB row",
+            "program_group": "the degree the requirement is stated for",
+            "kind": "grade_12, grade_11, minimum, general, english_language, suggested_subjects or recommended_grade_range",
+            "position": "order within its kind, as UBC lists it",
+            "requirement": "the requirement itself, e.g. `Pre-Calculus 12`",
+            "advisory": "true for suggestions and grade ranges; false for hard requirements"
+          },
+          "joins": [
+            "(campus, requirement_key) -> requirements/requirement_groups",
+            "(curriculum, location_slug) -> requirements/locations.(taxonomy, slug)",
+            "location_term_id -> requirements/locations.term_id"
+          ],
+          "source": "https://you.ubc.ca/wp-admin/admin-ajax.php",
+          "csv": "admissions/requirements/required_courses.csv"
+        },
+        {
+          "name": "requirement_groups",
+          "path": "admissions/requirements/requirement_groups",
+          "records": 20,
+          "json": "admissions/requirements/requirement_groups.json",
+          "grain": "one set of degree-specific requirements, shared by every program that uses it",
+          "columns": {
+            "campus": "campus the group applies to",
+            "requirement_key": "UBC's slug for the group, e.g. `engineering`",
+            "name": "the name UBC shows, e.g. `Applied Science (Engineering)`",
+            "programs": "program names mapped to this group",
+            "program_count": "how many programs that is",
+            "locations": "how many curriculum locations returned rules for this group"
+          },
+          "joins": [
+            "(campus, requirement_key) -> requirements/by_location"
+          ],
+          "source": "https://you.ubc.ca/wp-admin/admin-ajax.php",
+          "csv": "admissions/requirements/requirement_groups.csv"
+        },
+        {
+          "name": "content-types",
+          "path": "admissions/taxonomies/content-types",
+          "records": 3,
+          "json": "admissions/taxonomies/content-types.json",
+          "source": "https://you.ubc.ca/wp-json/wp/v2/content-types",
+          "csv": "admissions/taxonomies/content-types.csv"
+        },
+        {
+          "name": "cycle-stages",
+          "path": "admissions/taxonomies/cycle-stages",
+          "records": 4,
+          "json": "admissions/taxonomies/cycle-stages.json",
+          "source": "https://you.ubc.ca/wp-json/wp/v2/cycle-stages",
+          "csv": "admissions/taxonomies/cycle-stages.csv"
+        },
+        {
+          "name": "program-areas",
+          "path": "admissions/taxonomies/program-areas",
+          "records": 10,
+          "json": "admissions/taxonomies/program-areas.json",
+          "source": "https://you.ubc.ca/wp-json/wp/v2/program-areas",
+          "csv": "admissions/taxonomies/program-areas.csv"
+        },
+        {
+          "name": "student-groups",
+          "path": "admissions/taxonomies/student-groups",
+          "records": 4,
+          "json": "admissions/taxonomies/student-groups.json",
+          "source": "https://you.ubc.ca/wp-json/wp/v2/student-groups",
+          "csv": "admissions/taxonomies/student-groups.csv"
+        },
+        {
+          "name": "ubc-life-topics",
+          "path": "admissions/taxonomies/ubc-life-topics",
+          "records": 6,
+          "json": "admissions/taxonomies/ubc-life-topics.json",
+          "source": "https://you.ubc.ca/wp-json/wp/v2/ubc-life-topics",
+          "csv": "admissions/taxonomies/ubc-life-topics.csv"
+        },
+        {
+          "name": "topics",
+          "path": "admissions/topics",
+          "records": 10,
+          "json": "admissions/topics.json",
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "admissions/topics.csv"
+        }
+      ]
+    },
+    "courses": {
+      "title": "Course Schedule (courses, sections, instructors, meeting times)",
+      "description": "Every course and scheduled section published on UBC's Course Schedule, including meeting days and times, start/end dates, instructors, credits, delivery mode, instructional method and section status, plus the subject, campus, term and department code lists they reference. A derived `campus` column is added to courses and sections.",
+      "folder": "courses",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:25:58Z",
+      "sources": [
+        "https://courses.students.ubc.ca/jsonapi"
+      ],
+      "tables": [
+        {
+          "name": "campuses",
+          "path": "courses/campuses",
+          "records": 1,
+          "json": "courses/campuses.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/campus",
+          "csv": "courses/campuses.csv"
+        },
+        {
+          "name": "courses",
+          "path": "courses/courses",
+          "records": 38533,
+          "json": "courses/courses.json",
+          "grain": "one course as offered in one academic year -- NOT one distinct course. Deduplicate on field_course_code for the catalogue",
+          "columns": {
+            "field_course_code": "e.g. `CPSC_V 110`; the `_V`/`_O` suffix is the campus",
+            "field_course_number": "the number alone, e.g. `110`",
+            "field_credits": "credit value",
+            "field_course_instance_id": "why one course has several rows: one instance per year",
+            "body": "description prose, prerequisites written into it",
+            "description_text": "derived: the description with the requirement prose removed",
+            "prerequisite": "derived from `body`; UBC's own prerequisite field is empty",
+            "corequisite": "derived from `body`",
+            "equivalency": "derived from `body`",
+            "credit_exclusion": "derived from `body`",
+            "hours_vector": "derived from `body`, e.g. `[3-2-1]` -- lecture/lab/tutorial hours",
+            "campus": "derived: vancouver or okanagan. The API serves both with no campus field",
+            "alias": "path on courses.students.ubc.ca; prefix the host for the URL"
+          },
+          "joins": [
+            "id -> courses/sections.related.course",
+            "related.subject -> courses/subjects.id",
+            "field_course_code ~ academic-calendar/*/courses.field_course_number + subject"
+          ],
+          "source": "https://courses.students.ubc.ca/jsonapi/node/course",
+          "csv": "courses/courses.csv"
+        },
+        {
+          "name": "delivery_modes",
+          "path": "courses/delivery_modes",
+          "records": 4,
+          "json": "courses/delivery_modes.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/delivery_mode",
+          "csv": "courses/delivery_modes.csv"
+        },
+        {
+          "name": "departments",
+          "path": "courses/departments",
+          "records": 0,
+          "json": "courses/departments.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/department_or_unit"
+        },
+        {
+          "name": "instructional_methods",
+          "path": "courses/instructional_methods",
+          "records": 12,
+          "json": "courses/instructional_methods.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/instructional_method",
+          "csv": "courses/instructional_methods.csv"
+        },
+        {
+          "name": "program_areas",
+          "path": "courses/program_areas",
+          "records": 8,
+          "json": "courses/program_areas.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/program_area",
+          "csv": "courses/program_areas.csv"
+        },
+        {
+          "name": "sections",
+          "path": "courses/sections",
+          "records": 35403,
+          "json": "courses/sections.json",
+          "grain": "one scheduled section of one course in one term -- the actual offering",
+          "columns": {
+            "field_instructors": "who teaches it. Names only; `courses` has no instructor field",
+            "field_days": "meeting days",
+            "field_start_time": "SECONDS after midnight, e.g. 55800 = 15:30. Not a clock string",
+            "field_end_time": "seconds after midnight",
+            "field_start_date": "first meeting",
+            "field_end_date": "last meeting",
+            "field_section_number": "the section, e.g. `101`",
+            "campus": "derived; see `courses`"
+          },
+          "joins": [
+            "related.course -> courses/courses.id",
+            "related.academic_term -> courses/terms.id",
+            "field_instructors ~ people/profiles.title (by name; there is no shared id)"
+          ],
+          "source": "https://courses.students.ubc.ca/jsonapi/node/section",
+          "csv": "courses/sections.csv"
+        },
+        {
+          "name": "standard_timetables",
+          "path": "courses/standard_timetables",
+          "records": 152,
+          "json": "courses/standard_timetables.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/node/standard_timetable",
+          "csv": "courses/standard_timetables.csv"
+        },
+        {
+          "name": "statuses",
+          "path": "courses/statuses",
+          "records": 6,
+          "json": "courses/statuses.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/status",
+          "csv": "courses/statuses.csv"
+        },
+        {
+          "name": "subjects",
+          "path": "courses/subjects",
+          "records": 367,
+          "json": "courses/subjects.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/subject",
+          "csv": "courses/subjects.csv"
+        },
+        {
+          "name": "terms",
+          "path": "courses/terms",
+          "records": 5,
+          "json": "courses/terms.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/term",
+          "csv": "courses/terms.csv"
+        },
+        {
+          "name": "year_levels",
+          "path": "courses/year_levels",
+          "records": 4,
+          "json": "courses/year_levels.json",
+          "source": "https://courses.students.ubc.ca/jsonapi/taxonomy_term/year",
+          "csv": "courses/year_levels.csv"
+        }
+      ]
+    },
+    "calendar": {
+      "title": "Academic Calendar (course catalogue, programs, faculties, deadlines)",
+      "description": "Official course catalogue entries with descriptions and credit values, plus prerequisites, corequisites, equivalencies, credit exclusions and hours vectors parsed out of the description prose; every calendar page with its body text, place in the hierarchy and the courses it references; the degree and specialization requirement pages on their own; the term dates and drop deadlines; and the faculty, school, department and subject hierarchy for both campuses.",
+      "folder": "academic-calendar",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:29:21Z",
+      "sources": [
+        "https://vancouver.calendar.ubc.ca/jsonapi",
+        "https://okanagan.calendar.ubc.ca/jsonapi"
+      ],
+      "tables": [
+        {
+          "name": "academic_year_terms",
+          "path": "academic-calendar/vancouver/academic_year_terms",
+          "records": 28,
+          "json": "academic-calendar/vancouver/academic_year_terms.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/academic_year",
+          "csv": "academic-calendar/vancouver/academic_year_terms.csv"
+        },
+        {
+          "name": "academic_years",
+          "path": "academic-calendar/vancouver/academic_years",
+          "records": 364,
+          "json": "academic-calendar/vancouver/academic_years.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/academic_year",
+          "csv": "academic-calendar/vancouver/academic_years.csv"
+        },
+        {
+          "name": "courses",
+          "path": "academic-calendar/vancouver/courses",
+          "records": 9491,
+          "json": "academic-calendar/vancouver/courses.json",
+          "grain": "one course in the catalogue -- what a course IS, not when it runs. Join to courses/sections for offerings",
+          "columns": {
+            "field_course_title": "course title",
+            "field_course_number": "the number, e.g. `110`",
+            "field_course_credit": "credit value",
+            "field_course_description": "the description, with requirement prose inside it",
+            "description_text": "derived: the description with that prose removed",
+            "prerequisite": "derived from the description; UBC's own field is empty on every row",
+            "corequisite": "derived from the description",
+            "equivalency": "derived from the description",
+            "credit_exclusion": "derived from the description",
+            "hours_vector": "derived, e.g. `[3-2-1]` -- lecture/lab/tutorial hours",
+            "alias": "path on the calendar host; prefix the host for the URL"
+          },
+          "joins": [
+            "related.subject -> academic-calendar/*/subjects.id"
+          ],
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/course",
+          "csv": "academic-calendar/vancouver/courses.csv"
+        },
+        {
+          "name": "dates",
+          "path": "academic-calendar/vancouver/dates",
+          "records": 53,
+          "json": "academic-calendar/vancouver/dates.json",
+          "grain": "one dated event -- a term boundary, exam period or drop/withdrawal deadline",
+          "columns": {
+            "event": "what happens, e.g. `Start`, `Last day to withdraw`",
+            "applies_to": "which term or session it applies to",
+            "start": "ISO date",
+            "end": "ISO date; set only for multi-day windows",
+            "span_days": "length of the window; null for single-day deadlines",
+            "table": "the table on the page it came from"
+          },
+          "source": "https://vancouver.calendar.ubc.ca/dates-and-deadlines",
+          "csv": "academic-calendar/vancouver/dates.csv"
+        },
+        {
+          "name": "departments",
+          "path": "academic-calendar/vancouver/departments",
+          "records": 83,
+          "json": "academic-calendar/vancouver/departments.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/department",
+          "csv": "academic-calendar/vancouver/departments.csv"
+        },
+        {
+          "name": "departments_or_units",
+          "path": "academic-calendar/vancouver/departments_or_units",
+          "records": 3,
+          "json": "academic-calendar/vancouver/departments_or_units.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/department_or_unit",
+          "csv": "academic-calendar/vancouver/departments_or_units.csv"
+        },
+        {
+          "name": "faculties",
+          "path": "academic-calendar/vancouver/faculties",
+          "records": 13,
+          "json": "academic-calendar/vancouver/faculties.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/faculty",
+          "csv": "academic-calendar/vancouver/faculties.csv"
+        },
+        {
+          "name": "landing_pages",
+          "path": "academic-calendar/vancouver/landing_pages",
+          "records": 11,
+          "json": "academic-calendar/vancouver/landing_pages.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/ubc_landing_page",
+          "csv": "academic-calendar/vancouver/landing_pages.csv"
+        },
+        {
+          "name": "pages",
+          "path": "academic-calendar/vancouver/pages",
+          "records": 1453,
+          "json": "academic-calendar/vancouver/pages.json",
+          "grain": "one calendar page -- degree requirements, faculty overviews, admission rules, regulations. Everything the calendar publishes that is not a course",
+          "columns": {
+            "title": "page title",
+            "kind": "derived: degree_requirements, major, minor, admission, regulations, coop, advising, faculty_overview... what the page is",
+            "level": "derived: undergraduate, masters, doctoral or certificate",
+            "faculty": "derived from the alias chain",
+            "program": "derived: the degree this page sits inside, if any",
+            "breadcrumbs": "derived: the ancestor titles, recovered by matching alias prefixes",
+            "parent_url": "the page above this one",
+            "referenced_courses": "course codes the page mentions, in order, validated against this campus's subject vocabulary",
+            "text": "body as plain text",
+            "headings": "the page's heading outline",
+            "body": "body HTML",
+            "url": "the public URL"
+          },
+          "joins": [
+            "referenced_courses ~ academic-calendar/*/courses (subject + number)",
+            "parent_url -> academic-calendar/*/pages.url"
+          ],
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/node/ubc_page",
+          "csv": "academic-calendar/vancouver/pages.csv"
+        },
+        {
+          "name": "programs",
+          "path": "academic-calendar/vancouver/programs",
+          "records": 587,
+          "json": "academic-calendar/vancouver/programs.json",
+          "source": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools",
+          "csv": "academic-calendar/vancouver/programs.csv"
+        },
+        {
+          "name": "schools",
+          "path": "academic-calendar/vancouver/schools",
+          "records": 11,
+          "json": "academic-calendar/vancouver/schools.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/school",
+          "csv": "academic-calendar/vancouver/schools.csv"
+        },
+        {
+          "name": "subjects",
+          "path": "academic-calendar/vancouver/subjects",
+          "records": 264,
+          "json": "academic-calendar/vancouver/subjects.json",
+          "source": "https://vancouver.calendar.ubc.ca/jsonapi/taxonomy_term/subject",
+          "csv": "academic-calendar/vancouver/subjects.csv"
+        }
+      ]
+    },
+    "people": {
+      "title": "Faculty and staff profiles by unit",
+      "description": "Public faculty and staff profiles from UBC units on the shared Drupal platform, tagged with the site they came from. Coverage is partial -- most faculties run other platforms and expose no API, so `_sites.json` records which hosts answered. Public directory information only -- no student data.",
+      "folder": "people",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:41:02Z",
+      "sources": [
+        "https://science.ubc.ca/jsonapi/node/ubc_profile",
+        "https://apsc.ubc.ca/jsonapi/node/ubc_profile",
+        "https://arts.ubc.ca/jsonapi/node/ubc_profile",
+        "..."
+      ],
+      "tables": [
+        {
+          "name": "_sites",
+          "path": "people/_sites",
+          "records": 43,
+          "json": "people/_sites.json",
+          "grain": "one host that was probed for profiles, whether or not it had any",
+          "columns": {
+            "site": "the host",
+            "profiles": "how many it returned; 0 means it is not on the shared platform",
+            "skipped": "why nothing came back, when nothing did"
+          },
+          "joins": [
+            "site -> people/profiles.site"
+          ],
+          "csv": "people/_sites.csv"
+        },
+        {
+          "name": "profiles",
+          "path": "people/profiles",
+          "records": 1718,
+          "json": "people/profiles.json",
+          "grain": "one published faculty or staff profile on one UBC site",
+          "columns": {
+            "title": "the person's name as the site publishes it",
+            "field_profile_job_title": "their title in the unit",
+            "field_profile_email": "public contact email",
+            "field_profile_phone": "public contact phone",
+            "field_profile_office": "office location, where published",
+            "body": "biography HTML",
+            "site": "which UBC host published it -- the only unit marker there is",
+            "alias": "path on that host; prefix the host for the URL"
+          },
+          "joins": [
+            "title ~ courses/sections.field_instructors (by name; there is no shared id)",
+            "site -> people/_sites.site"
+          ],
+          "csv": "people/profiles.csv"
+        }
+      ]
+    },
+    "services": {
+      "title": "Campus services (food, parking, facilities, student services, news)",
+      "description": "Food outlets and their hours, parking locations, permits and parking maps, facilities and learning-space resource libraries, recreation and student services pages, UBC news posts, and the statutory holidays UBC observes.",
+      "folder": "campus-services",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:41:41Z",
+      "sources": [
+        "https://food.ubc.ca",
+        "https://parking.ubc.ca",
+        "https://facilities.ubc.ca",
+        "https://hr.ubc.ca/working-ubc/statutory-holidays"
+      ],
+      "tables": [
+        {
+          "name": "_sources",
+          "path": "campus-services/_sources",
+          "records": 11,
+          "json": "campus-services/_sources.json"
+        },
+        {
+          "name": "facilities_resources",
+          "path": "campus-services/facilities_resources",
+          "records": 511,
+          "json": "campus-services/facilities_resources.json",
+          "source": "https://facilities.ubc.ca/wp-json/wp/v2/resources",
+          "csv": "campus-services/facilities_resources.csv"
+        },
+        {
+          "name": "food_events",
+          "path": "campus-services/food_events",
+          "records": 3,
+          "json": "campus-services/food_events.json",
+          "source": "https://food.ubc.ca/wp-json/wp/v2/event",
+          "csv": "campus-services/food_events.csv"
+        },
+        {
+          "name": "food_outlets",
+          "path": "campus-services/food_outlets",
+          "records": 39,
+          "json": "campus-services/food_outlets.json",
+          "source": "https://food.ubc.ca/wp-json/wp/v2/places",
+          "csv": "campus-services/food_outlets.csv"
+        },
+        {
+          "name": "news",
+          "path": "campus-services/news",
+          "records": 1457,
+          "json": "campus-services/news.json",
+          "source": "https://news.ubc.ca/wp-json/wp/v2/posts",
+          "csv": "campus-services/news.csv"
+        },
+        {
+          "name": "parking_locations",
+          "path": "campus-services/parking_locations",
+          "records": 19,
+          "json": "campus-services/parking_locations.json",
+          "source": "https://parking.ubc.ca/jsonapi/node/parking_location",
+          "csv": "campus-services/parking_locations.csv"
+        },
+        {
+          "name": "parking_maps",
+          "path": "campus-services/parking_maps",
+          "records": 1,
+          "json": "campus-services/parking_maps.json",
+          "source": "https://parking.ubc.ca/jsonapi/node/map_page",
+          "csv": "campus-services/parking_maps.csv"
+        },
+        {
+          "name": "parking_permits",
+          "path": "campus-services/parking_permits",
+          "records": 1,
+          "json": "campus-services/parking_permits.json",
+          "source": "https://parking.ubc.ca/jsonapi/node/permits",
+          "csv": "campus-services/parking_permits.csv"
+        },
+        {
+          "name": "recreation_pages",
+          "path": "campus-services/recreation_pages",
+          "records": 386,
+          "json": "campus-services/recreation_pages.json",
+          "source": "https://recreation.ubc.ca/wp-json/wp/v2/pages",
+          "csv": "campus-services/recreation_pages.csv"
+        },
+        {
+          "name": "statutory_holidays",
+          "path": "campus-services/statutory_holidays",
+          "records": 13,
+          "json": "campus-services/statutory_holidays.json",
+          "source": "https://hr.ubc.ca/working-ubc/statutory-holidays",
+          "csv": "campus-services/statutory_holidays.csv"
+        },
+        {
+          "name": "student_services_pages",
+          "path": "campus-services/student_services_pages",
+          "records": 464,
+          "json": "campus-services/student_services_pages.json",
+          "source": "https://students.ubc.ca/wp-json/wp/v2/pages",
+          "csv": "campus-services/student_services_pages.csv"
+        }
+      ]
+    },
+    "reports": {
+      "title": "Institutional reports (finance, budget, enrolment, Facts & Figures)",
+      "description": "An index of UBC's published institutional documents -- annual financial reports, budgets, tuition and fee schedules, annual enrolment reports and Facts & Figures sheets -- with a direct download URL, file type and the source page for each, plus the underlying page content.",
+      "folder": "reports",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:41:59Z",
+      "sources": [
+        "https://finance.ubc.ca",
+        "https://pair.ubc.ca",
+        "https://facilities.ubc.ca"
+      ],
+      "tables": [
+        {
+          "name": "_sources",
+          "path": "reports/_sources",
+          "records": 6,
+          "json": "reports/_sources.json"
+        },
+        {
+          "name": "documents",
+          "path": "reports/documents",
+          "records": 194,
+          "json": "reports/documents.json",
+          "grain": "one published document, deduplicated across the pages that link it",
+          "columns": {
+            "site": "finance, pair or facilities",
+            "url": "direct download; the document itself is not mirrored here",
+            "filename": "the file as UBC named it -- usually the only title it has",
+            "file_type": "pdf, csv, xlsx...",
+            "page_title": "the page it was linked from",
+            "page_url": "that page",
+            "linked_from_pages": "how many pages link it; a high count usually means boilerplate"
+          },
+          "csv": "reports/documents.csv"
+        },
+        {
+          "name": "pages",
+          "path": "reports/facilities/pages",
+          "records": 234,
+          "json": "reports/facilities/pages.json",
+          "source": "https://facilities.ubc.ca/wp-json/wp/v2/pages",
+          "csv": "reports/facilities/pages.csv"
+        },
+        {
+          "name": "pages",
+          "path": "reports/finance/pages",
+          "records": 34,
+          "json": "reports/finance/pages.json",
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/pages",
+          "csv": "reports/finance/pages.csv"
+        },
+        {
+          "name": "posts",
+          "path": "reports/finance/posts",
+          "records": 110,
+          "json": "reports/finance/posts.json",
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/posts",
+          "csv": "reports/finance/posts.csv"
+        },
+        {
+          "name": "resources",
+          "path": "reports/finance/resources",
+          "records": 3,
+          "json": "reports/finance/resources.json",
+          "source": "https://finance.ubc.ca/wp-json/wp/v2/resources",
+          "csv": "reports/finance/resources.csv"
+        },
+        {
+          "name": "pages",
+          "path": "reports/pair/pages",
+          "records": 54,
+          "json": "reports/pair/pages.json",
+          "source": "https://pair.ubc.ca/wp-json/wp/v2/pages",
+          "csv": "reports/pair/pages.csv"
+        },
+        {
+          "name": "posts",
+          "path": "reports/pair/posts",
+          "records": 5,
+          "json": "reports/pair/posts.json",
+          "source": "https://pair.ubc.ca/wp-json/wp/v2/posts",
+          "csv": "reports/pair/posts.csv"
+        }
+      ]
+    },
+    "finances": {
+      "title": "Tuition, student fees and first-year cost estimates",
+      "description": "What studying at UBC costs: per-credit tuition rates by program for domestic and international students including the cohort year each rate applies to, flat-rate and per-instalment programs, Board- and society-approved student fees, UBC's own first-year cost estimate for every program area with the housing, meal, rent and grocery figures behind it, and a per-program estimate derived by joining the two.",
+      "folder": "finances",
+      "status": "ok",
+      "updated_at": "2026-07-31T07:58:27Z",
+      "sources": [
+        "https://vancouver.calendar.ubc.ca/fees",
+        "https://you.ubc.ca/programs/"
+      ],
+      "tables": [
+        {
+          "name": "_sources",
+          "path": "finances/_sources",
+          "records": null,
+          "json": "finances/_sources.json"
+        },
+        {
+          "name": "_unmatched",
+          "path": "finances/_unmatched",
+          "records": 7,
+          "json": "finances/_unmatched.json"
+        },
+        {
+          "name": "cost_estimates",
+          "path": "finances/cost_estimates",
+          "records": 33,
+          "json": "finances/cost_estimates.json",
+          "grain": "UBC's own first-year cost estimate for one program area",
+          "columns": {
+            "area_key": "the estimator's slug, e.g. `land_food_systems_applied_biology`",
+            "area": "the area as the estimator names it",
+            "tuition_domestic": "year-one tuition on a 30-credit load, CAD",
+            "tuition_international": "year-one tuition on a 30-credit load, CAD",
+            "student_fees": "year-one student fees (U-Pass, basic health insurance...)",
+            "lab_clinic_fees_domestic": "lab or clinic fees, where the area charges them",
+            "lab_clinic_fees_international": "lab or clinic fees, where the area charges them",
+            "books_supplies": "estimated books and supplies for the year",
+            "educational_total_domestic": "derived: tuition + fees + lab + books",
+            "educational_total_international": "derived: tuition + fees + lab + books",
+            "custom_tuition_message": "caveat UBC attaches to this area's figure"
+          },
+          "joins": [
+            "(campus, area_key) -> finances/program_cost_estimates"
+          ],
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "finances/cost_estimates.csv"
+        },
+        {
+          "name": "fee_notes",
+          "path": "finances/fee_notes",
+          "records": 459,
+          "json": "finances/fee_notes.json",
+          "grain": "one row from a fee table that carries no money -- footnotes, eligibility conditions and instalment counts, kept because they qualify the rates",
+          "columns": {
+            "section": "the heading above the table",
+            "note": "the row's text",
+            "url": "the calendar page"
+          },
+          "joins": [
+            "url -> finances/tuition.url"
+          ],
+          "source": "https://vancouver.calendar.ubc.ca/fees",
+          "csv": "finances/fee_notes.csv"
+        },
+        {
+          "name": "living_costs",
+          "path": "finances/living_costs",
+          "records": 10,
+          "json": "finances/living_costs.json",
+          "grain": "one cost-of-living figure the estimator assumes",
+          "columns": {
+            "item": "campus_housing_single, meal_plan, rent, groceries...",
+            "variant": "standard, or vantage_one where Vantage College differs",
+            "amount": "amount in CAD",
+            "basis": "per_academic_year for housing and meal plans, per_month for the rest"
+          },
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "finances/living_costs.csv"
+        },
+        {
+          "name": "program_cost_estimates",
+          "path": "finances/program_cost_estimates",
+          "records": 134,
+          "json": "finances/program_cost_estimates.json",
+          "grain": "one undergraduate program with the first-year cost of the area that prices it",
+          "columns": {
+            "program_id": "joins to admissions/programs.json `id`",
+            "program": "program name as the finder lists it",
+            "degrees": "degree names this program leads to; what the match usually ran on",
+            "campus": "campus the estimate is for",
+            "area": "the cost-estimator area, e.g. `Land and Food Systems: Applied Biology`",
+            "area_key": "the cost-estimator area matched to this program",
+            "tuition_domestic": "year-one tuition on a 30-credit load, CAD",
+            "tuition_international": "year-one tuition on a 30-credit load, CAD",
+            "student_fees": "year-one student fees",
+            "books_supplies": "estimated books and supplies for the year",
+            "matched_by": "how the match was made -- exact or overlap, on the program title or on one of its degrees. Programs with no unique area are in _unmatched.json rather than here",
+            "educational_total_domestic": "derived: tuition + fees + lab + books for year one",
+            "educational_total_international": "derived: tuition + fees + lab + books for year one"
+          },
+          "joins": [
+            "program_id -> admissions/programs.id",
+            "program_id -> admissions/requirements/program_requirements.program_id",
+            "(campus, area_key) -> finances/cost_estimates"
+          ],
+          "source": "https://you.ubc.ca/programs/",
+          "csv": "finances/program_cost_estimates.csv"
+        },
+        {
+          "name": "student_fees",
+          "path": "finances/student_fees",
+          "records": 482,
+          "json": "finances/student_fees.json",
+          "grain": "one student fee as charged to one category of student",
+          "columns": {
+            "item": "the fee, e.g. `Athletics and Recreation Fee`",
+            "column": "who pays it, e.g. `Undergraduate and Certificates Full-Time`",
+            "unit": "per_year, per_credit or per_term",
+            "amount": "amount in CAD",
+            "section": "the heading above the table; says whether the Board of Governors or a student society sets the fee",
+            "url": "the calendar page"
+          },
+          "source": "https://vancouver.calendar.ubc.ca/fees",
+          "csv": "finances/student_fees.csv"
+        },
+        {
+          "name": "tuition",
+          "path": "finances/tuition",
+          "records": 1876,
+          "json": "finances/tuition.json",
+          "grain": "one tuition figure: a program, a column of the table it came from, and what that column charges",
+          "columns": {
+            "level": "undergraduate, certificate_diploma, masters, doctoral, vantage_college or dual_degree -- from the page the rate is on",
+            "program": "program the rate applies to, with any year band removed",
+            "applies_to": "the year band, e.g. `Years 2 to 5`, when the rate is banded",
+            "student_type": "domestic or international",
+            "cohort_year": "intake year the rate is frozen at; international rates only",
+            "cohort_rule": "exactly, or_later or or_earlier -- how to read cohort_year",
+            "unit": "per_credit, per_year, per_instalment or per_term",
+            "amount": "amount in CAD",
+            "annual_at_30_credits": "derived: amount x 30, for per-credit rates only. 30 credits is a full-time year and the load UBC's own estimator uses",
+            "amount_text": "the cell as UBC wrote it",
+            "column": "the column header, verbatim",
+            "section": "the heading above the table",
+            "item": "the row label, verbatim; empty when the row had no label",
+            "context": "rows above the header inside the same table -- on the graduate pages this is where the program name and instalment count live",
+            "table_label": "the table's own first cell, which is what `program` is usually taken from",
+            "divider": "the in-table row heading the amount sits under, e.g. `2026S or 2026W`",
+            "url": "the calendar page"
+          },
+          "joins": [
+            "program ~ finances/program_cost_estimates.area (by name, not an id)"
+          ],
+          "source": "https://vancouver.calendar.ubc.ca/fees",
+          "csv": "finances/tuition.csv"
+        }
+      ]
+    },
+    "bookings": {
+      "title": "Library room availability (bookable spaces and free time)",
+      "description": "Every bookable space in UBC Library's LibCal with its location, capacity and photo, and when each one is free, booked or unavailable over UBC's booking window -- the 15-minute grid UBC publishes, merged into intervals. Availability is a snapshot taken at `collected_at`, not a standing fact; see _snapshot.json for the window covered.",
+      "folder": "room-bookings",
+      "status": "ok",
+      "updated_at": "2026-08-01T15:07:54Z",
+      "sources": [
+        "https://libcal.library.ubc.ca/spaces"
+      ],
+      "tables": [
+        {
+          "name": "_snapshot",
+          "path": "room-bookings/_snapshot",
+          "records": null,
+          "json": "room-bookings/_snapshot.json",
+          "source": "https://libcal.library.ubc.ca/spaces/availability/grid"
+        },
+        {
+          "name": "availability",
+          "path": "room-bookings/availability",
+          "records": 1005,
+          "json": "room-bookings/availability.json",
+          "grain": "One uninterrupted stretch of one room in one state, as it stood at `collected_at` -- UBC's consecutive 15-minute slots merged.",
+          "columns": {
+            "eid": "The room. Joins to rooms.eid.",
+            "state": "`free`, `booked`, or `unavailable`. Anything UBC marks in a way this collector does not recognise is reported `unavailable`, never `free`. Filter on `free` to find bookable time.",
+            "start": "First moment in this state, `YYYY-MM-DD HH:MM:SS` local, as UBC sends it; `end` is the first moment no longer in it.",
+            "minutes": "Length of the stretch, so a usable block can be picked without subtracting timestamps.",
+            "collected_at": "When this snapshot was taken. Availability moves; this does not."
+          },
+          "joins": [
+            "rooms on eid",
+            "locations on lid"
+          ],
+          "source": "https://libcal.library.ubc.ca/spaces/availability/grid",
+          "csv": "room-bookings/availability.csv"
+        },
+        {
+          "name": "locations",
+          "path": "room-bookings/locations",
+          "records": 5,
+          "json": "room-bookings/locations.json",
+          "grain": "One LibCal location -- a UBC library or branch that publishes bookable space.",
+          "columns": {
+            "lid": "LibCal location id; the key rooms and slots carry.",
+            "name": "Library name as UBC's own dropdown gives it.",
+            "building_code": "BLDG_CODE of the building it sits in, for the geospatial join. Three locations share IBLC.",
+            "rooms_collected": "Rooms found for this location on this run.",
+            "total_capacity": "Seats across those rooms, where capacity is published."
+          },
+          "joins": [
+            "geospatial/ubcv/locations/geojson/ubcv_buildings.geojson on building_code = BLDG_CODE",
+            "learning-spaces/buildings on building_code = `Building Code`"
+          ],
+          "source": "https://libcal.library.ubc.ca/spaces",
+          "csv": "room-bookings/locations.csv"
+        },
+        {
+          "name": "rooms",
+          "path": "room-bookings/rooms",
+          "records": 51,
+          "json": "room-bookings/rooms.json",
+          "grain": "One bookable space -- a group study room, project room or seating area.",
+          "columns": {
+            "eid": "LibCal space id. The same number the availability grid calls `itemId`.",
+            "lid": "The location this room belongs to.",
+            "capacity": "Seats, where UBC publishes them; null for spaces that are not individually bookable.",
+            "building_code": "Inherited from the location, for the geospatial join.",
+            "described_by": "`spaces_page` if the browsable list described this room, `space_page` if it only appeared in the grid and was filled in from its own page.",
+            "filter_ids": "LibCal's internal amenity filter ids, kept as sent."
+          },
+          "joins": [
+            "slots on eid",
+            "openings on eid",
+            "locations on lid"
+          ],
+          "source": "https://libcal.library.ubc.ca/spaces",
+          "csv": "room-bookings/rooms.csv"
+        }
+      ]
+    }
+  }
+}
