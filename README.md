@@ -8,6 +8,11 @@ it's taught, where you can sit down and study, what it costs, who teaches it,
 and what's happening on campus. **No student data** — no grades, no historical
 class sizes, no individual records.
 
+> Grade distributions (`data/grades/raw/`, UBCV Vancouver campus) are synced
+> from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data) by
+> `scripts/sync-grades.sh` — run it manually or trigger the `Sync grades`
+> workflow.
+
 ```
 Unified-UBC-Data/
 ├── collectors/     # code that gathers the data
@@ -38,18 +43,18 @@ run continues. Exit code is non-zero if anything failed.
 
 ## What's in here
 
-| Group | Folder | What you get |
-|---|---|---|
-| `geospatial` | `data/geospatial/` | Buildings, entrances, sub-buildings, complexes, addresses, points of interest, campus trees, hard/soft landscape, water features, roads, routes, bollards, land use, neighbourhoods, legal boundaries. GeoJSON + CSV, mirrored verbatim apart from one recorded correction: five `ubcv/locations/csv/` files label `LAT`/`LONG` the wrong way round upstream, and the two column names are swapped back. Data rows are untouched; see `_source.json` → `corrections`. |
-| `courses` | `data/courses/` | Two tables. `courses.*` is the catalogue (code, number, title, credits, subject, description). `sections.*` is every **actual offering** — term, meeting days and times, start/end dates, instructor, delivery mode, status. Plus subject, campus, term, year-level and department code lists, and standard timetables. |
-| `calendar` | `data/academic-calendar/` | The course *catalogue*: descriptions and credit values, plus prerequisites, corequisites, equivalencies, credit exclusions and hours vectors **parsed out of the description prose** (see below) — and the faculty / school / department hierarchy. Also every calendar *page*: `pages.*` is the whole site (degree requirements, faculty overviews, admission rules, regulations) with body text, breadcrumbs and the courses each page references; `programs.*` is the subset that sits inside a degree; `dates.*` is term start/finish, exam periods and drop deadlines. |
-| `spaces` | `data/learning-spaces/` | Bookable classrooms and informal study spaces with capacity, building, room number, **derived floor**, furniture and layout style, photos and links. `buildings.*` carries the rooms in each building — name, floor, capacity and cover photo — plus their totals and a building cover photo. `filters.json` holds the full vocabulary UBC records per space (A/V, accessibility, room features). |
-| `events` | `data/events/` | Public events with times, cost, description and category, plus venues (street address, city, postal code) and organizers (email, phone, website). Includes the raw iCal feed. Venues have no coordinates — join them to `geospatial/ubcv/locations/` on address or building to place them on a map. |
-| `admissions` | `data/admissions/` | Every undergraduate program in the program finder with degree, campus, faculty and areas of interest; the degree list; the you.ubc.ca pages on requirements, costs, deadlines and how to apply. And in `requirements/`, **what each program actually demands of an applicant** — the required Grade 11 and 12 courses, general admission rules and English-language rules, for every one of the 126 curricula a student can apply from (see below). |
-| `finances` | `data/finances/` | What it costs. Per-credit tuition by program for domestic and international students, with the cohort year each international rate is frozen at; flat-rate and per-instalment programs; graduate and certificate rates; Board- and society-approved student fees; UBC's own first-year cost estimate for all 33 program areas plus the housing, meal, rent and grocery figures behind it; and a per-program estimate joining the two. |
-| `people` | `data/people/` | Public faculty and staff profiles, tagged with the site each came from. **Partial coverage:** only 5 of 43 probed UBC sites expose profiles over an API — Applied Science, Nursing, Law, Pharmaceutical Sciences and Science (1,712 profiles). The rest (Arts, Sauder, Medicine, Forestry, Education, Grad Studies…) aren't on the shared Drupal platform and return no `/jsonapi`. `_sites.json` records exactly which host gave what. |
-| `services` | `data/campus-services/` | Food outlets, parking locations, permits and parking maps, facilities and learning-space resource libraries, recreation and student-services pages, UBC news, and the statutory holidays UBC observes (including the two that are UBC's own rather than BC's). |
-| `reports` | `data/reports/` | An index of UBC's published institutional documents — annual financial reports, budgets, Statements of Financial Information, annual enrolment reports, Facts & Figures — each with a direct download URL, file type and source page. Rates and fees are not here; they are in `finances`. |
+| Group        | Folder                    | What you get                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `geospatial` | `data/geospatial/`        | Buildings, entrances, sub-buildings, complexes, addresses, points of interest, campus trees, hard/soft landscape, water features, roads, routes, bollards, land use, neighbourhoods, legal boundaries. GeoJSON + CSV, mirrored verbatim apart from one recorded correction: five `ubcv/locations/csv/` files label `LAT`/`LONG` the wrong way round upstream, and the two column names are swapped back. Data rows are untouched; see `_source.json` → `corrections`.                                                                                                       |
+| `courses`    | `data/courses/`           | Two tables. `courses.*` is the catalogue (code, number, title, credits, subject, description). `sections.*` is every **actual offering** — term, meeting days and times, start/end dates, instructor, delivery mode, status. Plus subject, campus, term, year-level and department code lists, and standard timetables.                                                                                                                                                                                                                                                     |
+| `calendar`   | `data/academic-calendar/` | The course _catalogue_: descriptions and credit values, plus prerequisites, corequisites, equivalencies, credit exclusions and hours vectors **parsed out of the description prose** (see below) — and the faculty / school / department hierarchy. Also every calendar _page_: `pages.*` is the whole site (degree requirements, faculty overviews, admission rules, regulations) with body text, breadcrumbs and the courses each page references; `programs.*` is the subset that sits inside a degree; `dates.*` is term start/finish, exam periods and drop deadlines. |
+| `spaces`     | `data/learning-spaces/`   | Bookable classrooms and informal study spaces with capacity, building, room number, **derived floor**, furniture and layout style, photos and links. `buildings.*` carries the rooms in each building — name, floor, capacity and cover photo — plus their totals and a building cover photo. `filters.json` holds the full vocabulary UBC records per space (A/V, accessibility, room features).                                                                                                                                                                           |
+| `events`     | `data/events/`            | Public events with times, cost, description and category, plus venues (street address, city, postal code) and organizers (email, phone, website). Includes the raw iCal feed. Venues have no coordinates — join them to `geospatial/ubcv/locations/` on address or building to place them on a map.                                                                                                                                                                                                                                                                         |
+| `admissions` | `data/admissions/`        | Every undergraduate program in the program finder with degree, campus, faculty and areas of interest; the degree list; the you.ubc.ca pages on requirements, costs, deadlines and how to apply. And in `requirements/`, **what each program actually demands of an applicant** — the required Grade 11 and 12 courses, general admission rules and English-language rules, for every one of the 126 curricula a student can apply from (see below).                                                                                                                         |
+| `finances`   | `data/finances/`          | What it costs. Per-credit tuition by program for domestic and international students, with the cohort year each international rate is frozen at; flat-rate and per-instalment programs; graduate and certificate rates; Board- and society-approved student fees; UBC's own first-year cost estimate for all 33 program areas plus the housing, meal, rent and grocery figures behind it; and a per-program estimate joining the two.                                                                                                                                       |
+| `people`     | `data/people/`            | Public faculty and staff profiles, tagged with the site each came from. **Partial coverage:** only 5 of 43 probed UBC sites expose profiles over an API — Applied Science, Nursing, Law, Pharmaceutical Sciences and Science (1,712 profiles). The rest (Arts, Sauder, Medicine, Forestry, Education, Grad Studies…) aren't on the shared Drupal platform and return no `/jsonapi`. `_sites.json` records exactly which host gave what.                                                                                                                                     |
+| `services`   | `data/campus-services/`   | Food outlets, parking locations, permits and parking maps, facilities and learning-space resource libraries, recreation and student-services pages, UBC news, and the statutory holidays UBC observes (including the two that are UBC's own rather than BC's).                                                                                                                                                                                                                                                                                                              |
+| `reports`    | `data/reports/`           | An index of UBC's published institutional documents — annual financial reports, budgets, Statements of Financial Information, annual enrolment reports, Facts & Figures — each with a direct download URL, file type and source page. Rates and fees are not here; they are in `finances`.                                                                                                                                                                                                                                                                                  |
 
 ### Finding your way around
 
@@ -57,12 +62,12 @@ run continues. Exit code is non-zero if anything failed.
 lives, the join graph with measured match rates, the encodings that will trip you
 up (section times are seconds from midnight; five geospatial CSVs had their
 `LAT`/`LONG` headers swapped upstream and are corrected here), worked recipes,
-and an explicit list of what this data *cannot* answer. Start there if you are
+and an explicit list of what this data _cannot_ answer. Start there if you are
 trying to get an answer out rather than trying to understand how the data was
 gathered.
 
 `data/catalog.json` is the index: one entry per **table** rather than per file,
-each with the grain (what one row *is*), the columns worth knowing about, and
+each with the grain (what one row _is_), the columns worth knowing about, and
 the joins that link it to other tables. Read it before guessing from filenames.
 
 ```json
@@ -94,7 +99,7 @@ drives the same endpoint across every combination.
 Two facts make the shape worth understanding before querying it:
 
 - **Requirements are shared between programs.** All 41 Arts majors ask the same
-  thing, so UBC keys them by a *requirement group* (`arts`, `engineering`,
+  thing, so UBC keys them by a _requirement group_ (`arts`, `engineering`,
   `commerce`…), not by program. 122 direct-entry Vancouver programs map to 20
   groups. `program_requirements` is that mapping, and it is the first hop of
   every query.
@@ -134,7 +139,7 @@ all — 116 of the 2,520 combinations.
 
 One trap worth knowing: **`location_slug` is not unique on its own.** `basic` —
 the fallback UBC applies when your province or country isn't listed separately —
-exists in *both* the province and the country list, and means a different thing
+exists in _both_ the province and the country list, and means a different thing
 in each. Filter on `(curriculum, location_slug)`, or on `location_term_id`,
 which is unique. It is the only slug affected, which is exactly what makes it
 easy to miss.
@@ -146,13 +151,26 @@ collected for it in floor order, largest first.
 
 ```json
 {
-  "Building Code": "BUCH", "Building Name": "Buchanan Building",
-  "rooms_collected": 66, "formal_collected": 61, "informal_collected": 5,
-  "total_capacity": 3407, "largest_room_capacity": 275, "floors": [1, 2, 3],
+  "Building Code": "BUCH",
+  "Building Name": "Buchanan Building",
+  "rooms_collected": 66,
+  "formal_collected": 61,
+  "informal_collected": 5,
+  "total_capacity": 3407,
+  "largest_room_capacity": 275,
+  "floors": [1, 2, 3],
   "cover_photo_room": "BUCH A101",
-  "rooms": [{"name": "BUCH A101", "room_number": "A101", "floor": 1,
-             "capacity": 275, "space_type": "classroom",
-             "room_link": "…/classrooms/buch-a101", "cover_photo_url": "…"}]
+  "rooms": [
+    {
+      "name": "BUCH A101",
+      "room_number": "A101",
+      "floor": 1,
+      "capacity": 275,
+      "space_type": "classroom",
+      "room_link": "…/classrooms/buch-a101",
+      "cover_photo_url": "…"
+    }
+  ]
 }
 ```
 
@@ -194,11 +212,11 @@ instalment counts — go to `fee_notes` rather than being dropped.
 International undergraduate tuition is frozen at the rate of the year you
 started, which is why one program has seven rates:
 
-| program | student_type | cohort_year | cohort_rule | unit | amount |
-|---|---|---|---|---|---|
-| Arts | international | 2026 | or_later | per_credit | 1717.68 |
-| Arts | international | 2025 | exactly | per_credit | 1701.16 |
-| Arts | international | 2020 | or_earlier | per_credit | 1544.63 |
+| program | student_type  | cohort_year | cohort_rule | unit       | amount  |
+| ------- | ------------- | ----------- | ----------- | ---------- | ------- |
+| Arts    | international | 2026        | or_later    | per_credit | 1717.68 |
+| Arts    | international | 2025        | exactly     | per_credit | 1701.16 |
+| Arts    | international | 2020        | or_earlier  | per_credit | 1544.63 |
 
 `annual_at_30_credits` is the only arithmetic applied — the rate times a
 full-time year, which is the load UBC's own estimator states its figures on.
@@ -232,16 +250,16 @@ didn't write are pruned, so going Vancouver-only deletes the Okanagan files and
 going back to `both` restores them. The active setting is recorded as `campus`
 in `data/manifest.json`.
 
-| Group | How the filter applies |
-|---|---|
-| `geospatial` | Keeps `ubcv/`, drops `ubco/`. `off-campus/` (UBC sites elsewhere in BC) is not campus-specific and is always kept. |
-| `calendar` | Only the `vancouver.calendar.ubc.ca` host is fetched; `okanagan/` is not written. |
-| `courses` | The API serves both campuses in one collection with **no campus field**, so a `campus` column is derived and then filtered on: course code `_V`/`_O`, term label `(UBC-V)`/`(UBC-O)`, subject label `(Vancouver)`/`(Okanagan)`, or a standard timetable's campus relationship. All 47,229 upstream courses resolve cleanly (38,529 V / 8,700 O) — none are left unlabelled. |
-| `admissions` | Programs reference campuses by term id; resolved against `campuses.json` (`9` = Vancouver, `10` = Okanagan). A program offered on both campuses is kept. Requirements are fetched per campus, as the endpoint takes one. |
-| `finances` | Only the selected campus's calendar host is read for fee pages, and the cost estimator is keyed by campus already. `program_cost_estimates` reuses the `admissions` program filter, so the two stay in step. |
-| `spaces` | Already Vancouver-only upstream — Find a Space accepts a campus parameter and ignores it. |
-| `events` | No campus field exists upstream; events are not filtered. Venue `city` is the only proxy (189 Vancouver, 1 Kelowna). |
-| `people` / `services` / `reports` | Organised by source site, not campus, and not filtered. PAIR publishes UBCO factsheets that remain in the document index. |
+| Group                             | How the filter applies                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `geospatial`                      | Keeps `ubcv/`, drops `ubco/`. `off-campus/` (UBC sites elsewhere in BC) is not campus-specific and is always kept.                                                                                                                                                                                                                                                          |
+| `calendar`                        | Only the `vancouver.calendar.ubc.ca` host is fetched; `okanagan/` is not written.                                                                                                                                                                                                                                                                                           |
+| `courses`                         | The API serves both campuses in one collection with **no campus field**, so a `campus` column is derived and then filtered on: course code `_V`/`_O`, term label `(UBC-V)`/`(UBC-O)`, subject label `(Vancouver)`/`(Okanagan)`, or a standard timetable's campus relationship. All 47,229 upstream courses resolve cleanly (38,529 V / 8,700 O) — none are left unlabelled. |
+| `admissions`                      | Programs reference campuses by term id; resolved against `campuses.json` (`9` = Vancouver, `10` = Okanagan). A program offered on both campuses is kept. Requirements are fetched per campus, as the endpoint takes one.                                                                                                                                                    |
+| `finances`                        | Only the selected campus's calendar host is read for fee pages, and the cost estimator is keyed by campus already. `program_cost_estimates` reuses the `admissions` program filter, so the two stay in step.                                                                                                                                                                |
+| `spaces`                          | Already Vancouver-only upstream — Find a Space accepts a campus parameter and ignores it.                                                                                                                                                                                                                                                                                   |
+| `events`                          | No campus field exists upstream; events are not filtered. Venue `city` is the only proxy (189 Vancouver, 1 Kelowna).                                                                                                                                                                                                                                                        |
+| `people` / `services` / `reports` | Organised by source site, not campus, and not filtered. PAIR publishes UBCO factsheets that remain in the document index.                                                                                                                                                                                                                                                   |
 
 A record carrying **no** campus marker is always kept — dropping unlabelled rows
 would silently lose data if UBC changed a naming convention.
@@ -265,27 +283,27 @@ would silently lose data if UBC changed a naming convention.
 Everything comes from a public UBC endpoint. No credentials, no scraping behind
 a login, no student data.
 
-| Source | Used for |
-|---|---|
-| [UBCGeodata/ubc-geospatial-opendata](https://github.com/UBCGeodata/ubc-geospatial-opendata) | `geospatial` — pinned to the current commit SHA, recorded in `_source.json` |
-| [UBCGeodata/ubcv-parking](https://github.com/UBCGeodata/ubcv-parking) | `geospatial` — parking facilities with rates, permits and payment links, mounted at `ubcv/parking/`. The org's other repos (`ubcv-locations`, `ubcv-buildings`, `ubcv-routes`, `ubcv-landscape`, `ubcv-context`) were folded into the consolidated repo and are **not** mirrored: their copies are stale, with 437 POIs against the current 489, 270 buildings against 449, and 2,892 trees against 9,324. |
-| [courses.students.ubc.ca](https://courses.students.ubc.ca/) Drupal JSON:API | `courses` |
-| [vancouver.calendar.ubc.ca](https://vancouver.calendar.ubc.ca/) / [okanagan.calendar.ubc.ca](https://okanagan.calendar.ubc.ca/) JSON:API | `calendar` |
-| [learningspaces.ubc.ca Find a Space](https://learningspaces.ubc.ca/find-a-space/) | `spaces` |
-| [events.ubc.ca](https://events.ubc.ca/resources/webdev/) Events Calendar REST API | `events` |
-| [you.ubc.ca](https://you.ubc.ca/programs/) program finder + WP REST, and its `requirements_load_programs` AJAX action | `admissions` |
-| [vancouver.calendar.ubc.ca/fees](https://vancouver.calendar.ubc.ca/fees) tuition and fee tables, plus you.ubc.ca's cost estimator | `finances` |
-| UBC faculty/unit sites on the shared Drupal platform | `people` |
-| food.ubc.ca, parking.ubc.ca, facilities.ubc.ca, students.ubc.ca, recreation.ubc.ca, news.ubc.ca, [hr.ubc.ca statutory holidays](https://hr.ubc.ca/working-ubc/statutory-holidays) | `services` |
-| finance.ubc.ca, [pair.ubc.ca](https://pair.ubc.ca/) (Planning, Analytics & Institutional Research) | `reports` |
+| Source                                                                                                                                                                            | Used for                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [UBCGeodata/ubc-geospatial-opendata](https://github.com/UBCGeodata/ubc-geospatial-opendata)                                                                                       | `geospatial` — pinned to the current commit SHA, recorded in `_source.json`                                                                                                                                                                                                                                                                                                                                |
+| [UBCGeodata/ubcv-parking](https://github.com/UBCGeodata/ubcv-parking)                                                                                                             | `geospatial` — parking facilities with rates, permits and payment links, mounted at `ubcv/parking/`. The org's other repos (`ubcv-locations`, `ubcv-buildings`, `ubcv-routes`, `ubcv-landscape`, `ubcv-context`) were folded into the consolidated repo and are **not** mirrored: their copies are stale, with 437 POIs against the current 489, 270 buildings against 449, and 2,892 trees against 9,324. |
+| [courses.students.ubc.ca](https://courses.students.ubc.ca/) Drupal JSON:API                                                                                                       | `courses`                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [vancouver.calendar.ubc.ca](https://vancouver.calendar.ubc.ca/) / [okanagan.calendar.ubc.ca](https://okanagan.calendar.ubc.ca/) JSON:API                                          | `calendar`                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [learningspaces.ubc.ca Find a Space](https://learningspaces.ubc.ca/find-a-space/)                                                                                                 | `spaces`                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [events.ubc.ca](https://events.ubc.ca/resources/webdev/) Events Calendar REST API                                                                                                 | `events`                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [you.ubc.ca](https://you.ubc.ca/programs/) program finder + WP REST, and its `requirements_load_programs` AJAX action                                                             | `admissions`                                                                                                                                                                                                                                                                                                                                                                                               |
+| [vancouver.calendar.ubc.ca/fees](https://vancouver.calendar.ubc.ca/fees) tuition and fee tables, plus you.ubc.ca's cost estimator                                                 | `finances`                                                                                                                                                                                                                                                                                                                                                                                                 |
+| UBC faculty/unit sites on the shared Drupal platform                                                                                                                              | `people`                                                                                                                                                                                                                                                                                                                                                                                                   |
+| food.ubc.ca, parking.ubc.ca, facilities.ubc.ca, students.ubc.ca, recreation.ubc.ca, news.ubc.ca, [hr.ubc.ca statutory holidays](https://hr.ubc.ca/working-ubc/statutory-holidays) | `services`                                                                                                                                                                                                                                                                                                                                                                                                 |
+| finance.ubc.ca, [pair.ubc.ca](https://pair.ubc.ca/) (Planning, Analytics & Institutional Research)                                                                                | `reports`                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ### Notes on a few of them
 
 - **Course Schedule vs Academic Calendar.** The Course Schedule (`courses`) is
-  what is *actually offered and when*. The Academic Calendar (`calendar`) is
-  what a course *is* — description, prerequisites, credits. Join them on
+  what is _actually offered and when_. The Academic Calendar (`calendar`) is
+  what a course _is_ — description, prerequisites, credits. Join them on
   subject + course number.
-- **Prerequisites are prose, not a field.** The Academic Calendar schema *has*
+- **Prerequisites are prose, not a field.** The Academic Calendar schema _has_
   `field_course_prerequisite`, `field_course_co_requistite`,
   `field_course_vector` and `field_course_equivalency` — and all four are empty
   on every record sampled (0/350). UBC writes the whole lot into
@@ -301,10 +319,11 @@ a login, no student data.
   description is always kept next to them so you can re-parse or spot-check.
   The same parser runs over the Course Schedule's `body` field, which carries
   prerequisite prose on about 40% of courses.
+
 - **The calendar is more than courses.** Degree and specialization requirements,
   faculty and school overviews, admission rules and academic regulations are all
   `node--ubc_page` records — a title, a path alias and a blob of body HTML, with
-  no hierarchy attached. The alias *is* the hierarchy, and it's what UBC renders
+  no hierarchy attached. The alias _is_ the hierarchy, and it's what UBC renders
   its own breadcrumbs from:
 
   ```
@@ -322,6 +341,7 @@ a login, no student data.
   page mentions, in the order it mentions them, validated against the campus's
   own subject vocabulary so "OR 100" doesn't read as a course. All derived, all
   next to the `body` and `alias` they came from.
+
 - **Every Drupal record carries an `alias`.** It's the page's path on the site,
   and the one field that says where a record actually lives — `/courses/…`,
   `/profile/…`, a program's place in the calendar tree. Prefix it with the host
@@ -356,17 +376,17 @@ a login, no student data.
   or tab is picked up automatically. Its nonce is scraped fresh each run.
 - **Institutional research is not an API.** UBC publishes budgets, financial
   statements and enrolment reports as PDF/CSV/XLSX attached to pages, so
-  `reports` builds an *index* of those documents with resolved download URLs
+  `reports` builds an _index_ of those documents with resolved download URLs
   rather than pretending there is structured data to fetch. What students
-  actually pay is a different matter and *is* structured — see `finances`.
+  actually pay is a different matter and _is_ structured — see `finances`.
 - **Requirements cost 2,500 requests.** 20 requirement groups against 125
   locations, one POST each, which is most of the six minutes `update.py
-  admissions` takes. Fetching per group rather than per program is what keeps
+admissions` takes. Fetching per group rather than per program is what keeps
   it from being 15,000. The IB tab is free: unlike the province and country
   tabs it is rendered server-side, so it comes out of the page HTML.
 - **Half the fee tables have no header row.** The graduate pages never open a
   `<th>`; the first rows are the program name, an instalment count, then the
-  real header. `finances` finds it by looking for the row that fills the *value*
+  real header. `finances` finds it by looking for the row that fills the _value_
   columns rather than the label column — "Schedule | Domestic fee |
   International fee" fills two, while "Instalments per year | 3" fills one and
   is a fact about the program, not a header. Single-cell rows mid-table are
