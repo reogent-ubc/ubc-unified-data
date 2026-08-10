@@ -10,8 +10,9 @@ class sizes, no individual records.
 
 > Grade distributions (`data/grades/raw/`, UBCV Vancouver campus) are synced
 > from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data) by
-> `scripts/sync-grades.sh` — run it manually or trigger the `Sync grades`
-> workflow.
+> `scripts/sync-grades.sh` — run it manually or trigger the `Sync data`
+> workflow. `npm run update` refreshes the other groups (everything except
+> grades).
 
 ```
 Unified-UBC-Data/
