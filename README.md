@@ -15,16 +15,16 @@ class sizes, no individual records.
 
 ```
 Unified-UBC-Data/
-├── collectors/     # code that gathers the data
-├── data/           # the data itself
-└── update.py       # the one command that refreshes everything
+├── src/           # code that gathers the data
+├── data/          # the data itself
+└── package.json   # npm run update refreshes everything
 ```
 
 ## Update the data
 
 ```bash
-pip install -r requirements.txt
-python update.py
+npm install
+npm run update
 ```
 
 That's it. Everything under `data/` is rebuilt, `data/manifest.json` is
@@ -32,10 +32,10 @@ regenerated with per-file record counts, sizes, sources and timestamps, and
 `data/catalog.json` with the table-level index described below.
 
 ```bash
-python update.py --list              # what's available
-python update.py courses events      # refresh just these groups
-python update.py --skip people       # everything except one group
-python update.py --min-interval 0.2  # go easier on the source servers
+npm run update -- --list             # what's available
+npm run update -- courses events    # refresh just these groups
+npm run update -- --skip people     # everything except one group
+npm run update -- --min-interval 0.2 # go easier on the source servers
 ```
 
 A group that fails is reported and recorded in the manifest, but the rest of the
@@ -234,15 +234,15 @@ are in `_unmatched.json` rather than being given a wrong price.
 ### Campus
 
 **This dataset is UBC Vancouver only.** That is the default and it is enforced
-centrally: `collectors/base.py` holds the selection, and every collector
+centrally: `src/base.ts` holds the selection, and every collector
 translates its own campus marker — a `ubco/` directory, a `_O` course-code
 suffix, a `(UBC-O)` term label, a `(Okanagan)` subject label, a campus
 relationship — into a name and asks `wants()` before keeping a record.
 
 ```bash
-python update.py                    # Vancouver only (default)
-python update.py --campus okanagan  # Okanagan only
-python update.py --campus both      # everything
+npm run update                    # Vancouver only (default)
+npm run update -- --campus okanagan  # Okanagan only
+npm run update -- --campus both   # everything
 ```
 
 Switching is safe in both directions: after a collector succeeds, files it
@@ -313,7 +313,7 @@ a login, no student data.
   > instruction execution. **[3-2-1] Prerequisite:** Principles of Mathematics 12
   > or Pre-calculus 12. **Corequisite:** One of CPSC 107, CPSC 110.
 
-  So `collectors/coursetext.py` parses it back out into `prerequisite`,
+  So `src/coursetext.ts` parses it back out into `prerequisite`,
   `corequisite`, `equivalency`, `credit_exclusion`, `hours_vector` and a cleaned
   `description_text`. These columns are **derived, not fetched** — the original
   description is always kept next to them so you can re-parse or spot-check.
@@ -332,7 +332,7 @@ a login, no student data.
       /bsf-bachelor-science-forestry/forest-resources-management-major
   ```
 
-  So `collectors/calendarpages.py` recovers ancestry by matching each alias
+  So `src/calendarpages.ts` recovers ancestry by matching each alias
   prefix back to the page that owns it — real titles ("B.S.F. (Bachelor of
   Science in Forestry)"), not de-slugified guesses — and derives `faculty`,
   `program`, `level` (undergraduate / masters / doctoral / certificate) and
@@ -353,10 +353,10 @@ a login, no student data.
   every row. Multi-week windows are kept rather than dropped — `span_days` is
   there to filter on if you only want single-day deadlines.
 - **Statutory holidays are the one HTML scrape.** UBC publishes them on hr.ubc.ca
-  as a page, with no API behind it, so `collectors/holidays.py` reads the tables.
-  It uses `collectors/htmldoc.py` — headings and tables pulled out with the
-  standard library's `html.parser`, which is why `requests` is still the only
-  dependency this project has.
+  as a page, with no API behind it, so `src/collectors/holidays.ts` reads the
+  tables. It uses `src/htmldoc.ts` — headings and tables pulled out with a
+  small dependency-free tokenizer, which is why the project has no runtime
+  dependencies at all.
 - **Instructors live on sections, not courses.** `courses/sections.json` has
   `field_instructors` populated on every row sampled, along with `field_days`,
   `field_start_time`/`field_end_time` and start/end dates. `courses/courses.json`
@@ -380,10 +380,11 @@ a login, no student data.
   rather than pretending there is structured data to fetch. What students
   actually pay is a different matter and _is_ structured — see `finances`.
 - **Requirements cost 2,500 requests.** 20 requirement groups against 125
-  locations, one POST each, which is most of the six minutes `update.py
-admissions` takes. Fetching per group rather than per program is what keeps
-  it from being 15,000. The IB tab is free: unlike the province and country
-  tabs it is rendered server-side, so it comes out of the page HTML.
+  locations, one POST each, which is most of what an `npm run update --
+admissions` run spends its time on. Fetching per group rather than per
+  program is what keeps it from being 15,000. The IB tab is free: unlike the
+  province and country tabs it is rendered server-side, so it comes out of the
+  page HTML.
 - **Half the fee tables have no header row.** The graduate pages never open a
   `<th>`; the first rows are the program name, an instalment count, then the
   real header. `finances` finds it by looking for the row that fills the _value_
@@ -394,37 +395,39 @@ admissions` takes. Fetching per group rather than per program is what keeps
 
 ## Adding a source
 
-Drop a module in `collectors/` with a registered `Collector` subclass, and add
-it to the imports in `collectors/__init__.py`:
+Drop a module in `src/collectors/` with a `register()`ed collector object, and
+add it to the imports in `src/collectors/index.ts`:
 
-```python
-from .base import Collector, Http, Output, register, wp_collection
+```ts
+import { register, type Http, type Output } from "../base.ts";
 
-@register
-class Housing(Collector):
-    name = "housing"           # CLI name: python update.py housing
-    folder = "housing"         # output dir: data/housing/
-    title = "Student housing"
-    description = "Residences, room types and rates."
-    sources = ("https://vancouver.housing.ubc.ca",)
+register(
+  class {
+    name = "housing"; // CLI name: npm run update -- housing
+    folder = "housing"; // output dir: data/housing/
+    title = "Student housing";
+    description = "Residences, room types and rates.";
+    sources = ["https://vancouver.housing.ubc.ca"];
 
-    def collect(self, http: Http, out: Output) -> None:
-        residences = wp_collection(http, "vancouver.housing.ubc.ca", "wp/v2/pages")
-        out.describe(
-            "residences",
-            grain="one residence",
-            columns={"capacity": "beds", "room_types": "what you can book"},
-            joins=["building -> geospatial/ubcv/locations building name"],
-        )
-        out.table("residences", residences)
+    async collect(http: Http, out: Output): Promise<void> {
+      const residences = await http.getJson("https://vancouver.housing.ubc.ca/…");
+      out.describe("residences", {
+        grain: "one residence",
+        columns: { capacity: "beds", room_types: "what you can book" },
+        joins: ["building -> geospatial/ubcv/locations building name"],
+      });
+      await out.table("residences", Array.isArray(residences) ? residences : []);
+    }
+  },
+);
 ```
 
-`collectors/base.py` already provides the pieces you'll want: `Http` (retries,
-backoff, throttling, threaded `map`), `jsonapi_collection` and `jsonapi_index`
-for Drupal sites, `wp_collection` for WordPress sites, `js_literal` for the
-sites that inline their dataset into a `var` on the page, and `Output.table` /
-`.json` / `.csv` / `.raw` for writing. Anything written through `Output` shows
-up in the manifest automatically.
+`src/base.ts` already provides the pieces you'll want: `Http` (retries,
+backoff, throttling, a bounded `map` pool), `jsonapiCollection` and
+`jsonapiIndex` for Drupal sites, `wpCollection` for WordPress sites,
+`jsLiteral` for the sites that inline their dataset into a `var` on the page,
+and `Output.table` / `.json` / `.csv` / `.raw` for writing. Anything written
+through `Output` shows up in the manifest automatically.
 
 `out.describe(...)` is optional but worth doing: it is what puts a table in
 `catalog.json` with a grain and its joins, and a foreign key nobody wrote down
