@@ -1,6 +1,5 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
+node_modules/
+dist/
+coverage/
 .env
 .DS_Store
