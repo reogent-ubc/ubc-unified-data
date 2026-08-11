@@ -36,8 +36,8 @@ export const RESOURCES: Record<string, string> = {
 };
 
 // "(Okanagan)", "UBC-O", "UBCO", and the "_O" in a code like "STAT_O 205".
-const OKANAGAN_RE = /\(Okanagan\)|UBC[-_ ]?O\b|_O(?=\s|$)/gi;
-const VANCOUVER_RE = /\(Vancouver\)|UBC[-_ ]?V\b|_V(?=\s|$)/gi;
+const OKANAGAN_RE = /\(Okanagan\)|UBC[-_ ]?O\b|_O(?=\s|$)/i;
+const VANCOUVER_RE = /\(Vancouver\)|UBC[-_ ]?V\b|_V(?=\s|$)/i;
 
 export function campusOf(...values: unknown[]): string | null {
   for (const value of values) {

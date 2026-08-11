@@ -48,7 +48,7 @@ export const MONEY_RE = /\$\s*([\d,]+(?:\.\d{1,2})?)/;
 
 // "commenced in 2023S or 2023W" on a column header, and the bare "2025S or
 // 2025W" the graduate tables use as an in-table divider instead.
-export const COHORT_RE = /commenc\w*\s+in\s+(\d{4})|\b(\d{4})[SW]\b/gi;
+export const COHORT_RE = /commenc\w*\s+in\s+(\d{4})|\b(\d{4})[SW]\b/i;
 
 // A footnote marker opening a cell: "1 Offered by the Faculty of Pharmacy".
 // Distinguishable from a cohort divider, which runs digits into a letter.
@@ -61,16 +61,16 @@ export const DIVIDER_LIMIT = 80;
 // What a figure is charged against. Checked in order, so "per credit" wins over
 // a bare "credit" appearing elsewhere in a long header.
 export const UNITS: ReadonlyArray<[string, RegExp]> = [
-  ["per_credit", /per[- ]credit/gi],
+  ["per_credit", /per[- ]credit/i],
   // "Instalments per year: 3" says how a year is split, not what is charged
   // annually, so it must not read as a per-year rate.
-  ["per_year", /(?<!instalments?\s)per\s+(year|annum)|annually|per\s+session/gi],
-  ["per_term", /per\s+term/gi],
-  ["per_month", /per\s+month|monthly/gi],
+  ["per_year", /(?<!instalments?\s)per\s+(year|annum)|annually|per\s+session/i],
+  ["per_term", /per\s+term/i],
+  ["per_month", /per\s+month|monthly/i],
   // Graduate tables often name the unit nowhere but the row label ("Instalment
   // 1") or the preamble ("Instalments per year: 3"), so this one is loose. It
   // is checked last, and only against a text no earlier pattern matched.
-  ["per_instalment", /inst[ai]lment/gi],
+  ["per_instalment", /inst[ai]lment/i],
 ];
 
 // Which page a rate came off, which is the only place its level is recorded.
@@ -284,6 +284,8 @@ export const TRAILING_MARKER_RE = /(?<=[a-z)])\d{1,2}$/;
 export function name(row: AnyJson): [string, string | null] {
   /** The program a tuition row is about, and the year band it applies to. */
   const rawName = row["table_label"] || row["context"]?.[0] || row["item"] || "";
+  // reset so a previous call's match doesn't move lastIndex past this one
+  YEARS_RE.lastIndex = 0;
   const match = YEARS_RE.exec(String(rawName ?? ""));
   const program = String(rawName ?? "")
     .replace(YEARS_RE, "")

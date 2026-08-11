@@ -50,7 +50,7 @@ export const DEFAULT_CONFIGS = [
 export const MAX_PAGES = 500;
 
 // "2nd Floor Lounge", "B Block 3rd Floor Lounge" -- the floor written out.
-const ORDINAL_FLOOR_RE = /(\d+)\s*(?:st|nd|rd|th)\s*floor/gi;
+const ORDINAL_FLOOR_RE = /(\d+)\s*(?:st|nd|rd|th)\s*floor/i;
 
 // A room number in UBC's usual scheme: an optional block or wing letter, three
 // or four digits whose first is the floor, an optional suffix. "B101" is Block
