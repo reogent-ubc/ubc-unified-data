@@ -26,8 +26,8 @@
   {
     "site": "pair",
     "endpoint": "https://pair.ubc.ca/wp-json/wp/v2/pages",
-    "records": 54,
-    "pages_refetched_as_html": 54,
+    "records": 51,
+    "pages_refetched_as_html": 51,
     "documents_recovered_from_html": 95,
     "skipped": null
   },

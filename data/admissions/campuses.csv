@@ -1,2 +1,2 @@
-term_id,name,slug,term_group,term_taxonomy_id,taxonomy,description,parent,count,filter,term_order
-9,Vancouver,vancouver,0,9,campuses,,0,211,raw,0
+term_id,name,slug,taxonomy
+1710814996,Vancouver,vancouver,campuses

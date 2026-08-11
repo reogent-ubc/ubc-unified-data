@@ -64,8 +64,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "52a26837-8d85-4c6f-b1d1-7b2a06d498fd"
+      "tax_subject_department": "52a26837-8d85-4c6f-b1d1-7b2a06d498fd",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -134,8 +134,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "0374cad3-5211-4f4f-b4a2-d3942fd39708"
+      "tax_subject_department": "0374cad3-5211-4f4f-b4a2-d3942fd39708",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -158,8 +158,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -182,8 +182,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "edfa7667-8512-4b91-9909-2059020d8dd5"
+      "tax_subject_department": "edfa7667-8512-4b91-9909-2059020d8dd5",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -206,8 +206,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "9e6f92bc-a544-4e50-9b5e-50a1538c5476"
+      "tax_subject_department": "9e6f92bc-a544-4e50-9b5e-50a1538c5476",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -322,8 +322,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -346,8 +346,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -394,8 +394,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "9e6f92bc-a544-4e50-9b5e-50a1538c5476"
+      "tax_subject_department": "9e6f92bc-a544-4e50-9b5e-50a1538c5476",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -511,8 +511,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -558,8 +558,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -582,8 +582,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "62c7078b-0831-4989-92f3-921bb872a4bd"
+      "tax_subject_department": "62c7078b-0831-4989-92f3-921bb872a4bd",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -606,8 +606,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -630,8 +630,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "dd485519-64c5-4d71-bfba-63f2c456fb30"
+      "tax_subject_department": "dd485519-64c5-4d71-bfba-63f2c456fb30",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -677,8 +677,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "a4c45621-d952-41f8-89ec-d0c09f234c50"
+      "tax_subject_department": "a4c45621-d952-41f8-89ec-d0c09f234c50",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -1070,8 +1070,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "acbc15c2-a447-403f-b597-f5432e12671f"
+      "tax_subject_department": "acbc15c2-a447-403f-b597-f5432e12671f",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -1117,8 +1117,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "fed49fd5-b6bd-4b2c-9a4e-595635426f3a"
+      "tax_subject_department": "fed49fd5-b6bd-4b2c-9a4e-595635426f3a",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -1141,8 +1141,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "2b4e479a-f253-41c1-ab4c-30c86d9c1824"
+      "tax_subject_department": "2b4e479a-f253-41c1-ab4c-30c86d9c1824",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -1189,8 +1189,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "fed49fd5-b6bd-4b2c-9a4e-595635426f3a"
+      "tax_subject_department": "fed49fd5-b6bd-4b2c-9a4e-595635426f3a",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -1259,8 +1259,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "edfa7667-8512-4b91-9909-2059020d8dd5"
+      "tax_subject_department": "edfa7667-8512-4b91-9909-2059020d8dd5",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -1352,8 +1352,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a"
+      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -1399,8 +1399,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1423,8 +1423,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a"
+      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -1447,8 +1447,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "0d647702-f722-49ac-a782-de418dc12109"
+      "tax_subject_department": "0d647702-f722-49ac-a782-de418dc12109",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -1495,8 +1495,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1519,8 +1519,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0"
+      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1543,8 +1543,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "c99a31cb-d8d8-45f4-8c8f-75b7baff5164"
+      "tax_subject_department": "c99a31cb-d8d8-45f4-8c8f-75b7baff5164",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -1567,8 +1567,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1591,8 +1591,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0"
+      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1615,8 +1615,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac"
+      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -1639,8 +1639,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1732,8 +1732,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "62c7078b-0831-4989-92f3-921bb872a4bd"
+      "tax_subject_department": "62c7078b-0831-4989-92f3-921bb872a4bd",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1848,8 +1848,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "0374cad3-5211-4f4f-b4a2-d3942fd39708"
+      "tax_subject_department": "0374cad3-5211-4f4f-b4a2-d3942fd39708",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -1941,8 +1941,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3"
+      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -1965,8 +1965,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -2152,8 +2152,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac"
+      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -2176,8 +2176,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "217ed772-1a93-47ce-9958-be9853afd826"
+      "tax_subject_department": "217ed772-1a93-47ce-9958-be9853afd826",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -2200,8 +2200,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "52a26837-8d85-4c6f-b1d1-7b2a06d498fd"
+      "tax_subject_department": "52a26837-8d85-4c6f-b1d1-7b2a06d498fd",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -2339,8 +2339,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "dd485519-64c5-4d71-bfba-63f2c456fb30"
+      "tax_subject_department": "dd485519-64c5-4d71-bfba-63f2c456fb30",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -2409,8 +2409,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a"
+      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -2433,8 +2433,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "c99a31cb-d8d8-45f4-8c8f-75b7baff5164"
+      "tax_subject_department": "c99a31cb-d8d8-45f4-8c8f-75b7baff5164",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -2457,8 +2457,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "a4c45621-d952-41f8-89ec-d0c09f234c50"
+      "tax_subject_department": "a4c45621-d952-41f8-89ec-d0c09f234c50",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -2481,8 +2481,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "a4c45621-d952-41f8-89ec-d0c09f234c50"
+      "tax_subject_department": "a4c45621-d952-41f8-89ec-d0c09f234c50",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -2505,8 +2505,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac"
+      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -2619,8 +2619,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0"
+      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -2666,8 +2666,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "766c2c4d-9b51-4625-ac22-2f5d495ce1d7"
+      "tax_subject_department": "766c2c4d-9b51-4625-ac22-2f5d495ce1d7",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -2690,8 +2690,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "d2c577c0-70ba-4b5b-88f1-26c814d28464"
+      "tax_subject_department": "d2c577c0-70ba-4b5b-88f1-26c814d28464",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -2875,8 +2875,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3"
+      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -2922,8 +2922,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "acbc15c2-a447-403f-b597-f5432e12671f"
+      "tax_subject_department": "acbc15c2-a447-403f-b597-f5432e12671f",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -2969,8 +2969,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a"
+      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -2993,8 +2993,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a"
+      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3017,8 +3017,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3064,8 +3064,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3088,8 +3088,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3181,8 +3181,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3251,8 +3251,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3275,8 +3275,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "313e4bac-b1c3-45b0-94d6-93d91b694ba3"
+      "tax_subject_department": "313e4bac-b1c3-45b0-94d6-93d91b694ba3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3438,8 +3438,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3578,8 +3578,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3"
+      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3602,8 +3602,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a"
+      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -3626,8 +3626,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3721,8 +3721,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3839,8 +3839,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3909,8 +3909,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "3d96779b-a845-4dea-91f5-9e720e7dc228"
+      "tax_subject_department": "3d96779b-a845-4dea-91f5-9e720e7dc228",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -3957,8 +3957,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "62c7078b-0831-4989-92f3-921bb872a4bd"
+      "tax_subject_department": "62c7078b-0831-4989-92f3-921bb872a4bd",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -3981,8 +3981,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "3d96779b-a845-4dea-91f5-9e720e7dc228"
+      "tax_subject_department": "3d96779b-a845-4dea-91f5-9e720e7dc228",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -4028,8 +4028,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "3ac2062b-43d5-480c-b6fa-640f28d8e775"
+      "tax_subject_department": "3ac2062b-43d5-480c-b6fa-640f28d8e775",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -4052,8 +4052,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "babae5f6-47aa-47ad-83fe-8cbb2961fed6"
+      "tax_subject_department": "babae5f6-47aa-47ad-83fe-8cbb2961fed6",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -4122,8 +4122,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "d4419173-95c0-4aad-96bb-a92a116613c0"
+      "tax_subject_department": "d4419173-95c0-4aad-96bb-a92a116613c0",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -4169,8 +4169,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "736c59fa-c743-4e5e-9041-73f0edb361f1"
+      "tax_subject_department": "736c59fa-c743-4e5e-9041-73f0edb361f1",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4193,8 +4193,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "c3b4942c-6004-43a0-96c3-b118af9d464b"
+      "tax_subject_department": "c3b4942c-6004-43a0-96c3-b118af9d464b",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4263,8 +4263,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "2b4e479a-f253-41c1-ab4c-30c86d9c1824"
+      "tax_subject_department": "2b4e479a-f253-41c1-ab4c-30c86d9c1824",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -4287,8 +4287,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "766c2c4d-9b51-4625-ac22-2f5d495ce1d7"
+      "tax_subject_department": "766c2c4d-9b51-4625-ac22-2f5d495ce1d7",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4311,8 +4311,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "2a457a38-189f-44aa-b1b7-34b06eec3518"
+      "tax_subject_department": "2a457a38-189f-44aa-b1b7-34b06eec3518",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -4335,8 +4335,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "fed49fd5-b6bd-4b2c-9a4e-595635426f3a"
+      "tax_subject_department": "fed49fd5-b6bd-4b2c-9a4e-595635426f3a",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -4359,8 +4359,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "3ac2062b-43d5-480c-b6fa-640f28d8e775"
+      "tax_subject_department": "3ac2062b-43d5-480c-b6fa-640f28d8e775",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -4407,8 +4407,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "d4419173-95c0-4aad-96bb-a92a116613c0"
+      "tax_subject_department": "d4419173-95c0-4aad-96bb-a92a116613c0",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -4431,8 +4431,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -4455,8 +4455,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -4479,8 +4479,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "f769c494-b78a-4727-9d1a-dbe49e2dc2e1"
+      "tax_subject_department": "f769c494-b78a-4727-9d1a-dbe49e2dc2e1",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4503,8 +4503,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -4643,8 +4643,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "660f8441-61b8-435b-9487-6419cfaffdc5"
+      "tax_subject_department": "660f8441-61b8-435b-9487-6419cfaffdc5",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4713,8 +4713,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "84cb04b7-01c4-4e83-9f67-6242bb40a841"
+      "tax_subject_department": "84cb04b7-01c4-4e83-9f67-6242bb40a841",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4737,8 +4737,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "b4f9d0fd-4cec-4d19-bf88-a6e61c608691"
+      "tax_subject_department": "b4f9d0fd-4cec-4d19-bf88-a6e61c608691",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4761,8 +4761,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "7da639c6-b78e-466e-9b5a-a719d4cc9829"
+      "tax_subject_department": "7da639c6-b78e-466e-9b5a-a719d4cc9829",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4808,8 +4808,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -4855,8 +4855,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "fbe33c13-3168-4eb0-98e8-d1b9ceb92372"
+      "tax_subject_department": "fbe33c13-3168-4eb0-98e8-d1b9ceb92372",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -4902,8 +4902,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "954cfc80-0e38-4017-b8ae-1ceb36de1334"
+      "tax_subject_department": "954cfc80-0e38-4017-b8ae-1ceb36de1334",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -4949,8 +4949,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "dd485519-64c5-4d71-bfba-63f2c456fb30"
+      "tax_subject_department": "dd485519-64c5-4d71-bfba-63f2c456fb30",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -5020,8 +5020,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "fe0f198a-6269-497d-ad43-39821fbbee49"
+      "tax_subject_department": "fe0f198a-6269-497d-ad43-39821fbbee49",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5044,8 +5044,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5068,8 +5068,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3"
+      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5115,8 +5115,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b17acec9-299b-4118-9d5b-91aaa5d24685"
+      "tax_subject_department": "b17acec9-299b-4118-9d5b-91aaa5d24685",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5139,8 +5139,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "9b1a9b28-ee1c-421e-94ec-388abdc67ba7"
+      "tax_subject_department": "9b1a9b28-ee1c-421e-94ec-388abdc67ba7",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -5163,8 +5163,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5187,8 +5187,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "65ac76ff-4067-46d1-8cbb-febfd809c1e8"
+      "tax_subject_department": "65ac76ff-4067-46d1-8cbb-febfd809c1e8",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -5211,8 +5211,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "65ac76ff-4067-46d1-8cbb-febfd809c1e8"
+      "tax_subject_department": "65ac76ff-4067-46d1-8cbb-febfd809c1e8",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -5235,8 +5235,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af"
+      "tax_subject_department": "0e4ecd36-a7b7-4a43-8240-9c9d3db9a6af",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5305,8 +5305,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "954cfc80-0e38-4017-b8ae-1ceb36de1334"
+      "tax_subject_department": "954cfc80-0e38-4017-b8ae-1ceb36de1334",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -5329,8 +5329,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3"
+      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5353,8 +5353,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5377,8 +5377,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5424,8 +5424,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5471,8 +5471,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5495,8 +5495,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5519,8 +5519,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "d2c577c0-70ba-4b5b-88f1-26c814d28464"
+      "tax_subject_department": "d2c577c0-70ba-4b5b-88f1-26c814d28464",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5590,8 +5590,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3"
+      "tax_subject_department": "615e0492-c8bb-4735-8ed9-35084891c3a3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5614,8 +5614,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a"
+      "tax_subject_department": "3c4db8b7-d4f0-4fa9-898b-24de2d1a230a",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -5684,8 +5684,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "b61d852b-6172-4ab2-accc-851f77794521"
+      "tax_subject_department": "b61d852b-6172-4ab2-accc-851f77794521",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   },
@@ -5731,8 +5731,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "f769c494-b78a-4727-9d1a-dbe49e2dc2e1"
+      "tax_subject_department": "f769c494-b78a-4727-9d1a-dbe49e2dc2e1",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -5778,8 +5778,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5802,8 +5802,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0"
+      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5826,8 +5826,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0"
+      "tax_subject_department": "80a90472-99b6-486e-b0e3-a3dcbd11c9d0",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5850,8 +5850,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3"
+      "tax_subject_department": "5063bb75-645d-49bc-9980-bb7d965a08c3",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5921,8 +5921,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5968,8 +5968,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a"
+      "tax_subject_department": "572bd533-e067-48c1-88a7-9ea0a43fa59a",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -5992,8 +5992,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360",
-      "tax_subject_department": "c99a31cb-d8d8-45f4-8c8f-75b7baff5164"
+      "tax_subject_department": "c99a31cb-d8d8-45f4-8c8f-75b7baff5164",
+      "tax_subject_faculty": "f043bf26-d100-4949-ba3a-df16e840d360"
     },
     "campus": "vancouver"
   },
@@ -6062,8 +6062,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b",
-      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac"
+      "tax_subject_department": "6d43a484-df1f-4cda-8893-fa4a843d37ac",
+      "tax_subject_faculty": "5fae0f56-ca01-4421-8585-025fad93281b"
     },
     "campus": "vancouver"
   },
@@ -6086,8 +6086,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b",
-      "tax_subject_department": "660f8441-61b8-435b-9487-6419cfaffdc5"
+      "tax_subject_department": "660f8441-61b8-435b-9487-6419cfaffdc5",
+      "tax_subject_faculty": "7c94d4fb-7583-4e3f-892e-b9c7981bd17b"
     },
     "campus": "vancouver"
   },
@@ -6179,8 +6179,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02",
-      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314"
+      "tax_subject_department": "b60a1670-7f02-469f-9532-0d13f242d314",
+      "tax_subject_faculty": "657dfd0b-ce4a-4438-9150-b30661341d02"
     },
     "campus": "vancouver"
   },
@@ -6203,8 +6203,8 @@
       "parent": [
         "virtual"
       ],
-      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534",
-      "tax_subject_department": "702dfd84-3369-4d33-bbd1-a9cbb148e67f"
+      "tax_subject_department": "702dfd84-3369-4d33-bbd1-a9cbb148e67f",
+      "tax_subject_faculty": "a35009de-d9d7-448d-90d4-9993f541a534"
     },
     "campus": "vancouver"
   }

@@ -324,6 +324,72 @@
   {
     "campus": "vancouver",
     "level": null,
+    "page": "Medical Insurance",
+    "url": "https://vancouver.calendar.ubc.ca/fees/medical-insurance",
+    "section": "Extended Health and Dental Plan",
+    "context": [],
+    "table_label": null,
+    "kind": "divider",
+    "note": "AMS Extended Health and Dental Plan"
+  },
+  {
+    "campus": "vancouver",
+    "level": null,
+    "page": "Medical Insurance",
+    "url": "https://vancouver.calendar.ubc.ca/fees/medical-insurance",
+    "section": "Coverage Start Date:",
+    "context": [],
+    "table_label": null,
+    "kind": "note",
+    "note": "August 10, 2026 September 21, 2026"
+  },
+  {
+    "campus": "vancouver",
+    "level": null,
+    "page": "Medical Insurance",
+    "url": "https://vancouver.calendar.ubc.ca/fees/medical-insurance",
+    "section": "Coverage Start Date:",
+    "context": [],
+    "table_label": null,
+    "kind": "note",
+    "note": "December 10, 2026 January 18, 2027"
+  },
+  {
+    "campus": "vancouver",
+    "level": null,
+    "page": "Medical Insurance",
+    "url": "https://vancouver.calendar.ubc.ca/fees/medical-insurance",
+    "section": "Coverage Start Date:",
+    "context": [],
+    "table_label": null,
+    "kind": "note",
+    "note": "April 10, 2027 May 14, 2027"
+  },
+  {
+    "campus": "vancouver",
+    "level": null,
+    "page": "Medical Insurance",
+    "url": "https://vancouver.calendar.ubc.ca/fees/medical-insurance",
+    "section": "Coverage Start Date:",
+    "context": [],
+    "table_label": null,
+    "kind": "note",
+    "note": "June 10, 2027 July 9, 2027"
+  },
+  {
+    "campus": "vancouver",
+    "level": null,
+    "page": "Medical Insurance",
+    "url": "https://vancouver.calendar.ubc.ca/fees/medical-insurance",
+    "section": "Coverage Start Date:",
+    "context": [],
+    "table_label": null,
+    "kind": "note",
+    "note": "If you are a Go Global or VIRS student, please use the corresponding tab on the www.guard.me/ubc site to complete the form 3 weeks before your arrival."
+  },
+  {
+    "campus": "vancouver",
+    "level": null,
     "page": "Policies on Fees",
     "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
     "section": "Payment Due Dates",
@@ -5059,12 +5125,52 @@
     "page": "Undergraduate",
     "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
     "section": "Specialized Undergraduate",
-    "context": [
-      "Doctor of Pharmacy Flexible Program",
-      "Instalments per year: 3",
-      "Minimum # of instalments for program: 6"
-    ],
-    "table_label": "Doctor of Pharmacy Flexible Program",
+    "context": [],
+    "table_label": null,
+    "kind": "divider",
+    "note": "Doctor of Pharmacy Flexible Program"
+  },
+  {
+    "campus": "vancouver",
+    "level": "undergraduate",
+    "page": "Undergraduate",
+    "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+    "section": "Specialized Undergraduate",
+    "context": [],
+    "table_label": null,
+    "kind": "divider",
+    "note": "Instalments per year: 3"
+  },
+  {
+    "campus": "vancouver",
+    "level": "undergraduate",
+    "page": "Undergraduate",
+    "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+    "section": "Specialized Undergraduate",
+    "context": [],
+    "table_label": null,
+    "kind": "divider",
+    "note": "Minimum # of instalments for program: 6"
+  },
+  {
+    "campus": "vancouver",
+    "level": "undergraduate",
+    "page": "Undergraduate",
+    "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+    "section": "Specialized Undergraduate",
+    "context": [],
+    "table_label": null,
+    "kind": "note",
+    "note": "Domestic fee per instalment Domestic program fee"
+  },
+  {
+    "campus": "vancouver",
+    "level": "undergraduate",
+    "page": "Undergraduate",
+    "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+    "section": "Specialized Undergraduate",
+    "context": [],
+    "table_label": null,
     "kind": "divider",
     "note": "Program entry year"
   },
