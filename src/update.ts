@@ -106,11 +106,11 @@ function buildCatalog(manifest: Manifest): Record<string, unknown> {
   };
 }
 
-function humanBytes(size: number): string {
+export function humanBytes(size: number): string {
   let value = size;
   for (const unit of ["B", "KB", "MB", "GB"]) {
     if (value < 1024 || unit === "GB") {
-      return unit === "B" ? `${value}B` : `${(value / 1024).toFixed(1)}${unit}`;
+      return unit === "B" ? `${value}B` : `${value.toFixed(1)}${unit}`;
     }
     value /= 1024;
   }
