@@ -47,8 +47,10 @@ function medianOf(rows: string[][], index: number): number | null {
   const values: number[] = [];
   for (const row of rows) {
     if (index < row.length) {
-      const value = Number(row[index]);
-      if (!Number.isNaN(value)) values.push(value);
+      const raw = row[index];
+      // Number("") is 0; a blank cell is no coordinate, matching float("").
+      const value = Number(raw);
+      if (raw !== undefined && raw.trim() !== "" && !Number.isNaN(value)) values.push(value);
     }
   }
   if (values.length === 0) return null;
