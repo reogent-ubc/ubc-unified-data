@@ -91,9 +91,6 @@ export function splitCSVLine(line: string): string[] {
   return fields;
 }
 
-/** One row per UBCV section: the CSV row plus a histogram of the bucket
- * columns. OVERALL rows are rollups and `Detail` rows are cross-lists, so
- * they do not become rows. */
 /** One parsed grade row: the flat CSV record plus the histogram. */
 export interface GradeRow extends Record<string, unknown> {
   subject: string;
@@ -130,6 +127,7 @@ export function gradeRow(row: Record<string, string>): GradeRow | null {
     professor: row["Professor"] ?? "",
     enrolled: toInt(row["Reported"]),
     avg: toFloat(row["Avg"]),
+    // Upstream dropped the population standard deviation; always null.
     std_dev: null,
     median: toFloat(row["Median"]) ?? null,
     percentile_25: toFloat(row["Percentile (25)"]) ?? null,
