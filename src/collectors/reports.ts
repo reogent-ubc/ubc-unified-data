@@ -157,13 +157,12 @@ export const Reports = register(
         counts[String(row["url"])] = (counts[String(row["url"])] ?? 0) + 1;
       }
       const unique: Array<Record<string, unknown>> = [];
-      const seenUrls = new Set<string>();
+      const byUrl = new Map<string, Record<string, unknown>>();
       for (const row of allDocuments) {
-        const url = String(row["url"]);
-        if (seenUrls.has(url)) continue;
-        seenUrls.add(url);
-        unique.push(row);
+        // last page linking a URL wins, like the Python dict it replaces
+        byUrl.set(String(row["url"]), row);
       }
+      unique.push(...byUrl.values());
       for (const row of unique) {
         row["linked_from_pages"] = counts[String(row["url"])];
       }
