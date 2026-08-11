@@ -138,8 +138,7 @@ export function resources(page: string): Array<AnyJson> {
     if (body) {
       try {
         found.push(jsObject(body));
-      } catch {
-      }
+      } catch {}
     }
   }
   return found;

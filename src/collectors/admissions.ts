@@ -186,8 +186,7 @@ export const Admissions = register(
         try {
           const rows = asRows(jsLiteral(html, name));
           if (rows.length > 0 && datasets[name] === undefined) datasets[name] = rows;
-        } catch {
-        }
+        } catch {}
       }
 
       if (datasets["programs"] === undefined) {
