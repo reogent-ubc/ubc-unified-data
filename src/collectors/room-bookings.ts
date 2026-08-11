@@ -124,7 +124,7 @@ export function balanced(text: string, start: number): string | null {
  * calls rather than one assignable literal. */
 export function jsObject(body: string): AnyJson {
   body = body.replace(/^(\s*)(\w+)(\s*):/gm, (_m, a, b) => `${a}"${b}":`);
-  body = body.replace(/,(\s*[\}\]])/g, "$1");
+  body = body.replace(/,(\s*[}\]])/g, "$1");
   return JSON.parse(body);
 }
 
@@ -139,7 +139,6 @@ export function resources(page: string): Array<AnyJson> {
       try {
         found.push(jsObject(body));
       } catch {
-        continue;
       }
     }
   }

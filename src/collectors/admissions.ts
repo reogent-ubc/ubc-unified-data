@@ -21,7 +21,7 @@ import { collect as collectAdmissionreqs, ENDPOINT as REQS_ENDPOINT } from "./ad
 export const HOST = "you.ubc.ca";
 export const PROGRAMS_URL = `https://${HOST}/programs/`;
 
-export const VAR_RE = /\bvar\s+([A-Za-z_$][\w$]*)\s*=\s*[\[{]/g;
+export const VAR_RE = /\bvar\s+([A-Za-z_$][\w$]*)\s*=\s*[[{]/g;
 
 // Front-end plumbing that happens to be declared the same way as the data.
 export const IGNORE_VARS = /(Loc|Settings|Bundle|Vars|Strings)$|recaptcha|ajax|dataLayer|analytics|shim|nonce/i;
@@ -187,7 +187,6 @@ export const Admissions = register(
           const rows = asRows(jsLiteral(html, name));
           if (rows.length > 0 && datasets[name] === undefined) datasets[name] = rows;
         } catch {
-          continue;
         }
       }
 

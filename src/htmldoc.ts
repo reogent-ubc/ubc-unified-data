@@ -364,7 +364,7 @@ class Reader {
     const isHeader = this.rowIsHeader;
     this.row = null;
     this.rowIsHeader = false;
-    if (!row || !row.some(Boolean) || this.tables.length === 0) return;
+    if (!row?.some(Boolean) || this.tables.length === 0) return;
     const table = this.tables[this.tables.length - 1]!;
     // A leading all-<th> row is the header, whether or not it sits in a
     // <thead>; anything after the first row is data even if it uses <th>.

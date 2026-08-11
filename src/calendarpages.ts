@@ -14,7 +14,6 @@
  */
 
 import { plainText } from "./coursetext.ts";
-import type { Block } from "./htmldoc.ts";
 import { blocks, headings } from "./htmldoc.ts";
 
 export const FACULTIES_SECTION = "faculties-colleges-and-schools";
@@ -204,7 +203,7 @@ export function enrich(
 
     const ancestors = [];
     for (let n = 1; n < segments.length; n++) {
-      const candidate = "/" + segments.slice(0, n).join("/");
+      const candidate = `/${segments.slice(0, n).join("/")}`;
       if (candidate in byAlias) ancestors.push(byAlias[candidate]!);
     }
 
@@ -320,7 +319,7 @@ function day(digits: string): number | null {
 
 /** Parse a date or date range out of one cell. Returns (start, end). */
 function parseDateCell(cell: string, fallbackYear: number | null): [string, string] | null {
-  let text = cell.replace(SUPERSCRIPTS, "").trim();
+  const text = cell.replace(SUPERSCRIPTS, "").trim();
   let match = DATE_RE.exec(text);
   if (match === null && fallbackYear !== null) {
     // Cells often omit the year because the column header carries it.

@@ -255,9 +255,9 @@ export async function collect(
       note: null,
     };
 
-    const pageSettings = (page ?? {})["settings"] as AnyJson | undefined;
+    const pageSettings = page?.["settings"] as AnyJson | undefined;
     if (!pageSettings) {
-      row["note"] = (page ?? {})["error"] ?? "no requirements widget on the program page";
+      row["note"] = page?.["error"] ?? "no requirements widget on the program page";
       programRows.push(row);
       continue;
     }
@@ -294,7 +294,7 @@ export async function collect(
     group["program_count"] += 1;
 
     for (const [taxonomy, terms] of Object.entries(
-      ((page ?? {})["locations"] as Record<string, Array<AnyJson>> | undefined) ?? {},
+      (page?.["locations"] as Record<string, Array<AnyJson>> | undefined) ?? {},
     )) {
       for (const term of terms) {
         const locationKey = `${taxonomy}|${term["term_id"]}`;
@@ -304,7 +304,7 @@ export async function collect(
       }
     }
 
-    if ((page ?? {})["ib"] && !ibPayloads.has(groupKey)) {
+    if (page?.["ib"] && !ibPayloads.has(groupKey)) {
       ibPayloads.set(groupKey, (page as AnyJson)["ib"]);
     }
   }
@@ -379,7 +379,7 @@ export async function fetchRows(
 ): Promise<[Array<AnyJson>, Array<AnyJson>]> {
   /** Every (requirement group x location) pair, plus the free IB rows. */
   const jobs: Array<[string, string, AnyJson]> = [];
-  for (const [groupKey, group] of groups) {
+  for (const [groupKey] of groups) {
     const [campus, key] = groupKey.split("|") as [string, string];
     for (const location of locationRows) jobs.push([campus, key, location]);
   }

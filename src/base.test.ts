@@ -359,7 +359,7 @@ describe("jsonapiCollection", () => {
     );
     pages.set("50", [{ id: 50 }]);
     const http = new Http({ minInterval: 0, timeout: 5 });
-    http.responder = (method, fullUrl) => {
+    http.responder = (_method, fullUrl) => {
       const offset = new URL(fullUrl).searchParams.get("page[offset]") ?? "0";
       calls.push(offset);
       const data = pages.get(offset) ?? [];
@@ -377,7 +377,7 @@ describe("jsonapiCollection", () => {
     pages.set(offsetUrl(0), jsonapiPage([{ id: 1 }], {}, { next: { href: `${base}?page=1` } }));
     pages.set(`${base}?page=1`, jsonapiPage([]));
     const http = new Http({ minInterval: 0, timeout: 5 });
-    http.responder = (method, fullUrl) => pages.get(fullUrl) ?? jsonapiPage([]);
+    http.responder = (_method, fullUrl) => pages.get(fullUrl) ?? jsonapiPage([]);
     const result = await jsonapiCollection(http, "example.com", "node/x");
     expect(result).toEqual([{ id: 1 }]);
   });
@@ -398,7 +398,7 @@ describe("wpCollection", () => {
   it("fans out by X-WP-TotalPages", async () => {
     const calls: string[] = [];
     const http = new Http({ minInterval: 0, timeout: 5 });
-    http.responder = (method, fullUrl) => {
+    http.responder = (_method, fullUrl) => {
       const page = new URL(fullUrl).searchParams.get("page") ?? "1";
       calls.push(page);
       if (page === "1") return respond(200, '[{"id": 1}]', { "X-WP-TotalPages": "2" });
