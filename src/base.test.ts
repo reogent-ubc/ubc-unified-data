@@ -314,6 +314,18 @@ describe("Http", () => {
     const http = new Http({});
     expect(await http.map(async (x: number) => x, [])).toEqual([]);
   });
+
+  it("map reports progress as items complete", async () => {
+    const http = new Http({});
+    const seen: Array<[number, number]> = [];
+    http.onProgress = (done, total) => seen.push([done, total]);
+    await http.map(async (x: number) => x, [1, 2, 3], 2);
+    expect(seen).toEqual([
+      [1, 3],
+      [2, 3],
+      [3, 3],
+    ]);
+  });
 });
 
 describe("jsonapiCollection", () => {

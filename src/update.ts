@@ -135,6 +135,38 @@ interface CliOptions {
   minInterval: number;
 }
 
+/* Progress state: the tuple `map()` reports plus which group is running, so
+ * the ticker can draw one line that keeps moving. */
+let progressDone = 0;
+let progressTotal = 0;
+let progressLabel = "";
+let progressDirty = false;
+let progressStarted = 0;
+
+/** Redraw the current group's progress on one line, no newline. `\r`-based so
+ * a dumb terminal still overwrites; the trailing spaces wipe a shorter bar. */
+function drawProgress(): void {
+  if (!progressDirty) {
+    // Nothing to measure yet (e.g. parsing HTML, writing files): show the
+    // elapsed time so the line still breathes.
+    const secs = Math.floor((Date.now() - progressStarted) / 1000);
+    process.stdout.write(`\r  [${progressLabel}] ... ${secs}s\x1b[K`);
+    return;
+  }
+  const secs = Math.floor((Date.now() - progressStarted) / 1000);
+  const pct = progressTotal > 0 ? Math.min(100, Math.round((progressDone / progressTotal) * 100)) : 0;
+  const width = 24;
+  const filled = Math.round((width * pct) / 100);
+  const bar = `${"█".repeat(filled)}${"░".repeat(width - filled)}`;
+  const count = progressTotal > 0 ? `${progressDone}/${progressTotal}` : "";
+  process.stdout.write(`\r  [${progressLabel}] ${bar} ${String(pct).padStart(3)}% ${count} ${secs}s\x1b[K`);
+}
+
+/** End the group: wipe the progress line and leave a fresh line beneath it. */
+function clearProgressLine(): void {
+  process.stdout.write("\r\x1b[K");
+}
+
 function parseArgsCLI(argv: string[]): CliOptions {
   const { values, positionals } = parseArgs({
     args: argv,
@@ -191,6 +223,11 @@ async function main(argv: string[]): Promise<number> {
     timeout: options.timeout,
     minInterval: options.minInterval,
     workers: options.workers,
+    onProgress: (done, total) => {
+      progressDone = done;
+      progressTotal = total;
+      progressDirty = true;
+    },
   });
   const manifest = await loadManifest();
   const groups = manifest.groups ?? {};
@@ -205,13 +242,21 @@ async function main(argv: string[]): Promise<number> {
     const out = new Output(collector.folder);
     const started = Date.now();
     console.log(`[${index + 1}/${selected.length}] ${name} -- ${collector.title}`);
+    progressLabel = `${index + 1}/${selected.length} ${name}`;
+    progressStarted = Date.now();
+    progressDone = 0;
+    progressTotal = 0;
+    progressDirty = false;
 
+    const ticker = setInterval(drawProgress, 1000);
     try {
       await collector.collect(http, out);
     } catch (error) {
       failures += 1;
       const elapsed = (Date.now() - started) / 1000;
       const label = error instanceof Error ? `${error.constructor.name}: ${error.message}` : String(error);
+      clearInterval(ticker);
+      clearProgressLine();
       console.error(`    FAILED after ${elapsed.toFixed(1)}s: ${label}\n`);
       if (error instanceof Error && error.stack) console.error(error.stack.split("\n").slice(1, 4).join("\n"));
       groups[name] = {
@@ -223,6 +268,8 @@ async function main(argv: string[]): Promise<number> {
       };
       continue;
     }
+    clearInterval(ticker);
+    clearProgressLine();
 
     const elapsed = (Date.now() - started) / 1000;
     const records = out.datasets.reduce((sum, d) => sum + (d.records ?? 0), 0);

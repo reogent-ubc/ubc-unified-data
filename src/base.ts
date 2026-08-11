@@ -488,6 +488,8 @@ export interface HttpRetryOptions {
   retries?: number;
   minInterval?: number;
   workers?: number;
+  /** Called from `map()` as each item completes. */
+  onProgress?: (done: number, total: number) => void;
 }
 
 export class Http {
@@ -495,6 +497,7 @@ export class Http {
   retries: number;
   minInterval: number;
   workers: number;
+  onProgress?: (done: number, total: number) => void;
 
   /** Replaceable for tests: the closure receives (method, url, body) and must
    * return a ResponseLike or undefined to fall through to real fetch. */
@@ -513,6 +516,7 @@ export class Http {
     this.retries = opts.retries ?? 4;
     this.minInterval = opts.minInterval ?? 0;
     this.workers = Math.max(1, opts.workers ?? 8);
+    this.onProgress = opts.onProgress;
   }
 
   private async _throttle(): Promise<void> {
@@ -639,7 +643,14 @@ export class Http {
       for (;;) {
         const index = next++;
         if (index >= list.length) return;
-        out[index] = await fn(list[index]!);
+        try {
+          out[index] = await fn(list[index]!);
+        } finally {
+          // Report as soon as the slot frees even if the item failed: the
+          // caller waits on the result, seeing less than `done` is the
+          // misleading state, not seeing the failure.
+          this.onProgress?.(index + 1, list.length);
+        }
       }
     };
     await Promise.all(Array.from({ length: limit }, () => worker()));
