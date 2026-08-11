@@ -858,7 +858,7 @@
         {
           "name": "courses",
           "path": "courses/courses",
-          "records": 40848,
+          "records": 39024,
           "json": "courses/courses.json",
           "grain": "one course as offered in one academic year -- NOT one distinct course. Deduplicate on field_course_code for the catalogue",
           "columns": {

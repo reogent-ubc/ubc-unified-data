@@ -1334,14 +1334,14 @@
       "status": "ok",
       "updated_at": "2026-08-11T08:26:50Z",
       "duration_seconds": 1965,
-      "records": 154926,
-      "bytes": 206365266,
+      "records": 151278,
+      "bytes": 200372262,
       "removed_stale": [],
       "datasets": [
         {
           "path": "courses/courses.json",
-          "records": 40848,
-          "bytes": 56833748,
+          "records": 39024,
+          "bytes": 53582995,
           "source": "https://courses.students.ubc.ca/jsonapi/node/course",
           "grain": "one course as offered in one academic year -- NOT one distinct course. Deduplicate on field_course_code for the catalogue",
           "columns": {
@@ -1367,8 +1367,8 @@
         },
         {
           "path": "courses/courses.csv",
-          "records": 40848,
-          "bytes": 45367993,
+          "records": 39024,
+          "bytes": 42625742,
           "source": "https://courses.students.ubc.ca/jsonapi/node/course",
           "grain": "one course as offered in one academic year -- NOT one distinct course. Deduplicate on field_course_code for the catalogue",
           "columns": {
