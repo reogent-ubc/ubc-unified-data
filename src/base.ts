@@ -1,16 +1,13 @@
 /** Shared plumbing for every collector: HTTP, pagination helpers, and disk output.
  *
- * Byte-for-byte stability of the committed `data/` output is the contract, so
- * the writers here reproduce the legacy serialization rules rather than
- * `JSON.stringify`: `json.dumps(ensure_ascii=False)` semantics for JSON and
- * QUOTE_MINIMAL CSV.
+ * Byte-for-byte stability of the committed `data/` output is the contract; the
+ * writers here reproduce those exact bytes rather than `JSON.stringify`.
  *
- * JS cannot express the int/float split the output format preserves: a float
- * writes `1186.0`, an int writes `1186`, and both are plain JS numbers. Values
- * produced through float()/round() are wrapped with `pyFloat()` at the point of
- * creation; the writers render those with a trailing `.0` when integral.
- * Everything else stays a plain number and writes like an int. JS and the
- * legacy runtime both implement IEEE-754 doubles, so arithmetic is identical.
+ * A number that went through a float transformation writes `1186.0`, a plain
+ * integer writes `1186`, and both are plain JS numbers. Wrap such values with
+ * `floatValue()` at the point of creation; the writers render those with a
+ * trailing `.0` when integral. Everything else stays a plain number and writes
+ * like an integer. All arithmetic is IEEE-754 doubles.
  */
 
 import { mkdir, readdir, rm, rmdir, stat, writeFile } from "node:fs/promises";
@@ -24,55 +21,55 @@ export function utcnow(): string {
   return new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
 }
 
-/** Byte-order string comparison: codepoint order, not collation. */
-export function strcmp(a: string, b: string): number {
+/** Byte-order comparison: codepoint order, not collation. */
+export function compareStrings(a: string, b: string): number {
   return a < b ? -1 : a > b ? 1 : 0;
 }
 
-/** `type(error).__name__`, the prefix error messages carry in the manifest. */
-export function pyName(error: unknown): string {
+/** `error.name`, the prefix error messages carry in the manifest. */
+export function errorName(error: unknown): string {
   return error instanceof Error ? error.name : "Exception";
 }
 
-export function pyMessage(error: unknown): string {
+export function errorMessage(error: unknown): string {
   return error instanceof Error ? error.message : String(error);
 }
 
 // Number and string serialization
 
-export interface PyFloat {
-  __pyFloat: true;
+export interface FloatValue {
+  __float: true;
   value: number;
 }
-export function pyFloat(value: number): PyFloat {
-  return { __pyFloat: true, value };
+export function floatValue(value: number): FloatValue {
+  return { __float: true, value };
 }
-export function isPyFloat(value: unknown): value is PyFloat {
-  return typeof value === "object" && value !== null && (value as { __pyFloat?: unknown }).__pyFloat === true;
+export function isFloatValue(value: unknown): value is FloatValue {
+  return typeof value === "object" && value !== null && (value as { __float?: unknown }).__float === true;
 }
 
-/** Both runtimes write a non-integral double as its shortest round trip; the one
- * difference is exponent padding (`1e-07` vs `1e-7`), fixed here. */
-function pyFloatRepr(value: number): string {
+/** A non-integral double writes as its shortest round trip; the one wrinkle
+ * is exponent padding (`1e-07` vs `1e-7`), fixed here. */
+function floatRepr(value: number): string {
   return String(value).replace(/e([+-])(\d)$/, "e$10$2");
 }
 
 /** Float serialization for the magnitudes in this dataset (0.01-70000, two
  * decimals): integral floats keep `.0`, the rest are shortest round trip. */
-function pyFloatToJson(value: number): string {
+function floatToJson(value: number): string {
   if (Number.isNaN(value)) return "NaN";
   if (value === Infinity) return "Infinity";
   if (value === -Infinity) return "-Infinity";
   if (Object.is(value, -0)) return "-0.0";
   if (Number.isInteger(value)) return `${value}.0`;
-  return pyFloatRepr(value);
+  return floatRepr(value);
 }
 
-export function pyNumber(value: number, isFloat = false): string {
-  return isFloat ? pyFloatToJson(value) : Object.is(value, -0) ? "-0" : String(value);
+export function numberToJson(value: number, isFloat = false): string {
+  return isFloat ? floatToJson(value) : Object.is(value, -0) ? "-0" : String(value);
 }
 
-export function pyString(value: string): string {
+export function stringToJson(value: string): string {
   let out = '"';
   for (const char of value) {
     const code = char.codePointAt(0)!;
@@ -108,25 +105,29 @@ export function pyString(value: string): string {
   return `${out}"`;
 }
 
-/** `json.dumps(value, ensure_ascii=False)` semantics: `indent` is 2 for pretty,
- * null for compact. Compact separators default to (",", ":"); indented output
- * keeps the ": " key separator. */
-export function pyJson(value: unknown, indent: number | null = 0, separators: [string, string] = [",", ":"]): string {
+/** Serialize to JSON: `indent` is 2 for pretty, null for compact. Compact
+ * separators default to (",", ":"); indented output keeps the ": " key
+ * separator. Non-ASCII characters stay literal. */
+export function stringifyJson(
+  value: unknown,
+  indent: number | null = 0,
+  separators: [string, string] = [",", ":"],
+): string {
   return serialize(value, indent ?? 0, separators, 0);
 }
 
 /** Serialize a list with one compact item per line, the shape large tables
  *  want: readable and diff-able without the byte bloat of a key per line. */
-export function pyJsonItems(value: unknown[]): string {
+export function stringifyJsonItems(value: unknown[]): string {
   if (value.length === 0) return "[]";
   const body = value.map((item) => serialize(item, 0, [",", ":"], 1));
   return `[\n${body.map((item) => `  ${item}`).join(",\n")}\n]`;
 }
 
 function serialize(value: unknown, indent: number, separators: [string, string], level: number): string {
-  if (isPyFloat(value)) return pyFloatToJson(value.value);
-  if (typeof value === "number") return pyNumber(value);
-  if (typeof value === "string") return pyString(value);
+  if (isFloatValue(value)) return floatToJson(value.value);
+  if (typeof value === "number") return numberToJson(value);
+  if (typeof value === "string") return stringToJson(value);
   if (value === null) return "null";
   if (typeof value === "boolean") return value ? "true" : "false";
 
@@ -148,7 +149,9 @@ function serialize(value: unknown, indent: number, separators: [string, string],
     // Default separators give ": " between keys and values; compact mode
     // overrides both.
     const keySep = indent ? ": " : separators[1];
-    const body = keys.map((key) => `${pyString(key)}${keySep}${serialize(record[key], indent, separators, level + 1)}`);
+    const body = keys.map(
+      (key) => `${stringToJson(key)}${keySep}${serialize(record[key], indent, separators, level + 1)}`,
+    );
     if (indent) {
       const pad = " ".repeat((level + 1) * indent);
       const inner = body.map((item) => `${pad}${item}`).join(",\n");
@@ -160,8 +163,8 @@ function serialize(value: unknown, indent: number, separators: [string, string],
 }
 
 /** Non-primitive values that a CSV cell must carry survive via the same
- * compact JSON rule the output always used. Primitives (and PyFloats, which
- * are primitives for this purpose) pass through unchanged so `cellText`
+ * compact JSON rule the output always used. Primitives (and float values,
+ * which are primitives for this purpose) pass through unchanged so `cellText`
  * formats them. */
 export function csvScalar(value: unknown): unknown {
   if (
@@ -170,29 +173,29 @@ export function csvScalar(value: unknown): unknown {
     typeof value === "string" ||
     typeof value === "number" ||
     typeof value === "boolean" ||
-    isPyFloat(value)
+    isFloatValue(value)
   ) {
     return value;
   }
-  return pyJson(value, 0, [", ", ": "]);
+  return stringifyJson(value, 0, [", ", ": "]);
 }
 
-// CSV: QUOTE_MINIMAL quoting, empty-line terminator, CRLF rows
+// CSV: minimal quoting, empty-line terminator, CRLF rows
 
 function cellText(value: unknown): string {
   if (value === null || value === undefined) return "";
   if (typeof value === "boolean") return value ? "True" : "False";
   if (typeof value === "number") {
-    if (isPyFloat(value)) return pyFloatToJson(value.value);
+    if (isFloatValue(value)) return floatToJson(value.value);
     return Object.is(value, -0) ? "0" : String(value);
   }
-  if (isPyFloat(value)) return pyFloatToJson(value.value);
+  if (isFloatValue(value)) return floatToJson(value.value);
   return String(value);
 }
 
-/** QUOTE_MINIMAL: quote iff the cell contains the delimiter, a quote, or \r/\n
- * -- with the quirk that a lone empty cell in a single-column row is written
- * `""`. Embedded quotes are doubled. */
+/** Minimal quoting: quote the cell only when it contains a comma, a quote, or
+ * \r/\n -- with the quirk that a lone empty cell in a single-column row is
+ * written `""`. Embedded quotes are doubled. */
 function csvField(value: unknown, singleColumn: boolean): string {
   const text = cellText(value);
   const quote =
@@ -207,7 +210,7 @@ function csvField(value: unknown, singleColumn: boolean): string {
 
 /** One CSV document: header row then data rows, CRLF terminated. `columns`
  * overrides the header row. */
-export function pyCsv(rows: Array<Record<string, unknown>>, options: { columns?: string[] } = {}): string {
+export function stringifyCsv(rows: Array<Record<string, unknown>>, options: { columns?: string[] } = {}): string {
   const cells =
     options.columns ??
     (() => {
@@ -227,43 +230,31 @@ export function pyCsv(rows: Array<Record<string, unknown>>, options: { columns?:
   return `${lines.join("\r\n")}\r\n`;
 }
 
-// Exceptions, named for the error-format contract
+// Exceptions. Their `name` strings are part of the committed output contract
+// and must not change; the `HTTPError`/`ConnectionError` labels appear verbatim
+// in `data/people/_sites`, so those classes keep their names exactly.
 
-/** requests' `raise_for_status`: "403 Client Error: Forbidden for url: ..." */
+/** "403 Client Error: Forbidden for url: ..." */
 export class HTTPError extends Error {
   override name = "HTTPError";
 }
-export class ConnectionErrorClass extends Error {
+export class ConnectionError extends Error {
   override name = "ConnectionError";
 }
-export class ConnectTimeout extends Error {
-  override name = "ConnectTimeout";
+export class RequestTimeoutError extends Error {
+  override name = "RequestTimeoutError";
 }
-export class LookupError extends Error {
-  override name = "LookupError";
+export class ResourceNotFoundError extends Error {
+  override name = "ResourceNotFoundError";
 }
-export class ValueError extends Error {
-  override name = "ValueError";
+export class InvalidValueError extends Error {
+  override name = "InvalidValueError";
 }
-export class KeyError extends Error {
-  override name = "KeyError";
-}
-// biome-ignore lint/suspicious/noShadowRestrictedNames: TypeError is the error-format name.
-export class TypeError extends Error {
-  override name = "TypeError";
-}
-export class JSONDecodeError extends Error {
-  override name = "JSONDecodeError";
-}
-export class RuntimeError extends Error {
-  override name = "RuntimeError";
-}
-/** StopIteration, used by the HTML content iterator. */
-export class StopIteration extends Error {
-  override name = "StopIteration";
+export class MissingKeyError extends Error {
+  override name = "MissingKeyError";
 }
 
-export function raiseForStatus(status: number, url: string): never {
+export function throwForStatus(status: number, url: string): never {
   const reason = REASON[status] ?? "Client Error";
   if (status >= 500) throw new HTTPError(`${status} Server Error: ${REASON[status] ?? "Server Error"} for url: ${url}`);
   throw new HTTPError(`${status} Client Error: ${status === 404 ? "Not Found" : reason} for url: ${url}`);
@@ -293,7 +284,7 @@ let _selected: Campus = "vancouver";
 export function setCampus(value: string): void {
   if (!(CAMPUS_CHOICES as readonly string[]).includes(value)) {
     const shown = CAMPUS_CHOICES.map((c) => `'${c}'`).join(", ");
-    throw new ValueError(`campus must be one of ${shown}, got '${value}'`);
+    throw new InvalidValueError(`campus must be one of ${shown}, got '${value}'`);
   }
   _selected = value as Campus;
 }
@@ -384,8 +375,8 @@ export class Output {
     const target = await this._target(relpath);
     const content =
       opts.itemsPerLine && Array.isArray(payload)
-        ? pyJsonItems(payload)
-        : pyJson(payload, opts.indent ?? (Array.isArray(payload) && payload.length > PRETTY_LIMIT ? null : 2));
+        ? stringifyJsonItems(payload)
+        : stringifyJson(payload, opts.indent ?? (Array.isArray(payload) && payload.length > PRETTY_LIMIT ? null : 2));
     await writeFile(target, content, "utf8");
     await this._track(target, Array.isArray(payload) ? payload.length : null, opts.source);
     return relPath(this.root, target);
@@ -402,7 +393,7 @@ export class Output {
       for (const [key, value] of Object.entries(row)) out[key] = csvScalar(value);
       return out;
     });
-    await writeFile(target, pyCsv(prepared, { columns: opts.columns }), "utf8");
+    await writeFile(target, stringifyCsv(prepared, { columns: opts.columns }), "utf8");
     await this._track(target, rows.length, opts.source);
     return relPath(this.root, target);
   }
@@ -483,7 +474,7 @@ function relPath(root: string, target: string): string {
 export const USER_AGENT = "ubc-data/1.0 (public UBC institutional open-data mirror)";
 export const PRETTY_LIMIT = 2000;
 
-// urllib3's retry statuses, ported byte-for-byte from `Retry(...)`.
+// Statuses that warrant a retry; everything else passes through immediately.
 const RETRY_STATUSES = new Set([408, 429, 500, 502, 503, 504]);
 
 export interface ResponseLike {
@@ -576,23 +567,23 @@ export class Http {
           });
         }
       } catch (error) {
-        // Network errors are retried like urllib3 would (GET/POST only).
+        // Retry network errors on GET/POST only.
         if (attempt < this.retries && (method === "GET" || method === "POST")) {
           await this.sleep(this.backoff(attempt + 1));
           continue;
         }
         if (error instanceof Error && error.name === "TimeoutError") {
-          throw new ConnectTimeout("(read timeout)");
+          throw new RequestTimeoutError("(read timeout)");
         }
-        throw new ConnectionErrorClass(messageOf(error));
+        throw new ConnectionError(messageOf(error));
       }
 
       if (response.status >= 200 && response.status < 300) return response;
       if (!RETRY_STATUSES.has(response.status) || (method !== "GET" && method !== "POST")) {
-        raiseForStatus(response.status, url);
+        throwForStatus(response.status, url);
       }
       if (attempt >= this.retries) {
-        raiseForStatus(response.status, url);
+        throwForStatus(response.status, url);
       }
       const retryAfter = readRetryAfter(response.headers.get("retry-after"));
       const delay = retryAfter ?? this.backoff(attempt + 1);
@@ -600,8 +591,7 @@ export class Http {
     }
   }
 
-  /** urllib3 `get_backoff_time`: factor * 2 ** (retry - 1), no cap below 120s
-   * (urllib3's DEFAULT_BACKOFF_MAX). */
+  /** Exponential backoff: factor * 2 ** (retry - 1), capped at 120 seconds. */
   private backoff(retry: number): number {
     const value = 1.0 * 2 ** (retry - 1);
     return Math.min(value * 1000, 120 * 1000);
@@ -625,7 +615,7 @@ export class Http {
     return new Uint8Array(await response.arrayBuffer());
   }
 
-  /** POST with a form-encoded body, mirroring requests' `data=` dict. */
+  /** POST with a form-encoded body. Omits null and undefined values. */
   async postJson(
     url: string,
     data: Record<string, unknown>,
@@ -687,7 +677,8 @@ function messageOf(error: unknown): string {
   return error instanceof Error ? error.message : String(error);
 }
 
-/** urllib3's Retry-After: an integer number of seconds, or undefined. */
+/** Retry-After as a whole number of seconds, or undefined when absent or
+ * not a positive integer. */
 function readRetryAfter(value: string | null): number | undefined {
   if (!value) return undefined;
   const seconds = Number(value);
@@ -714,7 +705,7 @@ export const REGISTRY: Record<string, CollectorClass> = {};
 
 export function register<T extends CollectorClass>(cls: T): T {
   const instance = new cls();
-  if (!instance.name) throw new ValueError(`${cls.name} needs a name`);
+  if (!instance.name) throw new InvalidValueError(`${cls.name} needs a name`);
   REGISTRY[instance.name] = cls;
   return cls;
 }
@@ -828,13 +819,13 @@ type AnyJson = Record<string, unknown>;
 export function jsLiteral(html: string, name: string): unknown {
   const pattern = new RegExp(`\\bvar\\s+${name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\s*=\\s*`);
   const match = pattern.exec(html);
-  if (!match) throw new KeyError(name);
+  if (!match) throw new MissingKeyError(name);
 
   let start = match.index + match[0].length;
   while (start < html.length && /\s/.test(html[start]!)) start += 1;
   const opener = html[start]!;
   const closer: string | undefined = { "[": "]", "{": "}" }[opener];
-  if (!closer) throw new ValueError(`${name} is not an array or object literal`);
+  if (!closer) throw new InvalidValueError(`${name} is not an array or object literal`);
 
   let depth = 0;
   let inString = false;
@@ -861,7 +852,7 @@ export function jsLiteral(html: string, name: string): unknown {
       }
     }
   }
-  throw new ValueError(`unterminated literal for ${name}`);
+  throw new InvalidValueError(`unterminated literal for ${name}`);
 }
 
 /** Fetch every page of a WP REST collection using X-WP-TotalPages. */

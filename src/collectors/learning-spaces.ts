@@ -107,7 +107,7 @@ export async function configs(http: Http): Promise<Array<AnyJson>> {
   return list.filter((c) => wants(String(c["campus"] ?? "").toLowerCase() || null));
 }
 
-/** `json.dumps(obj, sort_keys=True)` -- the config dedup key. */
+/** Serialize with sorted keys; the canonical form duplicated configs share. */
 function stableStringify(value: AnyJson): unknown {
   if (typeof value !== "object" || value === null || Array.isArray(value)) return value;
   const out: AnyJson = {};

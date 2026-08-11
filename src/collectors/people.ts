@@ -9,7 +9,7 @@
  */
 
 import type { Http, Output } from "../base.ts";
-import { jsonapiCollection, jsonapiIndex, pyName, register } from "../base.ts";
+import { errorName, jsonapiCollection, jsonapiIndex, register } from "../base.ts";
 
 // UBC units known to run the shared Drupal platform. Hosts that are absent,
 // offline or not on the platform are skipped without failing the run.
@@ -84,7 +84,7 @@ export const People = register(
           }
           records = await jsonapiCollection(http, host, RESOURCE, { workers: 4 });
         } catch (error) {
-          return [host, [], `${pyName(error)}: ${error instanceof Error ? error.message : String(error)}`];
+          return [host, [], `${errorName(error)}: ${error instanceof Error ? error.message : String(error)}`];
         }
         for (const record of records) record["site"] = host;
         return [host, records, null];

@@ -6,7 +6,15 @@
  */
 
 import type { Http, Output } from "../base.ts";
-import { jsonapiCollection, jsonapiIndex, LookupError, pyMessage, pyName, register, wpCollection } from "../base.ts";
+import {
+  errorMessage,
+  errorName,
+  jsonapiCollection,
+  jsonapiIndex,
+  register,
+  ResourceNotFoundError,
+  wpCollection,
+} from "../base.ts";
 import { fetch as fetchHolidays, URL as HOLIDAYS_URL } from "./holidays.ts";
 
 type Fetcher = ((http: Http) => Promise<Array<Record<string, unknown>>>) & { source?: string };
@@ -14,7 +22,7 @@ type Fetcher = ((http: Http) => Promise<Array<Record<string, unknown>>>) & { sou
 function drupal(host: string, resource: string): Fetcher {
   const fetcher = (async (http: Http): Promise<Array<Record<string, unknown>>> => {
     if (!(await jsonapiIndex(http, host)).has(resource.replace("/", "--"))) {
-      throw new LookupError(`${host} does not expose ${resource}`);
+      throw new ResourceNotFoundError(`${host} does not expose ${resource}`);
     }
     return jsonapiCollection(http, host, resource);
   }) as Fetcher;
@@ -70,7 +78,7 @@ export const Services = register(
             dataset: name,
             source,
             records: 0,
-            skipped: `${pyName(error)}: ${pyMessage(error)}`,
+            skipped: `${errorName(error)}: ${errorMessage(error)}`,
           });
           continue;
         }

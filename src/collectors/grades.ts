@@ -92,8 +92,8 @@ export function splitCSVLine(line: string): string[] {
 }
 
 /** One row per UBCV section: the CSV row plus a histogram of the bucket
- * columns. Rows matching nothing are skipped exactly as the legacy script
- * skipped them (OVERALL rows are rollups, `Detail` rows are cross-lists). */
+ * columns. OVERALL rows are rollups and `Detail` rows are cross-lists, so
+ * they do not become rows. */
 /** One parsed grade row: the flat CSV record plus the histogram. */
 export interface GradeRow extends Record<string, unknown> {
   subject: string;

@@ -12,10 +12,10 @@
  * So this drives the same endpoint the page does. Two things make that tractable:
  *
  * - Requirements are shared, not per-program. Every program page declares a
- *   `requirement` key in `programRequirementsSettings`, and 122 Vancouver programs
- *   resolve to 20 keys -- all 41 Arts majors ask the same thing of an applicant.
- *   Fetching per key rather than per program turns 15,000 requests into 2,500,
- *   and `program_requirements` keeps the program-to-key mapping so nothing is lost.
+ *   `requirement` key in `programRequirementsSettings`, and many programs
+ *   resolve to the same key. Fetching per key rather than per program cuts the
+ *   request count to the number of distinct requirements, and
+ *   `program_requirements` keeps the program-to-key mapping so nothing is lost.
  * - The IB tab is rendered server-side. Unlike the province and country tabs,
  *   it sits in the page HTML already, so it costs no extra request.
  *
@@ -26,7 +26,7 @@
  */
 
 import type { Http, Output } from "../base.ts";
-import { wants } from "../base.ts";
+import { errorMessage, errorName, wants } from "../base.ts";
 import { clean, text as htmldocText, items, sections } from "../htmldoc.ts";
 
 export const HOST = "you.ubc.ca";
@@ -242,7 +242,7 @@ export async function collect(
   const locations: Map<string, AnyJson> = new Map();
   const ibPayloads: Map<string, AnyJson> = new Map();
 
-  for (const [program, page] of zip(programs, pages)) {
+  for (const [program, page] of pair(programs, pages)) {
     const names = ((program["degrees"] as unknown[]) ?? []).map((term) => degrees[String(term)]).filter(Boolean);
     const row: AnyJson = {
       program_id: program["id"] ?? null,
@@ -350,7 +350,7 @@ export async function collect(
   await out.table(`${base}/required_courses`, requirementRows, { source: ENDPOINT });
 }
 
-function zip<A, B>(a: A[], b: B[]): Array<[A, B]> {
+function pair<A, B>(a: A[], b: B[]): Array<[A, B]> {
   return a.map((item, i) => [item, b[i]!] as [A, B]);
 }
 
@@ -362,7 +362,7 @@ export async function readProgram(http: Http, program: AnyJson): Promise<AnyJson
   try {
     htmlPage = await http.getText(String(link));
   } catch (error) {
-    return { error: `${pyName(error)}: ${pyMessage(error)}` };
+    return { error: `${errorName(error)}: ${errorMessage(error)}` };
   }
   return {
     settings: settings(htmlPage),
@@ -452,13 +452,6 @@ export function record(
       advisory: ADVISORY.has(line["kind"]),
     });
   }
-}
-
-function pyName(error: unknown): string {
-  return error instanceof Error ? error.name : "Exception";
-}
-function pyMessage(error: unknown): string {
-  return error instanceof Error ? error.message : String(error);
 }
 
 function describeReq(out: Output, base: string): void {

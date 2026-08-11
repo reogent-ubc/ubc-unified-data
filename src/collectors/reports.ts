@@ -9,7 +9,7 @@
  */
 
 import type { Http, Output } from "../base.ts";
-import { pyMessage, pyName, register, strcmp, wpCollection } from "../base.ts";
+import { compareStrings, errorMessage, errorName, register, wpCollection } from "../base.ts";
 import { unescapeHtml } from "../htmldoc.ts";
 
 export const SITES: Record<string, [string, string[]]> = {
@@ -116,7 +116,7 @@ export const Reports = register(
               site,
               endpoint: source,
               records: 0,
-              skipped: `${pyName(error)}: ${pyMessage(error)}`,
+              skipped: `${errorName(error)}: ${errorMessage(error)}`,
             });
             continue;
           }
@@ -169,7 +169,7 @@ export const Reports = register(
       }
       unique.sort((a, b) => {
         for (const field of ["site", "file_type", "filename"] as const) {
-          const cmp = strcmp(String(a[field]), String(b[field]));
+          const cmp = compareStrings(String(a[field]), String(b[field]));
           if (cmp !== 0) return cmp;
         }
         return 0;

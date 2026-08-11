@@ -3,62 +3,64 @@ import { tmpdir } from "node:os";
 import path from "node:path";
 import { afterEach, beforeEach, describe, expect, it } from "vitest";
 import {
-  ConnectTimeout,
+  floatValue,
   Http,
   HTTPError,
+  InvalidValueError,
   jsLiteral,
   jsonapiCollection,
   Output,
-  pyCsv,
-  pyFloat,
-  pyJson,
-  pyJsonItems,
+  RequestTimeoutError,
   setCampus,
   simplifyJsonapi,
-  ValueError,
+  stringifyCsv,
+  stringifyJson,
+  stringifyJsonItems,
   wants,
   wpCollection,
   type ResponseLike,
 } from "./base.ts";
 
-describe("pyJson matches json.dumps(ensure_ascii=False)", () => {
+describe("stringifyJson writes JSON with conventional offsets and quoting", () => {
   it("serializes primitives and nested structures", () => {
     const payload = { a: 1, s: "héllo", list: [1, true, null], nested: { x: "y" } };
-    expect(pyJson(payload, 2)).toBe(
+    expect(stringifyJson(payload, 2)).toBe(
       '{\n  "a": 1,\n  "s": "héllo",\n  "list": [\n    1,\n    true,\n    null\n  ],\n  "nested": {\n    "x": "y"\n  }\n}',
     );
   });
 
   it("writes integral floats with a trailing .0", () => {
-    expect(pyJson(pyFloat(3), null)).toBe("3.0");
-    expect(pyJson(pyFloat(3.5), null)).toBe("3.5");
-    expect(pyJson([pyFloat(0)], null)).toBe("[0.0]");
+    expect(stringifyJson(floatValue(3), null)).toBe("3.0");
+    expect(stringifyJson(floatValue(3.5), null)).toBe("3.5");
+    expect(stringifyJson([floatValue(0)], null)).toBe("[0.0]");
   });
 
   it("escapes only C0 controls", () => {
-    expect(pyJson("a\nb\tc\u0001")).toBe('"a\\nb\\tc\\u0001"');
-    expect(pyJson("héllo")).toBe('"héllo"');
+    expect(stringifyJson("a\nb\tc\u0001")).toBe('"a\\nb\\tc\\u0001"');
+    expect(stringifyJson("héllo")).toBe('"héllo"');
   });
 
   it("switches to compact separators when indent is null", () => {
-    expect(pyJson([1, 2], null)).toBe("[1,2]");
+    expect(stringifyJson([1, 2], null)).toBe("[1,2]");
   });
 
-  it("pyJsonItems writes one compact item per line", () => {
-    expect(pyJsonItems([{ a: 1, b: [2, 3] }, { a: pyFloat(3) }])).toBe('[\n  {"a":1,"b":[2,3]},\n  {"a":3.0}\n]');
-    expect(pyJsonItems([])).toBe("[]");
+  it("stringifyJsonItems writes one compact item per line", () => {
+    expect(stringifyJsonItems([{ a: 1, b: [2, 3] }, { a: floatValue(3) }])).toBe(
+      '[\n  {"a":1,"b":[2,3]},\n  {"a":3.0}\n]',
+    );
+    expect(stringifyJsonItems([])).toBe("[]");
   });
 });
 
-describe("pyCsv matches csv.DictWriter QUOTE_MINIMAL", () => {
-  it("quotes the delimiter, quotes, and newlines only", () => {
+describe("stringifyCsv quotes the delimiter, quotes, and newlines only", () => {
+  it("quotes only the delimiter, quotes, and newlines", () => {
     const rows = [
       { name: "plain", n: 1 },
       { name: "with,comma", n: 2 },
       { name: 'with"quote', n: 3 },
       { name: "a\nb", n: 4 },
     ];
-    expect(pyCsv(rows, { columns: ["name", "n"] })).toBe(
+    expect(stringifyCsv(rows, { columns: ["name", "n"] })).toBe(
       'name,n\r\nplain,1\r\n"with,comma",2\r\n"with""quote",3\r\n"a\nb",4\r\n',
     );
   });
@@ -68,12 +70,12 @@ describe("pyCsv matches csv.DictWriter QUOTE_MINIMAL", () => {
       { b: 1, a: 2 },
       { c: 3, a: 4 },
     ];
-    expect(pyCsv(rows)).toBe("b,a,c\r\n1,2,\r\n,4,3\r\n");
+    expect(stringifyCsv(rows)).toBe("b,a,c\r\n1,2,\r\n,4,3\r\n");
   });
 
   it("flattens nested values via the _scalar rule", () => {
     const rows = [{ obj: { a: [1, "b"] }, n: 1 }];
-    expect(pyCsv(rows, { columns: ["obj", "n"] })).toBe('obj,n\r\n"{""a"": [1, ""b""]}",1\r\n');
+    expect(stringifyCsv(rows, { columns: ["obj", "n"] })).toBe('obj,n\r\n"{""a"": [1, ""b""]}",1\r\n');
   });
 });
 
@@ -163,7 +165,7 @@ describe("campus selection", () => {
 
   it("setCampus rejects unknown values", () => {
     setCampus("vancouver");
-    expect(() => setCampus("mars")).toThrow(ValueError);
+    expect(() => setCampus("mars")).toThrow(InvalidValueError);
   });
 });
 
@@ -228,11 +230,11 @@ describe("jsLiteral", () => {
   });
 
   it("throws for a non-object/array opener", () => {
-    expect(() => jsLiteral("var data = 'nope';", "data")).toThrow(ValueError);
+    expect(() => jsLiteral("var data = 'nope';", "data")).toThrow(InvalidValueError);
   });
 
   it("throws on unterminated literal", () => {
-    expect(() => jsLiteral("var data = {a: 1", "data")).toThrow(ValueError);
+    expect(() => jsLiteral("var data = {a: 1", "data")).toThrow(InvalidValueError);
   });
 });
 
@@ -249,7 +251,7 @@ describe("Http", () => {
     const result = await http.getJson("https://example.com/x");
     expect(result).toEqual({ ok: true });
     expect(calls).toBe(3);
-    // urllib3 backoff: 1s then 2s.
+    // exponential backoff: 1s then 2s.
     expect(backoff).toBe(3000);
   });
 
@@ -294,7 +296,7 @@ describe("Http", () => {
       // AbortSignal.timeout() fires an Error named "TimeoutError" in Node.
       throw new DOMException("The operation was aborted due to timeout", "TimeoutError");
     };
-    await expect(http.get("https://example.com/slow")).rejects.toThrow(ConnectTimeout);
+    await expect(http.get("https://example.com/slow")).rejects.toThrow(RequestTimeoutError);
   });
 
   it("map preserves input order and bounds concurrency", async () => {

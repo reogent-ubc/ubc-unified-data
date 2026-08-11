@@ -18,7 +18,7 @@
  */
 
 import type { Http, Output } from "../base.ts";
-import { register, strcmp, utcnow, wants } from "../base.ts";
+import { compareStrings, register, utcnow, wants } from "../base.ts";
 
 export const ORG = "UBCGeodata";
 
@@ -193,7 +193,7 @@ export const Geospatial = register(
         retrieved_at: utcnow(),
         corrections: corrections.length
           ? {
-              swapped_lat_long_headers: [...corrections].sort(strcmp),
+              swapped_lat_long_headers: [...corrections].sort(compareStrings),
               note:
                 "Upstream labels these files' coordinate columns the wrong way " +
                 "round: LAT held longitude and LONG held latitude. The two column " +
