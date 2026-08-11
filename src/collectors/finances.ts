@@ -158,7 +158,7 @@ export interface Shape {
 
 export function shape(table: htmldoc.Table): Shape {
   /** Work out a table's header row, its preamble, and where its data starts. */
-  const headers = table.headers;
+  let headers = table.headers;
   let rows = table.rows;
 
   // A one-cell <th> row is the table's title, not its header -- "Doctor of
@@ -166,12 +166,7 @@ export function shape(table: htmldoc.Table): Shape {
   // Push it back into the body so the search below can find the real one.
   if (headers.length > 0 && headers.filter(Boolean).length <= 1) {
     rows = [headers, ...rows];
-    return {
-      headers: [],
-      context: [],
-      body: rows,
-      label: null,
-    };
+    headers = [];
   }
   if (headers.length > 0) {
     return { headers, context: [], body: rows, label: null };
