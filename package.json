@@ -10,7 +10,7 @@
   "scripts": {
     "update": "tsx src/update.ts",
     "test": "vitest run",
-    "lint": "biome check src test scripts",
+    "lint": "biome check src test",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
