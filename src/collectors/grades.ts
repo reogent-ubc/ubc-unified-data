@@ -202,8 +202,8 @@ export const Grades = register(
           a.section.localeCompare(b.section),
       );
       await out.json("distributions.json", rows, {
-        indent: 2,
         source: `https://github.com/${slug}/tree/${sha}/${SRC_DIR}`,
+        itemsPerLine: true,
       });
     }
   },

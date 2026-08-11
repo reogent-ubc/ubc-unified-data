@@ -1,6 +1,6 @@
 {
   "name": "UBC open data",
-  "generated_at": "2026-08-11T09:48:35Z",
+  "generated_at": "2026-08-11T11:12:00Z",
   "campus": "vancouver",
   "how_to_read": "Index of every table in this dataset. One entry per table, not per file: `json` and `csv` hold the same rows, the JSON keeping nested values intact and the CSV encoding them into the cell. `grain` says what a single row is, `columns` describes the ones worth knowing about (not always all of them), and `joins` names the other tables a row can be linked to and on which column. Start here rather than guessing from filenames. manifest.json has the same information plus per-file sizes, sources and run status.",
   "groups": {
@@ -1623,7 +1623,7 @@
       "description": "Every UBC Vancouver course section with a reported grade distribution: enrolment, average, median, percentiles, high/low, and the count of grades in each of the dashboard's percentage buckets, per term.",
       "folder": "grades",
       "status": "ok",
-      "updated_at": "2026-08-11T07:54:06Z",
+      "updated_at": "2026-08-11T11:12:00Z",
       "sources": [
         "https://github.com/DonneyF/ubc-pair-grade-data"
       ],

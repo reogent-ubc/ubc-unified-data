@@ -115,6 +115,14 @@ export function pyJson(value: unknown, indent: number | null = 0, separators: [s
   return serialize(value, indent ?? 0, separators, 0);
 }
 
+/** Serialize a list with one compact item per line, the shape large tables
+ *  want: readable and diff-able without the byte bloat of a key per line. */
+export function pyJsonItems(value: unknown[]): string {
+  if (value.length === 0) return "[]";
+  const body = value.map((item) => serialize(item, 0, [",", ":"], 1));
+  return `[\n${body.map((item) => `  ${item}`).join(",\n")}\n]`;
+}
+
 function serialize(value: unknown, indent: number, separators: [string, string], level: number): string {
   if (isPyFloat(value)) return pyFloatToJson(value.value);
   if (typeof value === "number") return pyNumber(value);
@@ -371,11 +379,14 @@ export class Output {
   async json(
     relpath: string,
     payload: unknown,
-    opts: { source?: string | null; indent?: number | null } = {},
+    opts: { source?: string | null; indent?: number | null; itemsPerLine?: boolean } = {},
   ): Promise<string> {
     const target = await this._target(relpath);
-    const indent = opts.indent ?? (Array.isArray(payload) && payload.length > PRETTY_LIMIT ? null : 2);
-    await writeFile(target, pyJson(payload, indent), "utf8");
+    const content =
+      opts.itemsPerLine && Array.isArray(payload)
+        ? pyJsonItems(payload)
+        : pyJson(payload, opts.indent ?? (Array.isArray(payload) && payload.length > PRETTY_LIMIT ? null : 2));
+    await writeFile(target, content, "utf8");
     await this._track(target, Array.isArray(payload) ? payload.length : null, opts.source);
     return relPath(this.root, target);
   }

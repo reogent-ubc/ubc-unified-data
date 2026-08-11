@@ -12,6 +12,7 @@ import {
   pyCsv,
   pyFloat,
   pyJson,
+  pyJsonItems,
   setCampus,
   simplifyJsonapi,
   ValueError,
@@ -41,6 +42,11 @@ describe("pyJson matches json.dumps(ensure_ascii=False)", () => {
 
   it("switches to compact separators when indent is null", () => {
     expect(pyJson([1, 2], null)).toBe("[1,2]");
+  });
+
+  it("pyJsonItems writes one compact item per line", () => {
+    expect(pyJsonItems([{ a: 1, b: [2, 3] }, { a: pyFloat(3) }])).toBe('[\n  {"a":1,"b":[2,3]},\n  {"a":3.0}\n]');
+    expect(pyJsonItems([])).toBe("[]");
   });
 });
 
