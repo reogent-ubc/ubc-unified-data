@@ -10,6 +10,7 @@
 
 // Imported for their registration side effects; order sets the default run order.
 import "./geospatial.ts";
+import "./grades.ts";
 import "./courses.ts";
 import "./academic-calendar.ts";
 import "./learning-spaces.ts";

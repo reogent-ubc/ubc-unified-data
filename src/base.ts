@@ -368,9 +368,13 @@ export class Output {
     return;
   }
 
-  async json(relpath: string, payload: unknown, opts: { source?: string | null } = {}): Promise<string> {
+  async json(
+    relpath: string,
+    payload: unknown,
+    opts: { source?: string | null; indent?: number | null } = {},
+  ): Promise<string> {
     const target = await this._target(relpath);
-    const indent = Array.isArray(payload) && payload.length > PRETTY_LIMIT ? null : 2;
+    const indent = opts.indent ?? (Array.isArray(payload) && payload.length > PRETTY_LIMIT ? null : 2);
     await writeFile(target, pyJson(payload, indent), "utf8");
     await this._track(target, Array.isArray(payload) ? payload.length : null, opts.source);
     return relPath(this.root, target);
