@@ -32,7 +32,7 @@
 import type { Http, Output } from "../base.ts";
 import { jsLiteral, jsonapiCollection, register, wants } from "../base.ts";
 import * as htmldoc from "../htmldoc.ts";
-import { campusIds, onCampus } from "./admissions.ts";
+import { campusIds, onCampus, programFinderDatasets } from "./admissions.ts";
 
 export const CAMPUSES: Record<string, string> = {
   vancouver: "vancouver.calendar.ubc.ca",
@@ -564,12 +564,18 @@ export const Finances = register(
       }
 
       // The page ships both campuses; the estimates above are already filtered,
-      // so the programs attached to them have to be filtered the same way.
+      // so the programs attached to them have to be filtered the same way. The
+      // program literals moved into `programsListData`; fall back to the old
+      // `var programs` shape if the page ever predates that rename.
+      const finder = programFinderDatasets(html);
+      const programsLiteral = finder?.["programs"];
+      const campusesLiteral = finder?.["campuses"];
+      const degreesLiteral = finder?.["degrees"];
       const programs = onCampus(
-        jsLiteral(html, "programs") as unknown as AnyJson[],
-        campusIds(jsLiteral(html, "campuses") as unknown as AnyJson[]),
+        programsLiteral ?? (jsLiteral(html, "programs") as unknown as AnyJson[]),
+        campusIds(campusesLiteral ?? (jsLiteral(html, "campuses") as unknown as AnyJson[])),
       );
-      const [matched, unmatched] = matchPrograms(programs, jsLiteral(html, "degrees"), estimates);
+      const [matched, unmatched] = matchPrograms(programs, degreesLiteral ?? jsLiteral(html, "degrees"), estimates);
       return [estimates, living, matched, unmatched];
     }
   },
