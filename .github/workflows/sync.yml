@@ -22,6 +22,9 @@ jobs:
       - name: Sync grade distributions
         run: bash scripts/sync-grades.sh
 
+      - name: Generate grade fixtures
+        run: npm run prep-grades
+
       - name: Run collectors
         run: npm run update
 

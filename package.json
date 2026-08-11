@@ -9,6 +9,7 @@
   },
   "scripts": {
     "update": "tsx src/update.ts",
+    "prep-grades": "node scripts/prep-grades.mjs",
     "test": "vitest run",
     "lint": "biome check src test scripts",
     "format": "prettier --write .",
