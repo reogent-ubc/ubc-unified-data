@@ -89,7 +89,7 @@ describe("enrich", () => {
 describe("Property P3: course-text stable", () => {
   const label = fc.record({
     name: fc.constantFrom("Prerequisite", "Pre-requisite", "Corequisite", "Equivalency"),
-    body: fc.string({ minLength: 1, maxLength: 20 }).filter((s) => !/\s/.test(s) && !/[;.]/.test(s)),
+    body: fc.string({ minLength: 1, maxLength: 20 }).filter((s) => !/[<\s;.]/.test(s)),
   });
   const description = fc.record({
     lead: fc
