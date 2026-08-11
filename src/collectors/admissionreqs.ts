@@ -262,7 +262,8 @@ export async function collect(
       continue;
     }
 
-    const campus = pageSettings["campus"] != null ? String(pageSettings["campus"]).toLowerCase() : null;
+    const rawCampus = pageSettings["campus"];
+    const campus = (rawCampus ? String(rawCampus) : "").toLowerCase() || null;
     const key = pageSettings["requirement"] ?? null;
     row["campus"] = campus;
     row["requirement_key"] = key;
