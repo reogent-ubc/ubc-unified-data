@@ -31,7 +31,7 @@ describe("programFinderDatasets", () => {
     const datasets = programFinderDatasets(FINDER_HTML);
     expect(datasets).not.toBeNull();
     expect(datasets!["programs"]).toHaveLength(2);
-    expect(datasets!["programs"][0]).toMatchObject({
+    expect(datasets!["programs"]![0]!).toMatchObject({
       id: 149486,
       post_title: "Ancient Mediterranean and Near Eastern Studies",
       link: "https://you.ubc.ca/programs/ancient-mediterranean-near-eastern-studies/",
@@ -39,10 +39,10 @@ describe("programFinderDatasets", () => {
     });
 
     const [degree, campus, topic, interest] = [
-      datasets!["degrees"][0],
-      datasets!["campuses"][0],
-      datasets!["topics"][0],
-      datasets!["interests"][0],
+      datasets!["degrees"]![0]!,
+      datasets!["campuses"]![0]!,
+      datasets!["topics"]![0]!,
+      datasets!["interests"]![0]!,
     ];
     expect(degree).toMatchObject({ name: "Bachelor of Arts", slug: "bachelor-of-arts" });
     expect(campus).toMatchObject({ name: "Vancouver", slug: "vancouver" });
@@ -50,7 +50,7 @@ describe("programFinderDatasets", () => {
     expect(interest).toMatchObject({ name: "History", slug: "history" });
 
     // The ids the program row references come from the same slug mapping.
-    const program = datasets!["programs"][0];
+    const program = datasets!["programs"]![0]!;
     expect(program["degrees"]).toEqual([degree["term_id"]]);
     expect(program["campuses"]).toEqual([campus["term_id"]]);
     expect(program["topics"]).toEqual([topic["term_id"]]);
@@ -67,7 +67,7 @@ describe("filterByCampus", () => {
     const datasets = programFinderDatasets(FINDER_HTML);
     filterByCampus(datasets!);
     expect(datasets!["programs"]).toHaveLength(1);
-    expect(datasets!["programs"][0]["id"]).toBe(149486);
+    expect(datasets!["programs"]![0]!["id"]).toBe(149486);
     expect(datasets!["campuses"]).toHaveLength(1);
   });
 });
