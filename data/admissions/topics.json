@@ -1,132 +1,62 @@
 [
   {
-    "term_id": 1284,
+    "term_id": 2016182884,
     "name": "Business and economics",
     "slug": "business-and-economics",
-    "term_group": 0,
-    "term_taxonomy_id": 1289,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 21,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1294,
+    "term_id": 2863626295,
     "name": "Earth, environment, and sustainability",
     "slug": "earth-environment-and-sustainability",
-    "term_group": 0,
-    "term_taxonomy_id": 1299,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 37,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1301,
+    "term_id": 2427149205,
     "name": "Education",
     "slug": "education",
-    "term_group": 0,
-    "term_taxonomy_id": 1306,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 7,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1293,
+    "term_id": 1785411973,
     "name": "Engineering and technology",
     "slug": "engineering-and-technology",
-    "term_group": 0,
-    "term_taxonomy_id": 1298,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 35,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1295,
+    "term_id": 1166637932,
     "name": "Health and life sciences",
     "slug": "health-and-life-sciences",
-    "term_group": 0,
-    "term_taxonomy_id": 1300,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 46,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1296,
+    "term_id": 3571831894,
     "name": "History, law, and politics",
     "slug": "history-law-and-politics",
-    "term_group": 0,
-    "term_taxonomy_id": 1301,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 21,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1297,
+    "term_id": 3063730439,
     "name": "Languages and linguistics",
     "slug": "languages-and-linguistics",
-    "term_group": 0,
-    "term_taxonomy_id": 1302,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 19,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1300,
+    "term_id": 3669867392,
     "name": "Math, chemistry, and physics",
     "slug": "math-chemistry-and-physics",
-    "term_group": 0,
-    "term_taxonomy_id": 1305,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 24,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1298,
+    "term_id": 653776851,
     "name": "Media and fine arts",
     "slug": "media-and-fine-arts",
-    "term_group": 0,
-    "term_taxonomy_id": 1303,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 22,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   },
   {
-    "term_id": 1299,
+    "term_id": 2532969046,
     "name": "People, culture, and society",
     "slug": "people-culture-and-society",
-    "term_group": 0,
-    "term_taxonomy_id": 1304,
-    "taxonomy": "topic_areas",
-    "description": "",
-    "parent": 0,
-    "count": 37,
-    "filter": "raw",
-    "term_order": "0"
+    "taxonomy": "topic_areas"
   }
 ]

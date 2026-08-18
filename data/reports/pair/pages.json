@@ -648,8 +648,8 @@
     "guid": {
       "rendered": "https://pair.ubc.ca/?page_id=3158"
     },
-    "modified": "2025-08-26T13:38:24",
-    "modified_gmt": "2025-08-26T20:38:24",
+    "modified": "2026-08-07T15:56:57",
+    "modified_gmt": "2026-08-07T22:56:57",
     "slug": "sdc",
     "status": "publish",
     "type": "page",
@@ -719,14 +719,14 @@
       ],
       "version-history": [
         {
-          "count": 5,
+          "count": 14,
           "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/3158/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 3164,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/3158/revisions/3164"
+          "id": 3516,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/3158/revisions/3516"
         }
       ],
       "wp:attachment": [
@@ -2466,8 +2466,8 @@
     "guid": {
       "rendered": "https://pair.ok.ubc.ca/?page_id=340"
     },
-    "modified": "2026-06-18T13:25:33",
-    "modified_gmt": "2026-06-18T20:25:33",
+    "modified": "2026-08-06T15:58:35",
+    "modified_gmt": "2026-08-06T22:58:35",
     "slug": "membership",
     "status": "publish",
     "type": "page",
@@ -2543,8 +2543,8 @@
       ],
       "predecessor-version": [
         {
-          "id": 3428,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/340/revisions/3428"
+          "id": 3502,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/340/revisions/3502"
         }
       ],
       "up": [
@@ -3216,330 +3216,6 @@
     }
   },
   {
-    "id": 199,
-    "date": "2020-06-25T14:56:34",
-    "date_gmt": "2020-06-25T21:56:34",
-    "guid": {
-      "rendered": "https://pair.ok.ubc.ca/?page_id=199"
-    },
-    "modified": "2024-02-13T11:27:35",
-    "modified_gmt": "2024-02-13T19:27:35",
-    "slug": "admissions-training",
-    "status": "publish",
-    "type": "page",
-    "link": "https://pair.ubc.ca/student-data-analytics/admissions-enrolment-planning/admissions-training/",
-    "title": {
-      "rendered": "Admissions Training"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 167,
-    "featured_media": 0,
-    "parent": 30,
-    "menu_order": 7,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "_acf_changed": false,
-      "footnotes": ""
-    },
-    "class_list": [
-      "post-199",
-      "page",
-      "type-page",
-      "status-publish",
-      "hentry"
-    ],
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/199",
-          "targetHints": {
-            "allow": [
-              "GET"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/users/167"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/comments?post=199"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 4,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/199/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 2748,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/199/revisions/2748"
-        }
-      ],
-      "up": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/30"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/media?parent=199"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 197,
-    "date": "2020-06-25T14:56:16",
-    "date_gmt": "2020-06-25T21:56:16",
-    "guid": {
-      "rendered": "https://pair.ok.ubc.ca/?page_id=197"
-    },
-    "modified": "2024-02-13T11:26:06",
-    "modified_gmt": "2024-02-13T19:26:06",
-    "slug": "admissions-definitions",
-    "status": "publish",
-    "type": "page",
-    "link": "https://pair.ubc.ca/student-data-analytics/admissions-enrolment-planning/admissions-definitions/",
-    "title": {
-      "rendered": "Admissions Definitions"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 167,
-    "featured_media": 0,
-    "parent": 30,
-    "menu_order": 6,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "_acf_changed": false,
-      "footnotes": ""
-    },
-    "class_list": [
-      "post-197",
-      "page",
-      "type-page",
-      "status-publish",
-      "hentry"
-    ],
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/197",
-          "targetHints": {
-            "allow": [
-              "GET"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/users/167"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/comments?post=197"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 5,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/197/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 2747,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/197/revisions/2747"
-        }
-      ],
-      "up": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/30"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/media?parent=197"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 195,
-    "date": "2020-06-25T14:55:46",
-    "date_gmt": "2020-06-25T21:55:46",
-    "guid": {
-      "rendered": "https://pair.ok.ubc.ca/?page_id=195"
-    },
-    "modified": "2024-02-13T11:25:04",
-    "modified_gmt": "2024-02-13T19:25:04",
-    "slug": "instructions-using-the-admissions-dashboards",
-    "status": "publish",
-    "type": "page",
-    "link": "https://pair.ubc.ca/student-data-analytics/admissions-enrolment-planning/instructions-using-the-admissions-dashboards/",
-    "title": {
-      "rendered": "Instructions &#8211; Using the Admissions Dashboards"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 167,
-    "featured_media": 0,
-    "parent": 30,
-    "menu_order": 5,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "_acf_changed": false,
-      "footnotes": ""
-    },
-    "class_list": [
-      "post-195",
-      "page",
-      "type-page",
-      "status-publish",
-      "hentry"
-    ],
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/195",
-          "targetHints": {
-            "allow": [
-              "GET"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/users/167"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/comments?post=195"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 5,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/195/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 2746,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/195/revisions/2746"
-        }
-      ],
-      "up": [
-        {
-          "embeddable": true,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/30"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/media?parent=195"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
     "id": 121,
     "date": "2020-06-18T15:52:26",
     "date_gmt": "2020-06-18T22:52:26",
@@ -4093,8 +3769,8 @@
     "guid": {
       "rendered": "https://pair.ok.ubc.ca/?page_id=38"
     },
-    "modified": "2026-07-28T12:18:52",
-    "modified_gmt": "2026-07-28T19:18:52",
+    "modified": "2026-08-06T12:06:29",
+    "modified_gmt": "2026-08-06T19:06:29",
     "slug": "nubc",
     "status": "publish",
     "type": "page",
@@ -4170,8 +3846,8 @@
       ],
       "predecessor-version": [
         {
-          "id": 3477,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/38/revisions/3477"
+          "id": 3501,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/38/revisions/3501"
         }
       ],
       "up": [
@@ -4525,8 +4201,8 @@
     "guid": {
       "rendered": "https://pair.ok.ubc.ca/?page_id=30"
     },
-    "modified": "2026-05-28T14:15:57",
-    "modified_gmt": "2026-05-28T21:15:57",
+    "modified": "2026-07-31T11:43:42",
+    "modified_gmt": "2026-07-31T18:43:42",
     "slug": "admissions-enrolment-planning",
     "status": "publish",
     "type": "page",
@@ -4602,8 +4278,8 @@
       ],
       "predecessor-version": [
         {
-          "id": 3395,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/30/revisions/3395"
+          "id": 3488,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/30/revisions/3488"
         }
       ],
       "up": [
@@ -5383,8 +5059,8 @@
     "guid": {
       "rendered": "https://pair.ok.ubc.ca/?page_id=12"
     },
-    "modified": "2025-03-13T16:44:08",
-    "modified_gmt": "2025-03-13T23:44:08",
+    "modified": "2026-08-10T09:58:00",
+    "modified_gmt": "2026-08-10T16:58:00",
     "slug": "surveys",
     "status": "publish",
     "type": "page",
@@ -5460,8 +5136,8 @@
       ],
       "predecessor-version": [
         {
-          "id": 3043,
-          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/12/revisions/3043"
+          "id": 3518,
+          "href": "https://pair.ubc.ca/wp-json/wp/v2/pages/12/revisions/3518"
         }
       ],
       "wp:attachment": [

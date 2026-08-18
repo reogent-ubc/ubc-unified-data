@@ -1,0 +1,274 @@
+[
+  {
+    "input": "<html><head><title>Dates &amp; Deadlines</title></head><body><h1>Academic Calendar</h1><h3>2024 Winter Session</h3><table><thead><tr><th scope=\"col\">Date</th><th>Event</th></tr></thead><tbody><tr><td>January 2</td><td>Term 1 start</td></tr><tr><td>Feb 15&ndash;23</td><td>Mid-term break &mdash; no classes</td></tr></tbody></table><h3>2024 Summer Session</h3><table><tr><th>Deadline</th><th>Item</th></tr><tr><td>&nbsp;</td><td>None</td></tr></table></body></html>",
+    "blocks": [
+      ["Heading", "Academic Calendar", [], []],
+      ["Heading", "2024 Winter Session", [], []],
+      [
+        "Table",
+        "",
+        ["Date", "Event"],
+        [
+          ["January 2", "Term 1 start"],
+          ["Feb 15–23", "Mid-term break — no classes"]
+        ]
+      ],
+      ["Heading", "2024 Summer Session", [], []],
+      ["Table", "", ["Deadline", "Item"], [["", "None"]]]
+    ],
+    "sections": [
+      [0, "", "Dates & Deadlines", []],
+      [1, "Academic Calendar", "", []],
+      [3, "2024 Winter Session", "Date Event January 2 Term 1 start Feb 15–23 Mid-term break — no classes", []],
+      [3, "2024 Summer Session", "Deadline Item None", []]
+    ],
+    "text": "Dates & Deadlines Academic Calendar 2024 Winter Session Date Event January 2 Term 1 start Feb 15–23 Mid-term break — no classes 2024 Summer Session Deadline Item None"
+  },
+  {
+    "input": "<div class=\"field field--requirements\"><h4>General Requirements</h4><p>Qualified applicants &amp; others are considered.</p><ul><li>Graduation from high school</li><li>One of: MATH 12, Pre-Calculus 12, Calculus 12</li><li>English 12 &mdash; with a&nbsp;mark of &ge; 70%</li></ul><h4>Direct Entry</h4><p>See the &copy; rules &raquo;</p><ul><li>None</li></ul></div>",
+    "blocks": [
+      ["Heading", "General Requirements", [], []],
+      ["Heading", "Direct Entry", [], []]
+    ],
+    "sections": [
+      [
+        4,
+        "General Requirements",
+        "Qualified applicants & others are considered.",
+        [
+          "Graduation from high school",
+          "One of: MATH 12, Pre-Calculus 12, Calculus 12",
+          "English 12 — with a mark of ≥ 70%"
+        ]
+      ],
+      [4, "Direct Entry", "See the © rules »", ["None"]]
+    ],
+    "text": "General Requirements Qualified applicants & others are considered. Graduation from high school One of: MATH 12, Pre-Calculus 12, Calculus 12 English 12 — with a mark of ≥ 70% Direct Entry See the © rules » None"
+  },
+  {
+    "input": "<!-- a comment with > and < inside --><p>after</p>",
+    "blocks": [],
+    "sections": [[0, "", "after", []]],
+    "text": "after"
+  },
+  {
+    "input": "<!-- a--!> -->c",
+    "blocks": [],
+    "sections": [[0, "", "-->c", []]],
+    "text": "-->c"
+  },
+  {
+    "input": "<!DOCTYPE html><!-- foo > bar --><p>x</p>",
+    "blocks": [],
+    "sections": [[0, "", "x", []]],
+    "text": "x"
+  },
+  {
+    "input": "<p>a < b and c > d</p>",
+    "blocks": [],
+    "sections": [[0, "", "a < b and c > d", []]],
+    "text": "a < b and c > d"
+  },
+  {
+    "input": "<p>1 < 2 > 0</p>",
+    "blocks": [],
+    "sections": [[0, "", "1 < 2 > 0", []]],
+    "text": "1 < 2 > 0"
+  },
+  {
+    "input": "<p>a < b>",
+    "blocks": [],
+    "sections": [[0, "", "a < b>", []]],
+    "text": "a < b>"
+  },
+  {
+    "input": "a < b and c > d < e",
+    "blocks": [],
+    "sections": [[0, "", "a < b and c > d < e", []]],
+    "text": "a < b and c > d < e"
+  },
+  {
+    "input": "<5 > x",
+    "blocks": [],
+    "sections": [[0, "", "<5 > x", []]],
+    "text": "<5 > x"
+  },
+  {
+    "input": "</>",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "</ >",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "</not> ",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "<td unclosed",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "<tag atr=\"x",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "<br /",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "<script>var x = 1",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "<script>a</script",
+    "blocks": [],
+    "sections": [],
+    "text": ""
+  },
+  {
+    "input": "<p>a<br>b<br/>c</p>",
+    "blocks": [],
+    "sections": [[0, "", "a b c", []]],
+    "text": "a b c"
+  },
+  {
+    "input": "<table><tr><td>a<div>b</div>c</td></tr></table>",
+    "blocks": [["Table", "", [], [["a bc"]]]],
+    "sections": [[0, "", "a bc", []]],
+    "text": "a bc"
+  },
+  {
+    "input": "<td title=\"a > b\">cell</td><td>other</td>",
+    "blocks": [],
+    "sections": [[0, "", "cell other", []]],
+    "text": "cell other"
+  },
+  {
+    "input": "<h3 title=\"1 > 0\">H</h3><p>after</p>",
+    "blocks": [["Heading", "H", [], []]],
+    "sections": [[3, "H", "after", []]],
+    "text": "H after"
+  },
+  {
+    "input": "<script>if (a < b && c > d) { x(); }</script><p>real &amp; data</p>",
+    "blocks": [],
+    "sections": [[0, "", "real & data", []]],
+    "text": "real & data"
+  },
+  {
+    "input": "<style>p{content:'x < y'}</style><p>styled</p>",
+    "blocks": [],
+    "sections": [[0, "", "styled", []]],
+    "text": "styled"
+  },
+  {
+    "input": "<p>&lt;tag&gt; &copy; &#38; &#x27;</p>",
+    "blocks": [],
+    "sections": [[0, "", "<tag> © & '", []]],
+    "text": "<tag> © & '"
+  },
+  {
+    "input": "<p>&#0; &#13; &#x80; &#x9f; &#xD800; &#x1F600; &#x110000; &#;</p>",
+    "blocks": [],
+    "sections": [[0, "", "� € Ÿ � 😀 � &#;", []]],
+    "text": "� € Ÿ � 😀 � &#;"
+  },
+  {
+    "input": "<p>&bogus; &CounterClockwiseContourIntegral; &fjlig; &ampx &#xD800 x</p>",
+    "blocks": [],
+    "sections": [[0, "", "&bogus; ∳ fj &x � x", []]],
+    "text": "&bogus; ∳ fj &x � x"
+  },
+  {
+    "input": "&amp; &#x41&# &#x41; &#x7f; &not &notin; &notit;",
+    "blocks": [],
+    "sections": [[0, "", "& A&# A ¬ ∉ ¬it;", []]],
+    "text": "& A&# A ¬ ∉ ¬it;"
+  },
+  {
+    "input": "<p>a&nbsp;&nbsp;b c</p>",
+    "blocks": [],
+    "sections": [[0, "", "a b c", []]],
+    "text": "a b c"
+  },
+  {
+    "input": "<p>line1\nline2\r\nline3</p>",
+    "blocks": [],
+    "sections": [[0, "", "line1 line2 line3", []]],
+    "text": "line1 line2 line3"
+  },
+  {
+    "input": "<table><thead><tr><th>Title</th></tr></thead><tbody><tr><td>body th<td>x</td></tr></tbody></table>",
+    "blocks": [["Table", "", ["Title"], [["body th", "x"]]]],
+    "sections": [[0, "", "Title body th x", []]],
+    "text": "Title body th x"
+  },
+  {
+    "input": "<table><tr><th>A</th><th>B</th></tr><tr><td>1</td></tr><tr><th></th></tr></table>",
+    "blocks": [["Table", "", ["A", "B"], [["1"]]]],
+    "sections": [[0, "", "A B 1", []]],
+    "text": "A B 1"
+  },
+  {
+    "input": "<table><tr><td>1</td><td>2</td></tr></table><table><tr><td>x</td></tr></table>",
+    "blocks": [
+      ["Table", "", [], [["1", "2"]]],
+      ["Table", "", [], [["x"]]]
+    ],
+    "sections": [[0, "", "1 2 x", []]],
+    "text": "1 2 x"
+  },
+  {
+    "input": "<h3>One</h3><p>para</p><h3>Two</h3><ul><li>i</li><li>ii</li></ul>",
+    "blocks": [
+      ["Heading", "One", [], []],
+      ["Heading", "Two", [], []]
+    ],
+    "sections": [
+      [3, "One", "para", []],
+      [3, "Two", "", ["i", "ii"]]
+    ],
+    "text": "One para Two i ii"
+  },
+  {
+    "input": "<h1>Top</h1><table><tr><th>x</th></tr></table><h2>Mid</h2>",
+    "blocks": [
+      ["Heading", "Top", [], []],
+      ["Table", "", ["x"], []],
+      ["Heading", "Mid", [], []]
+    ],
+    "sections": [
+      [1, "Top", "x", []],
+      [2, "Mid", "", []]
+    ],
+    "text": "Top x Mid"
+  },
+  {
+    "input": "text before any heading",
+    "blocks": [],
+    "sections": [[0, "", "text before any heading", []]],
+    "text": "text before any heading"
+  },
+  {
+    "input": "<table><tr><td>outer<table><tr><td>inner</td></tr></table></td></tr></table>",
+    "blocks": [["Table", "", [], [["outer"], ["inner"]]]],
+    "sections": [[0, "", "outer inner", []]],
+    "text": "outer inner"
+  }
+]

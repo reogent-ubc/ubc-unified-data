@@ -10,20 +10,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Accepted Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/cycle-stages/accepted/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Accepted Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/accepted/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/\",\"name\":\"Accepted Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Accepted\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Accepted Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Accepted Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/accepted/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/\",\"name\":\"Accepted Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/accepted\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Accepted\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Accepted Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Accepted Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/cycle-stages/accepted/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Accepted Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Accepted Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/cycle-stages/accepted/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -35,7 +31,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/cycle-stages/accepted/",
             "url": "https://you.ubc.ca/cycle-stages/accepted/",
-            "name": "Accepted Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Accepted Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -132,20 +128,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Admitted Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/cycle-stages/admitted/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Admitted Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/admitted/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/\",\"name\":\"Admitted Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Admitted\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Admitted Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Admitted Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/admitted/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/\",\"name\":\"Admitted Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/admitted\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Admitted\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Admitted Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Admitted Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/cycle-stages/admitted/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Admitted Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Admitted Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/cycle-stages/admitted/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -157,7 +149,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/cycle-stages/admitted/",
             "url": "https://you.ubc.ca/cycle-stages/admitted/",
-            "name": "Admitted Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Admitted Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -254,20 +246,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applied Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/cycle-stages/applied/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applied Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/applied/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/\",\"name\":\"Applied Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applied\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Applied Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Applied Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/applied/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/\",\"name\":\"Applied Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/applied\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Applied\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Applied Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Applied Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/cycle-stages/applied/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Applied Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Applied Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/cycle-stages/applied/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -279,7 +267,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/cycle-stages/applied/",
             "url": "https://you.ubc.ca/cycle-stages/applied/",
-            "name": "Applied Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Applied Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -376,20 +364,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Prospect Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/cycle-stages/prospect/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Prospect Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/prospect/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/\",\"name\":\"Prospect Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Prospect\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Prospect Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Prospect Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/cycle-stages/prospect/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/\",\"name\":\"Prospect Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/cycle-stages\\/prospect\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Prospect\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Prospect Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Prospect Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/cycle-stages/prospect/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Prospect Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Prospect Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/cycle-stages/prospect/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -401,7 +385,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/cycle-stages/prospect/",
             "url": "https://you.ubc.ca/cycle-stages/prospect/",
-            "name": "Prospect Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Prospect Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },

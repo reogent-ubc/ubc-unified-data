@@ -1,0 +1,24 @@
+{
+  "name": "ubc-unified-data",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "UBC public institutional open-data mirror",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "update": "tsx src/update.ts",
+    "test": "vitest run",
+    "lint": "biome check src test",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "fast-check": "4.9.0",
+    "tsx": "^4.23.11",
+    "typescript": "7.0.2",
+    "vitest": "4.1.10"
+  }
+}

@@ -10,20 +10,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Canadian Students Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/student-groups/canadian-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Canadian Students Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/canadian-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/\",\"name\":\"Canadian Students Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Canadian Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Canadian Students Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Canadian Students Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/canadian-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/\",\"name\":\"Canadian Students Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/canadian-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Canadian Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Canadian Students Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Canadian Students Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/student-groups/canadian-students/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Canadian Students Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Canadian Students Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/student-groups/canadian-students/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -35,7 +31,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/student-groups/canadian-students/",
             "url": "https://you.ubc.ca/student-groups/canadian-students/",
-            "name": "Canadian Students Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Canadian Students Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -132,20 +128,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Indigenous Students Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/student-groups/indigenous-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Indigenous Students Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/indigenous-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/\",\"name\":\"Indigenous Students Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Indigenous Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Indigenous Students Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Indigenous Students Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/indigenous-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/\",\"name\":\"Indigenous Students Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/indigenous-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Indigenous Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Indigenous Students Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Indigenous Students Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/student-groups/indigenous-students/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Indigenous Students Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Indigenous Students Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/student-groups/indigenous-students/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -157,7 +149,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/student-groups/indigenous-students/",
             "url": "https://you.ubc.ca/student-groups/indigenous-students/",
-            "name": "Indigenous Students Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Indigenous Students Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -254,20 +246,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>International Students Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/student-groups/international-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"International Students Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/international-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/\",\"name\":\"International Students Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"International Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>International Students Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"International Students Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/international-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/\",\"name\":\"International Students Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/international-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"International Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "International Students Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "International Students Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/student-groups/international-students/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "International Students Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "International Students Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/student-groups/international-students/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -279,7 +267,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/student-groups/international-students/",
             "url": "https://you.ubc.ca/student-groups/international-students/",
-            "name": "International Students Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "International Students Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -376,20 +364,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Post-secondary Transfer Students Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/student-groups/post-secondary-transfer-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Post-secondary Transfer Students Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/post-secondary-transfer-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/\",\"name\":\"Post-secondary Transfer Students Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Post-secondary Transfer Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Post-secondary Transfer Students Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Post-secondary Transfer Students Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/student-groups/post-secondary-transfer-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/\",\"name\":\"Post-secondary Transfer Students Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/student-groups\\/post-secondary-transfer-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Post-secondary Transfer Students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Post-secondary Transfer Students Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Post-secondary Transfer Students Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/student-groups/post-secondary-transfer-students/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Post-secondary Transfer Students Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Post-secondary Transfer Students Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/student-groups/post-secondary-transfer-students/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -401,7 +385,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/student-groups/post-secondary-transfer-students/",
             "url": "https://you.ubc.ca/student-groups/post-secondary-transfer-students/",
-            "name": "Post-secondary Transfer Students Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Post-secondary Transfer Students Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },

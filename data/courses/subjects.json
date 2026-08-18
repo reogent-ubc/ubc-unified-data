@@ -1,5 +1,27 @@
 [
   {
+    "id": "a9058fcc-115e-4cdf-8f6d-fae9b96f737b",
+    "type": "taxonomy_term--subject",
+    "tid": 1475,
+    "revision_id": 1475,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Exchange Programs (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/exchange-programs-okanagan",
+    "field_subject_code": "EXCH_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "7d194941-20ec-446c-aed1-3ce2cb30b824",
     "type": "taxonomy_term--subject",
     "tid": 1477,
@@ -22,6 +44,28 @@
     "campus": "vancouver"
   },
   {
+    "id": "cfd6f55f-b828-4af3-bc09-f1ebff406149",
+    "type": "taxonomy_term--subject",
+    "tid": 1480,
+    "revision_id": 1480,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Educational Psychology and Special Education (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/educational-psychology-and-special-education-okanagan",
+    "field_subject_code": "EPSE_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "dfd1b888-1e74-449d-82c5-1a45b80354df",
     "type": "taxonomy_term--subject",
     "tid": 1481,
@@ -42,6 +86,28 @@
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
     "campus": "vancouver"
+  },
+  {
+    "id": "53914675-808d-4f85-afab-cced5effd7d9",
+    "type": "taxonomy_term--subject",
+    "tid": 1483,
+    "revision_id": 1483,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Cultural Studies (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/cultural-studies-okanagan",
+    "field_subject_code": "CULT_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "b10652a5-202f-4757-8aaa-dfa07b6ffd4a",
@@ -88,6 +154,72 @@
     "campus": "vancouver"
   },
   {
+    "id": "32f80f85-8db9-4134-9c1b-d2c58817d83f",
+    "type": "taxonomy_term--subject",
+    "tid": 1487,
+    "revision_id": 1487,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Hebrew (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/hebrew-okanagan",
+    "field_subject_code": "HEBR_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "86ba77d0-8949-45d6-8bdd-631ad3b5c086",
+    "type": "taxonomy_term--subject",
+    "tid": 1490,
+    "revision_id": 1490,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Agroecology (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/agroecology-okanagan",
+    "field_subject_code": "AGRO_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "8ac6d717-8736-4a21-b4cc-13efa7b139b5",
+    "type": "taxonomy_term--subject",
+    "tid": 1492,
+    "revision_id": 1492,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Music (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/music-okanagan",
+    "field_subject_code": "MUSC_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "220604ba-6e59-42d4-8f22-b700d53cefe1",
     "type": "taxonomy_term--subject",
     "tid": 1495,
@@ -129,7 +261,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "c0cc974a-ef24-4901-bf71-f9daa688544b",
@@ -154,6 +286,28 @@
     "campus": "vancouver"
   },
   {
+    "id": "030a4728-30e3-440d-b3ca-85bb37d6fb45",
+    "type": "taxonomy_term--subject",
+    "tid": 1499,
+    "revision_id": 1499,
+    "revision_created": "2026-03-27T19:35:41+00:00",
+    "status": true,
+    "name": "Vantage College (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:41+00:00",
+    "alias": "/subject/vantage-college-okanagan",
+    "field_subject_code": "VANT_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "8af160b4-2cfb-4b60-85c3-01ec9485c1d9",
     "type": "taxonomy_term--subject",
     "tid": 1500,
@@ -174,6 +328,28 @@
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
     "campus": "vancouver"
+  },
+  {
+    "id": "83c3ff79-83f4-47c2-9d0b-f1b080dbf20f",
+    "type": "taxonomy_term--subject",
+    "tid": 1503,
+    "revision_id": 1503,
+    "revision_created": "2026-03-27T19:35:55+00:00",
+    "status": true,
+    "name": "Philosophy (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:55+00:00",
+    "alias": "/subject/philosophy-okanagan",
+    "field_subject_code": "PHIL_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "1d0708bc-ed75-4da5-862e-bcc8e88d4072",
@@ -217,7 +393,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "64446585-4362-48e3-9f5a-5403f56a67b9",
@@ -262,6 +438,28 @@
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
     "campus": "vancouver"
+  },
+  {
+    "id": "1f20007b-8fb6-4199-98d8-a54df4a257d6",
+    "type": "taxonomy_term--subject",
+    "tid": 1510,
+    "revision_id": 1510,
+    "revision_created": "2026-03-27T19:35:55+00:00",
+    "status": true,
+    "name": "Political Science (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:55+00:00",
+    "alias": "/subject/political-science-okanagan",
+    "field_subject_code": "POLI_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "5f9ed740-97ff-435c-8f53-866adc4e91d6",
@@ -327,7 +525,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "a569b16f-c570-4ad3-9d3c-6e3d91d42c57",
@@ -350,6 +548,28 @@
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
     "campus": "vancouver"
+  },
+  {
+    "id": "660a6a9b-4541-4983-a2ae-3e94b88a98d9",
+    "type": "taxonomy_term--subject",
+    "tid": 1520,
+    "revision_id": 1520,
+    "revision_created": "2026-03-27T19:35:55+00:00",
+    "status": true,
+    "name": "Management (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:35:55+00:00",
+    "alias": "/subject/management-okanagan",
+    "field_subject_code": "MGMT_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "381f9f23-cd7c-4349-90e8-4c7883b8cb9e",
@@ -393,7 +613,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "16982c7a-5f0d-4833-9369-f1c6415d5395",
@@ -440,6 +660,28 @@
     "campus": "vancouver"
   },
   {
+    "id": "779d5635-9b69-49a7-a119-13b039a1b4a5",
+    "type": "taxonomy_term--subject",
+    "tid": 1530,
+    "revision_id": 1530,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "English (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/english-okanagan",
+    "field_subject_code": "ENGL_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "54ea0a24-f1c2-416d-82f7-0d4659ede06f",
     "type": "taxonomy_term--subject",
     "tid": 1532,
@@ -460,6 +702,72 @@
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
     "campus": "vancouver"
+  },
+  {
+    "id": "af9199fa-f16b-455e-8f84-95d8ce902929",
+    "type": "taxonomy_term--subject",
+    "tid": 1534,
+    "revision_id": 1534,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "Astronomy (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/astronomy-okanagan",
+    "field_subject_code": "ASTR_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "5c0d745e-f98b-4d6a-b6eb-0ea0de41b0e7",
+    "type": "taxonomy_term--subject",
+    "tid": 1536,
+    "revision_id": 1536,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "Physics (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/physics-okanagan",
+    "field_subject_code": "PHYS_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "e78ab05b-be8a-440c-9a1d-04eb85c16736",
+    "type": "taxonomy_term--subject",
+    "tid": 1538,
+    "revision_id": 1538,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "Japanese Studies (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/japanese-studies-okanagan",
+    "field_subject_code": "JPST_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "c0d096c4-2e7b-4eff-9676-c111525b6502",
@@ -484,6 +792,72 @@
     "campus": "vancouver"
   },
   {
+    "id": "f63ba507-1b2f-4978-9cb8-2895915cba5f",
+    "type": "taxonomy_term--subject",
+    "tid": 1541,
+    "revision_id": 1541,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "Economics (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/economics-okanagan",
+    "field_subject_code": "ECON_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "c38b19b9-10fa-47bf-a345-34179682830f",
+    "type": "taxonomy_term--subject",
+    "tid": 1544,
+    "revision_id": 1544,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "Social Work (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/social-work-okanagan",
+    "field_subject_code": "SOCW_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "668febf5-0752-4d20-8936-bd9a877a99d8",
+    "type": "taxonomy_term--subject",
+    "tid": 1546,
+    "revision_id": 1546,
+    "revision_created": "2026-03-27T19:36:01+00:00",
+    "status": true,
+    "name": "Education (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:01+00:00",
+    "alias": "/subject/education-okanagan",
+    "field_subject_code": "EDUC_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "da0bf1a9-5760-4ea9-a02a-a2850973db82",
     "type": "taxonomy_term--subject",
     "tid": 1547,
@@ -506,6 +880,116 @@
     "campus": "vancouver"
   },
   {
+    "id": "14dc3a84-cd55-435a-ad48-3d50744438e8",
+    "type": "taxonomy_term--subject",
+    "tid": 1550,
+    "revision_id": 1550,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "Chemistry (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/chemistry-okanagan",
+    "field_subject_code": "CHEM_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "a637ba4f-1608-41a6-80ba-b97145016bdd",
+    "type": "taxonomy_term--subject",
+    "tid": 1552,
+    "revision_id": 1552,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "Psychology (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/psychology-okanagan",
+    "field_subject_code": "PSYO_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "ff444c2d-a89e-4d05-8ec6-8577bf3c83d9",
+    "type": "taxonomy_term--subject",
+    "tid": 1554,
+    "revision_id": 1554,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "History (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/history-okanagan",
+    "field_subject_code": "HIST_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "04168f63-ea0e-40f7-a520-d9593faf1f50",
+    "type": "taxonomy_term--subject",
+    "tid": 1556,
+    "revision_id": 1556,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "Sociology (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/sociology-okanagan",
+    "field_subject_code": "SOCI_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "598c0931-f70e-4d13-b614-0e63b5af2c46",
+    "type": "taxonomy_term--subject",
+    "tid": 1558,
+    "revision_id": 1558,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "Cooperative Education (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/cooperative-education-okanagan",
+    "field_subject_code": "COOP_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
     "id": "87a55f0b-d6fd-4d68-80b5-6ac45cb675aa",
     "type": "taxonomy_term--subject",
     "tid": 1561,
@@ -526,6 +1010,50 @@
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
     "campus": "vancouver"
+  },
+  {
+    "id": "886eda61-400e-49bb-9cd2-2709f4d98d9d",
+    "type": "taxonomy_term--subject",
+    "tid": 1564,
+    "revision_id": 1564,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "World Literature (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/world-literature-okanagan",
+    "field_subject_code": "WRLD_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "3f7dc66a-a179-4567-906b-80b9d96f9873",
+    "type": "taxonomy_term--subject",
+    "tid": 1566,
+    "revision_id": 1566,
+    "revision_created": "2026-03-27T19:36:09+00:00",
+    "status": true,
+    "name": "Media Studies (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:36:09+00:00",
+    "alias": "/subject/media-studies-okanagan",
+    "field_subject_code": "MDST_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "49566abd-b7a6-4431-bf77-e2aed4571b5e",
@@ -569,7 +1097,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "1413d074-2c08-4d34-903c-77b00f9c51ee",
@@ -635,7 +1163,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "6f518d21-475d-4428-9898-5232e2824701",
@@ -679,7 +1207,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "3a15b400-2054-4c53-b31c-3c7767e890e8",
@@ -723,7 +1251,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "c43637db-25f1-4862-8ffb-2132b2b95df3",
@@ -767,7 +1295,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "20a32832-2b93-4354-b5a9-234f1afeafaf",
@@ -811,7 +1339,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "a17b5064-0d89-4e20-85e8-0d5e8aabf787",
@@ -855,7 +1383,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "38d938d9-ca72-42ee-b440-ecf5a834b9f5",
@@ -943,7 +1471,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0fcf43bf-5b35-411d-93ae-6bde1048e481",
@@ -1009,7 +1537,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "b664ded6-8bfd-474d-9e33-576760785f6a",
@@ -1053,7 +1581,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "e8926c64-dbd8-4508-b922-ff4d35ecfd94",
@@ -1097,7 +1625,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "d3731127-4749-45d3-94bf-c63d1a03bf50",
@@ -1163,7 +1691,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "496b727a-c145-4dd5-98cf-1572b5f977d6",
@@ -1207,7 +1735,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "6e279e73-8542-4390-b752-77affdf0ed8f",
@@ -1251,7 +1779,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "75bda9c1-6a22-437c-bd4e-eebe6b39dce8",
@@ -1295,7 +1823,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "b4535b84-a3b7-4594-90bd-cbedd1126dcb",
@@ -1339,7 +1867,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "f4790f6a-ccb9-4ef1-a634-1faefe1d4d8c",
@@ -1405,7 +1933,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2474d076-d676-4292-bc6c-f93ae99c9cc7",
@@ -1449,7 +1977,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "fd25749a-0c2d-44be-b244-67e8418ab48d",
@@ -1493,7 +2021,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "95c91088-8e8f-4aa4-a6fd-f00ea94368ae",
@@ -1537,7 +2065,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "973cedce-e3d0-4a0a-a5be-1c67aa729190",
@@ -1581,7 +2109,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "4bebf967-e7c5-4226-82e0-653370f5a72e",
@@ -1625,7 +2153,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ca403450-73ac-4e19-b580-8b547a49e8d0",
@@ -1669,7 +2197,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5afc17f2-d0b0-4682-9820-189cac5f0625",
@@ -1713,7 +2241,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "e8d5cf6e-f135-4422-bca0-2d112f04d181",
@@ -1757,7 +2285,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "be4db2bc-c1f2-452a-ae5b-bae44951d155",
@@ -1801,7 +2329,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "fe17f35d-c226-472d-a239-d3e8118aa599",
@@ -1845,7 +2373,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "08e4138a-b0d6-415e-a782-f69efa1d96e2",
@@ -1889,7 +2417,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5b89f05e-a750-418b-9e35-538f5253e9d4",
@@ -1933,7 +2461,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "7a512004-fed4-492c-8527-8bc36ae73eff",
@@ -1977,7 +2505,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5c713757-addd-4e50-a5ff-2f60f17b7ea2",
@@ -2065,7 +2593,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "76db7c86-37fe-498e-9081-caccff54a0c1",
@@ -2109,7 +2637,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "92f2087c-249a-42cd-86f6-9ddabed32e2d",
@@ -2153,7 +2681,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "78b294e5-2801-4f65-b2e4-78d759c9e90a",
@@ -2197,7 +2725,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "61174f90-f769-481e-9e8c-ed113fab5811",
@@ -2241,7 +2769,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "91f94193-9ddc-46c4-95c5-25e96f82a67b",
@@ -2285,7 +2813,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "7499877e-3dc6-475e-b822-f7ead4dae95e",
@@ -2329,7 +2857,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5a343ffa-0547-48b9-9ea5-d86eb384c1f2",
@@ -2373,7 +2901,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "af379a19-c5b5-4579-ac82-32d204d3fe3f",
@@ -2417,7 +2945,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "67c0814a-0837-4f58-8037-5843c08134fc",
@@ -2461,7 +2989,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "8a3758e7-298f-45e6-bb07-a4e47b981359",
@@ -2505,7 +3033,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "81c73304-5653-46b0-9950-c86b26fa3a4e",
@@ -2571,7 +3099,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "a438aa68-146f-4bca-85bf-bcc5651ec313",
@@ -2637,7 +3165,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ee7cb161-1352-4aff-b9e2-75a5bf21ecd1",
@@ -2703,7 +3231,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "6d8b564b-425b-4bf9-beae-5ec494134704",
@@ -2747,7 +3275,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "52363798-98f6-48f7-95a1-7d21b48070e9",
@@ -2813,7 +3341,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0c2dea8d-0b73-4b4f-89e1-7032ebb4aa75",
@@ -2857,7 +3385,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "1e7ea8df-1a8e-40bc-bc53-9794c361e1bd",
@@ -2901,7 +3429,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "c4381b7e-817f-4c02-aee0-df3298ac8f96",
@@ -2967,7 +3495,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ee7d7a6b-a739-47b3-9fe1-b45c59321fcb",
@@ -3011,7 +3539,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "59bfdac0-9911-4ccc-b6a8-bbc7bdec1a66",
@@ -3055,7 +3583,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "59a9102e-ddfa-4743-87a5-f449a3a48c40",
@@ -3099,7 +3627,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ec8d1232-96ac-443f-a02c-cb64c245daae",
@@ -3143,7 +3671,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "3b54c265-cff1-458f-9fef-99899e2c8d23",
@@ -3187,7 +3715,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ff912dd0-d90e-44b9-829d-306f1a263b48",
@@ -3231,7 +3759,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "859e5591-4eea-42a5-a564-fbf04dd00a0c",
@@ -3297,7 +3825,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "3044d356-b62d-45f8-9e04-2b41faa0cc01",
@@ -3341,7 +3869,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "81c56aa3-875c-4b20-9985-a00a7a05afb3",
@@ -3385,7 +3913,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "795ec59d-abff-4447-bbaa-9b8c8c406dbf",
@@ -3451,7 +3979,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "929c0d7a-695a-481e-a66a-fa92369e2747",
@@ -3495,7 +4023,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0b05f169-8f53-4442-9be9-fb0e814df2ae",
@@ -3561,7 +4089,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "a01ed851-3ea8-4cda-a237-3fcfbf795e66",
@@ -3605,7 +4133,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "4abd2023-9561-403c-bf45-a420fc0f6677",
@@ -3649,7 +4177,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "aaf362d3-142d-47a1-b412-a79497882421",
@@ -3693,7 +4221,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "4e7c5b9f-2e22-4b95-81dc-ff3c0b9564f4",
@@ -3737,7 +4265,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "56aa0aaa-ad83-422f-bc8f-322d53002d4f",
@@ -3781,7 +4309,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "47d24efb-fa86-4557-bdcb-92e59f8f4694",
@@ -3825,7 +4353,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "03b42ac0-2dc5-4ec4-b35d-45a6270c2d5b",
@@ -3869,7 +4397,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "7cc2725f-82cd-4eb4-9451-b8365d2f7c57",
@@ -3913,7 +4441,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "01dd9774-4a91-4629-851c-4ea14168fae3",
@@ -3979,7 +4507,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "233ddbb1-2bf5-4eec-9a29-f8490ddad135",
@@ -4045,7 +4573,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "26883b69-1504-4480-a411-8ddde0850fc2",
@@ -4111,7 +4639,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "55b432bd-94ac-4f7c-bfc8-95153c8aa155",
@@ -4177,7 +4705,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "edb7020b-c3bf-4a83-bc10-26d689d5e3a5",
@@ -4265,7 +4793,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "18bf8cd7-c479-4303-8b03-9b5ed5df55ff",
@@ -4309,7 +4837,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "6ca43f32-369b-4c3d-8d74-8640e43b6cfe",
@@ -4375,7 +4903,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ebca95bb-f71f-4d1f-84c2-afaabf180283",
@@ -4441,7 +4969,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "d650a778-c581-4cb7-aae8-11f3bd7e94fa",
@@ -4485,7 +5013,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0acf43c0-2d45-4283-afd5-f8fa5ff4bb27",
@@ -4529,7 +5057,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "88c511e5-9ff0-4759-a13c-072b702e5097",
@@ -4573,7 +5101,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "bdb6e1c1-e22e-4e27-8bf2-4d070dc82b00",
@@ -4617,7 +5145,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "1a963d44-5fc6-4bf4-a924-1908a3ed4139",
@@ -4661,7 +5189,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5fb0b4e7-f7e0-48e2-a9a4-4880f26b440c",
@@ -4727,7 +5255,29 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
+  },
+  {
+    "id": "c526b796-e3c0-4176-8e2b-06fd5f2a4098",
+    "type": "taxonomy_term--subject",
+    "tid": 1781,
+    "revision_id": 1781,
+    "revision_created": "2026-03-27T19:38:23+00:00",
+    "status": true,
+    "name": "Computer Engineering (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:38:23+00:00",
+    "alias": "/subject/computer-engineering-okanagan",
+    "field_subject_code": "CMPE_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "6b6b1ecd-b9a6-45f8-84c2-cfb9f3de8b18",
@@ -4771,7 +5321,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "50d314fd-242f-4ec3-b6df-c10de2b3adce",
@@ -4815,7 +5365,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "91d5457c-00af-462b-b814-ba6b931ddc46",
@@ -4881,7 +5431,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "4d52b5ce-34c2-4cd0-adfd-807653a5fc5e",
@@ -4925,7 +5475,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "44439f99-532e-4edb-8584-968a7f126ac1",
@@ -4969,7 +5519,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2875e113-ddb3-4e7f-adc8-1b61b61c2ed7",
@@ -5035,7 +5585,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "17543f3e-e397-4540-ad1c-0e5774277f18",
@@ -5079,7 +5629,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "ac1fa2da-6664-49b0-911b-7e06cc9b08d1",
@@ -5123,7 +5673,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5bb80d9d-647b-48cd-98de-eabd40a7a987",
@@ -5167,7 +5717,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "87be0313-ad1d-4b0c-80e7-17756552a6ad",
@@ -5211,7 +5761,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5cbdefd8-bb08-4065-8f1a-900487e723c8",
@@ -5255,7 +5805,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2e37480d-c3fd-4b84-8d7a-1cace3646d29",
@@ -5299,7 +5849,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "7df4321e-2ee7-4056-9ca2-381daaf20660",
@@ -5343,7 +5893,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "d7d5de20-bb04-4679-9d9e-6af554ae44ba",
@@ -5387,7 +5937,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0fb6d269-c991-4a51-b1b2-f609886a33de",
@@ -5431,7 +5981,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "8e78d5e9-fee8-46f7-896a-5dc70c9dfafb",
@@ -5475,7 +6025,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "461daceb-4bad-4146-b29a-201b5ee8f6ad",
@@ -5519,7 +6069,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "b53f38c4-d60e-4803-a6fa-cba2038694e9",
@@ -5563,7 +6113,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "965606cd-585f-449f-ab97-484261910541",
@@ -5607,7 +6157,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "d04f1d7b-bfb2-4134-85a8-e4f92482540d",
@@ -5651,7 +6201,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "db9bae84-1bf5-40e6-98d4-9e5f5d668a5d",
@@ -5695,7 +6245,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "e94b7bd2-048a-48c0-b1be-1dd406aec9a3",
@@ -5739,7 +6289,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "633b400d-7d80-4c6a-81da-e53fe2e54c9c",
@@ -5805,7 +6355,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "b99115e3-533c-4672-b441-d20f0cfe2ae2",
@@ -5849,7 +6399,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "d4e041a6-0d1e-433d-81a2-b813c4d8f4f3",
@@ -5893,7 +6443,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "a220b9b3-a76d-452c-bcee-28a92d3d933b",
@@ -5937,7 +6487,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "84b758ab-7af9-4d90-a49a-5bfef52109c3",
@@ -5981,7 +6531,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "9818442b-e5e3-4a10-9da2-a11beea0a490",
@@ -6025,7 +6575,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "e68e8df0-f9a0-4127-b6f7-db4350c3cb31",
@@ -6091,7 +6641,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "9b7b47be-6e3e-421c-82be-5d83878dda8d",
@@ -6135,7 +6685,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "23bb7cbf-b677-4e20-af08-a04fbe3d4515",
@@ -6201,7 +6751,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2ccc2b46-93c5-4461-9379-52de8e60acc6",
@@ -6245,7 +6795,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "fc39a79f-14ff-4116-a541-4bcb8968618b",
@@ -6289,7 +6839,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "948f4671-8e1b-48b5-832c-fccb66e48799",
@@ -6355,7 +6905,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "951408de-a7e8-407a-ad26-13635e90713f",
@@ -6421,7 +6971,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "1159e738-9e35-42ef-a032-72badaac1909",
@@ -6465,7 +7015,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "c3b25763-566d-4a10-81f3-23801071f7ed",
@@ -6509,7 +7059,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "f310ba7a-2aaf-4c0c-a4bc-aa021ca157cf",
@@ -6553,7 +7103,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "8427ae17-8f5f-4d8c-aa94-8f74f93943c3",
@@ -6597,7 +7147,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2ce89c1b-7157-4d6b-af16-39c3b9f5defe",
@@ -6641,7 +7191,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "186e6db3-1602-49d1-9bf3-be579fbe9793",
@@ -6685,7 +7235,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5dd82305-c19e-4aec-9079-ff26c3999754",
@@ -6729,7 +7279,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "406da730-dacf-4070-b4bb-37802fb52f85",
@@ -6773,7 +7323,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2d33b097-b86f-4d1d-9e41-da17f2f789a9",
@@ -6817,7 +7367,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "faeb9d03-fcf4-4be7-959a-eab40c2f8e61",
@@ -6883,7 +7433,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0bced56b-0fa8-4ffb-b77e-5b6ee7a2ed95",
@@ -6949,7 +7499,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "44fba5f7-e608-4047-95ae-5a16f4373b29",
@@ -6993,7 +7543,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0ac6a1d1-df7b-43a9-9aa3-db5a934d5df4",
@@ -7059,7 +7609,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2aea6fc2-f3ec-4faf-9b7b-597897276c23",
@@ -7103,7 +7653,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "29dddf7d-e8bb-46b2-95d1-f9ea0b1fbb25",
@@ -7169,7 +7719,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "586d87ab-e84d-4ff9-b942-0b83e324f79b",
@@ -7213,7 +7763,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "5a8d2cd1-687d-4307-a34d-593b45390639",
@@ -7279,7 +7829,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "62e94d6b-f205-40d3-86ea-067dbb194807",
@@ -7323,7 +7873,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "9b72045e-7087-476c-8226-a6868cefac22",
@@ -7367,7 +7917,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "c3ec1bd9-c9ea-4fdb-ac36-0175f238d37a",
@@ -7433,7 +7983,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "cbf4468c-77c4-4617-9d13-59fafb221ad2",
@@ -7477,7 +8027,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "e7576cd5-d16d-4fe0-a747-9eeccdd65dd1",
@@ -7521,7 +8071,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "26315e19-d106-4fa6-a177-8c77f73d2c80",
@@ -7565,7 +8115,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "d31714b3-e81e-46fe-868c-bb456dd6ef41",
@@ -7631,7 +8181,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "f39a0523-a99a-456a-9f48-1c5bb0ea4993",
@@ -7675,7 +8225,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "a9417bef-4f09-4345-87f8-64763e14f275",
@@ -7741,7 +8291,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "f7a77bd3-e513-4666-b193-c71a51135c64",
@@ -7785,7 +8335,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "0270a6b0-bf2d-4acd-ac05-3e157812d17c",
@@ -7851,7 +8401,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "7e3db0ad-7e9a-4985-b16b-1a2f10868863",
@@ -7917,7 +8467,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "2f0b8e0c-963f-40e3-8bf5-834f3ba7bc71",
@@ -7961,7 +8511,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "33d32056-5cb7-4c5d-b31e-fe89873780fa",
@@ -8005,7 +8555,51 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
+  },
+  {
+    "id": "374a06ae-0738-4096-bb61-06320918a612",
+    "type": "taxonomy_term--subject",
+    "tid": 1946,
+    "revision_id": 1946,
+    "revision_created": "2026-03-27T19:38:41+00:00",
+    "status": true,
+    "name": "Secwépemc (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:38:41+00:00",
+    "alias": "/subject/secwepemc-okanagan",
+    "field_subject_code": "SECW_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
+  },
+  {
+    "id": "56c7b997-ebb3-445b-b10b-0cacac78b4b1",
+    "type": "taxonomy_term--subject",
+    "tid": 1950,
+    "revision_id": 1950,
+    "revision_created": "2026-03-27T19:38:43+00:00",
+    "status": true,
+    "name": "Commerce (Okanagan)",
+    "description": null,
+    "weight": 0,
+    "changed": "2026-03-27T19:38:43+00:00",
+    "alias": "/subject/commerce-okanagan",
+    "field_subject_code": "COMM_O",
+    "related": {
+      "vid": "f381dbf5-2e91-4c45-b8e2-daeb86e226ab",
+      "parent": [
+        "virtual"
+      ],
+      "campus": "dd9e8772-d768-423c-9277-d7e817acff4b"
+    },
+    "campus": null
   },
   {
     "id": "f2a980c8-3e37-4d7d-b4ed-71685c6c6bd2",
@@ -8049,7 +8643,7 @@
       ],
       "campus": "e57d303b-6ec3-4953-b365-a457c9d5e194"
     },
-    "campus": "vancouver"
+    "campus": null
   },
   {
     "id": "c904618b-98b9-4489-b52e-7eceb836ebdd",

@@ -1,74 +1,67 @@
-term_id,name,slug,term_group,term_taxonomy_id,taxonomy,description,parent,count,filter,term_order
-915,Acting,acting,0,920,interests,,0,1,raw,0
-881,Agriculture,agriculture,0,886,interests,,0,13,raw,0
-819,Analysis,analysis,0,824,interests,,0,52,raw,0
-824,Animals,animals,0,829,interests,,0,5,raw,0
-831,Architecture,architecture,0,836,interests,,0,2,raw,0
-836,Art,art,0,841,interests,,0,17,raw,0
-841,Asia,asia,0,846,interests,,0,4,raw,0
-823,Biology,biology,0,828,interests,,0,41,raw,0
-886,Building things,building-things,0,891,interests,,0,13,raw,0
-848,Business,business,0,853,interests,,0,18,raw,0
-821,Business development,business-development,0,826,interests,,0,2,raw,0
-855,Chemistry,chemistry,0,860,interests,,0,26,raw,0
-828,Climate change,climate-change,0,833,interests,,0,15,raw,0
-871,Composition,composition,0,876,interests,,0,2,raw,0
-892,Computers,computers,0,897,interests,,0,25,raw,0
-837,Culture,culture,0,842,interests,,0,44,raw,0
-835,Design,design,0,840,interests,,0,9,raw,0
-829,Ecology,ecology,0,834,interests,,0,5,raw,0
-907,Economy,economy,0,912,interests,,0,21,raw,0
-856,Engineering,engineering,0,861,interests,,0,24,raw,0
-893,Entrepreneurship,entrepreneurship,0,898,interests,,0,5,raw,0
-891,Environment,environment,0,896,interests,,0,35,raw,0
-869,Equality,equality,0,874,interests,,0,2,raw,0
-900,Europe,europe,0,905,interests,,0,9,raw,0
-889,Film,film,0,894,interests,,0,5,raw,0
-818,Finances,finances,0,823,interests,,0,7,raw,0
-880,First Nations,first-nations,0,885,interests,,0,14,raw,0
-864,Food,food,0,869,interests,,0,6,raw,0
-884,Forestry,forestry,0,889,interests,,0,8,raw,0
-868,Gender,gender,0,873,interests,,0,1,raw,0
-911,Geography,geography,0,916,interests,,0,6,raw,0
-912,Geology,geology,0,917,interests,,0,5,raw,0
-904,Globalization,globalization,0,909,interests,,0,17,raw,0
-820,Good with numbers,good-with-numbers,0,825,interests,,0,19,raw,0
-885,Government,government,0,890,interests,,0,3,raw,0
-863,Health,health,0,868,interests,,0,31,raw,0
-906,Helping people,helping-people,0,911,interests,,0,25,raw,0
-838,History,history,0,843,interests,,0,32,raw,0
-901,Human behaviour,human-behaviour,0,906,interests,,0,26,raw,0
-887,Inventing,inventing,0,892,interests,,0,23,raw,0
-1323,Kinesiology,kinesiology,0,1328,interests,,0,4,raw,0
-866,Languages,languages,0,871,interests,,0,18,raw,0
-932,Lanuages,lanuages,0,937,interests,,0,1,raw,0
-910,Latin America,latin-america,0,915,interests,,0,4,raw,0
-875,Marine life,marine-life,0,880,interests,,0,9,raw,0
-895,Marketing,marketing,0,900,interests,,0,5,raw,0
-878,Math,math,0,883,interests,,0,43,raw,0
-903,Media,media,0,908,interests,,0,10,raw,0
-897,Medicine,medicine,0,902,interests,,0,19,raw,0
-870,Music,music,0,875,interests,,0,5,raw,0
-898,North America,north-america,0,903,interests,,0,5,raw,0
-872,Nursing,nursing,0,877,interests,,0,2,raw,0
-883,Outdoors,outdoors,0,888,interests,,0,10,raw,0
-914,Performing,performing,0,919,interests,,0,7,raw,0
-845,Physics,physics,0,850,interests,,0,20,raw,0
-896,Physiology,physiology,0,901,interests,,0,28,raw,0
-899,Politics,politics,0,904,interests,,0,13,raw,0
-890,Pop culture,pop-culture,0,895,interests,,0,16,raw,0
-894,Psychology,psychology,0,899,interests,,0,11,raw,0
-888,Reading,reading,0,893,interests,,0,15,raw,0
-842,Religion,religion,0,847,interests,,0,12,raw,0
-909,Social justice,social-justice,0,914,interests,,0,14,raw,0
-846,Space,space,0,851,interests,,0,2,raw,0
-913,Sports,sports,0,918,interests,,0,4,raw,0
-905,Statistics,statistics,0,910,interests,,0,17,raw,0
-882,Sustainability,sustainability,0,887,interests,,0,27,raw,0
-865,Teaching,teaching,0,870,interests,,0,8,raw,0
-859,Technology,technology,0,864,interests,,0,24,raw,0
-916,Theatre,theatre,0,921,interests,,0,3,raw,0
-879,Travel,travel,0,884,interests,,0,4,raw,0
-908,Working with kids,working-with-kids,0,913,interests,,0,11,raw,0
-902,World events,world-events,0,907,interests,,0,20,raw,0
-860,Writing,writing,0,865,interests,,0,8,raw,0
+term_id,name,slug,taxonomy
+3948976845,Acting,acting,interests
+3985172586,Animals,animals,interests
+3779456605,Animation,animation,interests
+795810186,Art,art,interests
+4106025904,Artificial Intelligence (AI),artificial-intelligence-ai,interests
+1258829586,Baking and cooking,baking-cooking,interests
+1433875987,Bird or wildlife watching,bird-wildlife-watching,interests
+3212285637,Building and fixing things,building-fixing-things,interests
+4207031876,Camping,camping,interests
+2605208591,Chess,chess,interests
+3941838386,Computers and coding,computers-coding,interests
+1979775749,"Cosplay, character building or world building",cosplay-character-building-world-building,interests
+4055149110,Crafts,crafts,interests
+4162136220,Dance,dance,interests
+1909469088,Debate,debate,interests
+4214343119,Design,design,interests
+296644452,Digital arts,digital-arts,interests
+3497688324,Drawing and painting,drawing-painting,interests
+1909354164,Entrepreneurship,entrepreneurship,interests
+3151545924,Environmental action,environmental-action,interests
+3541596877,Exploring cultures,exploring-cultures,interests
+2500499319,Fitness,fitness,interests
+1028682697,Food,food,interests
+2904271204,Gardening,gardening,interests
+3957134255,Gender and sexuality,gender-sexuality,interests
+1437986676,Going for walks,going-for-walks,interests
+501643338,Helping people,helping-people,interests
+2769514293,Hiking,hiking,interests
+1248952799,History,history,interests
+1825348589,How the body works,how-the-body-works,interests
+1481580292,Human behaviour,human-behaviour,interests
+3714169496,Indigenous culture and history,indigenous-culture-history,interests
+1192414939,Inventing things,inventing-things,interests
+1030157987,Leadership and volunteering,leadership-volunteering,interests
+342941353,Learning languages,learning-languages,interests
+1948821596,Marine life,marine-life,interests
+629128180,Movies,movies,interests
+2677821396,Music,music,interests
+2790669962,Nature,nature,interests
+376630936,Photography,photography,interests
+4181312913,Planning and organizing,planning-organizing,interests
+2876509881,Playing an instrument,playing-instrument,interests
+1640973582,Politics,politics,interests
+3461931775,Pop culture,pop-culture,interests
+3496947283,Pottery and textiles,pottery-textiles,interests
+460031769,Problem solving,problem-solving,interests
+4083978177,Public speaking,public-speaking,interests
+582946604,Puzzles and games,puzzles-games,interests
+775837691,Reading,reading,interests
+3068714876,Reasoning behind things,reasoning-behind-things,interests
+3235814191,Rock and gem collecting,rock-gem-collecting,interests
+2461791673,Running experiments,running-experiments,interests
+346360044,Singing and songwriting,singing-songwriting,interests
+444110842,Social justice,social-justice,interests
+1486153115,Social media,social-media,interests
+894689925,Space,space,interests
+2644274870,Spirituality and religion,spirituality-religion,interests
+546992826,Sports,sports,interests
+514922210,Teaching people,teaching-people,interests
+1418100143,Technology,technology,interests
+4114175820,Theatre,theatre,interests
+3865147129,Travel,travel,interests
+3015131076,Visiting museums,visiting-museums,interests
+4213596847,Website design,website-design,interests
+1731601707,Woodworking,woodworking,interests
+3748041039,Writing,writing,interests

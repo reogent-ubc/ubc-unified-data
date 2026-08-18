@@ -4,9 +4,9 @@
     "file_type": "pdf",
     "url": "https://vpfo-facilities.sites.olt.ubc.ca/files/2025/02/2019-UBC_EWS_DES.pdf",
     "filename": "2019-UBC_EWS_DES.pdf",
-    "page_title": "Hot Water District Energy System (ADES)",
-    "page_url": "https://facilities.ubc.ca/infrastructure-and-systems/hot-water-district-energy-system-ades/",
-    "page_modified": "2025-07-02T22:16:23",
+    "page_title": "Utilities Metrics and Data",
+    "page_url": "https://facilities.ubc.ca/infrastructure-and-systems/utilities-metrics-and-data/",
+    "page_modified": "2026-03-05T16:40:15",
     "linked_from_pages": 2
   },
   {
@@ -67,7 +67,7 @@
     "page_title": "Seismic",
     "page_url": "https://facilities.ubc.ca/projects/seismic/",
     "page_modified": "2025-07-08T17:18:25",
-    "linked_from_pages": 1
+    "linked_from_pages": 2
   },
   {
     "site": "facilities",
@@ -77,7 +77,7 @@
     "page_title": "Seismic",
     "page_url": "https://facilities.ubc.ca/projects/seismic/",
     "page_modified": "2025-07-08T17:18:25",
-    "linked_from_pages": 1
+    "linked_from_pages": 3
   },
   {
     "site": "facilities",
@@ -87,7 +87,7 @@
     "page_title": "Seismic",
     "page_url": "https://facilities.ubc.ca/projects/seismic/",
     "page_modified": "2025-07-08T17:18:25",
-    "linked_from_pages": 1
+    "linked_from_pages": 2
   },
   {
     "site": "facilities",
@@ -187,7 +187,7 @@
     "page_title": "Sustainability",
     "page_url": "https://facilities.ubc.ca/projects/sustainability/",
     "page_modified": "2025-07-03T21:31:24",
-    "linked_from_pages": 1
+    "linked_from_pages": 3
   },
   {
     "site": "facilities",
@@ -197,7 +197,7 @@
     "page_title": "Submit a service request",
     "page_url": "https://facilities.ubc.ca/services/submit-a-service-request/",
     "page_modified": "2025-10-14T17:50:05",
-    "linked_from_pages": 1
+    "linked_from_pages": 2
   },
   {
     "site": "facilities",
@@ -444,9 +444,9 @@
     "file_type": "pdf",
     "url": "https://vpfo-facilities.sites.olt.ubc.ca/files/2025/02/UBC-EN-Outreach-Report.pdf",
     "filename": "UBC-EN-Outreach-Report.pdf",
-    "page_title": "Bioenergy Research Demonstration Facility (BRDF)",
-    "page_url": "https://facilities.ubc.ca/infrastructure-and-systems/bioenergy-research-demonstration-facility-brdf/",
-    "page_modified": "2025-10-14T21:21:28",
+    "page_title": "Utilities Metrics and Data",
+    "page_url": "https://facilities.ubc.ca/infrastructure-and-systems/utilities-metrics-and-data/",
+    "page_modified": "2026-03-05T16:40:15",
     "linked_from_pages": 2
   },
   {
@@ -464,9 +464,9 @@
     "file_type": "pdf",
     "url": "https://vpfo-facilities.sites.olt.ubc.ca/files/2025/02/UBC-FR-Outreach-Report.pdf",
     "filename": "UBC-FR-Outreach-Report.pdf",
-    "page_title": "Bioenergy Research Demonstration Facility (BRDF)",
-    "page_url": "https://facilities.ubc.ca/infrastructure-and-systems/bioenergy-research-demonstration-facility-brdf/",
-    "page_modified": "2025-10-14T21:21:28",
+    "page_title": "Utilities Metrics and Data",
+    "page_url": "https://facilities.ubc.ca/infrastructure-and-systems/utilities-metrics-and-data/",
+    "page_modified": "2026-03-05T16:40:15",
     "linked_from_pages": 2
   },
   {
@@ -674,10 +674,10 @@
     "file_type": "pdf",
     "url": "https://share.ca/wp-content/uploads/2026/01/1.UBCIM-Social-Risks-Primer_FV_29-10-14_ONLINE_V02.pdf",
     "filename": "1.UBCIM-Social-Risks-Primer_FV_29-10-14_ONLINE_V02.pdf",
-    "page_title": "Update on UBC and UBCIM Responsible Investing Commitments",
-    "page_url": "https://finance.ubc.ca/news/update-on-ubc-and-ubcim-responsible-investing-commitments/",
-    "page_modified": "2026-02-03T21:08:51",
-    "linked_from_pages": 2
+    "page_title": "Responsible Investing",
+    "page_url": "https://finance.ubc.ca/ubcs-finances/the-university-endowment/responsible-investing/",
+    "page_modified": "2026-02-03T19:32:03",
+    "linked_from_pages": 4
   },
   {
     "site": "finance",
@@ -724,9 +724,9 @@
     "file_type": "pdf",
     "url": "https://bog3.sites.olt.ubc.ca/files/2020/09/4_2020.09_Investing-Update.pdf",
     "filename": "4_2020.09_Investing-Update.pdf",
-    "page_title": "Update on UBC and UBCIM Responsible Investing Commitments",
-    "page_url": "https://finance.ubc.ca/news/update-on-ubcs-and-ubcim-responsible-investing-commitments/",
-    "page_modified": "2025-04-04T19:21:01",
+    "page_title": "Responsible Investing",
+    "page_url": "https://finance.ubc.ca/ubcs-finances/the-university-endowment/responsible-investing/",
+    "page_modified": "2026-02-03T19:32:03",
     "linked_from_pages": 3
   },
   {
@@ -737,7 +737,7 @@
     "page_title": "Payment Options",
     "page_url": "https://finance.ubc.ca/doing-business-with-ubc/invoicing-payment/payment-options/",
     "page_modified": "2026-07-29T18:24:44",
-    "linked_from_pages": 1
+    "linked_from_pages": 3
   },
   {
     "site": "finance",
@@ -747,7 +747,7 @@
     "page_title": "Payment Options",
     "page_url": "https://finance.ubc.ca/doing-business-with-ubc/invoicing-payment/payment-options/",
     "page_modified": "2026-07-29T18:24:44",
-    "linked_from_pages": 1
+    "linked_from_pages": 2
   },
   {
     "site": "finance",
@@ -794,9 +794,9 @@
     "file_type": "pdf",
     "url": "https://vpfo-finance-2024.sites.olt.ubc.ca/files/2024/11/FY23.pdf",
     "filename": "FY23.pdf",
-    "page_title": "Read UBC’s 2023 Annual Financial Statements",
-    "page_url": "https://finance.ubc.ca/news/read-ubcs-2023-annual-financial-statements/",
-    "page_modified": "2024-12-10T18:44:51",
+    "page_title": "Reporting",
+    "page_url": "https://finance.ubc.ca/ubcs-finances/reporting/",
+    "page_modified": "2025-12-01T17:17:34",
     "linked_from_pages": 2
   },
   {
@@ -814,9 +814,9 @@
     "file_type": "pdf",
     "url": "https://vpfo-finance-2024.sites.olt.ubc.ca/files/2024/11/FY24.pdf",
     "filename": "FY24.pdf",
-    "page_title": "Read UBC’s 2024 Annual Financial Statements",
-    "page_url": "https://finance.ubc.ca/news/read-ubcs-2024-annual-financial-statements/",
-    "page_modified": "2024-12-19T16:33:32",
+    "page_title": "Reporting",
+    "page_url": "https://finance.ubc.ca/ubcs-finances/reporting/",
+    "page_modified": "2025-12-01T17:17:34",
     "linked_from_pages": 2
   },
   {
@@ -844,9 +844,9 @@
     "file_type": "pdf",
     "url": "https://vpfo-finance-2024.sites.olt.ubc.ca/files/2025/08/FY25.pdf",
     "filename": "FY25.pdf",
-    "page_title": "Read UBC’s 2025 Annual Financial Statements",
-    "page_url": "https://finance.ubc.ca/news/read-ubcs-2025-annual-financial-statements/",
-    "page_modified": "2025-08-11T16:33:41",
+    "page_title": "Reporting",
+    "page_url": "https://finance.ubc.ca/ubcs-finances/reporting/",
+    "page_modified": "2025-12-01T17:17:34",
     "linked_from_pages": 2
   },
   {
@@ -917,7 +917,7 @@
     "page_title": "Payment Options",
     "page_url": "https://finance.ubc.ca/doing-business-with-ubc/invoicing-payment/payment-options/",
     "page_modified": "2026-07-29T18:24:44",
-    "linked_from_pages": 1
+    "linked_from_pages": 2
   },
   {
     "site": "finance",
@@ -1316,7 +1316,7 @@
     "filename": "NUBC-2020-Attenders-Questionnaire.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1326,7 +1326,7 @@
     "filename": "NUBC-2020-Non-Attenders-Questionnaire.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1336,7 +1336,7 @@
     "filename": "NUBC-2020-Van-Ugrad-Final_20201104_V5.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1346,7 +1346,7 @@
     "filename": "NUBC-2021-Okanagan-Direct-Entry-Report.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1356,7 +1356,7 @@
     "filename": "NUBC-2021-Questionnaire.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1366,7 +1366,7 @@
     "filename": "NUBC-2021-Vancouver-Direct-Entry-Report.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1376,7 +1376,7 @@
     "filename": "NUBC-2022-Okanagan-Direct-Entry-Public-Report-Jan-16-2023.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1386,7 +1386,7 @@
     "filename": "NUBC-2022-Questionnaire.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1396,7 +1396,7 @@
     "filename": "NUBC-2022-Vancouver-Direct-Entry-Public-Report-Jan-16-2023.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1406,7 +1406,7 @@
     "filename": "NUBC-2023-Okanagan-Direct-Entry-Report-Public-v1.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1416,7 +1416,7 @@
     "filename": "NUBC-2023-Vancouver-Direct-Entry-Report-Public-v4.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1426,7 +1426,7 @@
     "filename": "NUBC-Attenders-Questionnaire-2019.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1436,7 +1436,7 @@
     "filename": "NUBC-Non-Attenders-Questionnaire-2019.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1446,7 +1446,7 @@
     "filename": "NUBC2020OkanaganGraduateReport_NoComments.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1456,7 +1456,7 @@
     "filename": "NUBC2021GradReport_RPT_20211101_rev0.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1466,7 +1466,7 @@
     "filename": "NUBC2022GradReportFINAL_RPT_20221214_rev1.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1476,7 +1476,7 @@
     "filename": "NUBC2023GradReport_RPT_20231206_rev0.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1486,7 +1486,7 @@
     "filename": "NUBC2024GradReportFINAL_RPT_20241014_rev0.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1496,7 +1496,7 @@
     "filename": "NUBC2025GradReport_RPT_20250924_FINAL.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1506,7 +1506,7 @@
     "filename": "NUBCOkanaganFinalReport_RPT_20201106_rev1.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1516,7 +1516,7 @@
     "filename": "NUBCOkanaganGraduateAttenders2019_rpt_20200616_rev0.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1526,7 +1526,7 @@
     "filename": "NUBCOkanaganUndergradAttendersDirectEntry2019_20200616_rev0.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {
@@ -1536,7 +1536,7 @@
     "filename": "NUBCOkanaganUndergradAttendersTransfer2019_20200616_rev0.pdf",
     "page_title": "New to UBC Survey",
     "page_url": "https://pair.ubc.ca/surveys/nubc/",
-    "page_modified": "2026-07-28T19:18:52",
+    "page_modified": "2026-08-06T19:06:29",
     "linked_from_pages": 1
   },
   {

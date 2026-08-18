@@ -10,20 +10,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>After UBC Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life-topics/after-ubc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"After UBC Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/after-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/\",\"name\":\"After UBC Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"After UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>After UBC Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"After UBC Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/after-ubc/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/\",\"name\":\"After UBC Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/after-ubc\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"After UBC\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "After UBC Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "After UBC Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/ubc-life-topics/after-ubc/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "After UBC Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "After UBC Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/ubc-life-topics/after-ubc/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -35,7 +31,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/ubc-life-topics/after-ubc/",
             "url": "https://you.ubc.ca/ubc-life-topics/after-ubc/",
-            "name": "After UBC Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "After UBC Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -132,20 +128,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Degrees and programs Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life-topics/degrees-programs/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Degrees and programs Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/degrees-programs/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/\",\"name\":\"Degrees and programs Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Degrees and programs\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Degrees and programs Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Degrees and programs Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/degrees-programs/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/\",\"name\":\"Degrees and programs Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/degrees-programs\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Degrees and programs\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Degrees and programs Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Degrees and programs Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/ubc-life-topics/degrees-programs/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Degrees and programs Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Degrees and programs Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/ubc-life-topics/degrees-programs/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -157,7 +149,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/ubc-life-topics/degrees-programs/",
             "url": "https://you.ubc.ca/ubc-life-topics/degrees-programs/",
-            "name": "Degrees and programs Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Degrees and programs Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -254,20 +246,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Events and tours Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life-topics/events-tours/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Events and tours Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/events-tours/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/\",\"name\":\"Events and tours Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events and tours\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Events and tours Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Events and tours Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/events-tours/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/\",\"name\":\"Events and tours Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/events-tours\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events and tours\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Events and tours Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Events and tours Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/ubc-life-topics/events-tours/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Events and tours Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Events and tours Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/ubc-life-topics/events-tours/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -279,7 +267,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/ubc-life-topics/events-tours/",
             "url": "https://you.ubc.ca/ubc-life-topics/events-tours/",
-            "name": "Events and tours Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Events and tours Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -376,20 +364,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Finances Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life-topics/finances/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Finances Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/finances/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/\",\"name\":\"Finances Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Finances\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Finances Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Finances Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/finances/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/\",\"name\":\"Finances Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/finances\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Finances\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Finances Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Finances Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/ubc-life-topics/finances/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Finances Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Finances Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/ubc-life-topics/finances/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -401,7 +385,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/ubc-life-topics/finances/",
             "url": "https://you.ubc.ca/ubc-life-topics/finances/",
-            "name": "Finances Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Finances Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -498,20 +482,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Tips from UBC students Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tips from UBC students Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/\",\"name\":\"Tips from UBC students Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tips from UBC students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Tips from UBC students Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tips from UBC students Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/\",\"name\":\"Tips from UBC students Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/tips-from-ubc-students\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tips from UBC students\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "Tips from UBC students Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "Tips from UBC students Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "Tips from UBC students Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "Tips from UBC students Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -523,7 +503,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/",
             "url": "https://you.ubc.ca/ubc-life-topics/tips-from-ubc-students/",
-            "name": "Tips from UBC students Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "Tips from UBC students Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },
@@ -620,20 +600,16 @@
     "parent": 0,
     "meta": [],
     "acf": [],
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC stories Archives - UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://you.ubc.ca/ubc-life-topics/ubc-stories/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC stories Archives - UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/ubc-stories/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/\",\"name\":\"UBC stories Archives - UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC stories\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>UBC stories Archives | UBC | Undergraduate Programs and Admissions</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"UBC stories Archives | UBC | Undergraduate Programs and Admissions\" />\n<meta property=\"og:url\" content=\"https://you.ubc.ca/ubc-life-topics/ubc-stories/\" />\n<meta property=\"og:site_name\" content=\"UBC | Undergraduate Programs and Admissions\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@youbc\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/\",\"url\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/\",\"name\":\"UBC stories Archives | UBC | Undergraduate Programs and Admissions\",\"isPartOf\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/you.ubc.ca\\/ubc-life-topics\\/ubc-stories\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/you.ubc.ca\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"UBC stories\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/you.ubc.ca\\/#website\",\"url\":\"https:\\/\\/you.ubc.ca\\/\",\"name\":\"UBC | Undergraduate Programs and Admissions\",\"description\":\"UBC | Undergraduate Programs and Admissions\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/you.ubc.ca\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
     "yoast_head_json": {
-      "title": "UBC stories Archives - UBC | Undergraduate Programs and Admissions",
+      "title": "UBC stories Archives | UBC | Undergraduate Programs and Admissions",
       "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
+        "index": "noindex",
+        "follow": "follow"
       },
-      "canonical": "https://you.ubc.ca/ubc-life-topics/ubc-stories/",
       "og_locale": "en_US",
       "og_type": "article",
-      "og_title": "UBC stories Archives - UBC | Undergraduate Programs and Admissions",
+      "og_title": "UBC stories Archives | UBC | Undergraduate Programs and Admissions",
       "og_url": "https://you.ubc.ca/ubc-life-topics/ubc-stories/",
       "og_site_name": "UBC | Undergraduate Programs and Admissions",
       "twitter_card": "summary_large_image",
@@ -645,7 +621,7 @@
             "@type": "CollectionPage",
             "@id": "https://you.ubc.ca/ubc-life-topics/ubc-stories/",
             "url": "https://you.ubc.ca/ubc-life-topics/ubc-stories/",
-            "name": "UBC stories Archives - UBC | Undergraduate Programs and Admissions",
+            "name": "UBC stories Archives | UBC | Undergraduate Programs and Admissions",
             "isPartOf": {
               "@id": "https://you.ubc.ca/#website"
             },

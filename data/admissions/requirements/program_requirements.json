@@ -5,7 +5,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/ancient-mediterranean-near-eastern-studies/",
+    "url": "https://you.ubc.ca/programs/ancient-mediterranean-near-eastern-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -17,7 +17,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/anthropology-vancouver/",
+    "url": "https://you.ubc.ca/programs/anthropology-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -29,7 +29,7 @@
     "degrees": [
       "Bachelor of Science in Applied Biology"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/applied-animal-biology/",
+    "url": "https://you.ubc.ca/programs/applied-animal-biology/",
     "campus": "vancouver",
     "requirement_key": "applied-biology",
     "has_requirements": true,
@@ -41,7 +41,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/archaeology/",
+    "url": "https://you.ubc.ca/programs/archaeology/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -53,7 +53,7 @@
     "degrees": [
       "Master of Architecture"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/architecture/",
+    "url": "https://you.ubc.ca/programs/architecture/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -65,7 +65,7 @@
     "degrees": [
       "Bachelor of Design in Architecture, Landscape Architecture, and Urbanism"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/architecture-landscape-architecture-and-urbanism/",
+    "url": "https://you.ubc.ca/programs/architecture-landscape-architecture-and-urbanism/",
     "campus": "vancouver",
     "requirement_key": "design-in-architecture-landscape-architecture-and-urbanism",
     "has_requirements": true,
@@ -77,7 +77,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/art-history/",
+    "url": "https://you.ubc.ca/programs/art-history/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -89,7 +89,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/asian-area-studies/",
+    "url": "https://you.ubc.ca/programs/asian-area-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -101,7 +101,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/asian-language-culture/",
+    "url": "https://you.ubc.ca/programs/asian-language-culture/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -113,7 +113,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/astronomy/",
+    "url": "https://you.ubc.ca/programs/astronomy/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -125,7 +125,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/atmospheric-science/",
+    "url": "https://you.ubc.ca/programs/atmospheric-science/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -148,7 +148,7 @@
       "Bachelor of Science in Wood Products Processing",
       "Master of Management"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/master-management-dual-degree/",
+    "url": "https://you.ubc.ca/programs/master-management-dual-degree/",
     "campus": "vancouver",
     "requirement_key": "bachelor-master-management",
     "has_requirements": true,
@@ -160,7 +160,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/biochemistry/",
+    "url": "https://you.ubc.ca/programs/biochemistry/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -172,7 +172,7 @@
     "degrees": [
       "Bachelor of Science in Natural Resources"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/bioeconomy-sciences-technology/",
+    "url": "https://you.ubc.ca/programs/bioeconomy-sciences-technology/",
     "campus": "vancouver",
     "requirement_key": "natural-resources",
     "has_requirements": true,
@@ -184,7 +184,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/biology-vancouver/",
+    "url": "https://you.ubc.ca/programs/biology-vancouver/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -196,7 +196,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/biomedical-engineering/",
+    "url": "https://you.ubc.ca/programs/biomedical-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -208,7 +208,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/biophysics/",
+    "url": "https://you.ubc.ca/programs/biophysics/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -220,7 +220,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/biotechnology/",
+    "url": "https://you.ubc.ca/programs/biotechnology/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -232,7 +232,7 @@
     "degrees": [
       "Bachelor of Commerce"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/business-computer-science/",
+    "url": "https://you.ubc.ca/programs/business-computer-science/",
     "campus": "vancouver",
     "requirement_key": "commerce",
     "has_requirements": true,
@@ -244,7 +244,7 @@
     "degrees": [
       "Bachelor of Science in Food and Resource Economics"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/business-and-markets/",
+    "url": "https://you.ubc.ca/programs/business-and-markets/",
     "campus": "vancouver",
     "requirement_key": "food-and-resource-economics",
     "has_requirements": true,
@@ -256,7 +256,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/canadian-studies/",
+    "url": "https://you.ubc.ca/programs/canadian-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -268,21 +268,9 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/cellular-anatomical-physiological-sciences/",
+    "url": "https://you.ubc.ca/programs/cellular-anatomical-physiological-sciences/",
     "campus": "vancouver",
     "requirement_key": "science-2",
-    "has_requirements": true,
-    "note": null
-  },
-  {
-    "program_id": 83801,
-    "program": "Chemical Engineering",
-    "degrees": [
-      "Bachelor of Applied Science (Engineering)"
-    ],
-    "url": "https://you.ubc.ca/ubc_programs/chemical-engineering/",
-    "campus": "vancouver",
-    "requirement_key": "engineering",
     "has_requirements": true,
     "note": null
   },
@@ -292,7 +280,19 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/chemical-biological-engineering/",
+    "url": "https://you.ubc.ca/programs/chemical-biological-engineering/",
+    "campus": "vancouver",
+    "requirement_key": "engineering",
+    "has_requirements": true,
+    "note": null
+  },
+  {
+    "program_id": 83801,
+    "program": "Chemical Engineering",
+    "degrees": [
+      "Bachelor of Applied Science (Engineering)"
+    ],
+    "url": "https://you.ubc.ca/programs/chemical-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -304,7 +304,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/chemistry-vancouver/",
+    "url": "https://you.ubc.ca/programs/chemistry-vancouver/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -316,7 +316,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/cinema-studies/",
+    "url": "https://you.ubc.ca/programs/cinema-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -328,7 +328,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/civil-engineering-vancouver/",
+    "url": "https://you.ubc.ca/programs/civil-engineering-vancouver/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -340,7 +340,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/cognitive-systems-ba/",
+    "url": "https://you.ubc.ca/programs/cognitive-systems-ba/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -352,7 +352,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/cognitive-systems-bsc/",
+    "url": "https://you.ubc.ca/programs/cognitive-systems-bsc/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -364,7 +364,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/science-combined-major/",
+    "url": "https://you.ubc.ca/programs/science-combined-major/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -377,7 +377,7 @@
       "Bachelor of Arts",
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/statistics-combined-majors/",
+    "url": "https://you.ubc.ca/programs/statistics-combined-majors/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -389,7 +389,7 @@
     "degrees": [
       "Bachelor of Commerce"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/commerce/",
+    "url": "https://you.ubc.ca/programs/commerce/",
     "campus": "vancouver",
     "requirement_key": "commerce",
     "has_requirements": true,
@@ -401,7 +401,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/computer-engineering/",
+    "url": "https://you.ubc.ca/programs/computer-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -413,7 +413,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/computer-science-vancouver-ba/",
+    "url": "https://you.ubc.ca/programs/computer-science-vancouver-ba/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -425,7 +425,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/",
+    "url": "https://you.ubc.ca/programs/computer-science-vancouver-bsc/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -437,7 +437,7 @@
     "degrees": [
       "Bachelor of Science in Natural Resources"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/conservation/",
+    "url": "https://you.ubc.ca/programs/conservation/",
     "campus": "vancouver",
     "requirement_key": "natural-resources",
     "has_requirements": true,
@@ -449,7 +449,7 @@
     "degrees": [
       "Bachelor of Fine Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/creative-writing-vancouver/",
+    "url": "https://you.ubc.ca/programs/creative-writing-vancouver/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -461,7 +461,7 @@
     "degrees": [
       "Bachelor of Science in Food and Resource Economics"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/data-analytics/",
+    "url": "https://you.ubc.ca/programs/data-analytics/",
     "campus": "vancouver",
     "requirement_key": "food-and-resource-economics",
     "has_requirements": true,
@@ -473,7 +473,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/data-science-vancouver/",
+    "url": "https://you.ubc.ca/programs/data-science-vancouver/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -485,7 +485,7 @@
     "degrees": [
       "Bachelor of Dental Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/dental-hygiene/",
+    "url": "https://you.ubc.ca/programs/dental-hygiene/",
     "campus": "vancouver",
     "requirement_key": "dental-hygiene",
     "has_requirements": true,
@@ -497,7 +497,7 @@
     "degrees": [
       "Doctor of Dental Medicine"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/dentistry/",
+    "url": "https://you.ubc.ca/programs/dentistry/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -509,7 +509,7 @@
     "degrees": [
       "Bachelor of Science in Food, Nutrition, and Health"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/dietetics/",
+    "url": "https://you.ubc.ca/programs/dietetics/",
     "campus": "vancouver",
     "requirement_key": "food-nutrition-health",
     "has_requirements": true,
@@ -521,7 +521,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/earth-ocean-sciences/",
+    "url": "https://you.ubc.ca/programs/earth-ocean-sciences/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -533,7 +533,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/economics-vancouver/",
+    "url": "https://you.ubc.ca/programs/economics-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -545,7 +545,7 @@
     "degrees": [
       "Bachelor of Education"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/education-elementary-middle-years/",
+    "url": "https://you.ubc.ca/programs/education-elementary-middle-years/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -557,7 +557,7 @@
     "degrees": [
       "Bachelor of Education"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/education-nitep/",
+    "url": "https://you.ubc.ca/programs/education-nitep/",
     "campus": "vancouver",
     "requirement_key": "indigenous-teacher-education-program-nitep",
     "has_requirements": true,
@@ -569,7 +569,7 @@
     "degrees": [
       "Bachelor of Education"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/education-ib/",
+    "url": "https://you.ubc.ca/programs/education-ib/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -581,7 +581,7 @@
     "degrees": [
       "Bachelor of Education"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/education-secondary/",
+    "url": "https://you.ubc.ca/programs/education-secondary/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -593,7 +593,7 @@
     "degrees": [
       "Bachelor of Education"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/education-wktep/",
+    "url": "https://you.ubc.ca/programs/education-wktep/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -605,7 +605,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/",
+    "url": "https://you.ubc.ca/programs/electrical-engineering-vancouver/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -617,7 +617,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/engineering-physics/",
+    "url": "https://you.ubc.ca/programs/engineering-physics/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -629,7 +629,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/english-vancouver/",
+    "url": "https://you.ubc.ca/programs/english-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -641,7 +641,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/engineering-environmental/",
+    "url": "https://you.ubc.ca/programs/engineering-environmental/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -653,7 +653,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/environmental-engineering-joint-unbc-ubc/",
+    "url": "https://you.ubc.ca/programs/environmental-engineering-joint-unbc-ubc/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -665,7 +665,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/environmental-sciences/",
+    "url": "https://you.ubc.ca/programs/environmental-sciences/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -677,7 +677,7 @@
     "degrees": [
       "Bachelor of Fine Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/film-production/",
+    "url": "https://you.ubc.ca/programs/film-production/",
     "campus": "vancouver",
     "requirement_key": "fine-arts",
     "has_requirements": true,
@@ -689,7 +689,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/first-nations-endangered-languages/",
+    "url": "https://you.ubc.ca/programs/first-nations-endangered-languages/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -701,21 +701,9 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/first-nations-indigenous-studies/",
+    "url": "https://you.ubc.ca/programs/first-nations-indigenous-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
-    "has_requirements": true,
-    "note": null
-  },
-  {
-    "program_id": 552201,
-    "program": "Food Science",
-    "degrees": [
-      "Bachelor of Science in Food, Nutrition, and Health"
-    ],
-    "url": "https://you.ubc.ca/ubc_programs/food-science/",
-    "campus": "vancouver",
-    "requirement_key": "food-nutrition-health",
     "has_requirements": true,
     "note": null
   },
@@ -725,7 +713,19 @@
     "degrees": [
       "Bachelor of Science in Food, Nutrition, and Health"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/food-nutritional-sciences/",
+    "url": "https://you.ubc.ca/programs/food-nutritional-sciences/",
+    "campus": "vancouver",
+    "requirement_key": "food-nutrition-health",
+    "has_requirements": true,
+    "note": null
+  },
+  {
+    "program_id": 552201,
+    "program": "Food Science",
+    "degrees": [
+      "Bachelor of Science in Food, Nutrition, and Health"
+    ],
+    "url": "https://you.ubc.ca/programs/food-science/",
     "campus": "vancouver",
     "requirement_key": "food-nutrition-health",
     "has_requirements": true,
@@ -737,7 +737,7 @@
     "degrees": [
       "Bachelor of Science in Food, Nutrition, and Health"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/food-nutrition-and-health/",
+    "url": "https://you.ubc.ca/programs/food-nutrition-and-health/",
     "campus": "vancouver",
     "requirement_key": "food-nutrition-health",
     "has_requirements": true,
@@ -749,7 +749,7 @@
     "degrees": [
       "Bachelor of Science in Natural Resources"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/forest-management/",
+    "url": "https://you.ubc.ca/programs/forest-management/",
     "campus": "vancouver",
     "requirement_key": "natural-resources",
     "has_requirements": true,
@@ -761,7 +761,7 @@
     "degrees": [
       "Bachelor of Science in Natural Resources"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/forest-operations/",
+    "url": "https://you.ubc.ca/programs/forest-operations/",
     "campus": "vancouver",
     "requirement_key": "natural-resources",
     "has_requirements": true,
@@ -773,7 +773,7 @@
     "degrees": [
       "Bachelor of Science in Natural Resources"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/forest-sciences/",
+    "url": "https://you.ubc.ca/programs/forest-sciences/",
     "campus": "vancouver",
     "requirement_key": "natural-resources",
     "has_requirements": true,
@@ -785,7 +785,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/french-vancouver/",
+    "url": "https://you.ubc.ca/programs/french-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -797,7 +797,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/gender-race-sexuality-social-justice/",
+    "url": "https://you.ubc.ca/programs/gender-race-sexuality-social-justice/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -809,7 +809,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/geographical-sciences/",
+    "url": "https://you.ubc.ca/programs/geographical-sciences/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -821,7 +821,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/geo-environment-sustainability/",
+    "url": "https://you.ubc.ca/programs/geo-environment-sustainability/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -833,7 +833,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/human-geography/",
+    "url": "https://you.ubc.ca/programs/human-geography/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -845,7 +845,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/geological-engineering/",
+    "url": "https://you.ubc.ca/programs/geological-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -857,7 +857,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/geology/",
+    "url": "https://you.ubc.ca/programs/geology/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -869,7 +869,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/geophysics/",
+    "url": "https://you.ubc.ca/programs/geophysics/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -881,7 +881,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/german/",
+    "url": "https://you.ubc.ca/programs/german/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -893,7 +893,7 @@
     "degrees": [
       "Bachelor of Science in Global Resource Systems"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/global-resource-systems/",
+    "url": "https://you.ubc.ca/programs/global-resource-systems/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -905,7 +905,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/history-vancouver/",
+    "url": "https://you.ubc.ca/programs/history-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -917,7 +917,7 @@
     "degrees": [
       "Bachelor of Indigenous Land Stewardship"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/indigenous-land-stewardship/",
+    "url": "https://you.ubc.ca/programs/indigenous-land-stewardship/",
     "campus": "vancouver",
     "requirement_key": "indigenous-land-stewardship",
     "has_requirements": true,
@@ -929,7 +929,7 @@
     "degrees": [
       "Bachelor of Computer Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/integrated-computer-science/",
+    "url": "https://you.ubc.ca/programs/integrated-computer-science/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -941,7 +941,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/integrated-engineering/",
+    "url": "https://you.ubc.ca/programs/integrated-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -953,7 +953,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/integrated-sciences/",
+    "url": "https://you.ubc.ca/programs/integrated-sciences/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -965,7 +965,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/interdisciplinary-studies/",
+    "url": "https://you.ubc.ca/programs/interdisciplinary-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -977,7 +977,7 @@
     "degrees": [
       "Bachelor of International Economics"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/international-economics/",
+    "url": "https://you.ubc.ca/programs/international-economics/",
     "campus": "vancouver",
     "requirement_key": "international-economics",
     "has_requirements": true,
@@ -989,7 +989,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/international-relations-vancouver/",
+    "url": "https://you.ubc.ca/programs/international-relations-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1001,7 +1001,7 @@
     "degrees": [
       "Master of Journalism"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/journalism/",
+    "url": "https://you.ubc.ca/programs/journalism/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1013,7 +1013,7 @@
     "degrees": [
       "Bachelor of Kinesiology"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/kinesiology-multidisciplinary-science/",
+    "url": "https://you.ubc.ca/programs/kinesiology-multidisciplinary-science/",
     "campus": "vancouver",
     "requirement_key": "kinesiology",
     "has_requirements": true,
@@ -1025,7 +1025,7 @@
     "degrees": [
       "Bachelor of Kinesiology"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/kinesiology-neuromechanical-physiological-sciences/",
+    "url": "https://you.ubc.ca/programs/kinesiology-neuromechanical-physiological-sciences/",
     "campus": "vancouver",
     "requirement_key": "kinesiology",
     "has_requirements": true,
@@ -1037,7 +1037,7 @@
     "degrees": [
       "Bachelor of Kinesiology"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/kinesiology-social-behavioural-sciences/",
+    "url": "https://you.ubc.ca/programs/kinesiology-social-behavioural-sciences/",
     "campus": "vancouver",
     "requirement_key": "kinesiology",
     "has_requirements": true,
@@ -1049,7 +1049,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/latin-american-studies-vancouver/",
+    "url": "https://you.ubc.ca/programs/latin-american-studies-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1061,7 +1061,7 @@
     "degrees": [
       "Juris Doctor"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/law/",
+    "url": "https://you.ubc.ca/programs/law/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1073,7 +1073,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/linguistics/",
+    "url": "https://you.ubc.ca/programs/linguistics/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1085,7 +1085,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/manufacturing-engineering-vancouver/",
+    "url": "https://you.ubc.ca/programs/manufacturing-engineering-vancouver/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -1097,7 +1097,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/materials-engineering/",
+    "url": "https://you.ubc.ca/programs/materials-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -1109,7 +1109,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/mathematical-sciences-vancouver/",
+    "url": "https://you.ubc.ca/programs/mathematical-sciences-vancouver/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1121,7 +1121,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/mathematics-vancouver-ba/",
+    "url": "https://you.ubc.ca/programs/mathematics-vancouver-ba/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1133,7 +1133,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/",
+    "url": "https://you.ubc.ca/programs/mathematics-vancouver-bsc/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1145,7 +1145,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/mathematics-economics/",
+    "url": "https://you.ubc.ca/programs/mathematics-economics/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1157,7 +1157,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/mechanical-engineering-vancouver/",
+    "url": "https://you.ubc.ca/programs/mechanical-engineering-vancouver/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -1169,7 +1169,7 @@
     "degrees": [
       "Bachelor of Media Studies"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/media-studies/",
+    "url": "https://you.ubc.ca/programs/media-studies/",
     "campus": "vancouver",
     "requirement_key": "media-studies",
     "has_requirements": true,
@@ -1181,7 +1181,7 @@
     "degrees": [
       "Bachelor of Medical Laboratory Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/medical-laboratory-science/",
+    "url": "https://you.ubc.ca/programs/medical-laboratory-science/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1193,7 +1193,7 @@
     "degrees": [
       "Doctor of Medicine"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/medicine/",
+    "url": "https://you.ubc.ca/programs/medicine/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1205,7 +1205,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/medieval-studies/",
+    "url": "https://you.ubc.ca/programs/medieval-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1217,7 +1217,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/microbiology-immunology/",
+    "url": "https://you.ubc.ca/programs/microbiology-immunology/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1229,7 +1229,7 @@
     "degrees": [
       "Bachelor of Midwifery"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/midwifery/",
+    "url": "https://you.ubc.ca/programs/midwifery/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1241,7 +1241,7 @@
     "degrees": [
       "Bachelor of Applied Science (Engineering)"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/mining-engineering/",
+    "url": "https://you.ubc.ca/programs/mining-engineering/",
     "campus": "vancouver",
     "requirement_key": "engineering",
     "has_requirements": true,
@@ -1253,7 +1253,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/modern-european-studies/",
+    "url": "https://you.ubc.ca/programs/modern-european-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1265,7 +1265,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/museum-studies/",
+    "url": "https://you.ubc.ca/programs/museum-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1277,7 +1277,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/music/",
+    "url": "https://you.ubc.ca/programs/music/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1289,7 +1289,7 @@
     "degrees": [
       "Bachelor of Music"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/music-advanced-performance/",
+    "url": "https://you.ubc.ca/programs/music-advanced-performance/",
     "campus": "vancouver",
     "requirement_key": "music",
     "has_requirements": true,
@@ -1301,7 +1301,7 @@
     "degrees": [
       "Bachelor of Music"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/music-composition/",
+    "url": "https://you.ubc.ca/programs/music-composition/",
     "campus": "vancouver",
     "requirement_key": "music",
     "has_requirements": true,
@@ -1313,7 +1313,7 @@
     "degrees": [
       "Bachelor of Music"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/music-general-studies/",
+    "url": "https://you.ubc.ca/programs/music-general-studies/",
     "campus": "vancouver",
     "requirement_key": "music",
     "has_requirements": true,
@@ -1325,7 +1325,7 @@
     "degrees": [
       "Bachelor of Music"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/music-scholarship/",
+    "url": "https://you.ubc.ca/programs/music-scholarship/",
     "campus": "vancouver",
     "requirement_key": "music",
     "has_requirements": true,
@@ -1337,7 +1337,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/neuroscience/",
+    "url": "https://you.ubc.ca/programs/neuroscience/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1349,7 +1349,7 @@
     "degrees": [
       "Bachelor of Science in Nursing"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/nursing-vancouver/",
+    "url": "https://you.ubc.ca/programs/nursing-vancouver/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1361,7 +1361,7 @@
     "degrees": [
       "Bachelor of Science in Food, Nutrition, and Health"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/nutritional-sciences/",
+    "url": "https://you.ubc.ca/programs/nutritional-sciences/",
     "campus": "vancouver",
     "requirement_key": "food-nutrition-health",
     "has_requirements": true,
@@ -1373,7 +1373,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/oceanography/",
+    "url": "https://you.ubc.ca/programs/oceanography/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1385,7 +1385,7 @@
     "degrees": [
       "Bachelor of Pharmaceutical Sciences"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/pharmaceutical-sciences/",
+    "url": "https://you.ubc.ca/programs/pharmaceutical-sciences/",
     "campus": "vancouver",
     "requirement_key": "pharmaceutical-sciences",
     "has_requirements": true,
@@ -1397,7 +1397,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/pharmacology/",
+    "url": "https://you.ubc.ca/programs/pharmacology/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1409,7 +1409,7 @@
     "degrees": [
       "Doctor of Pharmacy"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/pharmacy/",
+    "url": "https://you.ubc.ca/programs/pharmacy/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1421,7 +1421,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/philosophy-vancouver/",
+    "url": "https://you.ubc.ca/programs/philosophy-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1433,7 +1433,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/physics-vancouver/",
+    "url": "https://you.ubc.ca/programs/physics-vancouver/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1445,7 +1445,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/political-science-vancouver/",
+    "url": "https://you.ubc.ca/programs/political-science-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1457,7 +1457,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/psychology-vancouver-ba/",
+    "url": "https://you.ubc.ca/programs/psychology-vancouver-ba/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1469,7 +1469,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/religion/",
+    "url": "https://you.ubc.ca/programs/religion/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1481,7 +1481,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/romance-studies/",
+    "url": "https://you.ubc.ca/programs/romance-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1493,7 +1493,7 @@
     "degrees": [
       "Bachelor of Social Work"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/social-work/",
+    "url": "https://you.ubc.ca/programs/social-work/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1505,7 +1505,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/sociology-vancouver/",
+    "url": "https://you.ubc.ca/programs/sociology-vancouver/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1517,7 +1517,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/spanish-hispanic-studies/",
+    "url": "https://you.ubc.ca/programs/spanish-hispanic-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1529,7 +1529,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/speech-sciences/",
+    "url": "https://you.ubc.ca/programs/speech-sciences/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1541,7 +1541,7 @@
     "degrees": [
       "Bachelor of Science"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/statistics-vancouver/",
+    "url": "https://you.ubc.ca/programs/statistics-vancouver/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1553,7 +1553,7 @@
     "degrees": [
       "Bachelor of Science in Applied Biology"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/sustainable-agriculture-environment/",
+    "url": "https://you.ubc.ca/programs/sustainable-agriculture-environment/",
     "campus": "vancouver",
     "requirement_key": "applied-biology",
     "has_requirements": true,
@@ -1565,7 +1565,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/theatre/",
+    "url": "https://you.ubc.ca/programs/theatre/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1577,7 +1577,7 @@
     "degrees": [
       "Bachelor of Fine Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/theatre-acting/",
+    "url": "https://you.ubc.ca/programs/theatre-acting/",
     "campus": "vancouver",
     "requirement_key": "fine-arts",
     "has_requirements": true,
@@ -1589,7 +1589,7 @@
     "degrees": [
       "Bachelor of Fine Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/theatre-design-production/",
+    "url": "https://you.ubc.ca/programs/theatre-design-production/",
     "campus": "vancouver",
     "requirement_key": "fine-arts",
     "has_requirements": true,
@@ -1601,7 +1601,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/united-states-studies/",
+    "url": "https://you.ubc.ca/programs/united-states-studies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1613,7 +1613,7 @@
     "degrees": [
       "Bachelor of Urban Forestry"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/urban-forestry/",
+    "url": "https://you.ubc.ca/programs/urban-forestry/",
     "campus": "vancouver",
     "requirement_key": "urban-forestry",
     "has_requirements": true,
@@ -1625,7 +1625,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/urbanstudies/",
+    "url": "https://you.ubc.ca/programs/urbanstudies/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1635,7 +1635,7 @@
     "program_id": 547511,
     "program": "Vantage One: Applied Science (Engineering)",
     "degrees": [],
-    "url": "https://you.ubc.ca/ubc_programs/vantage-one-applied-science/",
+    "url": "https://you.ubc.ca/programs/vantage-one-applied-science/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1645,7 +1645,7 @@
     "program_id": 572165,
     "program": "Vantage One: Arts",
     "degrees": [],
-    "url": "https://you.ubc.ca/ubc_programs/vantage-one-arts/",
+    "url": "https://you.ubc.ca/programs/vantage-one-arts/",
     "campus": null,
     "requirement_key": null,
     "has_requirements": false,
@@ -1655,7 +1655,7 @@
     "program_id": 547517,
     "program": "Vantage One: Science",
     "degrees": [],
-    "url": "https://you.ubc.ca/ubc_programs/vantage-one-science/",
+    "url": "https://you.ubc.ca/programs/vantage-one-science/",
     "campus": "vancouver",
     "requirement_key": "science-2",
     "has_requirements": true,
@@ -1667,7 +1667,7 @@
     "degrees": [
       "Bachelor of Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/visual-art-ba/",
+    "url": "https://you.ubc.ca/programs/visual-art-ba/",
     "campus": "vancouver",
     "requirement_key": "arts",
     "has_requirements": true,
@@ -1679,7 +1679,7 @@
     "degrees": [
       "Bachelor of Fine Arts"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/visual-art-bfa/",
+    "url": "https://you.ubc.ca/programs/visual-art-bfa/",
     "campus": "vancouver",
     "requirement_key": "fine-arts",
     "has_requirements": true,
@@ -1691,7 +1691,7 @@
     "degrees": [
       "Bachelor of Science in Natural Resources"
     ],
-    "url": "https://you.ubc.ca/ubc_programs/wood-products/",
+    "url": "https://you.ubc.ca/programs/wood-products/",
     "campus": "vancouver",
     "requirement_key": "natural-resources",
     "has_requirements": true,
